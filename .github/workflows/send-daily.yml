@@ -1,0 +1,43 @@
+# Send the daily Spanish verb exercise email once per day.
+# State is written to .github/spanish-verb-state.json and committed so check-replies can use it.
+
+name: Send daily exercise
+
+on:
+  schedule:
+    # 10:00 UTC = 5:00 AM Eastern (EST)
+    - cron: "0 10 * * *"
+  workflow_dispatch: # allow manual run
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send daily exercise
+        env:
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+          TARGET_EMAIL: ${{ secrets.TARGET_EMAIL }}
+          STATE_FILE: .github/spanish-verb-state.json
+        run: python main.py send-daily
+
+      - name: Commit and push state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/spanish-verb-state.json
+          git diff --staged --quiet || git commit -m "chore: update state after send-daily"
+          git push
