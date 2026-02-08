@@ -47,11 +47,17 @@ python main.py check-replies
 
 - For non-Gmail, set `SMTP_HOST`, `SMTP_PORT`, `IMAP_HOST`, `IMAP_PORT` in `.env` as needed.
 
-### 3. OpenAI (LLM evaluation)
+### 3. LLM evaluation (OpenAI or Azure OpenAI)
 
-- Create an API key at [OpenAI](https://platform.openai.com/api-keys).
-- In `.env`: `OPENAI_API_KEY=sk-...`
-- Optional: `LLM_MODEL=gpt-4o-mini` (default) or `gpt-4o` for stronger corrections.
+**Option A – OpenAI (direct)**  
+- Create an API key at [OpenAI](https://platform.openai.com/api-keys).  
+- In `.env`: `OPENAI_API_KEY=sk-...`  
+- Optional: `LLM_MODEL=gpt-4o-mini` (default) or `gpt-4o`.
+
+**Option B – Azure OpenAI**  
+- In `.env` set: `AZURE_OPENAI_ENDPOINT` (e.g. `https://your-resource.openai.azure.com/`), `AZURE_OPENAI_API_KEY`, and `AZURE_OPENAI_DEPLOYMENT` (your deployment name, e.g. `gpt-4o-mini`).  
+- Optional: `AZURE_OPENAI_API_VERSION` (default `2024-02-15-preview`).  
+- When these are set, the app uses Azure instead of OpenAI; `OPENAI_API_KEY` is not required.
 
 ### 4. Environment variables
 
@@ -62,12 +68,16 @@ Copy `.env.example` to `.env` and fill in:
 | `EMAIL_USER`      | SMTP/IMAP login (e.g. Gmail)   |
 | `EMAIL_PASSWORD`  | App password (not normal pwd)  |
 | `TARGET_EMAIL`    | Recipient of exercise & feedback |
-| `OPENAI_API_KEY`  | OpenAI API key                 |
+| `OPENAI_API_KEY`  | OpenAI API key (if not using Azure) |
+| `LLM_MODEL`       | Default `gpt-4o-mini` (OpenAI model or Azure deployment name) |
+| `AZURE_OPENAI_ENDPOINT` | Azure OpenAI endpoint URL (e.g. `https://xxx.openai.azure.com/`) |
+| `AZURE_OPENAI_API_KEY`   | Azure OpenAI API key           |
+| `AZURE_OPENAI_DEPLOYMENT` | Azure deployment name (defaults to `LLM_MODEL`) |
+| `AZURE_OPENAI_API_VERSION` | Optional; default `2024-02-15-preview` |
 | `SMTP_HOST`       | Default `smtp.gmail.com`       |
 | `SMTP_PORT`       | Default `587`                  |
 | `IMAP_HOST`       | Default `imap.gmail.com`       |
 | `IMAP_PORT`       | Default `993`                  |
-| `LLM_MODEL`       | Default `gpt-4o-mini`          |
 
 ---
 
@@ -117,7 +127,7 @@ The repo includes workflows so everything runs in the cloud: daily exercise emai
    | `EMAIL_USER`      | Your Gmail address |
    | `EMAIL_PASSWORD`  | Gmail App Password (16 chars, no spaces) |
    | `TARGET_EMAIL`    | Where to send the exercise and feedback |
-   | `OPENAI_API_KEY`  | Your OpenAI API key |
+   | **OpenAI:** `OPENAI_API_KEY` **or** **Azure:** `AZURE_OPENAI_ENDPOINT`, `AZURE_OPENAI_API_KEY`, `AZURE_OPENAI_DEPLOYMENT` (optional: `AZURE_OPENAI_API_VERSION`) | For LLM evaluation |
 
 2. **Push the repo**  
    Push the branch that contains `.github/workflows/`. Actions will run on the schedule:

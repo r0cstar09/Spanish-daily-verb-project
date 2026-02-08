@@ -7,9 +7,14 @@ import json
 import os
 import re
 
-# Use OpenAI by default; set OPENAI_API_KEY
+# OpenAI (direct): OPENAI_API_KEY, LLM_MODEL
+# Azure OpenAI: AZURE_OPENAI_ENDPOINT, AZURE_OPENAI_API_KEY, AZURE_OPENAI_DEPLOYMENT, optional AZURE_OPENAI_API_VERSION
 OPENAI_API_KEY = (os.environ.get("OPENAI_API_KEY") or "").strip()
 LLM_MODEL = (os.environ.get("LLM_MODEL") or "gpt-4o-mini").strip()
+AZURE_OPENAI_ENDPOINT = (os.environ.get("AZURE_OPENAI_ENDPOINT") or "").strip()
+AZURE_OPENAI_API_KEY = (os.environ.get("AZURE_OPENAI_API_KEY") or "").strip()
+AZURE_OPENAI_DEPLOYMENT = (os.environ.get("AZURE_OPENAI_DEPLOYMENT") or LLM_MODEL).strip()
+AZURE_OPENAI_API_VERSION = (os.environ.get("AZURE_OPENAI_API_VERSION") or "2024-02-15-preview").strip()
 
 
 def _build_evaluation_prompt(
@@ -65,17 +70,33 @@ Rules:
 - Output only the JSON object."""
 
 
+def _use_azure() -> bool:
+    """True if Azure OpenAI env vars are set."""
+    return bool(AZURE_OPENAI_ENDPOINT and AZURE_OPENAI_API_KEY)
+
+
 def _call_openai(prompt: str) -> str:
-    """Call OpenAI API and return assistant content."""
+    """Call OpenAI or Azure OpenAI API and return assistant content."""
     try:
         import openai
     except ImportError:
         raise ImportError("Install openai: pip install openai")
-    if not OPENAI_API_KEY:
-        raise ValueError("OPENAI_API_KEY must be set")
-    client = openai.OpenAI(api_key=OPENAI_API_KEY)
+
+    if _use_azure():
+        client = openai.AzureOpenAI(
+            api_key=AZURE_OPENAI_API_KEY,
+            api_version=AZURE_OPENAI_API_VERSION,
+            azure_endpoint=AZURE_OPENAI_ENDPOINT.rstrip("/"),
+        )
+        model = AZURE_OPENAI_DEPLOYMENT
+    else:
+        if not OPENAI_API_KEY:
+            raise ValueError("OPENAI_API_KEY must be set (or use Azure: AZURE_OPENAI_ENDPOINT + AZURE_OPENAI_API_KEY)")
+        client = openai.OpenAI(api_key=OPENAI_API_KEY)
+        model = LLM_MODEL
+
     response = client.chat.completions.create(
-        model=LLM_MODEL,
+        model=model,
         messages=[{"role": "user", "content": prompt}],
         temperature=0.2,
     )
