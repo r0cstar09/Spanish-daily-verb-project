@@ -1,215 +1,122 @@
 # Daily Spanish Verb Trainer
 
-A Python tool that emails you **one** daily Spanish verb exercise (one verb, mixed tenses across five pronouns), reads your reply from your inbox, evaluates your sentences with an LLM, and emails you corrections plus conjugation tables.
+A small tool that emails you **one** daily Spanish verb exercise: one verb, mixed tenses across five pronouns. You practice your 5 sentences and get evaluated in ChatGPT (or however you like).
 
-**Design:** Production-first learning — you write sentences *before* seeing conjugations. One verb per day, one random tense per pronoun, low cognitive load.
+**Design:** One verb per day, one random tense per pronoun, low cognitive load. No LLM in the app — you evaluate yourself in ChatGPT.
 
 ---
 
 ## Quick start
 
 ```bash
-# Clone or cd into project
 cd spanish-daily-verb-project
-
-# Create venv and install
 python3 -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
+# Create .env with EMAIL_USER, EMAIL_PASSWORD, TARGET_EMAIL (see below)
 
-# Configure (copy and edit)
-cp .env.example .env
-# Edit .env with your email and OpenAI API key
-
-# Send today's exercise
 python main.py send-daily
-
-# After you reply to that email, run (e.g. via cron or manually):
-python main.py check-replies
 ```
 
 ---
 
-## Setup (detailed)
+## Setup
 
 ### 1. Python
 
-- Python 3.10+ recommended.
+Python 3.10+ recommended.
 
 ### 2. Gmail (or other email)
 
-- **Sending (SMTP):** Use Gmail with an [App Password](https://support.google.com/accounts/answer/185833). Set in `.env`:
-  - `EMAIL_USER` = your Gmail address  
-  - `EMAIL_PASSWORD` = the 16-character app password  
-  - `TARGET_EMAIL` = where to send the exercise (usually the same)
+Use Gmail with an [App Password](https://support.google.com/accounts/answer/185833). In `.env`:
 
-- **Reading replies (IMAP):** Same account; enable IMAP in Gmail settings. The script uses IMAP to find replies to the daily exercise and extract your five sentences.
+- `EMAIL_USER` = your Gmail address  
+- `EMAIL_PASSWORD` = the 16-character app password (no spaces)  
+- `TARGET_EMAIL` = where to send the daily exercise (usually the same)
 
-- For non-Gmail, set `SMTP_HOST`, `SMTP_PORT`, `IMAP_HOST`, `IMAP_PORT` in `.env` as needed.
+For non-Gmail, set `SMTP_HOST` and `SMTP_PORT` as needed.
 
-### 3. LLM evaluation (OpenAI or Azure OpenAI)
-
-**Option A – OpenAI (direct)**  
-- Create an API key at [OpenAI](https://platform.openai.com/api-keys).  
-- In `.env`: `OPENAI_API_KEY=sk-...`  
-- Optional: `LLM_MODEL=gpt-4o-mini` (default) or `gpt-4o`.
-
-**Option B – Azure OpenAI**  
-- In `.env` set: `AZURE_OPENAI_ENDPOINT` (e.g. `https://your-resource.openai.azure.com/`), `AZURE_OPENAI_API_KEY`, and `AZURE_OPENAI_DEPLOYMENT` (your deployment name, e.g. `gpt-4o-mini`).  
-- Optional: `AZURE_OPENAI_API_VERSION` (default `2024-02-15-preview`).  
-- When these are set, the app uses Azure instead of OpenAI; `OPENAI_API_KEY` is not required.
-
-### 4. Environment variables
-
-Copy `.env.example` to `.env` and fill in:
+### 3. Environment variables
 
 | Variable          | Description                    |
 |-------------------|--------------------------------|
-| `EMAIL_USER`      | SMTP/IMAP login (e.g. Gmail)   |
-| `EMAIL_PASSWORD`  | App password (not normal pwd)  |
-| `TARGET_EMAIL`    | Recipient of exercise & feedback |
-| `OPENAI_API_KEY`  | OpenAI API key (if not using Azure) |
-| `LLM_MODEL`       | Default `gpt-4o-mini` (OpenAI model or Azure deployment name) |
-| `AZURE_OPENAI_ENDPOINT` | Azure OpenAI endpoint URL (e.g. `https://xxx.openai.azure.com/`) |
-| `AZURE_OPENAI_API_KEY`   | Azure OpenAI API key           |
-| `AZURE_OPENAI_DEPLOYMENT` | Azure deployment name (defaults to `LLM_MODEL`) |
-| `AZURE_OPENAI_API_VERSION` | Optional; default `2024-02-15-preview` |
+| `EMAIL_USER`      | SMTP login (e.g. Gmail)        |
+| `EMAIL_PASSWORD`  | App password (not normal pwd) |
+| `TARGET_EMAIL`    | Recipient of the daily exercise |
 | `SMTP_HOST`       | Default `smtp.gmail.com`       |
 | `SMTP_PORT`       | Default `587`                  |
-| `IMAP_HOST`       | Default `imap.gmail.com`       |
-| `IMAP_PORT`       | Default `993`                  |
+
+No OpenAI or Azure keys needed — evaluation is up to you (e.g. in ChatGPT).
 
 ---
 
 ## Usage
 
-### Send daily exercise
-
 ```bash
 python main.py send-daily
 ```
 
-- Picks one verb and a random tense for each pronoun (Present, Preterite, Imperfect, Future).
-- Saves that as “today’s exercise” in `state.json` (or in CI, `.github/spanish-verb-state.json`).
-- Sends one email to `TARGET_EMAIL` with the verb and instructions (5 lines: pronoun + tense each).
+- Picks one verb from the list and a random tense for each pronoun (Present, Preterite, Imperfect, Future).
+- Sends one email to `TARGET_EMAIL` with the verb and 5 lines (pronoun + tense). You write 5 sentences and evaluate them yourself (e.g. in ChatGPT).
 
-**Testing with a fixed verb:**  
-`python main.py send-daily --seed 42` keeps the random choice reproducible.
+**Reproducible run:**  
+`python main.py send-daily --seed 42` uses a fixed random seed.
 
-### Check replies and send feedback
+---
 
-```bash
-python main.py check-replies
+## GitHub Actions
+
+One workflow sends the daily exercise on a schedule.
+
+1. **Add repository secrets** (Settings → Secrets and variables → Actions):
+   - `EMAIL_USER` — your Gmail address  
+   - `EMAIL_PASSWORD` — Gmail App Password  
+   - `TARGET_EMAIL` — where to send the exercise  
+
+2. **Push** the repo. The workflow runs once per day at **10:00 UTC (5:00 AM Eastern)**. Change the `cron` in `.github/workflows/send-daily.yml` to change the time.
+
+3. **Run manually:** Actions → "Send daily exercise" → Run workflow.
+
+**Note:** Gmail may flag logins from GitHub. Use an App Password and allow the sign-in if prompted.
+
+---
+
+## Cron (local)
+
+To run send-daily on your own machine:
+
+```cron
+0 8 * * * cd /path/to/spanish-daily-verb-project && .venv/bin/python main.py send-daily
 ```
-
-- Looks for a **pending** exercise (one that hasn’t had a reply processed yet).
-- Fetches recent inbox messages that are replies to the daily exercise (not to the feedback email).
-- Takes the **latest** such reply, extracts up to 5 Spanish sentences (ignoring quoted text and signatures).
-- Sends your sentences + verb + per-line tense to the LLM for correction and conjugation tables.
-- Emails you the feedback (corrected sentences, brief explanations, full conjugation table, short encouragement).
-- Marks the reply as processed so the same reply isn’t handled again.
-
-If there’s no pending exercise or no reply, the script exits without sending anything.
-
----
-
-## GitHub Actions (recommended)
-
-The repo includes workflows so everything runs in the cloud: daily exercise email on a schedule, and reply checks every 10 minutes.
-
-### What you need to do
-
-1. **Add repository secrets**  
-   In your GitHub repo: **Settings → Secrets and variables → Actions**. Create these secrets (same values as in `.env`):
-
-   | Secret name       | Value / notes |
-   |-------------------|----------------|
-   | `EMAIL_USER`      | Your Gmail address |
-   | `EMAIL_PASSWORD`  | Gmail App Password (16 chars, no spaces) |
-   | `TARGET_EMAIL`    | Where to send the exercise and feedback |
-   | **OpenAI:** `OPENAI_API_KEY` **or** **Azure:** `AZURE_OPENAI_ENDPOINT`, `AZURE_OPENAI_API_KEY`, `AZURE_OPENAI_DEPLOYMENT` (optional: `AZURE_OPENAI_API_VERSION`) | For LLM evaluation |
-
-2. **Push the repo**  
-   Push the branch that contains `.github/workflows/`. Actions will run on the schedule:
-   - **Send daily exercise:** once per day at 10:00 UTC (5:00 AM Eastern). To change the time, edit the `cron` in `.github/workflows/send-daily.yml`.
-   - **Check replies:** every 10 minutes. When you reply to the exercise email, the next run (within ~10 min) will pick it up and send you feedback.
-
-3. **Optional: run manually**  
-   In the repo go to **Actions**, choose "Send daily exercise" or "Check replies", and click **Run workflow**.
-
-State is stored in `.github/spanish-verb-state.json` and committed by the workflows so the two jobs stay in sync. No other setup is required.
-
-**Note:** Gmail may occasionally flag logins from GitHub’s servers. If sending or checking mail fails, check your Google account for a security alert and allow the sign-in, or use an App Password and ensure 2FA is on.
-
----
-
-## Automation (cron, local)
-
-If you prefer to run on your own machine instead of GitHub Actions:
-
-- **Morning:** send the exercise once per day.
-
-  ```cron
-  0 8 * * * cd /path/to/spanish-daily-verb-project && .venv/bin/python main.py send-daily
-  ```
-
-- **Later:** run reply check every 15–30 minutes.
-
-  ```cron
-  */30 * * * * cd /path/to/spanish-daily-verb-project && .venv/bin/python main.py check-replies
-  ```
 
 ---
 
 ## Project layout
 
-| File / folder       | Purpose |
-|---------------------|--------|
-| `main.py`           | CLI: `send-daily`, `check-replies` |
-| `verb_selector.py`  | Loads verbs, picks one verb + random tense per pronoun |
-| `verbs.json`        | 60 common Spanish verbs (incl. irregulars) |
-| `email_sender.py`   | Sends exercise and feedback emails (SMTP) |
-| `email_reader.py`  | Fetches and parses replies (IMAP) |
-| `llm_evaluator.py` | Builds prompt, calls OpenAI, parses JSON result |
-| `state.py`          | Persists “today’s exercise” and reply status |
-| `state.json`        | Current exercise (local; gitignored). In CI: `.github/spanish-verb-state.json` (committed) |
-| `.env`              | Secrets (gitignored) |
-| `docs/example_emails.md`   | Example exercise, reply, and feedback emails |
-| `docs/sample_llm_prompt.md`| Sample LLM prompt and expected JSON |
+| File / folder     | Purpose |
+|--------------------|--------|
+| `main.py`          | CLI: `send-daily` only |
+| `verb_selector.py` | Picks one verb + random tense per pronoun |
+| `verbs.json`       | 60 common Spanish verbs |
+| `email_sender.py`  | Sends the daily exercise email (SMTP) |
+| `.env`             | Secrets (gitignored) |
+| `docs/example_emails.md` | Example daily exercise email |
 
 ---
 
-## Example emails and LLM prompt
+## Example daily email
 
-- **Example emails:** see [docs/example_emails.md](docs/example_emails.md).
-- **Sample LLM prompt and response format:** see [docs/sample_llm_prompt.md](docs/sample_llm_prompt.md).
+**Subject:** `Spanish Verb – LLEVAR (mixed tenses)`
 
----
-
-## Reply format
-
-Reply to the daily exercise email with **five sentences** (one per pronoun), in order. You can number them or not; the script strips numbering and quoted/original message.
-
-Example:
-
-```
-Yo llevé el libro.
-Tú llevaste el bolso.
-Ella llevó la maleta.
-Nosotros llevamos las cajas.
-Ellos llevaron el equipaje.
-```
-
-Do not include English in the reply body.
+**Body:** Verb + 5 lines like: `1. yo (Future)`, `2. tú (Imperfect)`, …  
+Then: *Practice your 5 sentences and get evaluated in ChatGPT or however you like.*
 
 ---
 
 ## Dependencies
 
-- **openai** – LLM API for evaluation.
-- **python-dotenv** – Loads `.env` into `os.environ` (optional; you can export variables instead).
-
-Standard library only for: `smtplib`, `imaplib`, `email`, `json`, `random`, `pathlib`, `re`.
+- **python-dotenv** — loads `.env`.  
+- Standard library: `smtplib`, `email`, `json`, `random`, `pathlib`.
 
 ---
 

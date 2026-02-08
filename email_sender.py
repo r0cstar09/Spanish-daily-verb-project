@@ -1,6 +1,6 @@
 """
 Daily Spanish Verb Trainer – outbound email.
-Sends daily exercise emails and feedback/correction emails.
+Sends the daily exercise email only (evaluate in ChatGPT or elsewhere).
 """
 
 import os
@@ -51,8 +51,7 @@ Write ONE sentence for each line (pronoun + tense). Use the verb in the tense sh
 
 {chr(10).join(lines)}
 
-Reply directly to this email with your 5 sentences.
-Do not include English.
+Practice your 5 sentences and get evaluated in ChatGPT or however you like.
 """
     ol_items = "".join(f"<li>{a['pronoun']} — <strong>{a['tense']}</strong></li>" for a in assignments)
     html = f"""<html><body style="font-family: sans-serif;">
@@ -62,8 +61,7 @@ Do not include English.
 <ol>
 {ol_items}
 </ol>
-<p>Reply directly to this email with your 5 sentences.<br>
-Do not include English.</p>
+<p>Practice your 5 sentences and get evaluated in ChatGPT or however you like.</p>
 </body></html>"""
     return plain, html
 
@@ -75,57 +73,4 @@ def send_daily_exercise(verb: str, assignments: list[dict], to: str | None = Non
         raise ValueError("TARGET_EMAIL must be set or pass to=")
     subject = f"{SUBJECT_PREFIX}{verb.upper()} (mixed tenses)"
     plain, html = build_daily_exercise_body(verb, assignments)
-    _smtp_send(to, subject, plain, html)
-
-
-def build_feedback_body(
-    verb: str,
-    corrected_sections: list[str],
-    conjugation_tables: str,
-    encouragement: str,
-) -> tuple[str, str]:
-    """Build plain and HTML body for the feedback email (mixed tenses)."""
-    sections_text = "\n\n".join(corrected_sections)
-    plain = f"""Corrections – {verb.upper()} (mixed tenses)
-
-{sections_text}
-
-Conjugation tables:
-{conjugation_tables}
-
-{encouragement}
-"""
-    sections_html = "<br><br>".join(
-        s.replace("\n", "<br>") for s in corrected_sections
-    )
-    table_html = conjugation_tables.replace("\n", "<br>")
-    enc_html = encouragement.replace("\n", "<br>")
-    html = f"""<html><body style="font-family: sans-serif;">
-<h2>Corrections – {verb.upper()} (mixed tenses)</h2>
-<p>{sections_html}</p>
-<p><strong>Conjugation tables:</strong></p>
-<p>{table_html}</p>
-<p>{enc_html}</p>
-</body></html>"""
-    return plain, html
-
-
-def send_feedback(
-    verb: str,
-    corrected_sections: list[str],
-    conjugation_tables: str,
-    encouragement: str,
-    to: str | None = None,
-) -> None:
-    """Send the feedback/correction email after LLM evaluation."""
-    to = to or TARGET_EMAIL
-    if not to:
-        raise ValueError("TARGET_EMAIL must be set or pass to=")
-    subject = f"{SUBJECT_PREFIX}Feedback – {verb.upper()}"
-    plain, html = build_feedback_body(
-        corrected_sections=corrected_sections,
-        conjugation_tables=conjugation_tables,
-        encouragement=encouragement,
-        verb=verb,
-    )
     _smtp_send(to, subject, plain, html)

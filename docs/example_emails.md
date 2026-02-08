@@ -1,6 +1,6 @@
-# Example Emails
+# Example Email
 
-## 1. Daily exercise (outbound) – mixed tenses
+## Daily exercise (outbound) – mixed tenses
 
 **Subject:** `Spanish Verb – LLEVAR (mixed tenses)`
 
@@ -19,70 +19,7 @@ Write ONE sentence for each line (pronoun + tense). Use the verb in the tense sh
 4. nosotros / nosotras (Preterite)
 5. ellos / ellas (Future)
 
-Reply directly to this email with your 5 sentences.
-Do not include English.
+Practice your 5 sentences and get evaluated in ChatGPT or however you like.
 ```
 
 (The exact tense for each pronoun changes randomly each day.)
-
----
-
-## 2. User reply (inbound)
-
-You reply in the same thread with five sentences (one per line, in the same order), e.g.:
-
-```
-Yo llevaré el libro.
-Tú llevabas el bolso.
-Ella lleva la maleta.
-Nosotros llevamos las cajas.
-Ellos llevarán el equipaje.
-```
-
-Or with numbers:
-
-```
-1. Yo llevaré el libro.
-2. Tú llevabas el bolso.
-...
-```
-
----
-
-## 3. Feedback email (outbound after evaluation)
-
-**Subject:** `Spanish Verb – Feedback – LLEVAR`
-
-**Body (example):**
-
-```
-Corrections – LLEVAR (mixed tenses)
-
-Your sentence (yo (Future)):
-Yo llevaré el libro.
-
-✔ Correct.
-
-Your sentence (tú (Imperfect)):
-Tú llevas el bolso.
-
-Correction:
-Tú llevabas el bolso.
-
-Why:
-Imperfect requires llevabas, not present llevas.
-
-... (etc. for all 5)
-
-Conjugation tables:
---- Future ---
-yo llevaré
-tú llevarás
-...
---- Imperfect ---
-yo llevaba
-tú llevabas
-...
-
-Keep practicing mixing tenses – one pronoun, one tense at a time.
-```
