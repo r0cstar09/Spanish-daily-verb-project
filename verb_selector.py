@@ -1,6 +1,7 @@
 """
 Daily Spanish Verb Trainer – verb and tense selection.
-Picks one verb per day and assigns a random tense to each pronoun (mixed tenses).
+Picks one verb per day. Tests every pronoun (yo, tú, él/ella, nosotros, ellos) in all four tenses:
+Present, Future, Preterite, Imperfect — 20 conjugations total.
 """
 
 import json
@@ -8,7 +9,7 @@ import random
 from pathlib import Path
 
 VERBS_PATH = Path(__file__).resolve().parent / "verbs.json"
-TENSES = ["Present", "Preterite", "Imperfect", "Future"]
+TENSES = ["Present", "Future", "Preterite", "Imperfect"]
 PRONOUNS = [
     "yo",
     "tú",
@@ -26,15 +27,16 @@ def load_verbs() -> list[str]:
 
 def select_daily_exercise(seed=None) -> dict:
     """
-    Select one verb and, for each pronoun, a random tense.
-    Returns dict with keys: verb, assignments (list of {pronoun, tense}).
+    Select one verb. Returns assignments: all 5 pronouns × 4 tenses = 20 conjugations.
+    Order: Present (all pronouns), Future (all), Preterite (all), Imperfect (all).
     """
     if seed is not None:
         random.seed(seed)
     verbs = load_verbs()
     verb = random.choice(verbs).strip().lower()
     assignments = [
-        {"pronoun": p, "tense": random.choice(TENSES)}
+        {"pronoun": p, "tense": t}
+        for t in TENSES
         for p in PRONOUNS
     ]
     return {

@@ -1,8 +1,8 @@
 # Daily Spanish Verb Trainer
 
-A small tool that emails you **one** daily Spanish verb exercise: one verb, mixed tenses across five pronouns. You practice your 5 sentences and get evaluated in ChatGPT (or however you like).
+A small tool that emails you **one** daily Spanish verb exercise: one verb, all five pronouns in all four tenses (Present, Future, Preterite, Imperfect) — 20 conjugations total. You conjugate and submit to ChatGPT for grading.
 
-**Design:** One verb per day, one random tense per pronoun, low cognitive load. No LLM in the app — you evaluate yourself in ChatGPT.
+**Design:** One verb per day from the list, every pronoun × every tense. No LLM in the app — you grade yourself in ChatGPT.
 
 ---
 
@@ -56,8 +56,8 @@ No OpenAI or Azure keys needed — evaluation is up to you (e.g. in ChatGPT).
 python main.py send-daily
 ```
 
-- Picks one verb from the list and a random tense for each pronoun (Present, Preterite, Imperfect, Future).
-- Sends one email to `TARGET_EMAIL` with the verb and 5 lines (pronoun + tense). You write 5 sentences and evaluate them yourself (e.g. in ChatGPT).
+- Picks one verb from the list.
+- Sends one email to `TARGET_EMAIL` with the verb and 20 lines (every pronoun in every tense: Present, Future, Preterite, Imperfect). You conjugate all 20 and submit to ChatGPT for grading.
 
 **Reproducible run:**  
 `python main.py send-daily --seed 42` uses a fixed random seed.
@@ -96,7 +96,7 @@ To run send-daily on your own machine:
 | File / folder     | Purpose |
 |--------------------|--------|
 | `main.py`          | CLI: `send-daily` only |
-| `verb_selector.py` | Picks one verb + random tense per pronoun |
+| `verb_selector.py` | Picks one verb; returns all 5 pronouns × 4 tenses (20 conjugations) |
 | `verbs.json`       | 60 common Spanish verbs |
 | `email_sender.py`  | Sends the daily exercise email (SMTP) |
 | `.env`             | Secrets (gitignored) |
@@ -106,10 +106,10 @@ To run send-daily on your own machine:
 
 ## Example daily email
 
-**Subject:** `Spanish Verb – LLEVAR (mixed tenses)`
+**Subject:** `Spanish Verb – LLEVAR (all tenses)`
 
-**Body:** Verb + 5 lines like: `1. yo (Future)`, `2. tú (Imperfect)`, …  
-Then: *Practice your 5 sentences and get evaluated in ChatGPT or however you like.*
+**Body:** Verb + 20 lines: Present (yo, tú, él/ella, nosotros, ellos), then Future, Preterite, Imperfect — same 5 pronouns each.  
+Then: *Submit your 20 conjugations to ChatGPT for grading.*
 
 ---
 
