@@ -1,6 +1,6 @@
 # Daily Spanish Verb Trainer
 
-A small tool that emails you **one** daily Spanish verb exercise: one verb, all five pronouns in all four tenses (Present, Future, Preterite, Imperfect) — 20 conjugations total. You conjugate and submit to ChatGPT for grading.
+A small tool that emails you **one** daily Spanish verb exercise: one verb, all five pronouns in all five tenses (Present, Future, Preterite, Imperfect, Conditional) — 25 conjugations total. You conjugate and submit to ChatGPT for grading.
 
 **Design:** One verb per day from the list, every pronoun × every tense. No LLM in the app — you grade yourself in ChatGPT.
 
@@ -57,7 +57,7 @@ python main.py send-daily
 ```
 
 - Picks one verb from the list.
-- Sends one email to `TARGET_EMAIL` with the verb and 20 lines (every pronoun in every tense: Present, Future, Preterite, Imperfect). You conjugate all 20 and submit to ChatGPT for grading.
+- Sends one email to `TARGET_EMAIL` with the verb and 25 lines (every pronoun in every tense: Present, Future, Preterite, Imperfect, Conditional). You conjugate all 25 and submit to ChatGPT for grading.
 
 **Reproducible run:**  
 `python main.py send-daily --seed 42` uses a fixed random seed.
@@ -96,7 +96,7 @@ To run send-daily on your own machine:
 | File / folder     | Purpose |
 |--------------------|--------|
 | `main.py`          | CLI: `send-daily` only |
-| `verb_selector.py` | Picks one verb; returns all 5 pronouns × 4 tenses (20 conjugations) |
+| `verb_selector.py` | Picks one verb; returns all 5 pronouns × 5 tenses (25 conjugations) |
 | `verbs.json`       | 60 common Spanish verbs |
 | `email_sender.py`  | Sends the daily exercise email (SMTP) |
 | `.env`             | Secrets (gitignored) |
@@ -108,8 +108,8 @@ To run send-daily on your own machine:
 
 **Subject:** `Spanish Verb – LLEVAR (all tenses)`
 
-**Body:** Verb + 20 lines: Present (yo, tú, él/ella, nosotros, ellos), then Future, Preterite, Imperfect — same 5 pronouns each.  
-Then: *Submit your 20 conjugations to ChatGPT for grading.*
+**Body:** Verb + 25 lines: Present (yo, tú, él/ella, nosotros, ellos), then Future, Preterite, Imperfect, Conditional — same 5 pronouns each.  
+Then: *Submit your 25 conjugations to ChatGPT for grading.*
 
 ---
 

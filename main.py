@@ -24,7 +24,7 @@ def cmd_send_daily(seed=None) -> None:
     verb = exercise["verb"]
     assignments = exercise["assignments"]
     send_exercise_email(verb=verb, assignments=assignments)
-    print(f"Sent daily exercise: {verb.upper()} (all tenses, 20 conjugations)")
+    print(f"Sent daily exercise: {verb.upper()} (all tenses, 25 conjugations)")
 
 
 def main() -> int:
