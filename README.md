@@ -97,6 +97,8 @@ To run send-daily on your own machine:
 |--------------------|--------|
 | `main.py`          | CLI: `send-daily` only |
 | `verb_selector.py` | Picks one verb; returns all 5 pronouns × 5 tenses (25 conjugations) |
+| `translations.py`  | Generates English translations for each pronoun+tense |
+| `verb_translations.json` | Spanish→English verb forms (base, past, irregulars) |
 | `verbs.json`       | 60 common Spanish verbs |
 | `email_sender.py`  | Sends the daily exercise email (SMTP) |
 | `.env`             | Secrets (gitignored) |
@@ -108,7 +110,7 @@ To run send-daily on your own machine:
 
 **Subject:** `Spanish Verb – LLEVAR (all tenses)`
 
-**Body:** Verb + 25 lines: Present (yo, tú, él/ella, nosotros, ellos), then Future, Preterite, Imperfect, Conditional — same 5 pronouns each.  
+**Body:** Verb + 25 lines, each with pronoun, tense, and English translation (e.g. `yo (Present) — I need`).  
 Then: *Submit your 25 conjugations to ChatGPT for grading.*
 
 ---

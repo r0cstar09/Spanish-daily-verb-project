@@ -42,7 +42,13 @@ def _smtp_send(to: str, subject: str, body_plain: str, body_html: str | None = N
 def build_daily_exercise_body(verb: str, assignments: list[dict]) -> tuple[str, str]:
     """Plain and HTML body for the daily exercise email (all pronouns × all tenses = 25)."""
     verb_upper = verb.upper()
-    lines = [f"{i+1}. {a['pronoun']} ({a['tense']})" for i, a in enumerate(assignments)]
+    lines = []
+    for i, a in enumerate(assignments):
+        trans = a.get("translation", "")
+        if trans:
+            lines.append(f"{i+1}. {a['pronoun']} ({a['tense']}) — {trans}")
+        else:
+            lines.append(f"{i+1}. {a['pronoun']} ({a['tense']})")
     plain = f"""Daily Spanish Verb Practice
 
 Verb: {verb_upper}
@@ -53,7 +59,14 @@ Conjugate this verb for every pronoun in every tense. Write 25 lines (same order
 
 Submit your 25 conjugations to ChatGPT for grading.
 """
-    ol_items = "".join(f"<li>{a['pronoun']} — <strong>{a['tense']}</strong></li>" for a in assignments)
+    ol_parts = []
+    for a in assignments:
+        trans = a.get("translation", "")
+        if trans:
+            ol_parts.append(f"<li>{a['pronoun']} — <strong>{a['tense']}</strong> — {trans}</li>")
+        else:
+            ol_parts.append(f"<li>{a['pronoun']} — <strong>{a['tense']}</strong></li>")
+    ol_items = "".join(ol_parts)
     html = f"""<html><body style="font-family: sans-serif;">
 <h2>Daily Spanish Verb Practice</h2>
 <p><strong>Verb:</strong> {verb_upper}</p>

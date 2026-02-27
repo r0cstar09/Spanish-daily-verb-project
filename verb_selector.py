@@ -8,6 +8,8 @@ import json
 import random
 from pathlib import Path
 
+from translations import get_english_translation
+
 VERBS_PATH = Path(__file__).resolve().parent / "verbs.json"
 TENSES = ["Present", "Future", "Preterite", "Imperfect", "Conditional"]
 PRONOUNS = [
@@ -34,11 +36,11 @@ def select_daily_exercise(seed=None) -> dict:
         random.seed(seed)
     verbs = load_verbs()
     verb = random.choice(verbs).strip().lower()
-    assignments = [
-        {"pronoun": p, "tense": t}
-        for t in TENSES
-        for p in PRONOUNS
-    ]
+    assignments = []
+    for t in TENSES:
+        for i, p in enumerate(PRONOUNS):
+            translation = get_english_translation(verb, i, t)
+            assignments.append({"pronoun": p, "tense": t, "translation": translation})
     return {
         "verb": verb,
         "assignments": assignments,
