@@ -39,9 +39,10 @@ def _smtp_send(to: str, subject: str, body_plain: str, body_html: str | None = N
         smtp.sendmail(EMAIL_USER, to, msg.as_string())
 
 
-def build_daily_exercise_body(verb: str, assignments: list[dict]) -> tuple[str, str]:
+def build_daily_exercise_body(verb: str, assignments: list[dict], category: str = "") -> tuple[str, str]:
     """Plain and HTML body for the daily exercise email (all pronouns × all tenses = 25)."""
     verb_upper = verb.upper()
+    cat_note = f" ({category} verb)" if category else ""
     lines = []
     for i, a in enumerate(assignments):
         trans = a.get("translation", "")
@@ -51,7 +52,7 @@ def build_daily_exercise_body(verb: str, assignments: list[dict]) -> tuple[str, 
             lines.append(f"{i+1}. {a['pronoun']} ({a['tense']})")
     plain = f"""Daily Spanish Verb Practice
 
-Verb: {verb_upper}
+Verb: {verb_upper}{cat_note}
 
 Conjugate this verb for every pronoun in every tense. Write 25 lines (same order as below):
 
@@ -69,7 +70,7 @@ Submit your 25 conjugations to ChatGPT for grading.
     ol_items = "".join(ol_parts)
     html = f"""<html><body style="font-family: sans-serif;">
 <h2>Daily Spanish Verb Practice</h2>
-<p><strong>Verb:</strong> {verb_upper}</p>
+<p><strong>Verb:</strong> {verb_upper}{cat_note}</p>
 <p>Conjugate this verb for every pronoun in every tense. Write 25 lines (same order as below):</p>
 <ol>
 {ol_items}
@@ -79,11 +80,11 @@ Submit your 25 conjugations to ChatGPT for grading.
     return plain, html
 
 
-def send_daily_exercise(verb: str, assignments: list[dict], to: str | None = None) -> None:
+def send_daily_exercise(verb: str, assignments: list[dict], category: str = "", to: str | None = None) -> None:
     """Send the daily exercise email to the target address."""
     to = to or TARGET_EMAIL
     if not to:
         raise ValueError("TARGET_EMAIL must be set or pass to=")
     subject = f"{SUBJECT_PREFIX}{verb.upper()} (all tenses)"
-    plain, html = build_daily_exercise_body(verb, assignments)
+    plain, html = build_daily_exercise_body(verb, assignments, category=category)
     _smtp_send(to, subject, plain, html)

@@ -2,15 +2,17 @@
 Daily Spanish Verb Trainer – verb and tense selection.
 Picks one verb per day. Tests every pronoun (yo, tú, él/ella, nosotros, ellos) in all five tenses:
 Present, Future, Preterite, Imperfect, Conditional — 25 conjugations total.
+
+Alternates between categories: ar → er → ir → irregular → stem_changing (by day of year).
 """
 
 import json
-import random
+from datetime import datetime
 from pathlib import Path
 
 from translations import get_english_translation
 
-VERBS_PATH = Path(__file__).resolve().parent / "verbs.json"
+VERBS_BY_CATEGORY_PATH = Path(__file__).resolve().parent / "verbs_by_category.json"
 TENSES = ["Present", "Future", "Preterite", "Imperfect", "Conditional"]
 PRONOUNS = [
     "yo",
@@ -20,36 +22,59 @@ PRONOUNS = [
     "ellos / ellas",
 ]
 
+# Order of categories for alternation
+CATEGORIES = ["ar", "er", "ir", "irregular", "stem_changing"]
 
-def load_verbs() -> list[str]:
-    """Load verb list from verbs.json."""
-    with open(VERBS_PATH, encoding="utf-8") as f:
+
+def _load_verbs_by_category() -> dict:
+    with open(VERBS_BY_CATEGORY_PATH, encoding="utf-8") as f:
         return json.load(f)
+
+
+def _get_category_index(seed=None) -> int:
+    """Return 0–4 for which category to use. Uses day of year when no seed, else seed."""
+    if seed is not None:
+        return seed % 5
+    day_of_year = datetime.utcnow().timetuple().tm_yday
+    return day_of_year % 5
+
+
+def _get_verb_index_in_category(seed=None, category_size: int = 1) -> int:
+    """Return index within the category. Uses day of year when no seed, else seed."""
+    if seed is not None:
+        return (seed // 5) % max(1, category_size)
+    day_of_year = datetime.utcnow().timetuple().tm_yday
+    return (day_of_year // 5) % max(1, category_size)
 
 
 def select_daily_exercise(seed=None) -> dict:
     """
-    Select one verb. Returns assignments: all 5 pronouns × 5 tenses = 25 conjugations.
-    Order: Present (all pronouns), Future (all), Preterite (all), Imperfect (all), Conditional (all).
+    Select one verb by alternating category (ar, er, ir, irregular, stem_changing).
+    Returns assignments: all 5 pronouns × 5 tenses = 25 conjugations with English translations.
     """
-    if seed is not None:
-        random.seed(seed)
-    verbs = load_verbs()
-    verb = random.choice(verbs).strip().lower()
+    data = _load_verbs_by_category()
+    cat_idx = _get_category_index(seed)
+    category = CATEGORIES[cat_idx]
+    verbs = [v.strip().lower() for v in data[category]]
+    verb_idx = _get_verb_index_in_category(seed, len(verbs))
+    verb = verbs[verb_idx]
+
     assignments = []
     for t in TENSES:
         for i, p in enumerate(PRONOUNS):
             translation = get_english_translation(verb, i, t)
             assignments.append({"pronoun": p, "tense": t, "translation": translation})
+
     return {
         "verb": verb,
         "assignments": assignments,
+        "category": category,
     }
 
 
 if __name__ == "__main__":
     ex = select_daily_exercise()
-    print(f"Verb: {ex['verb'].upper()}")
+    print(f"Verb: {ex['verb'].upper()} (category: {ex['category']})")
     print("Assignments:")
-    for a in ex["assignments"]:
-        print(f"  {a['pronoun']} → {a['tense']}")
+    for a in ex["assignments"][:5]:
+        print(f"  {a['pronoun']} → {a['tense']} — {a.get('translation', '')}")

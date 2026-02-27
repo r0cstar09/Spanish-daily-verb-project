@@ -56,7 +56,7 @@ No OpenAI or Azure keys needed — evaluation is up to you (e.g. in ChatGPT).
 python main.py send-daily
 ```
 
-- Picks one verb from the list.
+- Picks one verb by alternating category each day: ar → er → ir → irregular → stem_changing (93 verbs total: 31 ar, 31 er, 31 ir, plus irregular and stem-changing subsets).
 - Sends one email to `TARGET_EMAIL` with the verb and 25 lines (every pronoun in every tense: Present, Future, Preterite, Imperfect, Conditional). You conjugate all 25 and submit to ChatGPT for grading.
 
 **Reproducible run:**  
@@ -96,10 +96,10 @@ To run send-daily on your own machine:
 | File / folder     | Purpose |
 |--------------------|--------|
 | `main.py`          | CLI: `send-daily` only |
-| `verb_selector.py` | Picks one verb; returns all 5 pronouns × 5 tenses (25 conjugations) |
+| `verb_selector.py` | Picks one verb by alternating category (ar, er, ir, irregular, stem_changing); 25 conjugations |
+| `verbs_by_category.json` | 31 ar, 31 er, 31 ir verbs + irregular and stem_changing lists |
 | `translations.py`  | Generates English translations for each pronoun+tense |
 | `verb_translations.json` | Spanish→English verb forms (base, past, irregulars) |
-| `verbs.json`       | 60 common Spanish verbs |
 | `email_sender.py`  | Sends the daily exercise email (SMTP) |
 | `.env`             | Secrets (gitignored) |
 | `docs/example_emails.md` | Example daily exercise email |
