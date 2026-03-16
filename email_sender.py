@@ -40,7 +40,7 @@ def _smtp_send(to: str, subject: str, body_plain: str, body_html: str | None = N
 
 
 def build_daily_exercise_body(verb: str, assignments: list[dict], category: str = "") -> tuple[str, str]:
-    """Plain and HTML body for the daily exercise email (all pronouns × all tenses = 25)."""
+    """Plain and HTML body for the daily exercise email (all pronouns × 8 forms = 40)."""
     verb_upper = verb.upper()
     cat_note = f" ({category} verb)" if category else ""
     lines = []
@@ -54,11 +54,11 @@ def build_daily_exercise_body(verb: str, assignments: list[dict], category: str 
 
 Verb: {verb_upper}{cat_note}
 
-Conjugate this verb for every pronoun in every tense. Write 25 lines (same order as below):
+Conjugate this verb for every pronoun in every form. Write 40 lines (same order as below):
 
 {chr(10).join(lines)}
 
-Submit your 25 conjugations to ChatGPT for grading.
+Submit your 40 conjugations to ChatGPT for grading.
 """
     ol_parts = []
     for a in assignments:
@@ -71,11 +71,11 @@ Submit your 25 conjugations to ChatGPT for grading.
     html = f"""<html><body style="font-family: sans-serif;">
 <h2>Daily Spanish Verb Practice</h2>
 <p><strong>Verb:</strong> {verb_upper}{cat_note}</p>
-<p>Conjugate this verb for every pronoun in every tense. Write 25 lines (same order as below):</p>
+<p>Conjugate this verb for every pronoun in every form. Write 40 lines (same order as below):</p>
 <ol>
 {ol_items}
 </ol>
-<p>Submit your 25 conjugations to ChatGPT for grading.</p>
+<p>Submit your 40 conjugations to ChatGPT for grading.</p>
 </body></html>"""
     return plain, html
 

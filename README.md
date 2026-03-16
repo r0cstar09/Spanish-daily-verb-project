@@ -1,6 +1,6 @@
 # Daily Spanish Verb Trainer
 
-A small tool that emails you **one** daily Spanish verb exercise: one verb, all five pronouns in all five tenses (Present, Future, Preterite, Imperfect, Conditional) — 25 conjugations total. You conjugate and submit to ChatGPT for grading.
+A small tool that emails you **one** daily Spanish verb exercise: one verb, all five pronouns in eight forms (Present, Future, Preterite, Imperfect, Conditional, Present Perfect, Present Subjunctive, Estar + Gerund) — 40 conjugations total. You conjugate and submit to ChatGPT for grading.
 
 **Design:** One verb per day from the list, every pronoun × every tense. No LLM in the app — you grade yourself in ChatGPT.
 
@@ -57,7 +57,7 @@ python main.py send-daily
 ```
 
 - Picks one verb by alternating category each day: ar → er → ir → irregular → stem_changing (93 verbs total: 31 ar, 31 er, 31 ir, plus irregular and stem-changing subsets).
-- Sends one email to `TARGET_EMAIL` with the verb and 25 lines (every pronoun in every tense: Present, Future, Preterite, Imperfect, Conditional). You conjugate all 25 and submit to ChatGPT for grading.
+- Sends one email to `TARGET_EMAIL` with the verb and 40 lines (every pronoun in every form). You conjugate all 40 and submit to ChatGPT for grading.
 
 **Reproducible run:**  
 `python main.py send-daily --seed 42` uses a fixed random seed.
@@ -96,7 +96,7 @@ To run send-daily on your own machine:
 | File / folder     | Purpose |
 |--------------------|--------|
 | `main.py`          | CLI: `send-daily` only |
-| `verb_selector.py` | Picks one verb by alternating category (ar, er, ir, irregular, stem_changing); 25 conjugations |
+| `verb_selector.py` | Picks one verb by alternating category (ar, er, ir, irregular, stem_changing); 40 conjugations |
 | `verbs_by_category.json` | 31 ar, 31 er, 31 ir verbs + irregular and stem_changing lists |
 | `translations.py`  | Generates English translations for each pronoun+tense |
 | `verb_translations.json` | Spanish→English verb forms (base, past, irregulars) |
@@ -110,8 +110,8 @@ To run send-daily on your own machine:
 
 **Subject:** `Spanish Verb – LLEVAR (all tenses)`
 
-**Body:** Verb + 25 lines, each with pronoun, tense, and English translation (e.g. `yo (Present) — I need`).  
-Then: *Submit your 25 conjugations to ChatGPT for grading.*
+**Body:** Verb + 40 lines, each with pronoun, form, and English translation.  
+Then: *Submit your 40 conjugations to ChatGPT for grading.*
 
 ---
 

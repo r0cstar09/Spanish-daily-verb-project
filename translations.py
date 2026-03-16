@@ -33,6 +33,20 @@ def _get_past(base: str) -> str:
     return base + "ed"
 
 
+def _get_past_participle(base: str, past: str) -> str:
+    """Derive past participle. For regular verbs, same as past."""
+    return past
+
+
+def _get_present_participle(base: str) -> str:
+    """Derive -ing form (e.g. need -> needing)."""
+    if base.endswith("e"):
+        return base[:-1] + "ing"
+    if len(base) >= 3 and base[-1] in "bdfgmnprt" and base[-2] in "aeiou" and base[-3] not in "aeiou":
+        return base + base[-1] + "ing"  # run -> running
+    return base + "ing"
+
+
 def get_english_translation(verb: str, pronoun_index: int, tense: str) -> str:
     """
     Return English translation for (verb, pronoun, tense).
@@ -48,6 +62,8 @@ def get_english_translation(verb: str, pronoun_index: int, tense: str) -> str:
     base = t.get("base", "")
     third = t.get("third") or _get_third_person(base)
     past = t.get("past") or _get_past(base)
+    pp = t.get("pp") or past  # past participle
+    gerund = t.get("gerund") or _get_present_participle(base)
 
     if tense == "Present":
         if "present_forms" in t:
@@ -73,11 +89,21 @@ def get_english_translation(verb: str, pronoun_index: int, tense: str) -> str:
         phrase = t.get("conditional") or f"would {base}"
         return f"{pron} {phrase}"
 
+    if tense == "Present Perfect":
+        return f"{pron} have {pp}" if pronoun_index in (0, 1, 3, 4) else f"{pron} has {pp}"
+
+    if tense == "Present Subjunctive":
+        return f"that {pron} {base}"
+
+    if tense == "Estar + Gerund":
+        estar_forms = ["am", "are", "is", "are", "are"]
+        return f"{pron} {estar_forms[pronoun_index]} {gerund}"
+
     return ""
 
 
 def get_all_translations(verb: str) -> list[str]:
-    """Return 25 English translations in assignment order (Present×5, Future×5, ...)."""
+    """Return 40 English translations in assignment order (8 forms × 5 pronouns)."""
     result = []
     for tense in TENSES:
         for p in range(5):

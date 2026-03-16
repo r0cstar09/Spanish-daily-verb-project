@@ -1,7 +1,7 @@
 """
 Daily Spanish Verb Trainer – verb and tense selection.
-Picks one verb per day. Tests every pronoun (yo, tú, él/ella, nosotros, ellos) in all five tenses:
-Present, Future, Preterite, Imperfect, Conditional — 25 conjugations total.
+Picks one verb per day. Tests every pronoun (yo, tú, él/ella, nosotros, ellos) in eight forms:
+Present, Future, Preterite, Imperfect, Conditional, Present Perfect, Present Subjunctive, Estar + Gerund — 40 conjugations total.
 
 Alternates between categories: ar → er → ir → irregular → stem_changing (by day of year).
 """
@@ -13,7 +13,10 @@ from pathlib import Path
 from translations import get_english_translation
 
 VERBS_BY_CATEGORY_PATH = Path(__file__).resolve().parent / "verbs_by_category.json"
-TENSES = ["Present", "Future", "Preterite", "Imperfect", "Conditional"]
+TENSES = [
+    "Present", "Future", "Preterite", "Imperfect", "Conditional",
+    "Present Perfect", "Present Subjunctive", "Estar + Gerund",
+]
 PRONOUNS = [
     "yo",
     "tú",
@@ -50,7 +53,7 @@ def _get_verb_index_in_category(seed=None, category_size: int = 1) -> int:
 def select_daily_exercise(seed=None) -> dict:
     """
     Select one verb by alternating category (ar, er, ir, irregular, stem_changing).
-    Returns assignments: all 5 pronouns × 5 tenses = 25 conjugations with English translations.
+    Returns assignments: all 5 pronouns × 8 forms = 40 conjugations with English translations.
     """
     data = _load_verbs_by_category()
     cat_idx = _get_category_index(seed)
