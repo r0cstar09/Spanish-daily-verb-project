@@ -1,5 +1,4 @@
-# Send Spanish verb exercise emails on a twice-daily schedule.
-# You practice and get evaluated in ChatGPT (or elsewhere).
+# Send one Spanish verb exercise email per day (irregular / stem-changing verbs only).
 
 name: Send daily exercise
 
@@ -7,18 +6,7 @@ on:
   schedule:
     # 10:00 UTC = 5:00 AM Eastern (EST) / 6:00 AM Eastern (EDT)
     - cron: "0 10 * * *"
-    # 02:00 UTC = 9:00 PM Eastern (EST) / 10:00 PM Eastern (EDT)
-    - cron: "0 2 * * *"
   workflow_dispatch: # allow manual run
-    inputs:
-      mode:
-        description: "Send mode"
-        required: false
-        default: daily
-        type: choice
-        options:
-          - daily
-          - revision
 
 jobs:
   send:
@@ -33,29 +21,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Send scheduled exercise
+      - name: Send daily exercise
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           TARGET_EMAIL: ${{ secrets.TARGET_EMAIL }}
-          EVENT_NAME: ${{ github.event_name }}
-          EVENT_SCHEDULE: ${{ github.event.schedule }}
-          DISPATCH_MODE: ${{ github.event.inputs.mode }}
-        run: |
-          mode="daily"
-          if [[ "$EVENT_NAME" == "schedule" && "$EVENT_SCHEDULE" == "0 2 * * *" ]]; then
-            mode="revision"
-          elif [[ "$EVENT_NAME" == "workflow_dispatch" && "$DISPATCH_MODE" == "revision" ]]; then
-            mode="revision"
-          fi
-
-          if [[ "$mode" == "revision" ]]; then
-            # 02:00 UTC is evening in Eastern, so use two UTC days ago
-            # to target a prior local-day verb for review.
-            revision_seed="$(date -u -d '2 days ago' +%j)"
-            echo "Sending evening revision exercise (seed: $revision_seed)"
-            python main.py send-daily --seed "$revision_seed"
-          else
-            echo "Sending morning daily exercise"
-            python main.py send-daily
-          fi
+        run: python main.py send-daily

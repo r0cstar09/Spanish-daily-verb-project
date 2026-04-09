@@ -21,6 +21,11 @@ TARGET_EMAIL = _env("TARGET_EMAIL")
 
 SUBJECT_PREFIX = "Spanish Verb – "
 
+_CATEGORY_LABEL = {
+    "irregular": "irregular",
+    "stem_changing": "stem-changing",
+}
+
 
 def _smtp_send(to: str, subject: str, body_plain: str, body_html: str | None = None):
     if not EMAIL_USER or not EMAIL_PASSWORD:
@@ -42,7 +47,8 @@ def _smtp_send(to: str, subject: str, body_plain: str, body_html: str | None = N
 def build_daily_exercise_body(verb: str, assignments: list[dict], category: str = "") -> tuple[str, str]:
     """Plain and HTML body for the daily exercise email (all pronouns × 8 forms = 40)."""
     verb_upper = verb.upper()
-    cat_note = f" ({category} verb)" if category else ""
+    cat_label = _CATEGORY_LABEL.get(category, category.replace("_", "-")) if category else ""
+    cat_note = f" ({cat_label} verb)" if cat_label else ""
     lines = []
     for i, a in enumerate(assignments):
         trans = a.get("translation", "")

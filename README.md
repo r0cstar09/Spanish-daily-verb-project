@@ -56,7 +56,7 @@ No OpenAI or Azure keys needed — evaluation is up to you (e.g. in ChatGPT).
 python main.py send-daily
 ```
 
-- Picks one verb by alternating category each day: ar → er → ir → irregular → stem_changing (93 verbs total: 31 ar, 31 er, 31 ir, plus irregular and stem-changing subsets).
+- Picks one verb per day, alternating **irregular** vs **stem-changing** (18 irregular + 18 stem-changing verbs only).
 - Sends one email to `TARGET_EMAIL` with the verb and 40 lines (every pronoun in every form). You conjugate all 40 and submit to ChatGPT for grading.
 
 **Reproducible run:**  
@@ -73,7 +73,7 @@ One workflow sends the daily exercise on a schedule.
    - `EMAIL_PASSWORD` — Gmail App Password  
    - `TARGET_EMAIL` — where to send the exercise  
 
-2. **Push** the repo. The workflow runs once per day at **10:00 UTC (5:00 AM Eastern)**. Change the `cron` in `.github/workflows/send-daily.yml` to change the time.
+2. **Push** the repo. The workflow runs **once per day** at **10:00 UTC (5:00 AM Eastern)**. Edit the `cron` in `.github/workflows/send-daily.yml` to change the time.
 
 3. **Run manually:** Actions → "Send daily exercise" → Run workflow.
 
@@ -96,8 +96,8 @@ To run send-daily on your own machine:
 | File / folder     | Purpose |
 |--------------------|--------|
 | `main.py`          | CLI: `send-daily` only |
-| `verb_selector.py` | Picks one verb by alternating category (ar, er, ir, irregular, stem_changing); 40 conjugations |
-| `verbs_by_category.json` | 31 ar, 31 er, 31 ir verbs + irregular and stem_changing lists |
+| `verb_selector.py` | Picks one verb alternating irregular / stem-changing; 40 conjugations |
+| `verbs_by_category.json` | Irregular (18) and stem-changing (18) verbs only |
 | `translations.py`  | Generates English translations for each pronoun+tense |
 | `verb_translations.json` | Spanish→English verb forms (base, past, irregulars) |
 | `email_sender.py`  | Sends the daily exercise email (SMTP) |

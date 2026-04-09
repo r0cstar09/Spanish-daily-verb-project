@@ -1,99 +1,1033 @@
 {
-  "ser": {"present_forms": ["am", "are", "is", "are", "are"], "past_forms": ["was", "were", "was", "were", "were"], "base": "be", "pp": "been", "gerund": "being"},
-  "estar": {"present_forms": ["am", "are", "is", "are", "are"], "past_forms": ["was", "were", "was", "were", "were"], "base": "be", "pp": "been", "gerund": "being"},
-  "ir": {"base": "go", "past": "went", "third": "goes", "pp": "gone"},
-  "tener": {"base": "have", "past": "had", "third": "has"},
-  "hacer": {"base": "do", "past": "did", "third": "does", "pp": "done"},
-  "poder": {"base": "can", "past": "could", "pp": "been able to", "gerund": "being able to", "future": "will be able to", "imperfect": "used to be able to", "conditional": "would be able to"},
-  "decir": {"base": "say", "past": "said", "third": "says"},
-  "venir": {"base": "come", "past": "came", "third": "comes"},
-  "ver": {"base": "see", "past": "saw", "third": "sees", "pp": "seen"},
-  "dar": {"base": "give", "past": "gave", "third": "gives"},
-  "saber": {"base": "know", "past": "knew", "third": "knows"},
-  "querer": {"base": "want", "past": "wanted", "third": "wants"},
-  "llegar": {"base": "arrive", "past": "arrived", "third": "arrives"},
-  "pasar": {"base": "pass", "past": "passed", "third": "passes"},
-  "poner": {"base": "put", "past": "put", "third": "puts"},
-  "parecer": {"base": "seem", "past": "seemed", "third": "seems"},
-  "quedar": {"base": "stay", "past": "stayed", "third": "stays"},
-  "creer": {"base": "believe", "past": "believed", "third": "believes"},
-  "llevar": {"base": "carry", "past": "carried", "third": "carries"},
-  "dejar": {"base": "leave", "past": "left", "third": "leaves"},
-  "volver": {"base": "return", "past": "returned", "third": "returns"},
-  "traer": {"base": "bring", "past": "brought", "third": "brings"},
-  "seguir": {"base": "follow", "past": "followed", "third": "follows"},
-  "encontrar": {"base": "find", "past": "found", "third": "finds"},
-  "llamar": {"base": "call", "past": "called", "third": "calls"},
-  "empezar": {"base": "start", "past": "started", "third": "starts"},
-  "salir": {"base": "leave", "past": "left", "third": "leaves"},
-  "vivir": {"base": "live", "past": "lived", "third": "lives"},
-  "sentir": {"base": "feel", "past": "felt", "third": "feels"},
-  "buscar": {"base": "search", "past": "searched", "third": "searches"},
-  "entrar": {"base": "enter", "past": "entered", "third": "enters"},
-  "trabajar": {"base": "work", "past": "worked", "third": "works"},
-  "terminar": {"base": "finish", "past": "finished", "third": "finishes"},
-  "ayudar": {"base": "help", "past": "helped", "third": "helps"},
-  "gustar": {"base": "like", "past": "liked", "third": "likes"},
-  "contar": {"base": "count", "past": "counted", "third": "counts"},
-  "cambiar": {"base": "change", "past": "changed", "third": "changes"},
-  "amar": {"base": "love", "past": "loved", "third": "loves"},
-  "necesitar": {"base": "need", "past": "needed", "third": "needs"},
-  "mantener": {"base": "maintain", "past": "maintained", "third": "maintains"},
-  "pensar": {"base": "think", "past": "thought", "third": "thinks"},
-  "conocer": {"base": "know", "past": "knew", "third": "knows"},
-  "tomar": {"base": "take", "past": "took", "third": "takes"},
-  "abandonar": {"base": "abandon", "past": "abandoned", "third": "abandons"},
-  "funcionar": {"base": "function", "past": "functioned", "third": "functions"},
-  "quitar": {"base": "remove", "past": "removed", "third": "removes"},
-  "permitir": {"base": "allow", "past": "allowed", "third": "allows"},
-  "existir": {"base": "exist", "past": "existed", "third": "exists"},
-  "entender": {"base": "understand", "past": "understood", "third": "understands"},
-  "pedir": {"base": "ask", "past": "asked", "third": "asks"},
-  "mirar": {"base": "look", "past": "looked", "third": "looks"},
-  "escribir": {"base": "write", "past": "wrote", "third": "writes", "pp": "written"},
-  "escuchar": {"base": "listen", "past": "listened", "third": "listens"},
-  "esperar": {"base": "wait", "past": "waited", "third": "waits"},
-  "responder": {"base": "respond", "past": "responded", "third": "responds"},
-  "comprar": {"base": "buy", "past": "bought", "third": "buys"},
-  "abrir": {"base": "open", "past": "opened", "third": "opens"},
-  "cerrar": {"base": "close", "past": "closed", "third": "closes"},
-  "subir": {"base": "go up", "past": "went up", "third": "goes up", "pp": "gone up", "gerund": "going up"},
-  "bajar": {"base": "go down", "past": "went down", "third": "goes down", "pp": "gone down", "gerund": "going down"},
-  "aprender": {"base": "learn", "past": "learned", "third": "learns"},
-  "beber": {"base": "drink", "past": "drank", "third": "drinks"},
-  "comer": {"base": "eat", "past": "ate", "third": "eats"},
-  "comprender": {"base": "understand", "past": "understood", "third": "understands"},
-  "correr": {"base": "run", "past": "ran", "third": "runs"},
-  "leer": {"base": "read", "past": "read", "third": "reads"},
-  "vender": {"base": "sell", "past": "sold", "third": "sells"},
-  "perder": {"base": "lose", "past": "lost", "third": "loses"},
-  "romper": {"base": "break", "past": "broke", "third": "breaks", "pp": "broken"},
-  "deber": {"base": "owe", "past": "owed", "third": "owes"},
-  "prometer": {"base": "promise", "past": "promised", "third": "promises"},
-  "obtener": {"base": "obtain", "past": "obtained", "third": "obtains"},
-  "meter": {"base": "put in", "past": "put in", "third": "puts in"},
-  "temer": {"base": "fear", "past": "feared", "third": "fears"},
-  "esconder": {"base": "hide", "past": "hid", "third": "hides"},
-  "asistir": {"base": "attend", "past": "attended", "third": "attends"},
-  "describir": {"base": "describe", "past": "described", "third": "describes"},
-  "decidir": {"base": "decide", "past": "decided", "third": "decides"},
-  "partir": {"base": "leave", "past": "left", "third": "leaves"},
-  "recibir": {"base": "receive", "past": "received", "third": "receives"},
-  "cumplir": {"base": "fulfill", "past": "fulfilled", "third": "fulfills"},
-  "dormir": {"base": "sleep", "past": "slept", "third": "sleeps"},
-  "morir": {"base": "die", "past": "died", "third": "dies"},
-  "servir": {"base": "serve", "past": "served", "third": "serves"},
-  "repetir": {"base": "repeat", "past": "repeated", "third": "repeats"},
-  "añadir": {"base": "add", "past": "added", "third": "adds"},
-  "descubrir": {"base": "discover", "past": "discovered", "third": "discovers"},
-  "dividir": {"base": "divide", "past": "divided", "third": "divides"},
-  "unir": {"base": "unite", "past": "united", "third": "unites"},
-  "compartir": {"base": "share", "past": "shared", "third": "shares"},
-  "cubrir": {"base": "cover", "past": "covered", "third": "covers"},
-  "discutir": {"base": "discuss", "past": "discussed", "third": "discusses"},
-  "producir": {"base": "produce", "past": "produced", "third": "produces"},
-  "oír": {"base": "hear", "past": "heard", "third": "hears"},
-  "caer": {"base": "fall", "past": "fell", "third": "falls"},
-  "preferir": {"base": "prefer", "past": "preferred", "third": "prefers"},
-  "mentir": {"base": "lie", "past": "lied", "third": "lies"}
+  "ser": {
+    "present_forms": [
+      "am",
+      "are",
+      "is",
+      "are",
+      "are"
+    ],
+    "past_forms": [
+      "was",
+      "were",
+      "was",
+      "were",
+      "were"
+    ],
+    "base": "be",
+    "pp": "been",
+    "gerund": "being"
+  },
+  "estar": {
+    "present_forms": [
+      "am",
+      "are",
+      "is",
+      "are",
+      "are"
+    ],
+    "past_forms": [
+      "was",
+      "were",
+      "was",
+      "were",
+      "were"
+    ],
+    "base": "be",
+    "pp": "been",
+    "gerund": "being"
+  },
+  "ir": {
+    "base": "go",
+    "past": "went",
+    "third": "goes",
+    "pp": "gone"
+  },
+  "tener": {
+    "base": "have",
+    "past": "had",
+    "third": "has"
+  },
+  "hacer": {
+    "base": "do",
+    "past": "did",
+    "third": "does",
+    "pp": "done"
+  },
+  "poder": {
+    "base": "can",
+    "past": "could",
+    "pp": "been able to",
+    "gerund": "being able to",
+    "future": "will be able to",
+    "imperfect": "used to be able to",
+    "conditional": "would be able to"
+  },
+  "decir": {
+    "base": "say",
+    "past": "said",
+    "third": "says"
+  },
+  "venir": {
+    "base": "come",
+    "past": "came",
+    "third": "comes"
+  },
+  "ver": {
+    "base": "see",
+    "past": "saw",
+    "third": "sees",
+    "pp": "seen"
+  },
+  "dar": {
+    "base": "give",
+    "past": "gave",
+    "third": "gives"
+  },
+  "saber": {
+    "base": "know",
+    "past": "knew",
+    "third": "knows"
+  },
+  "querer": {
+    "base": "want",
+    "past": "wanted",
+    "third": "wants"
+  },
+  "llegar": {
+    "base": "arrive",
+    "past": "arrived",
+    "third": "arrives"
+  },
+  "pasar": {
+    "base": "pass",
+    "past": "passed",
+    "third": "passes"
+  },
+  "poner": {
+    "base": "put",
+    "past": "put",
+    "third": "puts"
+  },
+  "parecer": {
+    "base": "seem",
+    "past": "seemed",
+    "third": "seems"
+  },
+  "quedar": {
+    "base": "stay",
+    "past": "stayed",
+    "third": "stays"
+  },
+  "creer": {
+    "base": "believe",
+    "past": "believed",
+    "third": "believes"
+  },
+  "llevar": {
+    "base": "carry",
+    "past": "carried",
+    "third": "carries"
+  },
+  "dejar": {
+    "base": "leave",
+    "past": "left",
+    "third": "leaves"
+  },
+  "volver": {
+    "base": "return",
+    "past": "returned",
+    "third": "returns"
+  },
+  "traer": {
+    "base": "bring",
+    "past": "brought",
+    "third": "brings"
+  },
+  "seguir": {
+    "base": "follow",
+    "past": "followed",
+    "third": "follows"
+  },
+  "encontrar": {
+    "base": "find",
+    "past": "found",
+    "third": "finds"
+  },
+  "llamar": {
+    "base": "call",
+    "past": "called",
+    "third": "calls"
+  },
+  "empezar": {
+    "base": "start",
+    "past": "started",
+    "third": "starts"
+  },
+  "salir": {
+    "base": "leave",
+    "past": "left",
+    "third": "leaves"
+  },
+  "vivir": {
+    "base": "live",
+    "past": "lived",
+    "third": "lives"
+  },
+  "sentir": {
+    "base": "feel",
+    "past": "felt",
+    "third": "feels"
+  },
+  "buscar": {
+    "base": "search",
+    "past": "searched",
+    "third": "searches"
+  },
+  "entrar": {
+    "base": "enter",
+    "past": "entered",
+    "third": "enters"
+  },
+  "trabajar": {
+    "base": "work",
+    "past": "worked",
+    "third": "works"
+  },
+  "terminar": {
+    "base": "finish",
+    "past": "finished",
+    "third": "finishes"
+  },
+  "ayudar": {
+    "base": "help",
+    "past": "helped",
+    "third": "helps"
+  },
+  "gustar": {
+    "base": "like",
+    "past": "liked",
+    "third": "likes"
+  },
+  "contar": {
+    "base": "count",
+    "past": "counted",
+    "third": "counts"
+  },
+  "cambiar": {
+    "base": "change",
+    "past": "changed",
+    "third": "changes"
+  },
+  "amar": {
+    "base": "love",
+    "past": "loved",
+    "third": "loves"
+  },
+  "necesitar": {
+    "base": "need",
+    "past": "needed",
+    "third": "needs"
+  },
+  "mantener": {
+    "base": "maintain",
+    "past": "maintained",
+    "third": "maintains"
+  },
+  "pensar": {
+    "base": "think",
+    "past": "thought",
+    "third": "thinks"
+  },
+  "conocer": {
+    "base": "know",
+    "past": "knew",
+    "third": "knows"
+  },
+  "tomar": {
+    "base": "take",
+    "past": "took",
+    "third": "takes"
+  },
+  "abandonar": {
+    "base": "abandon",
+    "past": "abandoned",
+    "third": "abandons"
+  },
+  "funcionar": {
+    "base": "function",
+    "past": "functioned",
+    "third": "functions"
+  },
+  "quitar": {
+    "base": "remove",
+    "past": "removed",
+    "third": "removes"
+  },
+  "permitir": {
+    "base": "allow",
+    "past": "allowed",
+    "third": "allows"
+  },
+  "existir": {
+    "base": "exist",
+    "past": "existed",
+    "third": "exists"
+  },
+  "entender": {
+    "base": "understand",
+    "past": "understood",
+    "third": "understands"
+  },
+  "pedir": {
+    "base": "ask",
+    "past": "asked",
+    "third": "asks"
+  },
+  "mirar": {
+    "base": "look",
+    "past": "looked",
+    "third": "looks"
+  },
+  "escribir": {
+    "base": "write",
+    "past": "wrote",
+    "third": "writes",
+    "pp": "written"
+  },
+  "escuchar": {
+    "base": "listen",
+    "past": "listened",
+    "third": "listens"
+  },
+  "esperar": {
+    "base": "wait",
+    "past": "waited",
+    "third": "waits"
+  },
+  "responder": {
+    "base": "respond",
+    "past": "responded",
+    "third": "responds"
+  },
+  "comprar": {
+    "base": "buy",
+    "past": "bought",
+    "third": "buys"
+  },
+  "abrir": {
+    "base": "open",
+    "past": "opened",
+    "third": "opens"
+  },
+  "cerrar": {
+    "base": "close",
+    "past": "closed",
+    "third": "closes"
+  },
+  "subir": {
+    "base": "go up",
+    "past": "went up",
+    "third": "goes up",
+    "pp": "gone up",
+    "gerund": "going up"
+  },
+  "bajar": {
+    "base": "go down",
+    "past": "went down",
+    "third": "goes down",
+    "pp": "gone down",
+    "gerund": "going down"
+  },
+  "aprender": {
+    "base": "learn",
+    "past": "learned",
+    "third": "learns"
+  },
+  "beber": {
+    "base": "drink",
+    "past": "drank",
+    "third": "drinks"
+  },
+  "comer": {
+    "base": "eat",
+    "past": "ate",
+    "third": "eats"
+  },
+  "comprender": {
+    "base": "understand",
+    "past": "understood",
+    "third": "understands"
+  },
+  "correr": {
+    "base": "run",
+    "past": "ran",
+    "third": "runs"
+  },
+  "leer": {
+    "base": "read",
+    "past": "read",
+    "third": "reads"
+  },
+  "vender": {
+    "base": "sell",
+    "past": "sold",
+    "third": "sells"
+  },
+  "perder": {
+    "base": "lose",
+    "past": "lost",
+    "third": "loses"
+  },
+  "romper": {
+    "base": "break",
+    "past": "broke",
+    "third": "breaks",
+    "pp": "broken"
+  },
+  "deber": {
+    "base": "owe",
+    "past": "owed",
+    "third": "owes"
+  },
+  "prometer": {
+    "base": "promise",
+    "past": "promised",
+    "third": "promises"
+  },
+  "obtener": {
+    "base": "obtain",
+    "past": "obtained",
+    "third": "obtains"
+  },
+  "meter": {
+    "base": "put in",
+    "past": "put in",
+    "third": "puts in"
+  },
+  "temer": {
+    "base": "fear",
+    "past": "feared",
+    "third": "fears"
+  },
+  "esconder": {
+    "base": "hide",
+    "past": "hid",
+    "third": "hides"
+  },
+  "asistir": {
+    "base": "attend",
+    "past": "attended",
+    "third": "attends"
+  },
+  "describir": {
+    "base": "describe",
+    "past": "described",
+    "third": "describes"
+  },
+  "decidir": {
+    "base": "decide",
+    "past": "decided",
+    "third": "decides"
+  },
+  "partir": {
+    "base": "leave",
+    "past": "left",
+    "third": "leaves"
+  },
+  "recibir": {
+    "base": "receive",
+    "past": "received",
+    "third": "receives"
+  },
+  "cumplir": {
+    "base": "fulfill",
+    "past": "fulfilled",
+    "third": "fulfills"
+  },
+  "dormir": {
+    "base": "sleep",
+    "past": "slept",
+    "third": "sleeps"
+  },
+  "morir": {
+    "base": "die",
+    "past": "died",
+    "third": "dies"
+  },
+  "servir": {
+    "base": "serve",
+    "past": "served",
+    "third": "serves"
+  },
+  "repetir": {
+    "base": "repeat",
+    "past": "repeated",
+    "third": "repeats"
+  },
+  "añadir": {
+    "base": "add",
+    "past": "added",
+    "third": "adds"
+  },
+  "descubrir": {
+    "base": "discover",
+    "past": "discovered",
+    "third": "discovers"
+  },
+  "dividir": {
+    "base": "divide",
+    "past": "divided",
+    "third": "divides"
+  },
+  "unir": {
+    "base": "unite",
+    "past": "united",
+    "third": "unites"
+  },
+  "compartir": {
+    "base": "share",
+    "past": "shared",
+    "third": "shares"
+  },
+  "cubrir": {
+    "base": "cover",
+    "past": "covered",
+    "third": "covers"
+  },
+  "discutir": {
+    "base": "discuss",
+    "past": "discussed",
+    "third": "discusses"
+  },
+  "producir": {
+    "base": "produce",
+    "past": "produced",
+    "third": "produces"
+  },
+  "oír": {
+    "base": "hear",
+    "past": "heard",
+    "third": "hears"
+  },
+  "caer": {
+    "base": "fall",
+    "past": "fell",
+    "third": "falls"
+  },
+  "preferir": {
+    "base": "prefer",
+    "past": "preferred",
+    "third": "prefers"
+  },
+  "mentir": {
+    "base": "lie",
+    "past": "lied",
+    "third": "lies"
+  },
+  "andar": {
+    "base": "walk",
+    "past": "walked",
+    "third": "walks"
+  },
+  "aparecer": {
+    "base": "appear",
+    "past": "appeared",
+    "third": "appears"
+  },
+  "atraer": {
+    "base": "attract",
+    "past": "attracted",
+    "third": "attracts"
+  },
+  "caber": {
+    "base": "fit",
+    "past": "fit",
+    "third": "fits"
+  },
+  "coger": {
+    "base": "take",
+    "past": "took",
+    "third": "takes"
+  },
+  "componer": {
+    "base": "compose",
+    "past": "composed",
+    "third": "composes"
+  },
+  "conducir": {
+    "base": "drive",
+    "past": "drove",
+    "third": "drives",
+    "pp": "driven"
+  },
+  "contraer": {
+    "base": "contract",
+    "past": "contracted",
+    "third": "contracts"
+  },
+  "convenir": {
+    "base": "suit",
+    "past": "suited",
+    "third": "suits"
+  },
+  "deducir": {
+    "base": "deduce",
+    "past": "deduced",
+    "third": "deduces"
+  },
+  "desaparecer": {
+    "base": "disappear",
+    "past": "disappeared",
+    "third": "disappears"
+  },
+  "desconocer": {
+    "base": "fail to recognize",
+    "past": "failed to recognize",
+    "third": "fails to recognize"
+  },
+  "desdecir": {
+    "base": "contradict oneself",
+    "past": "contradicted oneself",
+    "third": "contradicts oneself"
+  },
+  "desagradecer": {
+    "base": "be ungrateful",
+    "past": "was ungrateful",
+    "third": "is ungrateful"
+  },
+  "detener": {
+    "base": "stop",
+    "past": "stopped",
+    "third": "stops"
+  },
+  "disponer": {
+    "base": "dispose",
+    "past": "disposed",
+    "third": "disposes"
+  },
+  "distraer": {
+    "base": "distract",
+    "past": "distracted",
+    "third": "distracts"
+  },
+  "elegir": {
+    "base": "choose",
+    "past": "chose",
+    "third": "chooses",
+    "pp": "chosen"
+  },
+  "escoger": {
+    "base": "choose",
+    "past": "chose",
+    "third": "chooses",
+    "pp": "chosen"
+  },
+  "establecer": {
+    "base": "establish",
+    "past": "established",
+    "third": "establishes"
+  },
+  "ejercer": {
+    "base": "exercise",
+    "past": "exercised",
+    "third": "exercises"
+  },
+  "extraer": {
+    "base": "extract",
+    "past": "extracted",
+    "third": "extracts"
+  },
+  "freír": {
+    "base": "fry",
+    "past": "fried",
+    "third": "fries"
+  },
+  "haber": {
+    "base": "have",
+    "past": "had",
+    "third": "has"
+  },
+  "huir": {
+    "base": "flee",
+    "past": "fled",
+    "third": "flees"
+  },
+  "imponer": {
+    "base": "impose",
+    "past": "imposed",
+    "third": "imposes"
+  },
+  "inducir": {
+    "base": "induce",
+    "past": "induced",
+    "third": "induces"
+  },
+  "introducir": {
+    "base": "introduce",
+    "past": "introduced",
+    "third": "introduces"
+  },
+  "intervenir": {
+    "base": "intervene",
+    "past": "intervened",
+    "third": "intervenes"
+  },
+  "nacer": {
+    "base": "be born",
+    "past": "was born",
+    "third": "is born"
+  },
+  "obedecer": {
+    "base": "obey",
+    "past": "obeyed",
+    "third": "obeys"
+  },
+  "oponer": {
+    "base": "oppose",
+    "past": "opposed",
+    "third": "opposes"
+  },
+  "predecir": {
+    "base": "predict",
+    "past": "predicted",
+    "third": "predicts"
+  },
+  "prevenir": {
+    "base": "prevent",
+    "past": "prevented",
+    "third": "prevents"
+  },
+  "proponer": {
+    "base": "propose",
+    "past": "proposed",
+    "third": "proposes"
+  },
+  "reducir": {
+    "base": "reduce",
+    "past": "reduced",
+    "third": "reduces"
+  },
+  "reír": {
+    "base": "laugh",
+    "past": "laughed",
+    "third": "laughs"
+  },
+  "retener": {
+    "base": "retain",
+    "past": "retained",
+    "third": "retains"
+  },
+  "satisfacer": {
+    "base": "satisfy",
+    "past": "satisfied",
+    "third": "satisfies"
+  },
+  "sostener": {
+    "base": "sustain",
+    "past": "sustained",
+    "third": "sustains"
+  },
+  "suponer": {
+    "base": "suppose",
+    "past": "supposed",
+    "third": "supposes"
+  },
+  "valer": {
+    "base": "be worth",
+    "past": "was worth",
+    "third": "is worth"
+  },
+  "vencer": {
+    "base": "defeat",
+    "past": "defeated",
+    "third": "defeats"
+  },
+  "acordar": {
+    "base": "agree",
+    "past": "agreed",
+    "third": "agrees"
+  },
+  "advertir": {
+    "base": "warn",
+    "past": "warned",
+    "third": "warns"
+  },
+  "almorzar": {
+    "base": "eat lunch",
+    "past": "ate lunch",
+    "third": "eats lunch"
+  },
+  "apretar": {
+    "base": "tighten",
+    "past": "tightened",
+    "third": "tightens"
+  },
+  "aprobar": {
+    "base": "approve",
+    "past": "approved",
+    "third": "approves"
+  },
+  "atravesar": {
+    "base": "cross",
+    "past": "crossed",
+    "third": "crosses"
+  },
+  "avergonzar": {
+    "base": "embarrass",
+    "past": "embarrassed",
+    "third": "embarrasses"
+  },
+  "calentar": {
+    "base": "heat",
+    "past": "heated",
+    "third": "heats"
+  },
+  "colgar": {
+    "base": "hang",
+    "past": "hung",
+    "third": "hangs"
+  },
+  "comenzar": {
+    "base": "begin",
+    "past": "began",
+    "third": "begins"
+  },
+  "confesar": {
+    "base": "confess",
+    "past": "confessed",
+    "third": "confesses"
+  },
+  "continuar": {
+    "base": "continue",
+    "past": "continued",
+    "third": "continues"
+  },
+  "convertir": {
+    "base": "convert",
+    "past": "converted",
+    "third": "converts"
+  },
+  "costar": {
+    "base": "cost",
+    "past": "cost",
+    "third": "costs"
+  },
+  "defender": {
+    "base": "defend",
+    "past": "defended",
+    "third": "defends"
+  },
+  "demostrar": {
+    "base": "demonstrate",
+    "past": "demonstrated",
+    "third": "demonstrates"
+  },
+  "despedir": {
+    "base": "dismiss",
+    "past": "dismissed",
+    "third": "dismisses"
+  },
+  "despertar": {
+    "base": "wake",
+    "past": "woke",
+    "third": "wakes",
+    "pp": "woken"
+  },
+  "divertir": {
+    "base": "entertain",
+    "past": "entertained",
+    "third": "entertains"
+  },
+  "encender": {
+    "base": "light",
+    "past": "lit",
+    "third": "lights"
+  },
+  "extender": {
+    "base": "extend",
+    "past": "extended",
+    "third": "extends"
+  },
+  "gobernar": {
+    "base": "govern",
+    "past": "governed",
+    "third": "governs"
+  },
+  "helar": {
+    "base": "freeze",
+    "past": "froze",
+    "third": "freezes",
+    "pp": "frozen"
+  },
+  "herir": {
+    "base": "wound",
+    "past": "wounded",
+    "third": "wounds"
+  },
+  "inferir": {
+    "base": "infer",
+    "past": "inferred",
+    "third": "infers"
+  },
+  "jugar": {
+    "base": "play",
+    "past": "played",
+    "third": "plays"
+  },
+  "llover": {
+    "base": "rain",
+    "past": "rained",
+    "third": "rains"
+  },
+  "manifestar": {
+    "base": "manifest",
+    "past": "manifested",
+    "third": "manifests"
+  },
+  "medir": {
+    "base": "measure",
+    "past": "measured",
+    "third": "measures"
+  },
+  "morder": {
+    "base": "bite",
+    "past": "bit",
+    "third": "bites",
+    "pp": "bitten"
+  },
+  "nevar": {
+    "base": "snow",
+    "past": "snowed",
+    "third": "snows"
+  },
+  "probar": {
+    "base": "try",
+    "past": "tried",
+    "third": "tries"
+  },
+  "recordar": {
+    "base": "remember",
+    "past": "remembered",
+    "third": "remembers"
+  },
+  "recomendar": {
+    "base": "recommend",
+    "past": "recommended",
+    "third": "recommends"
+  },
+  "referir": {
+    "base": "refer",
+    "past": "referred",
+    "third": "refers"
+  },
+  "regar": {
+    "base": "water",
+    "past": "watered",
+    "third": "waters"
+  },
+  "resolver": {
+    "base": "solve",
+    "past": "solved",
+    "third": "solves"
+  },
+  "reñir": {
+    "base": "quarrel",
+    "past": "quarreled",
+    "third": "quarrels"
+  },
+  "reunir": {
+    "base": "gather",
+    "past": "gathered",
+    "third": "gathers"
+  },
+  "rodar": {
+    "base": "roll",
+    "past": "rolled",
+    "third": "rolls"
+  },
+  "robar": {
+    "base": "rob",
+    "past": "robbed",
+    "third": "robs"
+  },
+  "sentar": {
+    "base": "seat",
+    "past": "seated",
+    "third": "seats"
+  },
+  "soler": {
+    "base": "usually",
+    "past": "usually did",
+    "third": "usually does"
+  },
+  "soñar": {
+    "base": "dream",
+    "past": "dreamed",
+    "third": "dreams"
+  },
+  "sonar": {
+    "base": "sound",
+    "past": "sounded",
+    "third": "sounds"
+  },
+  "sugerir": {
+    "base": "suggest",
+    "past": "suggested",
+    "third": "suggests"
+  },
+  "temblar": {
+    "base": "tremble",
+    "past": "trembled",
+    "third": "trembles"
+  },
+  "vestir": {
+    "base": "dress",
+    "past": "dressed",
+    "third": "dresses"
+  },
+  "volar": {
+    "base": "fly",
+    "past": "flew",
+    "third": "flies",
+    "pp": "flown"
+  },
+  "devolver": {
+    "base": "return",
+    "past": "returned",
+    "third": "returns"
+  },
+  "ofrecer": {
+    "base": "offer",
+    "past": "offered",
+    "third": "offers"
+  },
+  "reconocer": {
+    "base": "recognize",
+    "past": "recognized",
+    "third": "recognizes"
+  },
+  "traducir": {
+    "base": "translate",
+    "past": "translated",
+    "third": "translates"
+  },
+  "mostrar": {
+    "base": "show",
+    "past": "showed",
+    "third": "shows",
+    "pp": "shown"
+  },
+  "sacar": {
+    "base": "take out",
+    "past": "took out",
+    "third": "takes out",
+    "pp": "taken out",
+    "gerund": "taking out"
+  },
+  "pagar": {
+    "base": "pay",
+    "past": "paid",
+    "third": "pays"
+  }
 }
