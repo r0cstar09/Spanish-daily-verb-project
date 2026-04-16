@@ -1,0 +1,407 @@
+{
+  "verb": "calcular",
+  "generated_at": "2026-04-17T12:00:00+00:00",
+  "source": "sentence_banks:calcular",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I calculate the tip after tax, not before."
+    },
+    {
+      "id": 2,
+      "en": "We calculate our grocery budget every Sunday."
+    },
+    {
+      "id": 3,
+      "en": "She calculates mileage for work trips in a simple app."
+    },
+    {
+      "id": 4,
+      "en": "They calculate interest on the card if you miss the due date."
+    },
+    {
+      "id": 5,
+      "en": "The tool calculates your monthly payment from the rate."
+    },
+    {
+      "id": 6,
+      "en": "Do you calculate calories, or do you just eat when hungry?"
+    },
+    {
+      "id": 7,
+      "en": "Who calculated the split for the group dinner?"
+    },
+    {
+      "id": 8,
+      "en": "How did you calculate the refund on that return?"
+    },
+    {
+      "id": 9,
+      "en": "Don't calculate the dose in your head; read the label."
+    },
+    {
+      "id": 10,
+      "en": "Please calculate the total before we swipe the card."
+    },
+    {
+      "id": 11,
+      "en": "Let's calculate the worst case before we sign."
+    },
+    {
+      "id": 12,
+      "en": "I calculated the rent split wrong, and I owed twenty dollars."
+    },
+    {
+      "id": 13,
+      "en": "We calculated the drive time without traffic, and we were late."
+    },
+    {
+      "id": 14,
+      "en": "She calculated the paint area and still bought one extra can."
+    },
+    {
+      "id": 15,
+      "en": "He calculated his macros for a month, then he stopped."
+    },
+    {
+      "id": 16,
+      "en": "They calculated the team stats after every match."
+    },
+    {
+      "id": 17,
+      "en": "I did not calculate the exchange fee, and it hurt."
+    },
+    {
+      "id": 18,
+      "en": "We never calculated overtime correctly until HR fixed the sheet."
+    },
+    {
+      "id": 19,
+      "en": "She never calculated risk that way before she saw the chart."
+    },
+    {
+      "id": 20,
+      "en": "I used to calculate every receipt by hand."
+    },
+    {
+      "id": 21,
+      "en": "We used to calculate tips with a paper slip."
+    },
+    {
+      "id": 22,
+      "en": "He used to calculate his pace on a cheap watch."
+    },
+    {
+      "id": 23,
+      "en": "When I was in school, I calculated averages for the whole class."
+    },
+    {
+      "id": 24,
+      "en": "I will calculate the tax before I file online."
+    },
+    {
+      "id": 25,
+      "en": "We are going to calculate the true cost of the flight with bags."
+    },
+    {
+      "id": 26,
+      "en": "She will calculate the room size before she orders carpet."
+    },
+    {
+      "id": 27,
+      "en": "The coach will calculate playing time so everyone gets minutes."
+    },
+    {
+      "id": 28,
+      "en": "I would calculate faster if the spreadsheet did not lag."
+    },
+    {
+      "id": 29,
+      "en": "He would calculate the odds, but he does not like sports betting."
+    },
+    {
+      "id": 30,
+      "en": "We would calculate the savings if we had last year's bills."
+    },
+    {
+      "id": 31,
+      "en": "I have calculated this three times and I still get two answers."
+    },
+    {
+      "id": 32,
+      "en": "She has calculated the break-even point for her side job."
+    },
+    {
+      "id": 33,
+      "en": "We have not calculated the holiday bonus yet."
+    },
+    {
+      "id": 34,
+      "en": "He has never calculated a loan payment without a template."
+    },
+    {
+      "id": 35,
+      "en": "I need to calculate the water for rice before I start."
+    },
+    {
+      "id": 36,
+      "en": "She wants to calculate sleep hours from her tracker."
+    },
+    {
+      "id": 37,
+      "en": "They forgot to calculate parking when they planned the trip."
+    },
+    {
+      "id": 38,
+      "en": "Try to calculate one line at a time so you do not skip a step."
+    },
+    {
+      "id": 39,
+      "en": "Remember to calculate the fee before you send the wire."
+    },
+    {
+      "id": 40,
+      "en": "If you calculate the discount wrong, the register will block you."
+    },
+    {
+      "id": 41,
+      "en": "When you calculate net pay, subtract pretax items first."
+    },
+    {
+      "id": 42,
+      "en": "Although the math looks easy, I calculate it twice."
+    },
+    {
+      "id": 43,
+      "en": "Because the price changed, I calculate the cart again."
+    },
+    {
+      "id": 44,
+      "en": "Before you buy tile, calculate waste for cuts and breaks."
+    },
+    {
+      "id": 45,
+      "en": "After we calculate labor, we decide if we DIY or hire."
+    },
+    {
+      "id": 46,
+      "en": "I calculate my steps at the end of the day on my watch."
+    },
+    {
+      "id": 47,
+      "en": "We calculate the bill split by item, not down the middle."
+    },
+    {
+      "id": 48,
+      "en": "He calculates heart rate zones before he runs intervals."
+    },
+    {
+      "id": 49,
+      "en": "They calculate wait time from the number in line."
+    },
+    {
+      "id": 50,
+      "en": "The site calculates shipping from your zip code."
+    },
+    {
+      "id": 51,
+      "en": "I calculated the gas money for the road trip last night."
+    },
+    {
+      "id": 52,
+      "en": "She calculated the recipe for twelve people, not six."
+    },
+    {
+      "id": 53,
+      "en": "We calculated the elevator weight limit before we moved the couch."
+    },
+    {
+      "id": 54,
+      "en": "He miscalculated the gap and missed the train."
+    },
+    {
+      "id": 55,
+      "en": "I will calculate the refund if you send the order number."
+    },
+    {
+      "id": 56,
+      "en": "You should calculate protein if you lift heavy often."
+    },
+    {
+      "id": 57,
+      "en": "I don't calculate every meal; I only track rough portions."
+    },
+    {
+      "id": 58,
+      "en": "We don't calculate tips on the pretax total at that diner."
+    },
+    {
+      "id": 59,
+      "en": "She won't calculate the bid until she sees the full scope."
+    },
+    {
+      "id": 60,
+      "en": "Who calculates payroll in your office?"
+    },
+    {
+      "id": 61,
+      "en": "Have you calculated the difference between the two plans?"
+    },
+    {
+      "id": 62,
+      "en": "I was calculating the budget when the power went out."
+    },
+    {
+      "id": 63,
+      "en": "We were calculating the score when the app crashed."
+    },
+    {
+      "id": 64,
+      "en": "I am calculating the monthly cost of the new phone plan."
+    },
+    {
+      "id": 65,
+      "en": "They are calculating risk before they approve the loan."
+    },
+    {
+      "id": 66,
+      "en": "If we calculate early, we avoid surprises at checkout."
+    },
+    {
+      "id": 67,
+      "en": "When prices jump, I calculate whether the brand is worth it."
+    },
+    {
+      "id": 68,
+      "en": "Although the list is long, we calculate one item at a time."
+    },
+    {
+      "id": 69,
+      "en": "Before the meeting, calculate your ask and your floor."
+    },
+    {
+      "id": 70,
+      "en": "After you calculate tax, compare it to last year."
+    },
+    {
+      "id": 71,
+      "en": "I calculate commute time before I accept a job offer."
+    },
+    {
+      "id": 72,
+      "en": "She calculates screen time limits for the kids each week."
+    },
+    {
+      "id": 73,
+      "en": "We have calculated the guest count three times for the chairs."
+    },
+    {
+      "id": 74,
+      "en": "He has calculated fantasy points every Monday for years."
+    },
+    {
+      "id": 75,
+      "en": "I will calculate the dose with the pharmacist before I leave."
+    },
+    {
+      "id": 76,
+      "en": "Do not calculate speed from memory on a wet road."
+    },
+    {
+      "id": 77,
+      "en": "Let's calculate the tip fairly for the person who stayed late."
+    },
+    {
+      "id": 78,
+      "en": "I would calculate the repair cost myself if I trusted the parts list."
+    },
+    {
+      "id": 79,
+      "en": "The bank calculates interest daily, not monthly."
+    },
+    {
+      "id": 80,
+      "en": "I stick to the budget when I calculate savings in real dollars."
+    },
+    {
+      "id": 81,
+      "en": "We use a bigger sample so the model calculates a cleaner average."
+    },
+    {
+      "id": 82,
+      "en": "She wants to calculate how long the battery lasts on a full charge."
+    },
+    {
+      "id": 83,
+      "en": "He needs to calculate headwind time before he books the connection."
+    },
+    {
+      "id": 84,
+      "en": "I haven't calculated the car payment with the new rate yet."
+    },
+    {
+      "id": 85,
+      "en": "Has the app calculated your step streak for the month?"
+    },
+    {
+      "id": 86,
+      "en": "If you miscalculate the salt, the soup tastes wrong."
+    },
+    {
+      "id": 87,
+      "en": "Although the deal looked good, we calculated the fine print and walked away."
+    },
+    {
+      "id": 88,
+      "en": "Because the hours changed, I calculate childcare cost again."
+    },
+    {
+      "id": 89,
+      "en": "After we calculate rent, we split utilities by usage."
+    },
+    {
+      "id": 90,
+      "en": "The spreadsheet calculates tax, but you still check the brackets."
+    },
+    {
+      "id": 91,
+      "en": "I calculated the meeting length wrong and missed pickup."
+    },
+    {
+      "id": 92,
+      "en": "They are going to calculate overtime after the audit."
+    },
+    {
+      "id": 93,
+      "en": "I want to calculate the real hourly pay, not just the salary."
+    },
+    {
+      "id": 94,
+      "en": "Please calculate the square feet before you order flooring."
+    },
+    {
+      "id": 95,
+      "en": "Don't calculate the tip on the comped drinks."
+    },
+    {
+      "id": 96,
+      "en": "Good coaches calculate minutes so starters do not burn out."
+    },
+    {
+      "id": 97,
+      "en": "I calculated the cord length so the lamp reaches the outlet."
+    },
+    {
+      "id": 98,
+      "en": "We calculate the dog's food by weight, not by scoop guess."
+    },
+    {
+      "id": 99,
+      "en": "They calculate crowd flow before they open the gates."
+    },
+    {
+      "id": 100,
+      "en": "Tomorrow I will calculate the project hours and send one invoice."
+    }
+  ]
+}

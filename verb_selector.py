@@ -1,23 +1,22 @@
 """
 Daily Spanish Verb Trainer – verb and tense selection.
-Picks one verb per day from irregular or stem-changing verbs only.
-Tests every pronoun (yo, tú, él/ella, nosotros, ellos) in eight forms:
-Present, Future, Preterite, Imperfect, Conditional, Present Perfect, Present Subjunctive, Estar + Gerund — 40 conjugations total.
 
-Alternates between irregular and stem_changing (by day of year).
+Tracks:
+  - pareto: high-frequency regular verbs (pareto_regular list).
+  - irregular: alternates irregular vs stem_changing (same lists as before).
+
+Each exercise: 5 pronouns × 10 tenses = 50 conjugations.
 """
 
 import json
 from datetime import datetime
 from pathlib import Path
 
+from tenses import TENSES
 from translations import get_english_translation
 
 VERBS_BY_CATEGORY_PATH = Path(__file__).resolve().parent / "verbs_by_category.json"
-TENSES = [
-    "Present", "Future", "Preterite", "Imperfect", "Conditional",
-    "Present Perfect", "Present Subjunctive", "Estar + Gerund",
-]
+
 PRONOUNS = [
     "yo",
     "tú",
@@ -26,9 +25,11 @@ PRONOUNS = [
     "ellos / ellas",
 ]
 
-# Only irregular and stem-changing verbs
-CATEGORIES = ["irregular", "stem_changing"]
-_NUM_CATEGORIES = len(CATEGORIES)
+TRACK_PARETO = "pareto"
+TRACK_IRREGULAR = "irregular"
+
+IRREGULAR_CATEGORIES = ["irregular", "stem_changing"]
+_NUM_IRREGULAR_CATEGORIES = len(IRREGULAR_CATEGORIES)
 
 
 def _load_verbs_by_category() -> dict:
@@ -36,33 +37,55 @@ def _load_verbs_by_category() -> dict:
         return json.load(f)
 
 
-def _get_category_index(seed=None) -> int:
-    """Return 0 (irregular) or 1 (stem_changing). Uses day of year when no seed, else seed."""
+def _get_irregular_category_index(seed=None) -> int:
     if seed is not None:
-        return seed % _NUM_CATEGORIES
+        return seed % _NUM_IRREGULAR_CATEGORIES
     day_of_year = datetime.utcnow().timetuple().tm_yday
-    return day_of_year % _NUM_CATEGORIES
+    return day_of_year % _NUM_IRREGULAR_CATEGORIES
 
 
-def _get_verb_index_in_category(seed=None, category_size: int = 1) -> int:
-    """Return index within the category. Uses day of year when no seed, else seed."""
+def _get_irregular_verb_index(seed=None, category_size: int = 1) -> int:
     if seed is not None:
-        return (seed // _NUM_CATEGORIES) % max(1, category_size)
+        return (seed // _NUM_IRREGULAR_CATEGORIES) % max(1, category_size)
     day_of_year = datetime.utcnow().timetuple().tm_yday
-    return (day_of_year // _NUM_CATEGORIES) % max(1, category_size)
+    return (day_of_year // _NUM_IRREGULAR_CATEGORIES) % max(1, category_size)
 
 
-def select_daily_exercise(seed=None) -> dict:
+def _get_pareto_verb_index(seed=None, category_size: int = 1) -> int:
+    if seed is not None:
+        return seed % max(1, category_size)
+    day_of_year = datetime.utcnow().timetuple().tm_yday
+    return day_of_year % max(1, category_size)
+
+
+def select_daily_exercise(seed=None, track: str = TRACK_IRREGULAR) -> dict:
     """
-    Select one verb from irregular or stem_changing (alternates daily).
-    Returns assignments: all 5 pronouns × 8 forms = 40 conjugations with English translations.
+    Select one verb for the given track.
+
+    track:
+      - "pareto" — pareto_regular only (independent day index from irregular track).
+      - "irregular" — alternates irregular / stem_changing.
+
+    Returns assignments: 5 pronouns × 10 tenses = 50 conjugations with English translations.
     """
+    track = (track or TRACK_IRREGULAR).strip().lower()
     data = _load_verbs_by_category()
-    cat_idx = _get_category_index(seed)
-    category = CATEGORIES[cat_idx]
-    verbs = [v.strip().lower() for v in data[category]]
-    verb_idx = _get_verb_index_in_category(seed, len(verbs))
-    verb = verbs[verb_idx]
+
+    if track == TRACK_PARETO:
+        verbs = [v.strip().lower() for v in data["pareto_regular"]]
+        verb_idx = _get_pareto_verb_index(seed, len(verbs))
+        verb = verbs[verb_idx]
+        category = "pareto_regular"
+    elif track == TRACK_IRREGULAR:
+        cat_idx = _get_irregular_category_index(seed)
+        category = IRREGULAR_CATEGORIES[cat_idx]
+        verbs = [v.strip().lower() for v in data[category]]
+        verb_idx = _get_irregular_verb_index(seed, len(verbs))
+        verb = verbs[verb_idx]
+    else:
+        raise ValueError(
+            f"Unknown track {track!r}. Use {TRACK_PARETO!r} or {TRACK_IRREGULAR!r}."
+        )
 
     assignments = []
     for t in TENSES:
@@ -74,12 +97,11 @@ def select_daily_exercise(seed=None) -> dict:
         "verb": verb,
         "assignments": assignments,
         "category": category,
+        "track": track,
     }
 
 
 if __name__ == "__main__":
-    ex = select_daily_exercise()
-    print(f"Verb: {ex['verb'].upper()} (category: {ex['category']})")
-    print("Assignments:")
-    for a in ex["assignments"][:5]:
-        print(f"  {a['pronoun']} → {a['tense']} — {a.get('translation', '')}")
+    for tr in (TRACK_PARETO, TRACK_IRREGULAR):
+        ex = select_daily_exercise(track=tr)
+        print(f"Track {tr}: {ex['verb'].upper()} (category: {ex['category']})")

@@ -1,0 +1,407 @@
+{
+  "verb": "decidir",
+  "generated_at": "2026-04-16T10:00:00+00:00",
+  "source": "sentence_banks:decidir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I decide what we eat on Fridays."
+    },
+    {
+      "id": 2,
+      "en": "We decide together on big purchases."
+    },
+    {
+      "id": 3,
+      "en": "They decide the schedule at work."
+    },
+    {
+      "id": 4,
+      "en": "He decides too fast when he is angry."
+    },
+    {
+      "id": 5,
+      "en": "You decide tonight—I am tired."
+    },
+    {
+      "id": 6,
+      "en": "She decides the travel dates."
+    },
+    {
+      "id": 7,
+      "en": "I decide after I read the reviews."
+    },
+    {
+      "id": 8,
+      "en": "We decide the budget on Sunday."
+    },
+    {
+      "id": 9,
+      "en": "The team decides the next step."
+    },
+    {
+      "id": 10,
+      "en": "Parents decide the school for the kids."
+    },
+    {
+      "id": 11,
+      "en": "I decide how long I stay at the gym."
+    },
+    {
+      "id": 12,
+      "en": "They decide the menu for the party."
+    },
+    {
+      "id": 13,
+      "en": "We decide between two cities."
+    },
+    {
+      "id": 14,
+      "en": "He decides his own hours."
+    },
+    {
+      "id": 15,
+      "en": "I decide not to answer when I am busy."
+    },
+    {
+      "id": 16,
+      "en": "You decide the movie this time."
+    },
+    {
+      "id": 17,
+      "en": "People decide with their wallet when prices rise."
+    },
+    {
+      "id": 18,
+      "en": "We decide the route before we drive."
+    },
+    {
+      "id": 19,
+      "en": "She decides the guest list."
+    },
+    {
+      "id": 20,
+      "en": "I decide what to cook from the fridge."
+    },
+    {
+      "id": 21,
+      "en": "I decided to leave early."
+    },
+    {
+      "id": 22,
+      "en": "We decided on the smaller apartment."
+    },
+    {
+      "id": 23,
+      "en": "She decided against the trip."
+    },
+    {
+      "id": 24,
+      "en": "They decided to wait."
+    },
+    {
+      "id": 25,
+      "en": "I was deciding when you called."
+    },
+    {
+      "id": 26,
+      "en": "He decided the wrong option by mistake."
+    },
+    {
+      "id": 27,
+      "en": "I didn't decide because I needed more data."
+    },
+    {
+      "id": 28,
+      "en": "Why did you decide that?"
+    },
+    {
+      "id": 29,
+      "en": "Although we decided, we still felt unsure."
+    },
+    {
+      "id": 30,
+      "en": "When I was young, I decided everything with a coin."
+    },
+    {
+      "id": 31,
+      "en": "I used to decide in five minutes."
+    },
+    {
+      "id": 32,
+      "en": "After we decided, we felt calmer."
+    },
+    {
+      "id": 33,
+      "en": "Before you decide, sleep on it."
+    },
+    {
+      "id": 34,
+      "en": "We decided to split the bill."
+    },
+    {
+      "id": 35,
+      "en": "We never decided on a name for the cat."
+    },
+    {
+      "id": 36,
+      "en": "The last goal decided the match."
+    },
+    {
+      "id": 37,
+      "en": "I decided the meeting was a waste of time."
+    },
+    {
+      "id": 38,
+      "en": "She decided to stay friends."
+    },
+    {
+      "id": 39,
+      "en": "We decided on the refund after the call."
+    },
+    {
+      "id": 40,
+      "en": "He decided to try the gym again."
+    },
+    {
+      "id": 41,
+      "en": "I will decide tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We'll decide if you send the numbers."
+    },
+    {
+      "id": 43,
+      "en": "If you agree, I will decide tonight."
+    },
+    {
+      "id": 44,
+      "en": "They will decide after the interview."
+    },
+    {
+      "id": 45,
+      "en": "I am going to decide after lunch."
+    },
+    {
+      "id": 46,
+      "en": "We could decide faster if we had all the numbers."
+    },
+    {
+      "id": 47,
+      "en": "I would decide differently if I had known."
+    },
+    {
+      "id": 48,
+      "en": "If we save money, we will decide on a better trip."
+    },
+    {
+      "id": 49,
+      "en": "Tomorrow we will decide the date."
+    },
+    {
+      "id": 50,
+      "en": "She will decide when she is ready."
+    },
+    {
+      "id": 51,
+      "en": "We would decide sooner if we had childcare."
+    },
+    {
+      "id": 52,
+      "en": "If you are honest, I will decide quickly."
+    },
+    {
+      "id": 53,
+      "en": "He will decide after the doctor."
+    },
+    {
+      "id": 54,
+      "en": "We will decide when the price drops."
+    },
+    {
+      "id": 55,
+      "en": "I will decide when I see the contract."
+    },
+    {
+      "id": 56,
+      "en": "I have decided already."
+    },
+    {
+      "id": 57,
+      "en": "We haven't decided yet."
+    },
+    {
+      "id": 58,
+      "en": "I've decided that twice already."
+    },
+    {
+      "id": 59,
+      "en": "After deciding, I felt lighter."
+    },
+    {
+      "id": 60,
+      "en": "Before you decide, read the fine print."
+    },
+    {
+      "id": 61,
+      "en": "I want to decide without pressure."
+    },
+    {
+      "id": 62,
+      "en": "We need to decide before Friday."
+    },
+    {
+      "id": 63,
+      "en": "Don't decide without the facts."
+    },
+    {
+      "id": 64,
+      "en": "Let's decide tonight."
+    },
+    {
+      "id": 65,
+      "en": "I forgot to decide the time."
+    },
+    {
+      "id": 66,
+      "en": "To decide well, you need sleep."
+    },
+    {
+      "id": 67,
+      "en": "Stop deciding for others."
+    },
+    {
+      "id": 68,
+      "en": "I haven't decided on the color."
+    },
+    {
+      "id": 69,
+      "en": "We haven't decided between the two plans."
+    },
+    {
+      "id": 70,
+      "en": "It's time to decide."
+    },
+    {
+      "id": 71,
+      "en": "Do you decide alone?"
+    },
+    {
+      "id": 72,
+      "en": "Did you decide yesterday?"
+    },
+    {
+      "id": 73,
+      "en": "When will you decide?"
+    },
+    {
+      "id": 74,
+      "en": "Where did you decide to meet?"
+    },
+    {
+      "id": 75,
+      "en": "Don't decide when you are angry."
+    },
+    {
+      "id": 76,
+      "en": "We can't decide until we see the lease."
+    },
+    {
+      "id": 77,
+      "en": "I don't decide for other adults."
+    },
+    {
+      "id": 78,
+      "en": "Why won't you decide?"
+    },
+    {
+      "id": 79,
+      "en": "Decide quickly."
+    },
+    {
+      "id": 80,
+      "en": "Never decide after one bad review."
+    },
+    {
+      "id": 81,
+      "en": "Can you decide today?"
+    },
+    {
+      "id": 82,
+      "en": "I won't decide until I compare prices."
+    },
+    {
+      "id": 83,
+      "en": "We don't decide on Sundays—we rest."
+    },
+    {
+      "id": 84,
+      "en": "Are you going to decide?"
+    },
+    {
+      "id": 85,
+      "en": "Could you decide by noon?"
+    },
+    {
+      "id": 86,
+      "en": "When we travel, we decide the day before."
+    },
+    {
+      "id": 87,
+      "en": "Because we were tired, we decided to stay home."
+    },
+    {
+      "id": 88,
+      "en": "If you decide early, we save money."
+    },
+    {
+      "id": 89,
+      "en": "Although we planned ahead, we still had to decide again."
+    },
+    {
+      "id": 90,
+      "en": "Before we book, we should decide the budget."
+    },
+    {
+      "id": 91,
+      "en": "After we decided, we told the family."
+    },
+    {
+      "id": 92,
+      "en": "We decided to cook, but we had no rice."
+    },
+    {
+      "id": 93,
+      "en": "When the match ends, we decide where to eat."
+    },
+    {
+      "id": 94,
+      "en": "If you decide to go, I will support you."
+    },
+    {
+      "id": 95,
+      "en": "We should decide before we argue about money."
+    },
+    {
+      "id": 96,
+      "en": "She decides fast, but she still regrets it sometimes."
+    },
+    {
+      "id": 97,
+      "en": "Because I was sick, I decided to postpone."
+    },
+    {
+      "id": 98,
+      "en": "After we decided, we updated the calendar."
+    },
+    {
+      "id": 99,
+      "en": "When we decide, we write it down."
+    },
+    {
+      "id": 100,
+      "en": "Let's decide tonight and relax."
+    }
+  ]
+}

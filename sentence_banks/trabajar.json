@@ -1,0 +1,407 @@
+{
+  "verb": "trabajar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:trabajar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I work downtown."
+    },
+    {
+      "id": 2,
+      "en": "We work in the office on Mondays."
+    },
+    {
+      "id": 3,
+      "en": "He works from home on Fridays."
+    },
+    {
+      "id": 4,
+      "en": "She works as a nurse."
+    },
+    {
+      "id": 5,
+      "en": "They work for a tech company."
+    },
+    {
+      "id": 6,
+      "en": "You work too late."
+    },
+    {
+      "id": 7,
+      "en": "I work on the budget this week."
+    },
+    {
+      "id": 8,
+      "en": "We work with a small team."
+    },
+    {
+      "id": 9,
+      "en": "He works part-time at the store."
+    },
+    {
+      "id": 10,
+      "en": "She works full-time and studies at night."
+    },
+    {
+      "id": 11,
+      "en": "I work near the train station."
+    },
+    {
+      "id": 12,
+      "en": "We work on the same project."
+    },
+    {
+      "id": 13,
+      "en": "He works with clients online."
+    },
+    {
+      "id": 14,
+      "en": "She works every other weekend."
+    },
+    {
+      "id": 15,
+      "en": "I work hard when the deadline is close."
+    },
+    {
+      "id": 16,
+      "en": "We work in a quiet building."
+    },
+    {
+      "id": 17,
+      "en": "He works as a teacher at the school."
+    },
+    {
+      "id": 18,
+      "en": "They work on the website after lunch."
+    },
+    {
+      "id": 19,
+      "en": "You work better with a clear plan."
+    },
+    {
+      "id": 20,
+      "en": "The football team works hard in training."
+    },
+    {
+      "id": 21,
+      "en": "I worked late yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We worked on the report all night."
+    },
+    {
+      "id": 23,
+      "en": "He didn't work last Monday."
+    },
+    {
+      "id": 24,
+      "en": "She worked from home during the trip."
+    },
+    {
+      "id": 25,
+      "en": "I didn't work on Sunday."
+    },
+    {
+      "id": 26,
+      "en": "They worked through lunch."
+    },
+    {
+      "id": 27,
+      "en": "I was working when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I worked at a café."
+    },
+    {
+      "id": 29,
+      "en": "We worked extra because the client was angry."
+    },
+    {
+      "id": 30,
+      "en": "He worked as a driver for a year."
+    },
+    {
+      "id": 31,
+      "en": "Why did you work on a holiday?"
+    },
+    {
+      "id": 32,
+      "en": "We worked on the laptop at the hotel."
+    },
+    {
+      "id": 33,
+      "en": "I worked with your friend last summer."
+    },
+    {
+      "id": 34,
+      "en": "She worked for a bank before this job."
+    },
+    {
+      "id": 35,
+      "en": "I worked overtime to save money."
+    },
+    {
+      "id": 36,
+      "en": "They worked on the file until midnight."
+    },
+    {
+      "id": 37,
+      "en": "You worked more hours than you planned."
+    },
+    {
+      "id": 38,
+      "en": "I worked in the city for five years."
+    },
+    {
+      "id": 39,
+      "en": "We worked on the problem step by step."
+    },
+    {
+      "id": 40,
+      "en": "He worked weekends to pay the rent."
+    },
+    {
+      "id": 41,
+      "en": "I will work from home tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will work on the plan if you send notes."
+    },
+    {
+      "id": 43,
+      "en": "If you leave early, I will work late."
+    },
+    {
+      "id": 44,
+      "en": "She will work on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't work without coffee."
+    },
+    {
+      "id": 46,
+      "en": "I would work part-time if I had time."
+    },
+    {
+      "id": 47,
+      "en": "We would work together if we lived in the same city."
+    },
+    {
+      "id": 48,
+      "en": "Would you work on my team?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, I will work from the hotel."
+    },
+    {
+      "id": 50,
+      "en": "They will work on site next week."
+    },
+    {
+      "id": 51,
+      "en": "You will work faster if you turn off your phone."
+    },
+    {
+      "id": 52,
+      "en": "I would work nights if the pay was higher."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will work inside."
+    },
+    {
+      "id": 54,
+      "en": "I will work on the email after the meeting."
+    },
+    {
+      "id": 55,
+      "en": "We will work through lunch on Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have worked here before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't worked on the video yet."
+    },
+    {
+      "id": 58,
+      "en": "She has worked from home since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you worked with this client?"
+    },
+    {
+      "id": 60,
+      "en": "I need to work today."
+    },
+    {
+      "id": 61,
+      "en": "I want to work fewer weekends."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to work on the file."
+    },
+    {
+      "id": 63,
+      "en": "Remember to work on the first task."
+    },
+    {
+      "id": 64,
+      "en": "I hate to work when I am sick."
+    },
+    {
+      "id": 65,
+      "en": "We started to work together last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to work tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to work early on Tuesday."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to work without a clear goal."
+    },
+    {
+      "id": 69,
+      "en": "I want you to work on the budget."
+    },
+    {
+      "id": 70,
+      "en": "They tried to work faster."
+    },
+    {
+      "id": 71,
+      "en": "Do you work every day?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you work so late?"
+    },
+    {
+      "id": 73,
+      "en": "Work on the report first."
+    },
+    {
+      "id": 74,
+      "en": "Don't work without breaks."
+    },
+    {
+      "id": 75,
+      "en": "Never work alone in the building at night."
+    },
+    {
+      "id": 76,
+      "en": "Can't you work from home today?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you worked here before?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you work with us on this?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you work last year?"
+    },
+    {
+      "id": 80,
+      "en": "Will you work if I cover your shift?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you work on the file?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to work with a checklist?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you work near the park?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you work from home tomorrow?"
+    },
+    {
+      "id": 85,
+      "en": "Stop working after midnight."
+    },
+    {
+      "id": 86,
+      "en": "I work late because the deadline is tight."
+    },
+    {
+      "id": 87,
+      "en": "I work long hours, but I like the team."
+    },
+    {
+      "id": 88,
+      "en": "When you work from home, close the door."
+    },
+    {
+      "id": 89,
+      "en": "If you work early, you will finish early."
+    },
+    {
+      "id": 90,
+      "en": "Although I worked all day, I still had email left."
+    },
+    {
+      "id": 91,
+      "en": "Before you travel, work on the handoff."
+    },
+    {
+      "id": 92,
+      "en": "After I worked, I went to the gym."
+    },
+    {
+      "id": 93,
+      "en": "Because we worked together, the project shipped on time."
+    },
+    {
+      "id": 94,
+      "en": "I work on the computer at the office, but I read at home."
+    },
+    {
+      "id": 95,
+      "en": "When he feels stressed, he works in short blocks."
+    },
+    {
+      "id": 96,
+      "en": "If we work as a team, we will win."
+    },
+    {
+      "id": 97,
+      "en": "Although we worked fast, the client wanted changes."
+    },
+    {
+      "id": 98,
+      "en": "Before you send money, work on the plan with your partner."
+    },
+    {
+      "id": 99,
+      "en": "After we worked on the football drills, we went home tired."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you work safely."
+    }
+  ]
+}

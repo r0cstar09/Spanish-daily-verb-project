@@ -1,0 +1,407 @@
+{
+  "verb": "caer",
+  "generated_at": "2026-04-16T22:00:00+00:00",
+  "source": "sentence_banks:caer",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I fell on the ice and bruised my hip."
+    },
+    {
+      "id": 2,
+      "en": "She falls when the bike chain slips on the hill."
+    },
+    {
+      "id": 3,
+      "en": "The phone fell out of my pocket on the bus."
+    },
+    {
+      "id": 4,
+      "en": "Leaves fall early when the wind is strong."
+    },
+    {
+      "id": 5,
+      "en": "Rain falls hard during the afternoon storm."
+    },
+    {
+      "id": 6,
+      "en": "Snow falls overnight and the roads get slick."
+    },
+    {
+      "id": 7,
+      "en": "Did you fall on the stairs or on the sidewalk?"
+    },
+    {
+      "id": 8,
+      "en": "Why did the picture fall off the wall?"
+    },
+    {
+      "id": 9,
+      "en": "Don't lean back or the chair will fall."
+    },
+    {
+      "id": 10,
+      "en": "Please pick up anything that falls on the kitchen floor."
+    },
+    {
+      "id": 11,
+      "en": "Let's move the lamp so the shadow does not fall on the screen."
+    },
+    {
+      "id": 12,
+      "en": "I slipped and fell on the wet tile in the lobby."
+    },
+    {
+      "id": 13,
+      "en": "They fell for a cheap scam online and froze the card."
+    },
+    {
+      "id": 14,
+      "en": "She fell on her wrist and wore a brace for a month."
+    },
+    {
+      "id": 15,
+      "en": "He fell during the match, but he got up fast."
+    },
+    {
+      "id": 16,
+      "en": "The ball fell just inside the line, and the crowd argued."
+    },
+    {
+      "id": 17,
+      "en": "I did not fall; I tripped on a cable."
+    },
+    {
+      "id": 18,
+      "en": "The price fell after the news broke."
+    },
+    {
+      "id": 19,
+      "en": "The stock fell at the open, then bounced back."
+    },
+    {
+      "id": 20,
+      "en": "I used to fall on runs when my shoes were too worn."
+    },
+    {
+      "id": 21,
+      "en": "We used to fall for every limited-time offer online."
+    },
+    {
+      "id": 22,
+      "en": "When I was little, acorns fell on the deck like tiny taps."
+    },
+    {
+      "id": 23,
+      "en": "Hail fell for ten minutes and dented the hood."
+    },
+    {
+      "id": 24,
+      "en": "I will fall if I wear these socks on tile."
+    },
+    {
+      "id": 25,
+      "en": "The temperature will fall after sunset."
+    },
+    {
+      "id": 26,
+      "en": "She will fall if she keeps looking at the phone while she walks."
+    },
+    {
+      "id": 27,
+      "en": "Ash fell from the sky during the wildfire week."
+    },
+    {
+      "id": 28,
+      "en": "I would fall less if I stretched before leg day."
+    },
+    {
+      "id": 29,
+      "en": "He would fall for that story if nobody checked the source."
+    },
+    {
+      "id": 30,
+      "en": "We would fall more often if we left shoes in the hallway."
+    },
+    {
+      "id": 31,
+      "en": "I have fallen twice this winter on the same corner."
+    },
+    {
+      "id": 32,
+      "en": "She has fallen for his excuses too many times."
+    },
+    {
+      "id": 33,
+      "en": "The humidity has fallen since we turned on the AC."
+    },
+    {
+      "id": 34,
+      "en": "He has never fallen in a race, even when he was tired."
+    },
+    {
+      "id": 35,
+      "en": "I need to watch my step so I do not fall on wet leaves."
+    },
+    {
+      "id": 36,
+      "en": "They forgot to bolt the shelf, and a book fell at night."
+    },
+    {
+      "id": 37,
+      "en": "Try not to fall for fake links in that email."
+    },
+    {
+      "id": 38,
+      "en": "Remember to salt the steps so nobody falls."
+    },
+    {
+      "id": 39,
+      "en": "If you fall, tuck your chin and roll."
+    },
+    {
+      "id": 40,
+      "en": "When the lights go out, silence falls on the room."
+    },
+    {
+      "id": 41,
+      "en": "Although the path was steep, he did not fall."
+    },
+    {
+      "id": 42,
+      "en": "Because the box tipped, the tools fell everywhere."
+    },
+    {
+      "id": 43,
+      "en": "Before night falls, we should head back."
+    },
+    {
+      "id": 44,
+      "en": "After the sun fell behind the hill, it got cold fast."
+    },
+    {
+      "id": 45,
+      "en": "He makes a good impression on my parents."
+    },
+    {
+      "id": 46,
+      "en": "The new manager makes a bad impression on the night shift."
+    },
+    {
+      "id": 47,
+      "en": "I liked her from the first meeting; she seemed direct."
+    },
+    {
+      "id": 48,
+      "en": "That joke makes a bad impression on me when work is serious."
+    },
+    {
+      "id": 49,
+      "en": "The dog makes a good impression on kids, not on cats."
+    },
+    {
+      "id": 50,
+      "en": "She makes a good impression on clients, so she leads the calls."
+    },
+    {
+      "id": 51,
+      "en": "He makes a bad impression on the team when he shows up late."
+    },
+    {
+      "id": 52,
+      "en": "I realized too late that I sent the wrong file."
+    },
+    {
+      "id": 53,
+      "en": "It dawned on me that the meeting moved to Thursday."
+    },
+    {
+      "id": 54,
+      "en": "She realized she left the stove on after she reached the lobby."
+    },
+    {
+      "id": 55,
+      "en": "We realized the discount ended yesterday, not today."
+    },
+    {
+      "id": 56,
+      "en": "He dropped a hint that he might quit before bonus day."
+    },
+    {
+      "id": 57,
+      "en": "She let slip that the budget was tighter than we thought."
+    },
+    {
+      "id": 58,
+      "en": "They dropped a hint about a party, but no date yet."
+    },
+    {
+      "id": 59,
+      "en": "The call dropped in the middle of the sentence."
+    },
+    {
+      "id": 60,
+      "en": "The decision falls on me if nobody else votes."
+    },
+    {
+      "id": 61,
+      "en": "The extra cost falls on us, not the vendor."
+    },
+    {
+      "id": 62,
+      "en": "I fell on the treadmill when I bumped the speed."
+    },
+    {
+      "id": 63,
+      "en": "You should stretch so you do not fall on wet grass."
+    },
+    {
+      "id": 64,
+      "en": "I don't fall for spam calls anymore."
+    },
+    {
+      "id": 65,
+      "en": "We don't fall for fake urgency in group chats."
+    },
+    {
+      "id": 66,
+      "en": "She won't fall for the same trick twice."
+    },
+    {
+      "id": 67,
+      "en": "Who fell first in the race for the loose ball?"
+    },
+    {
+      "id": 68,
+      "en": "Has the price fallen since last week?"
+    },
+    {
+      "id": 69,
+      "en": "I was carrying boxes when a stack fell near my foot."
+    },
+    {
+      "id": 70,
+      "en": "We were walking when hail started to fall."
+    },
+    {
+      "id": 71,
+      "en": "I am careful on wet tile so I do not fall."
+    },
+    {
+      "id": 72,
+      "en": "They are worried the branch will fall in the next storm."
+    },
+    {
+      "id": 73,
+      "en": "If interest rates fall, our payment might drop."
+    },
+    {
+      "id": 74,
+      "en": "Although the floor was wet, nobody fell."
+    },
+    {
+      "id": 75,
+      "en": "Because the shelf broke, the jars fell in a line."
+    },
+    {
+      "id": 76,
+      "en": "After the joke fell flat, he changed the subject."
+    },
+    {
+      "id": 77,
+      "en": "We raised the guardrails so nobody falls near the edge."
+    },
+    {
+      "id": 78,
+      "en": "She wants the blame to fall on facts, not on one person."
+    },
+    {
+      "id": 79,
+      "en": "He needs the price to fall before he buys the ticket."
+    },
+    {
+      "id": 80,
+      "en": "I haven't fallen in years, but I still watch icy corners."
+    },
+    {
+      "id": 81,
+      "en": "Has the humidity fallen since we turned on the AC?"
+    },
+    {
+      "id": 82,
+      "en": "If the signal falls, save your work offline."
+    },
+    {
+      "id": 83,
+      "en": "Although the ball fell inside the line, the refs still reviewed the play."
+    },
+    {
+      "id": 84,
+      "en": "Because the wind rose, branches fell on the driveway."
+    },
+    {
+      "id": 85,
+      "en": "After night fell, we locked the gate."
+    },
+    {
+      "id": 86,
+      "en": "The toddler fell and cried, then stood up fast."
+    },
+    {
+      "id": 87,
+      "en": "I did not fall for the rumor; I checked the source."
+    },
+    {
+      "id": 88,
+      "en": "Please say it plainly so nobody falls for a half truth."
+    },
+    {
+      "id": 89,
+      "en": "Don't fall for a deal that hides fees on page six."
+    },
+    {
+      "id": 90,
+      "en": "The responsibility falls on the owner if the lease is unclear."
+    },
+    {
+      "id": 91,
+      "en": "The toddler's toy fell under the couch again."
+    },
+    {
+      "id": 92,
+      "en": "They fell into the trap of signing without reading."
+    },
+    {
+      "id": 93,
+      "en": "We are going to fall if we stack these chairs too high."
+    },
+    {
+      "id": 94,
+      "en": "I will fall off the step if you bump me."
+    },
+    {
+      "id": 95,
+      "en": "A coconut fell from a tree near the path on vacation."
+    },
+    {
+      "id": 96,
+      "en": "The pen fell between the seats and we lost it for a week."
+    },
+    {
+      "id": 97,
+      "en": "Mist fell over the harbor when we arrived at dawn."
+    },
+    {
+      "id": 98,
+      "en": "The sun fell toward the horizon and the photos turned gold."
+    },
+    {
+      "id": 99,
+      "en": "If the roof tile falls, call the super before it rains."
+    },
+    {
+      "id": 100,
+      "en": "Tomorrow I will salt the walk so the mail carrier does not fall."
+    }
+  ]
+}

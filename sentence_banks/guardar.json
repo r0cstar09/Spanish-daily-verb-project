@@ -1,0 +1,407 @@
+{
+  "verb": "guardar",
+  "generated_at": "2026-04-16T20:00:00+00:00",
+  "source": "sentence_banks:guardar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I keep the keys in the drawer."
+    },
+    {
+      "id": 2,
+      "en": "We store the bikes in the garage."
+    },
+    {
+      "id": 3,
+      "en": "She saves money every month."
+    },
+    {
+      "id": 4,
+      "en": "They keep the food in the fridge."
+    },
+    {
+      "id": 5,
+      "en": "You save the file before you close the computer."
+    },
+    {
+      "id": 6,
+      "en": "He keeps his shoes under the bed."
+    },
+    {
+      "id": 7,
+      "en": "I save photos on my phone."
+    },
+    {
+      "id": 8,
+      "en": "We keep winter clothes in that box."
+    },
+    {
+      "id": 9,
+      "en": "The office saves documents on the cloud."
+    },
+    {
+      "id": 10,
+      "en": "Parents keep medicine away from children."
+    },
+    {
+      "id": 11,
+      "en": "I store bread in a bag on the table."
+    },
+    {
+      "id": 12,
+      "en": "She keeps a secret for her friend."
+    },
+    {
+      "id": 13,
+      "en": "We save cash in an envelope at home."
+    },
+    {
+      "id": 14,
+      "en": "He keeps his passport in the hotel safe."
+    },
+    {
+      "id": 15,
+      "en": "I save the message before I send it."
+    },
+    {
+      "id": 16,
+      "en": "They store water bottles in the car."
+    },
+    {
+      "id": 17,
+      "en": "The club keeps the trophy in the office."
+    },
+    {
+      "id": 18,
+      "en": "I keep quiet during the meeting."
+    },
+    {
+      "id": 19,
+      "en": "We save seats with our jackets at the stadium."
+    },
+    {
+      "id": 20,
+      "en": "She keeps the receipt after every purchase."
+    },
+    {
+      "id": 21,
+      "en": "I saved the file yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We stored the chairs in the basement."
+    },
+    {
+      "id": 23,
+      "en": "He saved money for the trip."
+    },
+    {
+      "id": 24,
+      "en": "They kept the news in the family."
+    },
+    {
+      "id": 25,
+      "en": "I was saving photos when the phone died."
+    },
+    {
+      "id": 26,
+      "en": "She kept the tickets in her bag."
+    },
+    {
+      "id": 27,
+      "en": "I didn't save the email draft."
+    },
+    {
+      "id": 28,
+      "en": "Why did you keep the old phone?"
+    },
+    {
+      "id": 29,
+      "en": "Although I saved little, it still helped."
+    },
+    {
+      "id": 30,
+      "en": "When I was a kid, we kept food in the pantry."
+    },
+    {
+      "id": 31,
+      "en": "After we saved the project, we went home."
+    },
+    {
+      "id": 32,
+      "en": "Before she traveled, she saved money."
+    },
+    {
+      "id": 33,
+      "en": "I kept the money because you asked."
+    },
+    {
+      "id": 34,
+      "en": "I stored the bag in the car, but I forgot the keys."
+    },
+    {
+      "id": 35,
+      "en": "The app saved my work without a sound."
+    },
+    {
+      "id": 36,
+      "en": "We kept little food that winter."
+    },
+    {
+      "id": 37,
+      "en": "He saved the number in his phone."
+    },
+    {
+      "id": 38,
+      "en": "I never kept a copy on paper."
+    },
+    {
+      "id": 39,
+      "en": "They saved the video at the airport."
+    },
+    {
+      "id": 40,
+      "en": "She kept the ring in a small box."
+    },
+    {
+      "id": 41,
+      "en": "I will save the file tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will store the boxes in the new house."
+    },
+    {
+      "id": 43,
+      "en": "If you save now, you will thank yourself later."
+    },
+    {
+      "id": 44,
+      "en": "He won't keep money under the mattress."
+    },
+    {
+      "id": 45,
+      "en": "Would you save a seat for me?"
+    },
+    {
+      "id": 46,
+      "en": "They will keep the food cold in the cooler."
+    },
+    {
+      "id": 47,
+      "en": "I'm going to save money for a car."
+    },
+    {
+      "id": 48,
+      "en": "If the rain comes, we will store the chairs inside."
+    },
+    {
+      "id": 49,
+      "en": "I would save more if I earned more."
+    },
+    {
+      "id": 50,
+      "en": "We would keep the dog if the house were bigger."
+    },
+    {
+      "id": 51,
+      "en": "She will save the photo on the computer."
+    },
+    {
+      "id": 52,
+      "en": "If you forget, the app will save your work."
+    },
+    {
+      "id": 53,
+      "en": "Don't worry, I will keep your secret."
+    },
+    {
+      "id": 54,
+      "en": "I would store the bike inside if I had space."
+    },
+    {
+      "id": 55,
+      "en": "The bank will keep the money safe."
+    },
+    {
+      "id": 56,
+      "en": "I have saved every photo from the trip."
+    },
+    {
+      "id": 57,
+      "en": "We haven't saved enough money yet."
+    },
+    {
+      "id": 58,
+      "en": "I've kept the letter for years."
+    },
+    {
+      "id": 59,
+      "en": "I need to save the document."
+    },
+    {
+      "id": 60,
+      "en": "She forgot to save before she closed the laptop."
+    },
+    {
+      "id": 61,
+      "en": "To save money, you need a plan."
+    },
+    {
+      "id": 62,
+      "en": "I want to save the last piece of cake for my sister."
+    },
+    {
+      "id": 63,
+      "en": "Don't keep food out all night."
+    },
+    {
+      "id": 64,
+      "en": "I have to save my work before five."
+    },
+    {
+      "id": 65,
+      "en": "We meant to store the tools in the shed."
+    },
+    {
+      "id": 66,
+      "en": "They have kept the old table in the garage."
+    },
+    {
+      "id": 67,
+      "en": "I haven't had time to save the file."
+    },
+    {
+      "id": 68,
+      "en": "I tried to keep the surprise quiet."
+    },
+    {
+      "id": 69,
+      "en": "We have saved money since January."
+    },
+    {
+      "id": 70,
+      "en": "I want you to save a copy on the phone."
+    },
+    {
+      "id": 71,
+      "en": "Do you save the receipt?"
+    },
+    {
+      "id": 72,
+      "en": "Why do you keep money at home?"
+    },
+    {
+      "id": 73,
+      "en": "Don't save passwords on the office computer."
+    },
+    {
+      "id": 74,
+      "en": "Keep the door closed."
+    },
+    {
+      "id": 75,
+      "en": "Haven't you saved the file yet?"
+    },
+    {
+      "id": 76,
+      "en": "Won't you keep a copy for me?"
+    },
+    {
+      "id": 77,
+      "en": "Can you store the bags in the car?"
+    },
+    {
+      "id": 78,
+      "en": "Why didn't you save your work?"
+    },
+    {
+      "id": 79,
+      "en": "Don't keep secrets from your family."
+    },
+    {
+      "id": 80,
+      "en": "Never keep food in a hot car."
+    },
+    {
+      "id": 81,
+      "en": "Don't you save money every month?"
+    },
+    {
+      "id": 82,
+      "en": "Where did you keep the keys?"
+    },
+    {
+      "id": 83,
+      "en": "When will you save the file?"
+    },
+    {
+      "id": 84,
+      "en": "Can't you keep the dog in the yard?"
+    },
+    {
+      "id": 85,
+      "en": "Will she save the money for school?"
+    },
+    {
+      "id": 86,
+      "en": "Because we store things under the bed, we save space."
+    },
+    {
+      "id": 87,
+      "en": "When you save often, you lose less work."
+    },
+    {
+      "id": 88,
+      "en": "If I keep the window open, the air helps."
+    },
+    {
+      "id": 89,
+      "en": "Although the box is small, we keep a lot inside."
+    },
+    {
+      "id": 90,
+      "en": "Before you travel, save a copy of your ticket."
+    },
+    {
+      "id": 91,
+      "en": "After we saved money, we booked the flight."
+    },
+    {
+      "id": 92,
+      "en": "I keep food in the fridge, but I buy fresh bread daily."
+    },
+    {
+      "id": 93,
+      "en": "When the meeting ends, save the notes."
+    },
+    {
+      "id": 94,
+      "en": "If we store the bikes inside, they last longer."
+    },
+    {
+      "id": 95,
+      "en": "Although the phone is old, I keep it for photos."
+    },
+    {
+      "id": 96,
+      "en": "Because the message is important, I save it twice."
+    },
+    {
+      "id": 97,
+      "en": "Before the game, we kept the bags in the locker."
+    },
+    {
+      "id": 98,
+      "en": "After dinner, she saved the rest in a container."
+    },
+    {
+      "id": 99,
+      "en": "It's important that we keep the plan private."
+    },
+    {
+      "id": 100,
+      "en": "When I work from home, I save files on the cloud."
+    }
+  ]
+}

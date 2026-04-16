@@ -1,0 +1,407 @@
+{
+  "verb": "caminar",
+  "generated_at": "2026-04-17T15:00:00+00:00",
+  "source": "sentence_banks:caminar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I walk to the store when I only need a few things."
+    },
+    {
+      "id": 2,
+      "en": "We walk the dog twice a day, rain or shine."
+    },
+    {
+      "id": 3,
+      "en": "She walks to work when the weather is mild."
+    },
+    {
+      "id": 4,
+      "en": "They walk around the mall before the movie starts."
+    },
+    {
+      "id": 5,
+      "en": "He walks fast when he is late for the train."
+    },
+    {
+      "id": 6,
+      "en": "Do you walk home, or do you take the bus?"
+    },
+    {
+      "id": 7,
+      "en": "How far do you walk on a normal weekday?"
+    },
+    {
+      "id": 8,
+      "en": "Why did you walk alone at night on that street?"
+    },
+    {
+      "id": 9,
+      "en": "Don't walk in the bike lane; use the sidewalk."
+    },
+    {
+      "id": 10,
+      "en": "Please walk closer to the curb when cars pass."
+    },
+    {
+      "id": 11,
+      "en": "Let's walk to the cafe instead of driving."
+    },
+    {
+      "id": 12,
+      "en": "I walked three miles yesterday and my feet hurt."
+    },
+    {
+      "id": 13,
+      "en": "We walked the trail until the sign said to turn back."
+    },
+    {
+      "id": 14,
+      "en": "She walked the baby in the stroller until he fell asleep."
+    },
+    {
+      "id": 15,
+      "en": "He walked across campus to avoid the crowded shuttle."
+    },
+    {
+      "id": 16,
+      "en": "They walked to the gate because the moving walkway was broken."
+    },
+    {
+      "id": 17,
+      "en": "I did not walk much on vacation; I used rides."
+    },
+    {
+      "id": 18,
+      "en": "We never walk that shortcut after dark."
+    },
+    {
+      "id": 19,
+      "en": "She never walks on grass in heels at outdoor weddings."
+    },
+    {
+      "id": 20,
+      "en": "I used to walk every morning before my knee acted up."
+    },
+    {
+      "id": 21,
+      "en": "We used to walk to school together in middle school."
+    },
+    {
+      "id": 22,
+      "en": "He used to walk five miles a day for his old delivery job."
+    },
+    {
+      "id": 23,
+      "en": "When I was a tourist, I walked the old town with a paper map."
+    },
+    {
+      "id": 24,
+      "en": "I will walk there if the rain stops."
+    },
+    {
+      "id": 25,
+      "en": "We are going to walk the beach at sunrise."
+    },
+    {
+      "id": 26,
+      "en": "She will walk the rest of the way if the bus is full."
+    },
+    {
+      "id": 27,
+      "en": "They will walk the fairgrounds before the concert gates open."
+    },
+    {
+      "id": 28,
+      "en": "I would walk more if my neighborhood had safer crossings."
+    },
+    {
+      "id": 29,
+      "en": "He would walk with you, but his ankle is swollen."
+    },
+    {
+      "id": 30,
+      "en": "We would walk to dinner if the reservation were not so soon."
+    },
+    {
+      "id": 31,
+      "en": "I have walked this path so many times I stop looking at the map."
+    },
+    {
+      "id": 32,
+      "en": "She has walked ten thousand steps every day this month."
+    },
+    {
+      "id": 33,
+      "en": "We have not walked the new loop yet."
+    },
+    {
+      "id": 34,
+      "en": "He has never walked a full marathon, only a half."
+    },
+    {
+      "id": 35,
+      "en": "I need to walk after lunch so I do not feel sluggish."
+    },
+    {
+      "id": 36,
+      "en": "She wants to walk the river path before it gets dark."
+    },
+    {
+      "id": 37,
+      "en": "They forgot to walk the dog before they left for the party."
+    },
+    {
+      "id": 38,
+      "en": "Try to walk for five minutes every hour if you sit all day."
+    },
+    {
+      "id": 39,
+      "en": "Remember to walk the aisles on long flights when the seatbelt sign is off."
+    },
+    {
+      "id": 40,
+      "en": "If you walk slowly, you will see more street signs."
+    },
+    {
+      "id": 41,
+      "en": "When I feel stressed, I walk around the block once."
+    },
+    {
+      "id": 42,
+      "en": "Although my feet hurt, I still walk home."
+    },
+    {
+      "id": 43,
+      "en": "Because the elevator is out, we walk up six floors."
+    },
+    {
+      "id": 44,
+      "en": "Before you drive, walk once around the car and check the tires."
+    },
+    {
+      "id": 45,
+      "en": "After we eat, we walk a little so digestion feels easier."
+    },
+    {
+      "id": 46,
+      "en": "I walk on my lunch break when I need fresh air."
+    },
+    {
+      "id": 47,
+      "en": "We walk the same route so the dog knows every tree."
+    },
+    {
+      "id": 48,
+      "en": "He walks to clear his head before hard conversations."
+    },
+    {
+      "id": 49,
+      "en": "They walk the field before youth games to check for holes."
+    },
+    {
+      "id": 50,
+      "en": "I walked to the ATM because the fee was lower there."
+    },
+    {
+      "id": 51,
+      "en": "She walked around the store twice before she bought anything."
+    },
+    {
+      "id": 52,
+      "en": "We walked to the food truck line and split a plate."
+    },
+    {
+      "id": 53,
+      "en": "The nurse said I should walk a little on the same day as surgery."
+    },
+    {
+      "id": 54,
+      "en": "I will walk the last mile if rides are too expensive."
+    },
+    {
+      "id": 55,
+      "en": "You should walk the bike across the crosswalk, not ride it."
+    },
+    {
+      "id": 56,
+      "en": "I don't walk in that park after the gates lock."
+    },
+    {
+      "id": 57,
+      "en": "We don't walk on the neighbor's lawn without asking."
+    },
+    {
+      "id": 58,
+      "en": "She won't walk barefoot on hotel carpets."
+    },
+    {
+      "id": 59,
+      "en": "Who walked the dog while you were at the wedding?"
+    },
+    {
+      "id": 60,
+      "en": "Have you walked the new trail by the reservoir?"
+    },
+    {
+      "id": 61,
+      "en": "I was walking home when the storm started."
+    },
+    {
+      "id": 62,
+      "en": "We were walking the market when we saw the band."
+    },
+    {
+      "id": 63,
+      "en": "I am walking more this month to help my sleep."
+    },
+    {
+      "id": 64,
+      "en": "They are walking the picket line in shifts."
+    },
+    {
+      "id": 65,
+      "en": "If we walk now, we beat the heat."
+    },
+    {
+      "id": 66,
+      "en": "When I travel, I walk the neighborhood on day one."
+    },
+    {
+      "id": 67,
+      "en": "Although the hill is steep, we walk it in one push."
+    },
+    {
+      "id": 68,
+      "en": "Before the interview, I walk outside for two minutes."
+    },
+    {
+      "id": 69,
+      "en": "After the gym, I walk slow so my heart rate drops."
+    },
+    {
+      "id": 70,
+      "en": "I walk to save money on short trips."
+    },
+    {
+      "id": 71,
+      "en": "She walks with her partner every evening to talk without screens."
+    },
+    {
+      "id": 72,
+      "en": "We have walked to that bakery so often they know our order."
+    },
+    {
+      "id": 73,
+      "en": "He has walked the stadium stairs as training before match day."
+    },
+    {
+      "id": 74,
+      "en": "I will walk you to the corner, not through the whole shortcut."
+    },
+    {
+      "id": 75,
+      "en": "Do not walk on the wet roof; it is not worth it."
+    },
+    {
+      "id": 76,
+      "en": "Let's walk the return trip on a quieter street."
+    },
+    {
+      "id": 77,
+      "en": "I would walk to work daily if the office were two miles away."
+    },
+    {
+      "id": 78,
+      "en": "The doctor said I can walk short distances with the boot."
+    },
+    {
+      "id": 79,
+      "en": "I stretch so my knees do not hurt when I walk downhill."
+    },
+    {
+      "id": 80,
+      "en": "I walk for ten minutes at noon so I can focus in the afternoon."
+    },
+    {
+      "id": 81,
+      "en": "We skipped the car and walked to dinner when parking looked full."
+    },
+    {
+      "id": 82,
+      "en": "She wants to walk the bridge for the view, not for speed."
+    },
+    {
+      "id": 83,
+      "en": "He needs to walk the dog before the thunder gets louder."
+    },
+    {
+      "id": 84,
+      "en": "I haven't walked that far since my last trip abroad."
+    },
+    {
+      "id": 85,
+      "en": "Have you walked the full length of the terminal with your carry-on yet?"
+    },
+    {
+      "id": 86,
+      "en": "If you walk with headphones, stay aware of bikes."
+    },
+    {
+      "id": 87,
+      "en": "Although the sign says closed, we can still walk past the gate."
+    },
+    {
+      "id": 88,
+      "en": "Because the bus skipped our stop, we walked the last half mile."
+    },
+    {
+      "id": 89,
+      "en": "After the meeting, we walk to the coffee shop on the same block."
+    },
+    {
+      "id": 90,
+      "en": "The kids walk to school when the crossing guard is there."
+    },
+    {
+      "id": 91,
+      "en": "I walked the long hallway twice before I found the right room."
+    },
+    {
+      "id": 92,
+      "en": "They are going to walk the 5K together, not race it."
+    },
+    {
+      "id": 93,
+      "en": "I did not walk much at the conference; I stood in the lobby between talks."
+    },
+    {
+      "id": 94,
+      "en": "We want to walk more on weekends when work email slows down."
+    },
+    {
+      "id": 95,
+      "en": "Please walk on the right so others can pass."
+    },
+    {
+      "id": 96,
+      "en": "Don't walk through the construction zone without a hard hat."
+    },
+    {
+      "id": 97,
+      "en": "Good shoes help you walk longer without blisters."
+    },
+    {
+      "id": 98,
+      "en": "I walked the wrong way in the airport and almost missed the gate."
+    },
+    {
+      "id": 99,
+      "en": "We walk the same three blocks and still notice new murals."
+    },
+    {
+      "id": 100,
+      "en": "Tomorrow I will walk early before the back-to-back calls."
+    }
+  ]
+}

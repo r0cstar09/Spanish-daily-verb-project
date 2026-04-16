@@ -1,0 +1,407 @@
+{
+  "verb": "ocurrir",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:ocurrir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "What happens here every day?"
+    },
+    {
+      "id": 2,
+      "en": "Something happens when I press the button."
+    },
+    {
+      "id": 3,
+      "en": "It happens often in this city."
+    },
+    {
+      "id": 4,
+      "en": "Nothing happens if we only wait."
+    },
+    {
+      "id": 5,
+      "en": "It occurs to me that we need milk."
+    },
+    {
+      "id": 6,
+      "en": "It occurs to me that you're right."
+    },
+    {
+      "id": 7,
+      "en": "Mistakes happen at work."
+    },
+    {
+      "id": 8,
+      "en": "Delays happen when it rains."
+    },
+    {
+      "id": 9,
+      "en": "The same problem happens every week."
+    },
+    {
+      "id": 10,
+      "en": "It occurs to me that I forgot the keys."
+    },
+    {
+      "id": 11,
+      "en": "Problems happen when we rush."
+    },
+    {
+      "id": 12,
+      "en": "It happens when I open the file."
+    },
+    {
+      "id": 13,
+      "en": "Change happens slowly."
+    },
+    {
+      "id": 14,
+      "en": "It occurs to me that we should leave early."
+    },
+    {
+      "id": 15,
+      "en": "Good things happen when you plan."
+    },
+    {
+      "id": 16,
+      "en": "It occurs to me that the price went up."
+    },
+    {
+      "id": 17,
+      "en": "Errors happen in the app sometimes."
+    },
+    {
+      "id": 18,
+      "en": "It happens when the server is busy."
+    },
+    {
+      "id": 19,
+      "en": "It occurs to me that I never replied."
+    },
+    {
+      "id": 20,
+      "en": "Accidents happen when people text and drive."
+    },
+    {
+      "id": 21,
+      "en": "What happened yesterday?"
+    },
+    {
+      "id": 22,
+      "en": "I didn't know what happened at the meeting."
+    },
+    {
+      "id": 23,
+      "en": "Something happened while I was out."
+    },
+    {
+      "id": 24,
+      "en": "It happened last night."
+    },
+    {
+      "id": 25,
+      "en": "It occurred to me that I left the oven on."
+    },
+    {
+      "id": 26,
+      "en": "It never occurred to me until I saw the receipt."
+    },
+    {
+      "id": 27,
+      "en": "Nothing happened when I tried."
+    },
+    {
+      "id": 28,
+      "en": "The same thing happened twice."
+    },
+    {
+      "id": 29,
+      "en": "When I was a kid, strange things happened every summer."
+    },
+    {
+      "id": 30,
+      "en": "I was wondering what happened to your phone."
+    },
+    {
+      "id": 31,
+      "en": "It happened before I arrived."
+    },
+    {
+      "id": 32,
+      "en": "It occurred to me that I missed the email."
+    },
+    {
+      "id": 33,
+      "en": "Why did that happen?"
+    },
+    {
+      "id": 34,
+      "en": "What happened to the money?"
+    },
+    {
+      "id": 35,
+      "en": "It happened during the football match."
+    },
+    {
+      "id": 36,
+      "en": "It occurred to me that we need a plan B."
+    },
+    {
+      "id": 37,
+      "en": "Nothing happened at the gym."
+    },
+    {
+      "id": 38,
+      "en": "It happened when I was late."
+    },
+    {
+      "id": 39,
+      "en": "It occurred to me that you were quiet."
+    },
+    {
+      "id": 40,
+      "en": "You told me what happened at home."
+    },
+    {
+      "id": 41,
+      "en": "It will happen again if we are not careful."
+    },
+    {
+      "id": 42,
+      "en": "Nothing will happen if we stay calm."
+    },
+    {
+      "id": 43,
+      "en": "If we wait, it will happen on its own."
+    },
+    {
+      "id": 44,
+      "en": "It will occur to you later."
+    },
+    {
+      "id": 45,
+      "en": "It won't happen if we check the list."
+    },
+    {
+      "id": 46,
+      "en": "It would happen if we ignored the rules."
+    },
+    {
+      "id": 47,
+      "en": "What will happen tomorrow?"
+    },
+    {
+      "id": 48,
+      "en": "It will occur to me when I see the bill."
+    },
+    {
+      "id": 49,
+      "en": "If we rush, mistakes will happen."
+    },
+    {
+      "id": 50,
+      "en": "It will happen after the update."
+    },
+    {
+      "id": 51,
+      "en": "It will occur to you when you read the message."
+    },
+    {
+      "id": 52,
+      "en": "Nothing would happen if we did nothing."
+    },
+    {
+      "id": 53,
+      "en": "If I forget, it will happen again."
+    },
+    {
+      "id": 54,
+      "en": "It will happen during the trip."
+    },
+    {
+      "id": 55,
+      "en": "It will occur to me when I see the map."
+    },
+    {
+      "id": 56,
+      "en": "It has happened before."
+    },
+    {
+      "id": 57,
+      "en": "It has never happened to me."
+    },
+    {
+      "id": 58,
+      "en": "It has occurred to me twice today."
+    },
+    {
+      "id": 59,
+      "en": "Has something happened to your phone?"
+    },
+    {
+      "id": 60,
+      "en": "I need to understand what happened."
+    },
+    {
+      "id": 61,
+      "en": "I want to know what happened at work."
+    },
+    {
+      "id": 62,
+      "en": "He forgot what happened on Monday."
+    },
+    {
+      "id": 63,
+      "en": "Remember that mistakes can happen."
+    },
+    {
+      "id": 64,
+      "en": "I hate when delays happen."
+    },
+    {
+      "id": 65,
+      "en": "We started to worry when it happened."
+    },
+    {
+      "id": 66,
+      "en": "I have to admit what happened."
+    },
+    {
+      "id": 67,
+      "en": "I plan to leave if it happens again."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to say what happened."
+    },
+    {
+      "id": 69,
+      "en": "I want you to tell me what happened."
+    },
+    {
+      "id": 70,
+      "en": "They tried to fix what happened."
+    },
+    {
+      "id": 71,
+      "en": "What happens if I press this?"
+    },
+    {
+      "id": 72,
+      "en": "Why did it happen?"
+    },
+    {
+      "id": 73,
+      "en": "Don't let it happen again."
+    },
+    {
+      "id": 74,
+      "en": "Let it happen naturally."
+    },
+    {
+      "id": 75,
+      "en": "Never pretend nothing happened."
+    },
+    {
+      "id": 76,
+      "en": "Can't it happen sooner?"
+    },
+    {
+      "id": 77,
+      "en": "Hasn't it happened before?"
+    },
+    {
+      "id": 78,
+      "en": "Won't it happen today?"
+    },
+    {
+      "id": 79,
+      "en": "Where did it happen?"
+    },
+    {
+      "id": 80,
+      "en": "Will it happen on time?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't it happen last week?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it strange that it happened?"
+    },
+    {
+      "id": 83,
+      "en": "Doesn't it happen every day?"
+    },
+    {
+      "id": 84,
+      "en": "Why doesn't it happen when I need it?"
+    },
+    {
+      "id": 85,
+      "en": "Stop acting like nothing happened."
+    },
+    {
+      "id": 86,
+      "en": "It happens because people forget."
+    },
+    {
+      "id": 87,
+      "en": "It happened, but we were safe."
+    },
+    {
+      "id": 88,
+      "en": "When it happens, call me."
+    },
+    {
+      "id": 89,
+      "en": "If it happens again, we will leave."
+    },
+    {
+      "id": 90,
+      "en": "Although it happened fast, I was calm."
+    },
+    {
+      "id": 91,
+      "en": "Before it happens, read the warning."
+    },
+    {
+      "id": 92,
+      "en": "After it happened, we called the bank."
+    },
+    {
+      "id": 93,
+      "en": "Because it happened at work, we filed a report."
+    },
+    {
+      "id": 94,
+      "en": "It happens at home, but not at the office."
+    },
+    {
+      "id": 95,
+      "en": "When it occurs to me, I write a note."
+    },
+    {
+      "id": 96,
+      "en": "If it happens on the road, pull over."
+    },
+    {
+      "id": 97,
+      "en": "Although it occurred to me late, I still apologized."
+    },
+    {
+      "id": 98,
+      "en": "Before it happens, save your file."
+    },
+    {
+      "id": 99,
+      "en": "After it occurred to me, I changed the plan."
+    },
+    {
+      "id": 100,
+      "en": "It's important that the same mistake doesn't happen again."
+    }
+  ]
+}

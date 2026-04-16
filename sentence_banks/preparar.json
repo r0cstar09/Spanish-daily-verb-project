@@ -1,0 +1,407 @@
+{
+  "verb": "preparar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:preparar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I prepare dinner on weeknights."
+    },
+    {
+      "id": 2,
+      "en": "We prepare breakfast on Sundays."
+    },
+    {
+      "id": 3,
+      "en": "He prepares coffee every morning."
+    },
+    {
+      "id": 4,
+      "en": "She prepares lunch for the kids."
+    },
+    {
+      "id": 5,
+      "en": "They prepare the room for guests."
+    },
+    {
+      "id": 6,
+      "en": "You prepare too much food."
+    },
+    {
+      "id": 7,
+      "en": "I prepare for meetings on Monday."
+    },
+    {
+      "id": 8,
+      "en": "We prepare the slides before the call."
+    },
+    {
+      "id": 9,
+      "en": "He prepares for the gym early."
+    },
+    {
+      "id": 10,
+      "en": "She prepares the budget every month."
+    },
+    {
+      "id": 11,
+      "en": "I prepare a salad when it is hot."
+    },
+    {
+      "id": 12,
+      "en": "We prepare the files for the audit."
+    },
+    {
+      "id": 13,
+      "en": "They prepare for the trip next week."
+    },
+    {
+      "id": 14,
+      "en": "You prepare the table before dinner."
+    },
+    {
+      "id": 15,
+      "en": "I prepare notes for the interview."
+    },
+    {
+      "id": 16,
+      "en": "He prepares the report on Friday."
+    },
+    {
+      "id": 17,
+      "en": "We prepare the car before a long drive."
+    },
+    {
+      "id": 18,
+      "en": "She prepares tea when guests arrive."
+    },
+    {
+      "id": 19,
+      "en": "I prepare for exams in the library."
+    },
+    {
+      "id": 20,
+      "en": "They prepare the football lineup on Thursday."
+    },
+    {
+      "id": 21,
+      "en": "I prepared pasta last night."
+    },
+    {
+      "id": 22,
+      "en": "We prepared the house for the party."
+    },
+    {
+      "id": 23,
+      "en": "He prepared for the interview all week."
+    },
+    {
+      "id": 24,
+      "en": "She prepared the presentation yesterday."
+    },
+    {
+      "id": 25,
+      "en": "I didn't prepare enough food."
+    },
+    {
+      "id": 26,
+      "en": "They prepared for the storm."
+    },
+    {
+      "id": 27,
+      "en": "I was preparing dinner when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I prepared for tests every month."
+    },
+    {
+      "id": 29,
+      "en": "We prepared the documents because the bank asked."
+    },
+    {
+      "id": 30,
+      "en": "He prepared the meal in thirty minutes."
+    },
+    {
+      "id": 31,
+      "en": "I prepared the room for my friend."
+    },
+    {
+      "id": 32,
+      "en": "She prepared breakfast before work."
+    },
+    {
+      "id": 33,
+      "en": "Why did you prepare two versions?"
+    },
+    {
+      "id": 34,
+      "en": "We prepared for the meeting online."
+    },
+    {
+      "id": 35,
+      "en": "I prepared for the football match with rest and water."
+    },
+    {
+      "id": 36,
+      "en": "He prepared the slides too late."
+    },
+    {
+      "id": 37,
+      "en": "They prepared a simple plan."
+    },
+    {
+      "id": 38,
+      "en": "I prepared snacks for the trip."
+    },
+    {
+      "id": 39,
+      "en": "We prepared the money in cash."
+    },
+    {
+      "id": 40,
+      "en": "You prepared more than we needed."
+    },
+    {
+      "id": 41,
+      "en": "I will prepare dinner tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will prepare if you send the list."
+    },
+    {
+      "id": 43,
+      "en": "If you come early, I will prepare tea."
+    },
+    {
+      "id": 44,
+      "en": "She will prepare the talk on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't prepare without a clear topic."
+    },
+    {
+      "id": 46,
+      "en": "I would prepare more if I had time."
+    },
+    {
+      "id": 47,
+      "en": "We would prepare a backup plan if we had doubts."
+    },
+    {
+      "id": 48,
+      "en": "Would you prepare the room for guests?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will prepare the bags tonight."
+    },
+    {
+      "id": 50,
+      "en": "They will prepare the food on site."
+    },
+    {
+      "id": 51,
+      "en": "You will prepare better if you sleep."
+    },
+    {
+      "id": 52,
+      "en": "I would prepare lunch if I bought groceries."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will prepare soup."
+    },
+    {
+      "id": 54,
+      "en": "I will prepare to watch the football final at home."
+    },
+    {
+      "id": 55,
+      "en": "We will prepare the report before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have prepared this meal before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't prepared the guest room yet."
+    },
+    {
+      "id": 58,
+      "en": "She has prepared for the exam since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you prepared the file?"
+    },
+    {
+      "id": 60,
+      "en": "I need to prepare for the call."
+    },
+    {
+      "id": 61,
+      "en": "I want to prepare a simple dinner."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to prepare the guest room."
+    },
+    {
+      "id": 63,
+      "en": "Remember to prepare the charger."
+    },
+    {
+      "id": 64,
+      "en": "I hate to prepare food when I am tired."
+    },
+    {
+      "id": 65,
+      "en": "We started to prepare the trip last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to prepare the slides tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to prepare breakfast early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to prepare food without a recipe."
+    },
+    {
+      "id": 69,
+      "en": "I want you to prepare the agenda."
+    },
+    {
+      "id": 70,
+      "en": "They tried to prepare for every question."
+    },
+    {
+      "id": 71,
+      "en": "Do you prepare dinner every day?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you prepare two bags?"
+    },
+    {
+      "id": 73,
+      "en": "Prepare the table before they arrive."
+    },
+    {
+      "id": 74,
+      "en": "Don't prepare food with dirty hands."
+    },
+    {
+      "id": 75,
+      "en": "Never prepare a speech the night before."
+    },
+    {
+      "id": 76,
+      "en": "Can't you prepare earlier?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you prepared the file?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you prepare for the interview?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you prepare the food?"
+    },
+    {
+      "id": 80,
+      "en": "Will you prepare lunch if I buy bread?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you prepare for the meeting?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to prepare early?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you prepare a list before you shop?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you prepare the room first?"
+    },
+    {
+      "id": 85,
+      "en": "Stop preparing and eat while it is hot."
+    },
+    {
+      "id": 86,
+      "en": "I prepare dinner because I save money."
+    },
+    {
+      "id": 87,
+      "en": "We prepared the trip, but the flight changed."
+    },
+    {
+      "id": 88,
+      "en": "When you prepare food, wash your hands first."
+    },
+    {
+      "id": 89,
+      "en": "If you prepare notes, you will speak clearly."
+    },
+    {
+      "id": 90,
+      "en": "Although I prepared hard, I still felt nervous."
+    },
+    {
+      "id": 91,
+      "en": "Before you cook, prepare the ingredients."
+    },
+    {
+      "id": 92,
+      "en": "After I prepared the budget, I felt calmer."
+    },
+    {
+      "id": 93,
+      "en": "Because we prepared early, we left on time."
+    },
+    {
+      "id": 94,
+      "en": "I prepare meals at home, but I buy lunch at work."
+    },
+    {
+      "id": 95,
+      "en": "When he prepares for a stressful day, he breathes slowly."
+    },
+    {
+      "id": 96,
+      "en": "If we prepare the car, we will avoid problems."
+    },
+    {
+      "id": 97,
+      "en": "Although we prepared the slides, the call dropped."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, prepare your documents."
+    },
+    {
+      "id": 99,
+      "en": "After we prepared for the football match, we went to sleep early."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you prepare the safety talk."
+    }
+  ]
+}

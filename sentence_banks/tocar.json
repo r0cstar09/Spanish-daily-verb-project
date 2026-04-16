@@ -1,0 +1,407 @@
+{
+  "verb": "tocar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:tocar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "Don't touch the hot pan."
+    },
+    {
+      "id": 2,
+      "en": "I touch the screen to unlock the phone."
+    },
+    {
+      "id": 3,
+      "en": "He plays the guitar at home."
+    },
+    {
+      "id": 4,
+      "en": "She plays the piano on Sundays."
+    },
+    {
+      "id": 5,
+      "en": "I knock on the door before I enter."
+    },
+    {
+      "id": 6,
+      "en": "It's my turn to pay."
+    },
+    {
+      "id": 7,
+      "en": "It's your turn to speak."
+    },
+    {
+      "id": 8,
+      "en": "We touch the cold bottle before we eat."
+    },
+    {
+      "id": 9,
+      "en": "They play music at the party."
+    },
+    {
+      "id": 10,
+      "en": "You play the drums for fun."
+    },
+    {
+      "id": 11,
+      "en": "The path touches the river here."
+    },
+    {
+      "id": 12,
+      "en": "I don't touch the money on the desk."
+    },
+    {
+      "id": 13,
+      "en": "He touches the keyboard softly when he types."
+    },
+    {
+      "id": 14,
+      "en": "She knocks twice on the door."
+    },
+    {
+      "id": 15,
+      "en": "It's his turn to drive."
+    },
+    {
+      "id": 16,
+      "en": "We play a song after dinner."
+    },
+    {
+      "id": 17,
+      "en": "The beach touches the road along the coast."
+    },
+    {
+      "id": 18,
+      "en": "I touch the photo on the screen."
+    },
+    {
+      "id": 19,
+      "en": "He touches the ball near the goal."
+    },
+    {
+      "id": 20,
+      "en": "It's our turn to order."
+    },
+    {
+      "id": 21,
+      "en": "I touched the door."
+    },
+    {
+      "id": 22,
+      "en": "We played the song last night."
+    },
+    {
+      "id": 23,
+      "en": "He knocked on the door."
+    },
+    {
+      "id": 24,
+      "en": "She didn't touch the food."
+    },
+    {
+      "id": 25,
+      "en": "I didn't knock."
+    },
+    {
+      "id": 26,
+      "en": "It was my turn when you called."
+    },
+    {
+      "id": 27,
+      "en": "When I was young, I played the guitar."
+    },
+    {
+      "id": 28,
+      "en": "We touched the table because it was wet."
+    },
+    {
+      "id": 29,
+      "en": "He played the piano at work."
+    },
+    {
+      "id": 30,
+      "en": "I touched the hot plate and pulled back."
+    },
+    {
+      "id": 31,
+      "en": "Why did you touch my phone?"
+    },
+    {
+      "id": 32,
+      "en": "We knocked before we entered."
+    },
+    {
+      "id": 33,
+      "en": "It was your turn to pay."
+    },
+    {
+      "id": 34,
+      "en": "I touched the screen with my finger."
+    },
+    {
+      "id": 35,
+      "en": "She played the drums at the party."
+    },
+    {
+      "id": 36,
+      "en": "They didn't play the song."
+    },
+    {
+      "id": 37,
+      "en": "I was touching the door when it opened."
+    },
+    {
+      "id": 38,
+      "en": "It was my turn to decide."
+    },
+    {
+      "id": 39,
+      "en": "We touched on the budget in the meeting."
+    },
+    {
+      "id": 40,
+      "en": "You touched the wrong button."
+    },
+    {
+      "id": 41,
+      "en": "I will knock on the door."
+    },
+    {
+      "id": 42,
+      "en": "We will play if you want."
+    },
+    {
+      "id": 43,
+      "en": "If you knock, I will open."
+    },
+    {
+      "id": 44,
+      "en": "She will play on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't touch the phone."
+    },
+    {
+      "id": 46,
+      "en": "I would knock if I had the address."
+    },
+    {
+      "id": 47,
+      "en": "We would play if we had a guitar."
+    },
+    {
+      "id": 48,
+      "en": "It's not my place to decide."
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will knock first."
+    },
+    {
+      "id": 50,
+      "en": "They will play at the restaurant."
+    },
+    {
+      "id": 51,
+      "en": "You will burn if you touch the stove."
+    },
+    {
+      "id": 52,
+      "en": "I would play if I knew the song."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will play inside."
+    },
+    {
+      "id": 54,
+      "en": "I will not touch your laptop without asking."
+    },
+    {
+      "id": 55,
+      "en": "It will be your turn to pay soon."
+    },
+    {
+      "id": 56,
+      "en": "I have touched this before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't played the song yet."
+    },
+    {
+      "id": 58,
+      "en": "She has played every week since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you touched the screen?"
+    },
+    {
+      "id": 60,
+      "en": "I need to knock today."
+    },
+    {
+      "id": 61,
+      "en": "I want to play tonight."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to knock."
+    },
+    {
+      "id": 63,
+      "en": "Remember to knock on the door."
+    },
+    {
+      "id": 64,
+      "en": "I hate to touch cold food with wet hands."
+    },
+    {
+      "id": 65,
+      "en": "We started to play last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to knock on the door."
+    },
+    {
+      "id": 67,
+      "en": "I plan to play early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to touch the wet paint."
+    },
+    {
+      "id": 69,
+      "en": "I want you to knock before you enter."
+    },
+    {
+      "id": 70,
+      "en": "They tried to play the song."
+    },
+    {
+      "id": 71,
+      "en": "Do you touch the screen every day?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you play that song?"
+    },
+    {
+      "id": 73,
+      "en": "Don't touch the hot stove."
+    },
+    {
+      "id": 74,
+      "en": "Never touch money that isn't yours."
+    },
+    {
+      "id": 75,
+      "en": "Can't you knock harder?"
+    },
+    {
+      "id": 76,
+      "en": "Haven't you touched the send button?"
+    },
+    {
+      "id": 77,
+      "en": "Won't you tell me if it's your turn?"
+    },
+    {
+      "id": 78,
+      "en": "Where did you touch the phone?"
+    },
+    {
+      "id": 79,
+      "en": "Will you play if I ask?"
+    },
+    {
+      "id": 80,
+      "en": "Didn't you knock before?"
+    },
+    {
+      "id": 81,
+      "en": "Isn't it smart to knock first?"
+    },
+    {
+      "id": 82,
+      "en": "Don't you play the guitar?"
+    },
+    {
+      "id": 83,
+      "en": "Why don't you speak when it's your turn?"
+    },
+    {
+      "id": 84,
+      "en": "Stop touching the screen."
+    },
+    {
+      "id": 85,
+      "en": "Don't touch if you don't know the rules."
+    },
+    {
+      "id": 86,
+      "en": "I knock because the bell is broken."
+    },
+    {
+      "id": 87,
+      "en": "I touched the door, but it was locked."
+    },
+    {
+      "id": 88,
+      "en": "When you knock, wait for an answer."
+    },
+    {
+      "id": 89,
+      "en": "If you touch the screen, you will open the app."
+    },
+    {
+      "id": 90,
+      "en": "Although I knocked, nobody answered."
+    },
+    {
+      "id": 91,
+      "en": "Before you enter, knock on the door."
+    },
+    {
+      "id": 92,
+      "en": "After I knocked, I heard the dog."
+    },
+    {
+      "id": 93,
+      "en": "Because we knocked early, we got in."
+    },
+    {
+      "id": 94,
+      "en": "I touch my phone at work, but I rest at home."
+    },
+    {
+      "id": 95,
+      "en": "When he plays, the whole room listens."
+    },
+    {
+      "id": 96,
+      "en": "If it's your turn, you will pay."
+    },
+    {
+      "id": 97,
+      "en": "Although we played, the room was quiet."
+    },
+    {
+      "id": 98,
+      "en": "Before you leave, touch the light switch to turn it off."
+    },
+    {
+      "id": 99,
+      "en": "After the striker touched the ball, the play went on."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you knock before you enter."
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "verb": "volar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:volar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I fly to work twice a month."
+    },
+    {
+      "id": 2,
+      "en": "We fly on Friday."
+    },
+    {
+      "id": 3,
+      "en": "The plane flies at six."
+    },
+    {
+      "id": 4,
+      "en": "Birds fly over the river."
+    },
+    {
+      "id": 5,
+      "en": "He flies the drone in the park."
+    },
+    {
+      "id": 6,
+      "en": "She flies to the coast for the holiday."
+    },
+    {
+      "id": 7,
+      "en": "They fly with a budget airline."
+    },
+    {
+      "id": 8,
+      "en": "You fly too often for my taste."
+    },
+    {
+      "id": 9,
+      "en": "Time flies when the week is busy."
+    },
+    {
+      "id": 10,
+      "en": "The flag flies above the stadium."
+    },
+    {
+      "id": 11,
+      "en": "I fly with my family in summer."
+    },
+    {
+      "id": 12,
+      "en": "We fly home on Sunday."
+    },
+    {
+      "id": 13,
+      "en": "The pilot flies the plane in bad weather."
+    },
+    {
+      "id": 14,
+      "en": "Dry leaves fly in the strong wind."
+    },
+    {
+      "id": 15,
+      "en": "I fly to see my parents."
+    },
+    {
+      "id": 16,
+      "en": "The ball flies past the goal in the football match."
+    },
+    {
+      "id": 17,
+      "en": "She flies for work every month."
+    },
+    {
+      "id": 18,
+      "en": "Kids fly kites in the park."
+    },
+    {
+      "id": 19,
+      "en": "Paper flies off the table in the wind."
+    },
+    {
+      "id": 20,
+      "en": "We fly early to save money."
+    },
+    {
+      "id": 21,
+      "en": "I flew yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We flew to the city last night."
+    },
+    {
+      "id": 23,
+      "en": "He didn't fly in March."
+    },
+    {
+      "id": 24,
+      "en": "She flew alone."
+    },
+    {
+      "id": 25,
+      "en": "I didn't fly last year."
+    },
+    {
+      "id": 26,
+      "en": "They flew through rough air near the coast."
+    },
+    {
+      "id": 27,
+      "en": "I was flying when you texted."
+    },
+    {
+      "id": 28,
+      "en": "When I was young, we flew once a year."
+    },
+    {
+      "id": 29,
+      "en": "We flew because the train was full."
+    },
+    {
+      "id": 30,
+      "en": "The bird flew away fast."
+    },
+    {
+      "id": 31,
+      "en": "Why did you fly alone?"
+    },
+    {
+      "id": 32,
+      "en": "We flew from the big airport on the highway."
+    },
+    {
+      "id": 33,
+      "en": "I flew with a carry-on bag only."
+    },
+    {
+      "id": 34,
+      "en": "She flew to the meeting on Tuesday."
+    },
+    {
+      "id": 35,
+      "en": "I flew more miles than I planned."
+    },
+    {
+      "id": 36,
+      "en": "They flew over the coast at sunrise."
+    },
+    {
+      "id": 37,
+      "en": "You flew on the wrong date."
+    },
+    {
+      "id": 38,
+      "en": "I flew home after the game."
+    },
+    {
+      "id": 39,
+      "en": "We bought tickets on the app before we flew."
+    },
+    {
+      "id": 40,
+      "en": "He flew the drone too close to the building."
+    },
+    {
+      "id": 41,
+      "en": "I will fly tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will fly if you book the tickets."
+    },
+    {
+      "id": 43,
+      "en": "If you save money, I will fly with you."
+    },
+    {
+      "id": 44,
+      "en": "She will fly on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't fly without insurance."
+    },
+    {
+      "id": 46,
+      "en": "I would fly more if tickets were cheaper."
+    },
+    {
+      "id": 47,
+      "en": "We would fly if we had a day off."
+    },
+    {
+      "id": 48,
+      "en": "Would you fly with me?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will fly to the island."
+    },
+    {
+      "id": 50,
+      "en": "They will fly at dawn."
+    },
+    {
+      "id": 51,
+      "en": "You will save time if you fly direct."
+    },
+    {
+      "id": 52,
+      "en": "I would fly in winter if the hotel was cheap."
+    },
+    {
+      "id": 53,
+      "en": "If it storms, we will fly the next day."
+    },
+    {
+      "id": 54,
+      "en": "I will fly after the meeting."
+    },
+    {
+      "id": 55,
+      "en": "We will fly before the holiday rush."
+    },
+    {
+      "id": 56,
+      "en": "I have flown this route before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't flown abroad yet."
+    },
+    {
+      "id": 58,
+      "en": "She has flown every month since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you flown alone?"
+    },
+    {
+      "id": 60,
+      "en": "I need to fly today."
+    },
+    {
+      "id": 61,
+      "en": "I want to fly with less stress."
+    },
+    {
+      "id": 62,
+      "en": "He almost forgot his ID before he flew."
+    },
+    {
+      "id": 63,
+      "en": "Remember to leave early when you fly."
+    },
+    {
+      "id": 64,
+      "en": "I hate to fly when I am sick."
+    },
+    {
+      "id": 65,
+      "en": "We started to fly more last year."
+    },
+    {
+      "id": 66,
+      "en": "I have to fly tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to fly early on Friday."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to fly without a window seat."
+    },
+    {
+      "id": 69,
+      "en": "I want you to fly safely."
+    },
+    {
+      "id": 70,
+      "en": "They tried to fly on time."
+    },
+    {
+      "id": 71,
+      "en": "Do you fly every month?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you choose to fly so late?"
+    },
+    {
+      "id": 73,
+      "en": "Fly direct if you can."
+    },
+    {
+      "id": 74,
+      "en": "Don't fly without checking the name on the ticket."
+    },
+    {
+      "id": 75,
+      "en": "Never fly with a dead phone."
+    },
+    {
+      "id": 76,
+      "en": "Can't you fly on Saturday?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you flown to the coast?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you fly with us?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you fly last summer?"
+    },
+    {
+      "id": 80,
+      "en": "Will you fly if I pay half?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you fly for work?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to fly with a small bag?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you fly for meetings?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you fly before the busy season?"
+    },
+    {
+      "id": 85,
+      "en": "Don't fly if you feel unsafe."
+    },
+    {
+      "id": 86,
+      "en": "I fly for work because the trip is long."
+    },
+    {
+      "id": 87,
+      "en": "We flew early, but the flight was late."
+    },
+    {
+      "id": 88,
+      "en": "When you fly, keep the ticket on your phone."
+    },
+    {
+      "id": 89,
+      "en": "If you fly direct, you will save time."
+    },
+    {
+      "id": 90,
+      "en": "Although I flew early, I still felt tired."
+    },
+    {
+      "id": 91,
+      "en": "Before you travel, plan the day you fly."
+    },
+    {
+      "id": 92,
+      "en": "After I flew home, I slept."
+    },
+    {
+      "id": 93,
+      "en": "Because we flew early, we saved money."
+    },
+    {
+      "id": 94,
+      "en": "I fly for work, but I drive near home."
+    },
+    {
+      "id": 95,
+      "en": "When he feels tired, he avoids night flights."
+    },
+    {
+      "id": 96,
+      "en": "If we fly together, we will sit near each other."
+    },
+    {
+      "id": 97,
+      "en": "Although we flew, the bags were lost."
+    },
+    {
+      "id": 98,
+      "en": "Before you book the hotel, check the date you fly."
+    },
+    {
+      "id": 99,
+      "en": "After we flew to the football city, we took a bus to the stadium."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you fly with a valid ID."
+    }
+  ]
+}

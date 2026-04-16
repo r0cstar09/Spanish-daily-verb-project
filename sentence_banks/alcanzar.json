@@ -1,0 +1,327 @@
+{
+  "verb": "alcanzar",
+  "generated_at": "2026-04-14T20:00:24+00:00",
+  "source": "sentence_banks:alcanzar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I cannot reach the top shelf."
+    },
+    {
+      "id": 2,
+      "en": "Can you reach the bottle for me?"
+    },
+    {
+      "id": 3,
+      "en": "She reached the door before I did."
+    },
+    {
+      "id": 4,
+      "en": "We reached the station just in time."
+    },
+    {
+      "id": 5,
+      "en": "They reached the beach at sunset."
+    },
+    {
+      "id": 6,
+      "en": "I cannot reach my phone from here."
+    },
+    {
+      "id": 7,
+      "en": "He reached into his pocket."
+    },
+    {
+      "id": 8,
+      "en": "She reached for the glass."
+    },
+    {
+      "id": 9,
+      "en": "The child can finally reach the sink."
+    },
+    {
+      "id": 10,
+      "en": "The cable is not long enough to reach."
+    },
+    {
+      "id": 11,
+      "en": "We finally reached an agreement."
+    },
+    {
+      "id": 12,
+      "en": "They reached a deal after hours of talking."
+    },
+    {
+      "id": 13,
+      "en": "The two sides reached a compromise."
+    },
+    {
+      "id": 14,
+      "en": "We reached a decision this morning."
+    },
+    {
+      "id": 15,
+      "en": "They have not reached a conclusion yet."
+    },
+    {
+      "id": 16,
+      "en": "He reached his goal this year."
+    },
+    {
+      "id": 17,
+      "en": "I still have not reached that level."
+    },
+    {
+      "id": 18,
+      "en": "She wants to reach the top of her field."
+    },
+    {
+      "id": 19,
+      "en": "We reached our sales target."
+    },
+    {
+      "id": 20,
+      "en": "They are working hard to reach the next stage."
+    },
+    {
+      "id": 21,
+      "en": "The news reached me too late."
+    },
+    {
+      "id": 22,
+      "en": "His message never reached me."
+    },
+    {
+      "id": 23,
+      "en": "The sound reached the street."
+    },
+    {
+      "id": 24,
+      "en": "The rumor reached the whole office."
+    },
+    {
+      "id": 25,
+      "en": "The letter reached her on Monday."
+    },
+    {
+      "id": 26,
+      "en": "I tried to reach you last night."
+    },
+    {
+      "id": 27,
+      "en": "Can you reach him by phone?"
+    },
+    {
+      "id": 28,
+      "en": "Nobody could reach the manager."
+    },
+    {
+      "id": 29,
+      "en": "I finally reached customer service."
+    },
+    {
+      "id": 30,
+      "en": "She is hard to reach during the day."
+    },
+    {
+      "id": 31,
+      "en": "We reached home after midnight."
+    },
+    {
+      "id": 32,
+      "en": "They reached the city before dark."
+    },
+    {
+      "id": 33,
+      "en": "He reached the airport early."
+    },
+    {
+      "id": 34,
+      "en": "I reached the office at eight."
+    },
+    {
+      "id": 35,
+      "en": "She reached the top of the stairs and stopped."
+    },
+    {
+      "id": 36,
+      "en": "The movie did not reach my expectations."
+    },
+    {
+      "id": 37,
+      "en": "That result does not reach the required standard."
+    },
+    {
+      "id": 38,
+      "en": "His work reached a very high level."
+    },
+    {
+      "id": 39,
+      "en": "The report did not reach the quality we needed."
+    },
+    {
+      "id": 40,
+      "en": "This solution reaches the minimum requirement."
+    },
+    {
+      "id": 41,
+      "en": "The water reached my knees."
+    },
+    {
+      "id": 42,
+      "en": "The price reached a record high."
+    },
+    {
+      "id": 43,
+      "en": "Temperatures will reach thirty degrees tomorrow."
+    },
+    {
+      "id": 44,
+      "en": "The crowd reached more than a thousand people."
+    },
+    {
+      "id": 45,
+      "en": "His anger reached the point where he could not think clearly."
+    },
+    {
+      "id": 46,
+      "en": "I could not reach the last page before class ended."
+    },
+    {
+      "id": 47,
+      "en": "She reached the final round."
+    },
+    {
+      "id": 48,
+      "en": "We reached the end of the book."
+    },
+    {
+      "id": 49,
+      "en": "They reached the border at dawn."
+    },
+    {
+      "id": 50,
+      "en": "He reached the next checkpoint safely."
+    },
+    {
+      "id": 51,
+      "en": "I do not think we can reach that number this month."
+    },
+    {
+      "id": 52,
+      "en": "She reached ten thousand followers in a year."
+    },
+    {
+      "id": 53,
+      "en": "The campaign reached a wide audience."
+    },
+    {
+      "id": 54,
+      "en": "The post reached more people than expected."
+    },
+    {
+      "id": 55,
+      "en": "Their message reached the wrong audience."
+    },
+    {
+      "id": 56,
+      "en": "He reached out and touched my shoulder."
+    },
+    {
+      "id": 57,
+      "en": "She reached over and took the keys."
+    },
+    {
+      "id": 58,
+      "en": "I reached down to pick it up."
+    },
+    {
+      "id": 59,
+      "en": "They reached across the table."
+    },
+    {
+      "id": 60,
+      "en": "The dog jumped but could not reach the food."
+    },
+    {
+      "id": 61,
+      "en": "We reached a turning point."
+    },
+    {
+      "id": 62,
+      "en": "The conversation reached a difficult point."
+    },
+    {
+      "id": 63,
+      "en": "He reached the point where he had to choose."
+    },
+    {
+      "id": 64,
+      "en": "I reached my limit and had to rest."
+    },
+    {
+      "id": 65,
+      "en": "They reached the stage where everything became easier."
+    },
+    {
+      "id": 66,
+      "en": "The train will reach the station in ten minutes."
+    },
+    {
+      "id": 67,
+      "en": "We will reach the hotel by noon."
+    },
+    {
+      "id": 68,
+      "en": "She will never reach him if she keeps waiting."
+    },
+    {
+      "id": 69,
+      "en": "They will reach a decision tomorrow."
+    },
+    {
+      "id": 70,
+      "en": "I hope we reach an agreement soon."
+    },
+    {
+      "id": 71,
+      "en": "The smell reached the kitchen."
+    },
+    {
+      "id": 72,
+      "en": "Sunlight reached the back of the room."
+    },
+    {
+      "id": 73,
+      "en": "The signal does not reach this area."
+    },
+    {
+      "id": 74,
+      "en": "The heat reached every corner of the house."
+    },
+    {
+      "id": 75,
+      "en": "The music reached us from outside."
+    },
+    {
+      "id": 76,
+      "en": "I reached the same conclusion after a while."
+    },
+    {
+      "id": 77,
+      "en": "She reached the age where everything started to change."
+    },
+    {
+      "id": 78,
+      "en": "We reached the point of no return."
+    },
+    {
+      "id": 79,
+      "en": "They reached the end without giving up."
+    },
+    {
+      "id": 80,
+      "en": "He reached a level of peace he had never known before."
+    }
+  ]
+}

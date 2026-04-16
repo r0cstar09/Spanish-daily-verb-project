@@ -1,0 +1,407 @@
+{
+  "verb": "empezar",
+  "generated_at": "2026-04-16T20:00:00+00:00",
+  "source": "sentence_banks:empezar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I start work at eight."
+    },
+    {
+      "id": 2,
+      "en": "We start the meeting at nine."
+    },
+    {
+      "id": 3,
+      "en": "They start class on Monday."
+    },
+    {
+      "id": 4,
+      "en": "The movie starts at seven."
+    },
+    {
+      "id": 5,
+      "en": "He starts his shift early."
+    },
+    {
+      "id": 6,
+      "en": "She starts dinner at six."
+    },
+    {
+      "id": 7,
+      "en": "I want you to start early."
+    },
+    {
+      "id": 8,
+      "en": "We start the car on cold mornings."
+    },
+    {
+      "id": 9,
+      "en": "Kids start school in September."
+    },
+    {
+      "id": 10,
+      "en": "I start to feel tired at night."
+    },
+    {
+      "id": 11,
+      "en": "I start to understand the plan."
+    },
+    {
+      "id": 12,
+      "en": "We start fixing the leak tomorrow."
+    },
+    {
+      "id": 13,
+      "en": "He starts the app on his phone."
+    },
+    {
+      "id": 14,
+      "en": "They start the game soon."
+    },
+    {
+      "id": 15,
+      "en": "You start the timer when I say go."
+    },
+    {
+      "id": 16,
+      "en": "I start the laundry on the weekend."
+    },
+    {
+      "id": 17,
+      "en": "We start with the budget."
+    },
+    {
+      "id": 18,
+      "en": "Let's start with the easy questions."
+    },
+    {
+      "id": 19,
+      "en": "I start the workout with a warm-up."
+    },
+    {
+      "id": 20,
+      "en": "She starts to relax when she gets home."
+    },
+    {
+      "id": 21,
+      "en": "I started the job last week."
+    },
+    {
+      "id": 22,
+      "en": "We started late because of traffic."
+    },
+    {
+      "id": 23,
+      "en": "He started the engine and left."
+    },
+    {
+      "id": 24,
+      "en": "They started the download overnight."
+    },
+    {
+      "id": 25,
+      "en": "I was starting when you called."
+    },
+    {
+      "id": 26,
+      "en": "She started to cry during the talk."
+    },
+    {
+      "id": 27,
+      "en": "I didn't start on time."
+    },
+    {
+      "id": 28,
+      "en": "Why did you start without me?"
+    },
+    {
+      "id": 29,
+      "en": "Although I started early, I still finished late."
+    },
+    {
+      "id": 30,
+      "en": "When I was young, I started swimming every summer."
+    },
+    {
+      "id": 31,
+      "en": "I used to start work at five."
+    },
+    {
+      "id": 32,
+      "en": "After we started the plan, we felt calmer."
+    },
+    {
+      "id": 33,
+      "en": "Before you started, I saved the file."
+    },
+    {
+      "id": 34,
+      "en": "I started the wrong task by mistake."
+    },
+    {
+      "id": 35,
+      "en": "They started the meeting without notes."
+    },
+    {
+      "id": 36,
+      "en": "He started to feel sick after lunch."
+    },
+    {
+      "id": 37,
+      "en": "We started the trip on Friday."
+    },
+    {
+      "id": 38,
+      "en": "She started the project on the wrong day."
+    },
+    {
+      "id": 39,
+      "en": "It started to rain during the walk."
+    },
+    {
+      "id": 40,
+      "en": "I started to doubt the price."
+    },
+    {
+      "id": 41,
+      "en": "I will start tomorrow morning."
+    },
+    {
+      "id": 42,
+      "en": "It's important that we start before we spend more."
+    },
+    {
+      "id": 43,
+      "en": "We'll start the call after lunch."
+    },
+    {
+      "id": 44,
+      "en": "If you ask, I will start early."
+    },
+    {
+      "id": 45,
+      "en": "They will start the match at eight."
+    },
+    {
+      "id": 46,
+      "en": "I am going to start the course next month."
+    },
+    {
+      "id": 47,
+      "en": "I'd rather you start with the summary."
+    },
+    {
+      "id": 48,
+      "en": "I would start smaller if I were you."
+    },
+    {
+      "id": 49,
+      "en": "If you bring the list, we will start together."
+    },
+    {
+      "id": 50,
+      "en": "Tomorrow we will start the remodel."
+    },
+    {
+      "id": 51,
+      "en": "He will start the new job on Monday."
+    },
+    {
+      "id": 52,
+      "en": "We would start sooner if we had the keys."
+    },
+    {
+      "id": 53,
+      "en": "If we are late, we will still start on time."
+    },
+    {
+      "id": 54,
+      "en": "I will start the backup tonight."
+    },
+    {
+      "id": 55,
+      "en": "They will start the tour at the gate."
+    },
+    {
+      "id": 56,
+      "en": "I have started the forms."
+    },
+    {
+      "id": 57,
+      "en": "We haven't started packing yet."
+    },
+    {
+      "id": 58,
+      "en": "I've started to feel better."
+    },
+    {
+      "id": 59,
+      "en": "After starting, I felt calmer."
+    },
+    {
+      "id": 60,
+      "en": "Before you start, read the instructions."
+    },
+    {
+      "id": 61,
+      "en": "I need to start early."
+    },
+    {
+      "id": 62,
+      "en": "We want to start the weekend right."
+    },
+    {
+      "id": 63,
+      "en": "Don't start without me."
+    },
+    {
+      "id": 64,
+      "en": "Let's start with coffee."
+    },
+    {
+      "id": 65,
+      "en": "I forgot to start the dishwasher."
+    },
+    {
+      "id": 66,
+      "en": "To start well, you need a plan."
+    },
+    {
+      "id": 67,
+      "en": "Stop starting projects you don't finish."
+    },
+    {
+      "id": 68,
+      "en": "I haven't started my homework yet."
+    },
+    {
+      "id": 69,
+      "en": "It's time to start the budget talk."
+    },
+    {
+      "id": 70,
+      "en": "We have to start before the client leaves."
+    },
+    {
+      "id": 71,
+      "en": "Did you start?"
+    },
+    {
+      "id": 72,
+      "en": "Why won't you start on time?"
+    },
+    {
+      "id": 73,
+      "en": "Can you start the call?"
+    },
+    {
+      "id": 74,
+      "en": "Don't you start work early?"
+    },
+    {
+      "id": 75,
+      "en": "Where did you start?"
+    },
+    {
+      "id": 76,
+      "en": "When will you start the course?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you started yet?"
+    },
+    {
+      "id": 78,
+      "en": "I'm not sure I started the right file."
+    },
+    {
+      "id": 79,
+      "en": "We don't start meetings on weekends."
+    },
+    {
+      "id": 80,
+      "en": "Never start a fight over text."
+    },
+    {
+      "id": 81,
+      "en": "Because I was stressed, I started to overthink."
+    },
+    {
+      "id": 82,
+      "en": "I wanted to wait, but we started early."
+    },
+    {
+      "id": 83,
+      "en": "If we start now, we will save time."
+    },
+    {
+      "id": 84,
+      "en": "We arrive early so that we can start on time."
+    },
+    {
+      "id": 85,
+      "en": "Although the room was noisy, we started the call."
+    },
+    {
+      "id": 86,
+      "en": "After we started the workout, we drank water."
+    },
+    {
+      "id": 87,
+      "en": "Before we start the loan, we check the numbers."
+    },
+    {
+      "id": 88,
+      "en": "If the app crashes, we start again."
+    },
+    {
+      "id": 89,
+      "en": "We started the match, but we still lost."
+    },
+    {
+      "id": 90,
+      "en": "When the baby sleeps, we start to clean."
+    },
+    {
+      "id": 91,
+      "en": "When we travel, we start packing early."
+    },
+    {
+      "id": 92,
+      "en": "We started the football pool on Sunday."
+    },
+    {
+      "id": 93,
+      "en": "They start the half with a kickoff."
+    },
+    {
+      "id": 94,
+      "en": "I'm glad we started on time."
+    },
+    {
+      "id": 95,
+      "en": "I don't think he starts before noon."
+    },
+    {
+      "id": 96,
+      "en": "She asked me to start early."
+    },
+    {
+      "id": 97,
+      "en": "He told me to start with the numbers."
+    },
+    {
+      "id": 98,
+      "en": "I prefer that we start with the budget."
+    },
+    {
+      "id": 99,
+      "en": "Unless we start, we will miss the deadline."
+    },
+    {
+      "id": 100,
+      "en": "It's strange that he started so late."
+    }
+  ]
+}

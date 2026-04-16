@@ -1,0 +1,407 @@
+{
+  "verb": "saber",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:saber",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I know your name."
+    },
+    {
+      "id": 2,
+      "en": "We know the way home."
+    },
+    {
+      "id": 3,
+      "en": "He knows the password."
+    },
+    {
+      "id": 4,
+      "en": "She knows the truth."
+    },
+    {
+      "id": 5,
+      "en": "They know the time."
+    },
+    {
+      "id": 6,
+      "en": "You know the rules."
+    },
+    {
+      "id": 7,
+      "en": "I know how to cook pasta."
+    },
+    {
+      "id": 8,
+      "en": "We know how to fix the Wi‑Fi."
+    },
+    {
+      "id": 9,
+      "en": "He knows how to drive."
+    },
+    {
+      "id": 10,
+      "en": "She knows how to swim."
+    },
+    {
+      "id": 11,
+      "en": "I know where the bus stops."
+    },
+    {
+      "id": 12,
+      "en": "We know when the store closes."
+    },
+    {
+      "id": 13,
+      "en": "They know why the delay happened."
+    },
+    {
+      "id": 14,
+      "en": "You know what I mean."
+    },
+    {
+      "id": 15,
+      "en": "I know the football score."
+    },
+    {
+      "id": 16,
+      "en": "He knows the bill total."
+    },
+    {
+      "id": 17,
+      "en": "We know the money plan."
+    },
+    {
+      "id": 18,
+      "en": "She knows the city well."
+    },
+    {
+      "id": 19,
+      "en": "I know the gym hours."
+    },
+    {
+      "id": 20,
+      "en": "They know the travel date."
+    },
+    {
+      "id": 21,
+      "en": "I knew the answer yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We knew the plan was risky."
+    },
+    {
+      "id": 23,
+      "en": "He knew the meeting time."
+    },
+    {
+      "id": 24,
+      "en": "She knew the room number."
+    },
+    {
+      "id": 25,
+      "en": "I didn't know about the change."
+    },
+    {
+      "id": 26,
+      "en": "They knew the song by heart."
+    },
+    {
+      "id": 27,
+      "en": "When I was a student, I knew the library hours by heart."
+    },
+    {
+      "id": 28,
+      "en": "When I was young, I knew every neighbor on the street."
+    },
+    {
+      "id": 29,
+      "en": "We knew because the alert said so."
+    },
+    {
+      "id": 30,
+      "en": "He knew the route by heart."
+    },
+    {
+      "id": 31,
+      "en": "I found out last night."
+    },
+    {
+      "id": 32,
+      "en": "She found out at work."
+    },
+    {
+      "id": 33,
+      "en": "Why didn't you say you knew?"
+    },
+    {
+      "id": 34,
+      "en": "We found out from a text."
+    },
+    {
+      "id": 35,
+      "en": "I knew how to play the song."
+    },
+    {
+      "id": 36,
+      "en": "He found out about the money mix-up."
+    },
+    {
+      "id": 37,
+      "en": "They knew the simple rule."
+    },
+    {
+      "id": 38,
+      "en": "I found out on the trip."
+    },
+    {
+      "id": 39,
+      "en": "We knew the travel budget."
+    },
+    {
+      "id": 40,
+      "en": "You knew more than you said."
+    },
+    {
+      "id": 41,
+      "en": "I will know tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will know if you send the file."
+    },
+    {
+      "id": 43,
+      "en": "If you test it, we will know fast."
+    },
+    {
+      "id": 44,
+      "en": "She will know the result on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't know without a clear report."
+    },
+    {
+      "id": 46,
+      "en": "I would know more if I asked."
+    },
+    {
+      "id": 47,
+      "en": "We would know sooner if the app worked."
+    },
+    {
+      "id": 48,
+      "en": "Would you know the place if you saw it again?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will know the way."
+    },
+    {
+      "id": 50,
+      "en": "They will know the score at night."
+    },
+    {
+      "id": 51,
+      "en": "You will know better if you sleep."
+    },
+    {
+      "id": 52,
+      "en": "I would know the answer if I studied."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will know from the alert."
+    },
+    {
+      "id": 54,
+      "en": "I will know the football lineup after the news."
+    },
+    {
+      "id": 55,
+      "en": "We will know before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have known him for years."
+    },
+    {
+      "id": 57,
+      "en": "We haven't known the full truth yet."
+    },
+    {
+      "id": 58,
+      "en": "She has known since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you known her long?"
+    },
+    {
+      "id": 60,
+      "en": "I need to know today."
+    },
+    {
+      "id": 61,
+      "en": "I want to know the truth."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to ask what he needed to know."
+    },
+    {
+      "id": 63,
+      "en": "Remember to check what you know."
+    },
+    {
+      "id": 64,
+      "en": "I hate to not know when I am tired."
+    },
+    {
+      "id": 65,
+      "en": "We started to know the team better last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to know the answer tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to find out early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to guess; she wants to know."
+    },
+    {
+      "id": 69,
+      "en": "I want you to know the truth."
+    },
+    {
+      "id": 70,
+      "en": "They wanted to know the facts before they spoke."
+    },
+    {
+      "id": 71,
+      "en": "Do you know the time?"
+    },
+    {
+      "id": 72,
+      "en": "Why didn't you know?"
+    },
+    {
+      "id": 73,
+      "en": "Know the rules before you speak."
+    },
+    {
+      "id": 74,
+      "en": "Don't say you know if you don't."
+    },
+    {
+      "id": 75,
+      "en": "Never share what you don't know for sure."
+    },
+    {
+      "id": 76,
+      "en": "Can't you find out sooner?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you known this already?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you know after the test?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you find out?"
+    },
+    {
+      "id": 80,
+      "en": "Will you know if I call?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you know at the meeting?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it good to know early?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you know the address?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you know first?"
+    },
+    {
+      "id": 85,
+      "en": "Stop pretending you know everything."
+    },
+    {
+      "id": 86,
+      "en": "I know because I checked."
+    },
+    {
+      "id": 87,
+      "en": "We knew the trip plan, but the flight changed."
+    },
+    {
+      "id": 88,
+      "en": "When you know the facts, speak clearly."
+    },
+    {
+      "id": 89,
+      "en": "If you know the plan, you will feel calmer."
+    },
+    {
+      "id": 90,
+      "en": "Although I knew the truth, I stayed quiet."
+    },
+    {
+      "id": 91,
+      "en": "Before you pay, know the total."
+    },
+    {
+      "id": 92,
+      "en": "After I found out, I felt calmer."
+    },
+    {
+      "id": 93,
+      "en": "Because we knew early, we fixed the issue."
+    },
+    {
+      "id": 94,
+      "en": "I know the policy at work, but I stay quiet at home."
+    },
+    {
+      "id": 95,
+      "en": "When he feels stress, he checks what he knows first."
+    },
+    {
+      "id": 96,
+      "en": "If we know the data, we will decide faster."
+    },
+    {
+      "id": 97,
+      "en": "Although we knew the link, the page broke."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, know the gate number."
+    },
+    {
+      "id": 99,
+      "en": "After we knew the football result, we went home quiet."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you know the safety rules."
+    }
+  ]
+}

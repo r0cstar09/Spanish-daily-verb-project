@@ -1,0 +1,407 @@
+{
+  "verb": "pagar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:pagar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I pay rent on the first day of the month."
+    },
+    {
+      "id": 2,
+      "en": "We pay the bills online."
+    },
+    {
+      "id": 3,
+      "en": "He pays for lunch today."
+    },
+    {
+      "id": 4,
+      "en": "She pays with her phone at the store."
+    },
+    {
+      "id": 5,
+      "en": "They pay the gym every month."
+    },
+    {
+      "id": 6,
+      "en": "You pay too much for coffee."
+    },
+    {
+      "id": 7,
+      "en": "I pay at the door for the concert."
+    },
+    {
+      "id": 8,
+      "en": "We pay cash at the market."
+    },
+    {
+      "id": 9,
+      "en": "He pays for parking in the city."
+    },
+    {
+      "id": 10,
+      "en": "She pays the bill after dinner."
+    },
+    {
+      "id": 11,
+      "en": "I pay the loan on the fifteenth."
+    },
+    {
+      "id": 12,
+      "en": "We pay for gas before we leave."
+    },
+    {
+      "id": 13,
+      "en": "They pay the sitter on Friday."
+    },
+    {
+      "id": 14,
+      "en": "I pay extra for fast delivery."
+    },
+    {
+      "id": 15,
+      "en": "You pay taxes once a year."
+    },
+    {
+      "id": 16,
+      "en": "He pays for the football tickets online."
+    },
+    {
+      "id": 17,
+      "en": "We pay the hotel at checkout."
+    },
+    {
+      "id": 18,
+      "en": "I pay the fine if I park in the wrong spot."
+    },
+    {
+      "id": 19,
+      "en": "She pays the plumber for the repair."
+    },
+    {
+      "id": 20,
+      "en": "They pay the cleaner every week."
+    },
+    {
+      "id": 21,
+      "en": "I paid for the groceries yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We paid the rent late last month."
+    },
+    {
+      "id": 23,
+      "en": "He paid for the trip with points."
+    },
+    {
+      "id": 24,
+      "en": "She paid at the kiosk."
+    },
+    {
+      "id": 25,
+      "en": "I didn't pay the fee yet."
+    },
+    {
+      "id": 26,
+      "en": "They paid for dinner when we were short on cash."
+    },
+    {
+      "id": 27,
+      "en": "I was paying when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I paid rent with two jobs."
+    },
+    {
+      "id": 29,
+      "en": "We paid in cash because the card reader failed."
+    },
+    {
+      "id": 30,
+      "en": "He paid the invoice on Monday."
+    },
+    {
+      "id": 31,
+      "en": "I paid for the app last year."
+    },
+    {
+      "id": 32,
+      "en": "She paid for the medicine out of pocket."
+    },
+    {
+      "id": 33,
+      "en": "Why did you pay twice?"
+    },
+    {
+      "id": 34,
+      "en": "We paid for the train tickets."
+    },
+    {
+      "id": 35,
+      "en": "I paid the price for rushing."
+    },
+    {
+      "id": 36,
+      "en": "I paid the driver at the airport."
+    },
+    {
+      "id": 37,
+      "en": "They paid for the wedding gift."
+    },
+    {
+      "id": 38,
+      "en": "He paid for the gym class."
+    },
+    {
+      "id": 39,
+      "en": "I paid the bill at the bar."
+    },
+    {
+      "id": 40,
+      "en": "You paid more than I did."
+    },
+    {
+      "id": 41,
+      "en": "I will pay tomorrow when I get cash."
+    },
+    {
+      "id": 42,
+      "en": "We will pay at the hotel desk."
+    },
+    {
+      "id": 43,
+      "en": "If we eat out, I will pay for you."
+    },
+    {
+      "id": 44,
+      "en": "She will pay online tonight."
+    },
+    {
+      "id": 45,
+      "en": "He won't pay without a receipt."
+    },
+    {
+      "id": 46,
+      "en": "I would pay less if I had a coupon."
+    },
+    {
+      "id": 47,
+      "en": "We would pay monthly if we could choose."
+    },
+    {
+      "id": 48,
+      "en": "Would you pay for a better seat?"
+    },
+    {
+      "id": 49,
+      "en": "If we book early, we will pay less."
+    },
+    {
+      "id": 50,
+      "en": "They will pay the supplier next week."
+    },
+    {
+      "id": 51,
+      "en": "You will pay the fee when you sign up."
+    },
+    {
+      "id": 52,
+      "en": "I would pay cash if the card reader is down."
+    },
+    {
+      "id": 53,
+      "en": "If we travel, we will pay in euros."
+    },
+    {
+      "id": 54,
+      "en": "I will pay for the football stream if you cook."
+    },
+    {
+      "id": 55,
+      "en": "We will pay the deposit before we move in."
+    },
+    {
+      "id": 56,
+      "en": "I have paid that bill already."
+    },
+    {
+      "id": 57,
+      "en": "We haven't paid the parking ticket yet."
+    },
+    {
+      "id": 58,
+      "en": "She has paid for three classes this month."
+    },
+    {
+      "id": 59,
+      "en": "Have you paid the rent?"
+    },
+    {
+      "id": 60,
+      "en": "I need to pay the phone bill."
+    },
+    {
+      "id": 61,
+      "en": "I want to pay off the debt early."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to pay the parking meter."
+    },
+    {
+      "id": 63,
+      "en": "Remember to pay before you leave."
+    },
+    {
+      "id": 64,
+      "en": "I hate to pay late fees."
+    },
+    {
+      "id": 65,
+      "en": "We started to pay the loan last year."
+    },
+    {
+      "id": 66,
+      "en": "I have to pay the dentist today."
+    },
+    {
+      "id": 67,
+      "en": "I plan to pay in full when I travel."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to pay for extras."
+    },
+    {
+      "id": 69,
+      "en": "I want you to pay your share."
+    },
+    {
+      "id": 70,
+      "en": "They tried to pay with a card that was declined."
+    },
+    {
+      "id": 71,
+      "en": "Do you pay rent monthly?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you pay in cash?"
+    },
+    {
+      "id": 73,
+      "en": "Pay at the counter."
+    },
+    {
+      "id": 74,
+      "en": "Don't pay without a receipt."
+    },
+    {
+      "id": 75,
+      "en": "Never pay a stranger online."
+    },
+    {
+      "id": 76,
+      "en": "Can't you pay today?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you paid yet?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you pay for dinner?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you pay the parking fee?"
+    },
+    {
+      "id": 80,
+      "en": "Will you pay the bill if I drive?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you pay the invoice?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it expensive to pay in dollars abroad?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you pay with a card?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you pay half now?"
+    },
+    {
+      "id": 85,
+      "en": "Stop saying you can't pay today."
+    },
+    {
+      "id": 86,
+      "en": "I pay on time because I keep a calendar."
+    },
+    {
+      "id": 87,
+      "en": "We paid for dinner, but we split dessert."
+    },
+    {
+      "id": 88,
+      "en": "When you pay with cash, ask for change."
+    },
+    {
+      "id": 89,
+      "en": "If you pay early, you will save money."
+    },
+    {
+      "id": 90,
+      "en": "Although I paid the bill, I still felt stressed."
+    },
+    {
+      "id": 91,
+      "en": "Before you pay, check the total."
+    },
+    {
+      "id": 92,
+      "en": "After I paid the rent, I went grocery shopping."
+    },
+    {
+      "id": 93,
+      "en": "Because we paid online, we got a receipt by email."
+    },
+    {
+      "id": 94,
+      "en": "I pay at work with a card, but I use cash at home."
+    },
+    {
+      "id": 95,
+      "en": "When he pays for lunch, he leaves a tip."
+    },
+    {
+      "id": 96,
+      "en": "If we pay the fee, we can enter the match."
+    },
+    {
+      "id": 97,
+      "en": "Although we paid the hotel, we still had a problem."
+    },
+    {
+      "id": 98,
+      "en": "Before you pay, save the confirmation on your phone."
+    },
+    {
+      "id": 99,
+      "en": "After we paid for the football tickets, we took the train."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you pay on time."
+    }
+  ]
+}

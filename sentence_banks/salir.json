@@ -1,0 +1,407 @@
+{
+  "verb": "salir",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:salir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I leave home at seven."
+    },
+    {
+      "id": 2,
+      "en": "We go out on Friday nights."
+    },
+    {
+      "id": 3,
+      "en": "He leaves work at five."
+    },
+    {
+      "id": 4,
+      "en": "She goes out with her friends."
+    },
+    {
+      "id": 5,
+      "en": "They leave through the side door."
+    },
+    {
+      "id": 6,
+      "en": "You leave too late."
+    },
+    {
+      "id": 7,
+      "en": "I go out for coffee before work."
+    },
+    {
+      "id": 8,
+      "en": "We leave the gym early."
+    },
+    {
+      "id": 9,
+      "en": "He goes out with someone new."
+    },
+    {
+      "id": 10,
+      "en": "She leaves the office on time."
+    },
+    {
+      "id": 11,
+      "en": "I go out to eat when I am tired."
+    },
+    {
+      "id": 12,
+      "en": "We leave the city on weekends."
+    },
+    {
+      "id": 13,
+      "en": "They show up in every group photo."
+    },
+    {
+      "id": 14,
+      "en": "You leave the keys on the table."
+    },
+    {
+      "id": 15,
+      "en": "I leave the house clean."
+    },
+    {
+      "id": 16,
+      "en": "The sun comes out in the afternoon."
+    },
+    {
+      "id": 17,
+      "en": "We go out to watch the football match."
+    },
+    {
+      "id": 18,
+      "en": "She leaves the meeting first."
+    },
+    {
+      "id": 19,
+      "en": "I go out for a walk after dinner."
+    },
+    {
+      "id": 20,
+      "en": "The bill comes out higher than I thought."
+    },
+    {
+      "id": 21,
+      "en": "I left early yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We went out last night."
+    },
+    {
+      "id": 23,
+      "en": "He left the job in March."
+    },
+    {
+      "id": 24,
+      "en": "She went out with a friend."
+    },
+    {
+      "id": 25,
+      "en": "I didn't leave on time."
+    },
+    {
+      "id": 26,
+      "en": "They left the hotel at six."
+    },
+    {
+      "id": 27,
+      "en": "I was leaving when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I went out every weekend."
+    },
+    {
+      "id": 29,
+      "en": "We left because the rain started."
+    },
+    {
+      "id": 30,
+      "en": "He went out after the call."
+    },
+    {
+      "id": 31,
+      "en": "I showed up blurry in the photo."
+    },
+    {
+      "id": 32,
+      "en": "She left the room quietly."
+    },
+    {
+      "id": 33,
+      "en": "Why did you leave?"
+    },
+    {
+      "id": 34,
+      "en": "We left through the kitchen door."
+    },
+    {
+      "id": 35,
+      "en": "I left the gym at eight."
+    },
+    {
+      "id": 36,
+      "en": "He went out to the city center."
+    },
+    {
+      "id": 37,
+      "en": "The plan turned out fine."
+    },
+    {
+      "id": 38,
+      "en": "I left on the trip at dawn."
+    },
+    {
+      "id": 39,
+      "en": "We left the money in the safe."
+    },
+    {
+      "id": 40,
+      "en": "You left later than you said."
+    },
+    {
+      "id": 41,
+      "en": "I will leave tomorrow morning."
+    },
+    {
+      "id": 42,
+      "en": "We will go out if you are free."
+    },
+    {
+      "id": 43,
+      "en": "If you arrive early, I will leave first."
+    },
+    {
+      "id": 44,
+      "en": "She will leave the office on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't go out without a plan."
+    },
+    {
+      "id": 46,
+      "en": "I would leave earlier if I could."
+    },
+    {
+      "id": 47,
+      "en": "We would go out if the weather were nice."
+    },
+    {
+      "id": 48,
+      "en": "Would you go out with me this weekend?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will leave at dawn."
+    },
+    {
+      "id": 50,
+      "en": "They will leave the site at noon."
+    },
+    {
+      "id": 51,
+      "en": "Water comes out of the faucet when I turn it on."
+    },
+    {
+      "id": 52,
+      "en": "I would go out if I were not so tired."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will leave early."
+    },
+    {
+      "id": 54,
+      "en": "I will go out to watch the football final."
+    },
+    {
+      "id": 55,
+      "en": "We will leave before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have left early all week."
+    },
+    {
+      "id": 57,
+      "en": "We haven't gone out yet."
+    },
+    {
+      "id": 58,
+      "en": "She has gone out more since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you left the house?"
+    },
+    {
+      "id": 60,
+      "en": "I need to leave today."
+    },
+    {
+      "id": 61,
+      "en": "I want to go out tonight."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to leave the key."
+    },
+    {
+      "id": 63,
+      "en": "Remember to leave a note."
+    },
+    {
+      "id": 64,
+      "en": "I hate to leave when I am tired."
+    },
+    {
+      "id": 65,
+      "en": "We started to go out more last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to leave work on time tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to leave early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to go out without a coat."
+    },
+    {
+      "id": 69,
+      "en": "I want you to leave on time."
+    },
+    {
+      "id": 70,
+      "en": "They tried to leave before the rush."
+    },
+    {
+      "id": 71,
+      "en": "Do you leave at seven?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you go out so late?"
+    },
+    {
+      "id": 73,
+      "en": "Leave the door open."
+    },
+    {
+      "id": 74,
+      "en": "Don't leave without saying goodbye."
+    },
+    {
+      "id": 75,
+      "en": "Never leave money on the counter."
+    },
+    {
+      "id": 76,
+      "en": "Can't you leave earlier?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you left yet?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you go out with us?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you go out last night?"
+    },
+    {
+      "id": 80,
+      "en": "Will you leave if I call?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you leave after the meeting?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to leave early?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you leave home before eight?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you leave first?"
+    },
+    {
+      "id": 85,
+      "en": "Get out of the way of the bike."
+    },
+    {
+      "id": 86,
+      "en": "I leave early because traffic is bad."
+    },
+    {
+      "id": 87,
+      "en": "We went out, but the place was closed."
+    },
+    {
+      "id": 88,
+      "en": "When you leave, turn off the lights."
+    },
+    {
+      "id": 89,
+      "en": "If you leave early, you will sleep better."
+    },
+    {
+      "id": 90,
+      "en": "Although I left late, I still felt calm."
+    },
+    {
+      "id": 91,
+      "en": "Before you pay, check how much it comes out to."
+    },
+    {
+      "id": 92,
+      "en": "After I left, I felt calmer."
+    },
+    {
+      "id": 93,
+      "en": "Because we left early, we got a table."
+    },
+    {
+      "id": 94,
+      "en": "I leave for meetings at work, but I stay home on Fridays."
+    },
+    {
+      "id": 95,
+      "en": "When he feels stress, he goes out for a walk."
+    },
+    {
+      "id": 96,
+      "en": "If we leave now, we will catch the train."
+    },
+    {
+      "id": 97,
+      "en": "Although we went out, the night was quiet."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, see how much the trip comes out to."
+    },
+    {
+      "id": 99,
+      "en": "After we went out for the football match, we went home tired."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you leave on time."
+    }
+  ]
+}

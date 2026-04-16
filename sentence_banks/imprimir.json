@@ -1,0 +1,407 @@
+{
+  "verb": "imprimir",
+  "generated_at": "2026-04-17T16:00:00+00:00",
+  "source": "sentence_banks:imprimir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I print the file at home."
+    },
+    {
+      "id": 2,
+      "en": "We print the tickets before the trip."
+    },
+    {
+      "id": 3,
+      "en": "She prints photos at the store."
+    },
+    {
+      "id": 4,
+      "en": "They print the report at the office."
+    },
+    {
+      "id": 5,
+      "en": "You print too many pages every day."
+    },
+    {
+      "id": 6,
+      "en": "He prints the form for the doctor."
+    },
+    {
+      "id": 7,
+      "en": "I print my work from the laptop."
+    },
+    {
+      "id": 8,
+      "en": "We print the list for the market."
+    },
+    {
+      "id": 9,
+      "en": "The school prints letters for the parents."
+    },
+    {
+      "id": 10,
+      "en": "I print the map before we drive to the city."
+    },
+    {
+      "id": 11,
+      "en": "She prints receipts for every sale at the store."
+    },
+    {
+      "id": 12,
+      "en": "We print the schedule for the team."
+    },
+    {
+      "id": 13,
+      "en": "He prints the email at work."
+    },
+    {
+      "id": 14,
+      "en": "I print the boarding pass at the airport."
+    },
+    {
+      "id": 15,
+      "en": "Kids print homework from the computer."
+    },
+    {
+      "id": 16,
+      "en": "We print labels for the boxes at home."
+    },
+    {
+      "id": 17,
+      "en": "The office prints signs for the door."
+    },
+    {
+      "id": 18,
+      "en": "I print a copy for my friend."
+    },
+    {
+      "id": 19,
+      "en": "They print the menu at the restaurant."
+    },
+    {
+      "id": 20,
+      "en": "You print the train ticket on your phone."
+    },
+    {
+      "id": 21,
+      "en": "I printed the document yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We printed the contract at the bank."
+    },
+    {
+      "id": 23,
+      "en": "He printed the wrong page."
+    },
+    {
+      "id": 24,
+      "en": "They printed photos from the beach trip."
+    },
+    {
+      "id": 25,
+      "en": "I was printing when the power went out."
+    },
+    {
+      "id": 26,
+      "en": "She printed the letter for her family."
+    },
+    {
+      "id": 27,
+      "en": "I didn't print the second page."
+    },
+    {
+      "id": 28,
+      "en": "Why did you print so many copies?"
+    },
+    {
+      "id": 29,
+      "en": "Although I printed twice, the ink was still light."
+    },
+    {
+      "id": 30,
+      "en": "When I was a student, we printed every essay."
+    },
+    {
+      "id": 31,
+      "en": "After I printed, I put the paper on the table."
+    },
+    {
+      "id": 32,
+      "en": "Before she printed, she checked the file name."
+    },
+    {
+      "id": 33,
+      "en": "I printed the file because the meeting was today."
+    },
+    {
+      "id": 34,
+      "en": "I printed at home, but the office printer was faster."
+    },
+    {
+      "id": 35,
+      "en": "The hotel printed a map for us."
+    },
+    {
+      "id": 36,
+      "en": "We printed little paper that month."
+    },
+    {
+      "id": 37,
+      "en": "He printed the ticket at the station machine."
+    },
+    {
+      "id": 38,
+      "en": "I never printed that email."
+    },
+    {
+      "id": 39,
+      "en": "They printed the program for the game."
+    },
+    {
+      "id": 40,
+      "en": "She printed the recipe from the phone."
+    },
+    {
+      "id": 41,
+      "en": "I will print the file tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will print the plan before the meeting."
+    },
+    {
+      "id": 43,
+      "en": "If you send the file, I will print it."
+    },
+    {
+      "id": 44,
+      "en": "He won't print without saving first."
+    },
+    {
+      "id": 45,
+      "en": "Would you print this at your office?"
+    },
+    {
+      "id": 46,
+      "en": "They will print the poster for the gym."
+    },
+    {
+      "id": 47,
+      "en": "I'm going to print the ticket at the airport."
+    },
+    {
+      "id": 48,
+      "en": "If the printer works, we will print today."
+    },
+    {
+      "id": 49,
+      "en": "I would print in color if the ink were cheaper."
+    },
+    {
+      "id": 50,
+      "en": "We would print less if we read more on the screen."
+    },
+    {
+      "id": 51,
+      "en": "She will print the resume before the interview."
+    },
+    {
+      "id": 52,
+      "en": "If the line is long, we will print at home."
+    },
+    {
+      "id": 53,
+      "en": "Don't worry, I will print your copy."
+    },
+    {
+      "id": 54,
+      "en": "I would print both sides if the printer allowed it."
+    },
+    {
+      "id": 55,
+      "en": "The store will print the photo by Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have printed this form before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't printed the report yet."
+    },
+    {
+      "id": 58,
+      "en": "I've printed the ticket from my phone."
+    },
+    {
+      "id": 59,
+      "en": "I need to print the document."
+    },
+    {
+      "id": 60,
+      "en": "She forgot to print the last page."
+    },
+    {
+      "id": 61,
+      "en": "To print clearly, you need good paper."
+    },
+    {
+      "id": 62,
+      "en": "I want to print the photo for the wall."
+    },
+    {
+      "id": 63,
+      "en": "Don't print personal files on the office printer."
+    },
+    {
+      "id": 64,
+      "en": "I have to print before five."
+    },
+    {
+      "id": 65,
+      "en": "We meant to print the agenda earlier."
+    },
+    {
+      "id": 66,
+      "en": "They have printed every handout for class."
+    },
+    {
+      "id": 67,
+      "en": "I haven't had time to print the file."
+    },
+    {
+      "id": 68,
+      "en": "I tried to print, but the printer was empty."
+    },
+    {
+      "id": 69,
+      "en": "We have printed at that shop for years."
+    },
+    {
+      "id": 70,
+      "en": "I want you to print two copies."
+    },
+    {
+      "id": 71,
+      "en": "Did you print the file?"
+    },
+    {
+      "id": 72,
+      "en": "Why do you print every email?"
+    },
+    {
+      "id": 73,
+      "en": "Don't print double if you don't need it."
+    },
+    {
+      "id": 74,
+      "en": "Print the ticket here."
+    },
+    {
+      "id": 75,
+      "en": "Haven't you printed the form yet?"
+    },
+    {
+      "id": 76,
+      "en": "Won't you print a copy for me?"
+    },
+    {
+      "id": 77,
+      "en": "Can you print this at school?"
+    },
+    {
+      "id": 78,
+      "en": "Why didn't you print the address?"
+    },
+    {
+      "id": 79,
+      "en": "Never print without checking the page count."
+    },
+    {
+      "id": 80,
+      "en": "Don't print photos with the wrong size."
+    },
+    {
+      "id": 81,
+      "en": "Do you print at home or at work?"
+    },
+    {
+      "id": 82,
+      "en": "Where did you print the poster?"
+    },
+    {
+      "id": 83,
+      "en": "When will you print the final draft?"
+    },
+    {
+      "id": 84,
+      "en": "Can't you print in black and white?"
+    },
+    {
+      "id": 85,
+      "en": "Will she print the letter today?"
+    },
+    {
+      "id": 86,
+      "en": "Because we print less, we save money."
+    },
+    {
+      "id": 87,
+      "en": "When you print, check the paper in the tray."
+    },
+    {
+      "id": 88,
+      "en": "If I print now, I will be ready for the meeting."
+    },
+    {
+      "id": 89,
+      "en": "Although the file is long, I print only the first page."
+    },
+    {
+      "id": 90,
+      "en": "Before you print, save the document."
+    },
+    {
+      "id": 91,
+      "en": "After we printed, we stapled the pages."
+    },
+    {
+      "id": 92,
+      "en": "I print at work, but I buy paper at the store."
+    },
+    {
+      "id": 93,
+      "en": "When the battery dies, I can't print from the phone."
+    },
+    {
+      "id": 94,
+      "en": "If we print at the hotel, we pay per page."
+    },
+    {
+      "id": 95,
+      "en": "Although the screen is clear, some people still print."
+    },
+    {
+      "id": 96,
+      "en": "Because the flight is early, I print the pass tonight."
+    },
+    {
+      "id": 97,
+      "en": "Before the game, they printed the lineup."
+    },
+    {
+      "id": 98,
+      "en": "After dinner, I printed the homework sheet."
+    },
+    {
+      "id": 99,
+      "en": "It's important that we print the budget before we spend."
+    },
+    {
+      "id": 100,
+      "en": "When I work from home, I print fewer pages."
+    }
+  ]
+}

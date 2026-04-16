@@ -1,0 +1,407 @@
+{
+  "verb": "vender",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:vender",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I sell coffee at the small café."
+    },
+    {
+      "id": 2,
+      "en": "We sell fruit at the market on Saturdays."
+    },
+    {
+      "id": 3,
+      "en": "He sells tickets online."
+    },
+    {
+      "id": 4,
+      "en": "She sells clothes in the store."
+    },
+    {
+      "id": 5,
+      "en": "They sell phones at the mall."
+    },
+    {
+      "id": 6,
+      "en": "You sell your old bike too cheap."
+    },
+    {
+      "id": 7,
+      "en": "The bakery sells fresh bread every morning."
+    },
+    {
+      "id": 8,
+      "en": "I sell my photos on the website."
+    },
+    {
+      "id": 9,
+      "en": "We sell water at the football game."
+    },
+    {
+      "id": 10,
+      "en": "He sells insurance for a living."
+    },
+    {
+      "id": 11,
+      "en": "She sells lunch near the office."
+    },
+    {
+      "id": 12,
+      "en": "I sell the car because I need money."
+    },
+    {
+      "id": 13,
+      "en": "They sell rice and beans at the shop."
+    },
+    {
+      "id": 14,
+      "en": "The hotel sells trips to the island."
+    },
+    {
+      "id": 15,
+      "en": "We sell the table on the app."
+    },
+    {
+      "id": 16,
+      "en": "He sells gym plans at the front desk."
+    },
+    {
+      "id": 17,
+      "en": "I sell eggs from my house."
+    },
+    {
+      "id": 18,
+      "en": "She sells flowers by the train station."
+    },
+    {
+      "id": 19,
+      "en": "You sell fast when the price is fair."
+    },
+    {
+      "id": 20,
+      "en": "The store sells cold drinks in summer."
+    },
+    {
+      "id": 21,
+      "en": "I sold my laptop last week."
+    },
+    {
+      "id": 22,
+      "en": "We sold the house in March."
+    },
+    {
+      "id": 23,
+      "en": "He didn't sell the bike."
+    },
+    {
+      "id": 24,
+      "en": "She sold the tickets fast."
+    },
+    {
+      "id": 25,
+      "en": "I didn't sell anything yesterday."
+    },
+    {
+      "id": 26,
+      "en": "They sold fruit at the fair."
+    },
+    {
+      "id": 27,
+      "en": "I was selling coffee when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was young, my family sold food on the street."
+    },
+    {
+      "id": 29,
+      "en": "We sold the car because we moved to the city."
+    },
+    {
+      "id": 30,
+      "en": "He sold his phone on the trip."
+    },
+    {
+      "id": 31,
+      "en": "Why did you sell the bike?"
+    },
+    {
+      "id": 32,
+      "en": "We sold the table from home."
+    },
+    {
+      "id": 33,
+      "en": "I sold the photo for a good price."
+    },
+    {
+      "id": 34,
+      "en": "She sold lunch boxes at work."
+    },
+    {
+      "id": 35,
+      "en": "I sold more books than I planned."
+    },
+    {
+      "id": 36,
+      "en": "They sold cold water at the park."
+    },
+    {
+      "id": 37,
+      "en": "You sold the wrong size by mistake."
+    },
+    {
+      "id": 38,
+      "en": "I sold the gift card online."
+    },
+    {
+      "id": 39,
+      "en": "We sold tickets before the game."
+    },
+    {
+      "id": 40,
+      "en": "He sold football shirts at the stadium."
+    },
+    {
+      "id": 41,
+      "en": "I will sell the car tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will sell if you share the link."
+    },
+    {
+      "id": 43,
+      "en": "If you lower the price, we will sell faster."
+    },
+    {
+      "id": 44,
+      "en": "She will sell on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't sell without a safe payment."
+    },
+    {
+      "id": 46,
+      "en": "I would sell the bike if I had a buyer."
+    },
+    {
+      "id": 47,
+      "en": "We would sell online if the site worked."
+    },
+    {
+      "id": 48,
+      "en": "Would you sell your phone to me?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will sell the extra bags."
+    },
+    {
+      "id": 50,
+      "en": "They will sell at the market next week."
+    },
+    {
+      "id": 51,
+      "en": "You will sell faster if you add clear photos."
+    },
+    {
+      "id": 52,
+      "en": "I would sell the table if I had space."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will sell umbrellas near the door."
+    },
+    {
+      "id": 54,
+      "en": "I will sell the laptop after the meeting."
+    },
+    {
+      "id": 55,
+      "en": "We will sell before we move."
+    },
+    {
+      "id": 56,
+      "en": "I have sold this model before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't sold the house yet."
+    },
+    {
+      "id": 58,
+      "en": "She has sold every week since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you sold the bike?"
+    },
+    {
+      "id": 60,
+      "en": "I need to sell today."
+    },
+    {
+      "id": 61,
+      "en": "I want to sell at a fair price."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to sell the old chair."
+    },
+    {
+      "id": 63,
+      "en": "Remember to sell before you move."
+    },
+    {
+      "id": 64,
+      "en": "I hate to sell when the market is slow."
+    },
+    {
+      "id": 65,
+      "en": "We started to sell online last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to sell the car tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to sell early on Friday."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to sell without a receipt."
+    },
+    {
+      "id": 69,
+      "en": "I want you to sell the extra tickets."
+    },
+    {
+      "id": 70,
+      "en": "They tried to sell at the fair."
+    },
+    {
+      "id": 71,
+      "en": "Do you sell every day?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you sell the phone so cheap?"
+    },
+    {
+      "id": 73,
+      "en": "Sell the bike before winter."
+    },
+    {
+      "id": 74,
+      "en": "Don't sell without checking the buyer."
+    },
+    {
+      "id": 75,
+      "en": "Never sell a gift card for cash in the street."
+    },
+    {
+      "id": 76,
+      "en": "Can't you sell online?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you sold the table?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you sell to a friend?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you sell the laptop?"
+    },
+    {
+      "id": 80,
+      "en": "Will you sell if I offer the full price?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you sell the tickets?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to sell before the move?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you sell at the market on Sundays?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you sell the old phone first?"
+    },
+    {
+      "id": 85,
+      "en": "Don't sell if you feel unsure."
+    },
+    {
+      "id": 86,
+      "en": "I sell online because the store rent is high."
+    },
+    {
+      "id": 87,
+      "en": "We sold the table, but the buyer was late."
+    },
+    {
+      "id": 88,
+      "en": "When you sell a phone, wipe the data first."
+    },
+    {
+      "id": 89,
+      "en": "If you sell early, you will save stress."
+    },
+    {
+      "id": 90,
+      "en": "Although I sold fast, I still felt tired."
+    },
+    {
+      "id": 91,
+      "en": "Before you travel, sell the heavy bags."
+    },
+    {
+      "id": 92,
+      "en": "After I sold the car, I took the bus."
+    },
+    {
+      "id": 93,
+      "en": "Because we sold early, we had cash for the trip."
+    },
+    {
+      "id": 94,
+      "en": "I sell at work, but I buy food at home."
+    },
+    {
+      "id": 95,
+      "en": "When he needs money, he sells old clothes."
+    },
+    {
+      "id": 96,
+      "en": "If we sell the tickets, we will pay the rent."
+    },
+    {
+      "id": 97,
+      "en": "Although we sold lunch, we still had food left."
+    },
+    {
+      "id": 98,
+      "en": "Before winter, sell the summer clothes online."
+    },
+    {
+      "id": 99,
+      "en": "After we sold water at the football game, we went home tired."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you sell with a clear price."
+    }
+  ]
+}

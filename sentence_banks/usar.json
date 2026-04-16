@@ -1,0 +1,407 @@
+{
+  "verb": "usar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:usar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I use my phone for the map."
+    },
+    {
+      "id": 2,
+      "en": "We use the laptop at work."
+    },
+    {
+      "id": 3,
+      "en": "He uses a strong password."
+    },
+    {
+      "id": 4,
+      "en": "She uses cash at the small store."
+    },
+    {
+      "id": 5,
+      "en": "They use the metro every day."
+    },
+    {
+      "id": 6,
+      "en": "You use too much oil in the pan."
+    },
+    {
+      "id": 7,
+      "en": "I use glasses when I read."
+    },
+    {
+      "id": 8,
+      "en": "We use the big table for dinner."
+    },
+    {
+      "id": 9,
+      "en": "He uses a water bottle at the gym."
+    },
+    {
+      "id": 10,
+      "en": "She uses sunscreen at the beach."
+    },
+    {
+      "id": 11,
+      "en": "I use my card for gas."
+    },
+    {
+      "id": 12,
+      "en": "We use a shared calendar for plans."
+    },
+    {
+      "id": 13,
+      "en": "He uses headphones on the train."
+    },
+    {
+      "id": 14,
+      "en": "The team uses a simple plan for football practice."
+    },
+    {
+      "id": 15,
+      "en": "I use my free time for the gym."
+    },
+    {
+      "id": 16,
+      "en": "We use the kitchen light at night."
+    },
+    {
+      "id": 17,
+      "en": "She uses a fork for the pasta."
+    },
+    {
+      "id": 18,
+      "en": "They use the hotel Wi‑Fi on the trip."
+    },
+    {
+      "id": 19,
+      "en": "You use the same app for messages."
+    },
+    {
+      "id": 20,
+      "en": "I use my money for rent and food."
+    },
+    {
+      "id": 21,
+      "en": "I used your charger last night."
+    },
+    {
+      "id": 22,
+      "en": "We used the map on the phone."
+    },
+    {
+      "id": 23,
+      "en": "He didn't use the ticket."
+    },
+    {
+      "id": 24,
+      "en": "She used a taxi after the flight."
+    },
+    {
+      "id": 25,
+      "en": "I didn't use the car."
+    },
+    {
+      "id": 26,
+      "en": "They used the office printer."
+    },
+    {
+      "id": 27,
+      "en": "I was using the laptop when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I used the bus every day."
+    },
+    {
+      "id": 29,
+      "en": "We used the small room because the kitchen was busy."
+    },
+    {
+      "id": 30,
+      "en": "He used the knife carefully."
+    },
+    {
+      "id": 31,
+      "en": "Why did you use my phone?"
+    },
+    {
+      "id": 32,
+      "en": "We used the screen at the meeting."
+    },
+    {
+      "id": 33,
+      "en": "I used your name on the form."
+    },
+    {
+      "id": 34,
+      "en": "She used cold water for the fruit."
+    },
+    {
+      "id": 35,
+      "en": "I used the gym bag for the trip."
+    },
+    {
+      "id": 36,
+      "en": "They used more money than they said."
+    },
+    {
+      "id": 37,
+      "en": "You used the wrong button."
+    },
+    {
+      "id": 38,
+      "en": "I used the stairs because the elevator was slow."
+    },
+    {
+      "id": 39,
+      "en": "We used the bridge to cross the river."
+    },
+    {
+      "id": 40,
+      "en": "He used the football boots after the rain."
+    },
+    {
+      "id": 41,
+      "en": "I will use the phone tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will use the laptop if you bring it."
+    },
+    {
+      "id": 43,
+      "en": "If you leave early, I will use the car."
+    },
+    {
+      "id": 44,
+      "en": "She will use the card on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't use the app without Wi‑Fi."
+    },
+    {
+      "id": 46,
+      "en": "I would use the train if I lived closer."
+    },
+    {
+      "id": 47,
+      "en": "We would use the room if it was clean."
+    },
+    {
+      "id": 48,
+      "en": "Would you use my charger?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will use the hotel safe."
+    },
+    {
+      "id": 50,
+      "en": "They will use the kitchen on Friday."
+    },
+    {
+      "id": 51,
+      "en": "You will arrive faster if you use the train."
+    },
+    {
+      "id": 52,
+      "en": "I would use cash if the card failed."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will use the indoor gym."
+    },
+    {
+      "id": 54,
+      "en": "I will use the photo for the message."
+    },
+    {
+      "id": 55,
+      "en": "We will use the money for the trip."
+    },
+    {
+      "id": 56,
+      "en": "I have used this phone before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't used the video yet."
+    },
+    {
+      "id": 58,
+      "en": "She has used the app every week since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you used the file?"
+    },
+    {
+      "id": 60,
+      "en": "I need to use the bus today."
+    },
+    {
+      "id": 61,
+      "en": "I want to use less plastic."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to use the code."
+    },
+    {
+      "id": 63,
+      "en": "Remember to use the bottle on the trip."
+    },
+    {
+      "id": 64,
+      "en": "I hate to use the phone when the signal is weak."
+    },
+    {
+      "id": 65,
+      "en": "We started to use the new tool last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to use the laptop tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to use the train early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to use the old password."
+    },
+    {
+      "id": 69,
+      "en": "I want you to use the map."
+    },
+    {
+      "id": 70,
+      "en": "They tried to use the card on time."
+    },
+    {
+      "id": 71,
+      "en": "Do you use the bus every day?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you use my laptop?"
+    },
+    {
+      "id": 73,
+      "en": "Use the fork for the salad."
+    },
+    {
+      "id": 74,
+      "en": "Don't use the phone without a case."
+    },
+    {
+      "id": 75,
+      "en": "Never use someone else's card."
+    },
+    {
+      "id": 76,
+      "en": "Can't you use the app?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you used the ticket?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you use water with the medicine?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you use the card?"
+    },
+    {
+      "id": 80,
+      "en": "Will you use the map if I send it?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you use the link?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to use a strong password?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you use the train for work?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you use the bottle first?"
+    },
+    {
+      "id": 85,
+      "en": "Don't use the stove when you are tired."
+    },
+    {
+      "id": 86,
+      "en": "I use the bus because the car is in the shop."
+    },
+    {
+      "id": 87,
+      "en": "We used the map, but the signal was weak."
+    },
+    {
+      "id": 88,
+      "en": "When you use the knife, cut away from your hand."
+    },
+    {
+      "id": 89,
+      "en": "If you use the app, you will save time."
+    },
+    {
+      "id": 90,
+      "en": "Although I used the card, the payment failed."
+    },
+    {
+      "id": 91,
+      "en": "Before you travel, use the ticket on your phone."
+    },
+    {
+      "id": 92,
+      "en": "After I used the phone, I put it on the table."
+    },
+    {
+      "id": 93,
+      "en": "Because we used the early train, we arrived on time."
+    },
+    {
+      "id": 94,
+      "en": "I use my laptop at work, but I read at home."
+    },
+    {
+      "id": 95,
+      "en": "When he feels cold, he uses a warm jacket."
+    },
+    {
+      "id": 96,
+      "en": "If we use the money wisely, we will be fine."
+    },
+    {
+      "id": 97,
+      "en": "Although we used the plan, the client changed the idea."
+    },
+    {
+      "id": 98,
+      "en": "Before you send money, use the right app."
+    },
+    {
+      "id": 99,
+      "en": "After we used the football field, we went home tired."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you use a safe password."
+    }
+  ]
+}

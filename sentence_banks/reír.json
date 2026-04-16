@@ -1,0 +1,407 @@
+{
+  "verb": "reír",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:reír",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I laugh when I watch that show."
+    },
+    {
+      "id": 2,
+      "en": "We laugh at the same jokes."
+    },
+    {
+      "id": 3,
+      "en": "He laughs at memes before bed."
+    },
+    {
+      "id": 4,
+      "en": "She laughs with her kids every night."
+    },
+    {
+      "id": 5,
+      "en": "They laugh at funny videos."
+    },
+    {
+      "id": 6,
+      "en": "You laugh when you're nervous."
+    },
+    {
+      "id": 7,
+      "en": "I laugh at my own mistakes."
+    },
+    {
+      "id": 8,
+      "en": "We laugh during family dinner."
+    },
+    {
+      "id": 9,
+      "en": "He laughs when the dog runs."
+    },
+    {
+      "id": 10,
+      "en": "She laughs at work when the day is quiet."
+    },
+    {
+      "id": 11,
+      "en": "I laugh at my friend's stories."
+    },
+    {
+      "id": 12,
+      "en": "We laugh at the football game."
+    },
+    {
+      "id": 13,
+      "en": "They laugh at the baby in the video."
+    },
+    {
+      "id": 14,
+      "en": "You laugh too loud in the library."
+    },
+    {
+      "id": 15,
+      "en": "I laugh when I get a text from my mom."
+    },
+    {
+      "id": 16,
+      "en": "He laughs at the coffee shop."
+    },
+    {
+      "id": 17,
+      "en": "We laugh at the travel story."
+    },
+    {
+      "id": 18,
+      "en": "She laughs after a hard set at the gym."
+    },
+    {
+      "id": 19,
+      "en": "I laugh when I hear that song."
+    },
+    {
+      "id": 20,
+      "en": "They laugh at the group chat."
+    },
+    {
+      "id": 21,
+      "en": "I laughed until my stomach hurt."
+    },
+    {
+      "id": 22,
+      "en": "We laughed at the video together."
+    },
+    {
+      "id": 23,
+      "en": "He laughed during the meeting."
+    },
+    {
+      "id": 24,
+      "en": "She laughed at her phone."
+    },
+    {
+      "id": 25,
+      "en": "I didn't laugh at the joke."
+    },
+    {
+      "id": 26,
+      "en": "They laughed about the same mistake later."
+    },
+    {
+      "id": 27,
+      "en": "I was laughing when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a kid, I used to laugh at cartoons every day."
+    },
+    {
+      "id": 29,
+      "en": "We laughed because the story was silly."
+    },
+    {
+      "id": 30,
+      "en": "He laughed at the bill and then paid it."
+    },
+    {
+      "id": 31,
+      "en": "I laughed at work."
+    },
+    {
+      "id": 32,
+      "en": "She laughed on the phone with her sister."
+    },
+    {
+      "id": 33,
+      "en": "Why did you laugh?"
+    },
+    {
+      "id": 34,
+      "en": "We laughed at the airport."
+    },
+    {
+      "id": 35,
+      "en": "I laughed at the football replay."
+    },
+    {
+      "id": 36,
+      "en": "He laughed at the email."
+    },
+    {
+      "id": 37,
+      "en": "They laughed about the mix-up."
+    },
+    {
+      "id": 38,
+      "en": "I laughed on the trip."
+    },
+    {
+      "id": 39,
+      "en": "We laughed about the money mix-up."
+    },
+    {
+      "id": 40,
+      "en": "You laughed more than you said."
+    },
+    {
+      "id": 41,
+      "en": "I will laugh if you tell the story."
+    },
+    {
+      "id": 42,
+      "en": "We will laugh if you send the meme."
+    },
+    {
+      "id": 43,
+      "en": "If you arrive early, I will laugh less."
+    },
+    {
+      "id": 44,
+      "en": "She will laugh at the show on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't laugh if the joke is mean."
+    },
+    {
+      "id": 46,
+      "en": "I would laugh more if I had time."
+    },
+    {
+      "id": 47,
+      "en": "We would laugh if we saw the photo again."
+    },
+    {
+      "id": 48,
+      "en": "Would you laugh at my story?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will laugh about the bags."
+    },
+    {
+      "id": 50,
+      "en": "They will laugh at the end."
+    },
+    {
+      "id": 51,
+      "en": "You will laugh if you watch this."
+    },
+    {
+      "id": 52,
+      "en": "I would laugh if I were not so tired."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will laugh inside."
+    },
+    {
+      "id": 54,
+      "en": "I will laugh at the football bloopers."
+    },
+    {
+      "id": 55,
+      "en": "We will laugh this weekend."
+    },
+    {
+      "id": 56,
+      "en": "I have laughed at that joke before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't laughed at work yet."
+    },
+    {
+      "id": 58,
+      "en": "She has laughed every day since Monday."
+    },
+    {
+      "id": 59,
+      "en": "Have you laughed today?"
+    },
+    {
+      "id": 60,
+      "en": "I need to laugh more."
+    },
+    {
+      "id": 61,
+      "en": "I want to laugh with friends."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to laugh at the right moment."
+    },
+    {
+      "id": 63,
+      "en": "Remember to laugh when you feel stress."
+    },
+    {
+      "id": 64,
+      "en": "I hate to laugh when I am angry."
+    },
+    {
+      "id": 65,
+      "en": "We started to laugh more last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to laugh at myself sometimes."
+    },
+    {
+      "id": 67,
+      "en": "I plan to watch a comedy and laugh."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to laugh at mean jokes."
+    },
+    {
+      "id": 69,
+      "en": "I want you to laugh at my story."
+    },
+    {
+      "id": 70,
+      "en": "They tried to laugh during a hard moment."
+    },
+    {
+      "id": 71,
+      "en": "Do you laugh every day?"
+    },
+    {
+      "id": 72,
+      "en": "Who made you laugh?"
+    },
+    {
+      "id": 73,
+      "en": "Laugh when you feel joy."
+    },
+    {
+      "id": 74,
+      "en": "Don't laugh at people in pain."
+    },
+    {
+      "id": 75,
+      "en": "Never laugh at someone's accent."
+    },
+    {
+      "id": 76,
+      "en": "Can't you laugh quietly?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you laughed yet?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you laugh at my joke?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you laugh?"
+    },
+    {
+      "id": 80,
+      "en": "Will you laugh if I share a meme?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you laugh at the meeting?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it good to laugh?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you laugh at dad jokes?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you laugh first?"
+    },
+    {
+      "id": 85,
+      "en": "Stop laughing at the screen."
+    },
+    {
+      "id": 86,
+      "en": "I laugh because life is short."
+    },
+    {
+      "id": 87,
+      "en": "We laughed about the trip, but the flight was long."
+    },
+    {
+      "id": 88,
+      "en": "When you laugh, your face relaxes."
+    },
+    {
+      "id": 89,
+      "en": "If you laugh, I will relax."
+    },
+    {
+      "id": 90,
+      "en": "Although I laughed, I still felt shy."
+    },
+    {
+      "id": 91,
+      "en": "Before you speak, laugh once to relax."
+    },
+    {
+      "id": 92,
+      "en": "After I laughed, I felt calmer."
+    },
+    {
+      "id": 93,
+      "en": "Because we laughed early, the mood was light."
+    },
+    {
+      "id": 94,
+      "en": "I laugh at home, but I stay quiet at work."
+    },
+    {
+      "id": 95,
+      "en": "When he feels stress, he tries to laugh."
+    },
+    {
+      "id": 96,
+      "en": "If we laugh together, we will feel close."
+    },
+    {
+      "id": 97,
+      "en": "Although we laughed, the news was still heavy."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, laugh about the stress."
+    },
+    {
+      "id": 99,
+      "en": "After we laughed at the football match, we went home happy."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you laugh today."
+    }
+  ]
+}

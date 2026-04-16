@@ -1,0 +1,750 @@
+{
+  "verb": "hacer",
+  "generated_at": "2026-04-14T20:00:24+00:00",
+  "source": "sentence_banks:hacer",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I did the dishes while you put the kids to bed.",
+      "sense": "do",
+      "lesson": "reflexive"
+    },
+    {
+      "id": 2,
+      "en": "She does yoga three mornings a week.",
+      "sense": "do"
+    },
+    {
+      "id": 3,
+      "en": "We need to do the paperwork before the deadline.",
+      "sense": "do"
+    },
+    {
+      "id": 4,
+      "en": "He did his best under difficult conditions.",
+      "sense": "do"
+    },
+    {
+      "id": 5,
+      "en": "What are you doing this weekend?",
+      "sense": "do",
+      "lesson": "clitic"
+    },
+    {
+      "id": 6,
+      "en": "They did a thorough inspection of the brakes.",
+      "sense": "do"
+    },
+    {
+      "id": 7,
+      "en": "I have done that route so many times I could drive it blind.",
+      "sense": "do"
+    },
+    {
+      "id": 8,
+      "en": "She does volunteer work at the shelter.",
+      "sense": "do"
+    },
+    {
+      "id": 9,
+      "en": "We did what we could with the budget we had.",
+      "sense": "do",
+      "lesson": "collocation"
+    },
+    {
+      "id": 10,
+      "en": "He refuses to do overtime unless they pay for it.",
+      "sense": "do"
+    },
+    {
+      "id": 11,
+      "en": "I did not do anything wrong.",
+      "sense": "do"
+    },
+    {
+      "id": 12,
+      "en": "They are doing research on coastal erosion.",
+      "sense": "do"
+    },
+    {
+      "id": 13,
+      "en": "She did me a huge favor by covering my shift.",
+      "sense": "do",
+      "lesson": "subjunctive_cue"
+    },
+    {
+      "id": 14,
+      "en": "We should do a trial run before the real event.",
+      "sense": "do"
+    },
+    {
+      "id": 15,
+      "en": "He does not do well on little sleep.",
+      "sense": "do"
+    },
+    {
+      "id": 16,
+      "en": "I did the calculations twice to be sure.",
+      "sense": "do"
+    },
+    {
+      "id": 17,
+      "en": "They do not do refunds without a receipt.",
+      "sense": "do",
+      "lesson": "ser_estar"
+    },
+    {
+      "id": 18,
+      "en": "She did an internship at the embassy.",
+      "sense": "do"
+    },
+    {
+      "id": 19,
+      "en": "We will do another pass over the report tonight.",
+      "sense": "do"
+    },
+    {
+      "id": 20,
+      "en": "He did exactly what the manual said.",
+      "sense": "do"
+    },
+    {
+      "id": 21,
+      "en": "She made soup from whatever was in the fridge.",
+      "sense": "make",
+      "lesson": "register"
+    },
+    {
+      "id": 22,
+      "en": "They made a documentary about small-town musicians.",
+      "sense": "make"
+    },
+    {
+      "id": 23,
+      "en": "We made a list of everything we still need.",
+      "sense": "make"
+    },
+    {
+      "id": 24,
+      "en": "He made a mistake on the first page of the form.",
+      "sense": "make"
+    },
+    {
+      "id": 25,
+      "en": "I made a promise I intend to keep.",
+      "sense": "make",
+      "lesson": "por_para"
+    },
+    {
+      "id": 26,
+      "en": "The company made a profit for the first time in years.",
+      "sense": "make"
+    },
+    {
+      "id": 27,
+      "en": "She made room on the shelf for the new books.",
+      "sense": "make"
+    },
+    {
+      "id": 28,
+      "en": "We made eye contact across the crowded room.",
+      "sense": "make"
+    },
+    {
+      "id": 29,
+      "en": "He made an effort to arrive on time.",
+      "sense": "make",
+      "lesson": "native_idiom"
+    },
+    {
+      "id": 30,
+      "en": "They made changes to the design after the test.",
+      "sense": "make"
+    },
+    {
+      "id": 31,
+      "en": "I made friends with my neighbors quickly.",
+      "sense": "make"
+    },
+    {
+      "id": 32,
+      "en": "She made a scene when they lost her reservation.",
+      "sense": "make"
+    },
+    {
+      "id": 33,
+      "en": "We made progress even though it felt slow.",
+      "sense": "make",
+      "lesson": "reflexive"
+    },
+    {
+      "id": 34,
+      "en": "He made a habit of walking before breakfast.",
+      "sense": "make"
+    },
+    {
+      "id": 35,
+      "en": "They made sure the door was locked.",
+      "sense": "make"
+    },
+    {
+      "id": 36,
+      "en": "I made copies for everyone in the meeting.",
+      "sense": "make"
+    },
+    {
+      "id": 37,
+      "en": "She made art from recycled metal.",
+      "sense": "make",
+      "lesson": "clitic"
+    },
+    {
+      "id": 38,
+      "en": "We made a pact not to tell anyone yet.",
+      "sense": "make"
+    },
+    {
+      "id": 39,
+      "en": "He made breakfast while I packed the car.",
+      "sense": "make"
+    },
+    {
+      "id": 40,
+      "en": "They made history with that comeback.",
+      "sense": "make"
+    },
+    {
+      "id": 41,
+      "en": "It's freezing outside; wear a scarf.",
+      "sense": "weather",
+      "lesson": "collocation"
+    },
+    {
+      "id": 42,
+      "en": "It's scorching today; the pavement shimmers.",
+      "sense": "weather"
+    },
+    {
+      "id": 43,
+      "en": "How cold it was on the mountain pass!",
+      "sense": "weather"
+    },
+    {
+      "id": 44,
+      "en": "It's muggy and hard to breathe after the storm.",
+      "sense": "weather"
+    },
+    {
+      "id": 45,
+      "en": "It's pleasant in the shade but brutal in the sun.",
+      "sense": "weather",
+      "lesson": "subjunctive_cue"
+    },
+    {
+      "id": 46,
+      "en": "It's windy enough to cancel the boat trip.",
+      "sense": "weather"
+    },
+    {
+      "id": 47,
+      "en": "It's damp this morning; the laundry will not dry.",
+      "sense": "weather"
+    },
+    {
+      "id": 48,
+      "en": "It's unusually warm for February.",
+      "sense": "weather"
+    },
+    {
+      "id": 49,
+      "en": "It's dark and stormy; stay off the ridge.",
+      "sense": "weather",
+      "lesson": "ser_estar"
+    },
+    {
+      "id": 50,
+      "en": "It's bright and clear — perfect for photos.",
+      "sense": "weather"
+    },
+    {
+      "id": 51,
+      "en": "It's chilly in the hall; bring a sweater.",
+      "sense": "weather"
+    },
+    {
+      "id": 52,
+      "en": "It's oppressive before the thunderstorm breaks.",
+      "sense": "weather"
+    },
+    {
+      "id": 53,
+      "en": "It's cool at night even when the days are hot.",
+      "sense": "weather",
+      "lesson": "register"
+    },
+    {
+      "id": 54,
+      "en": "It's foggy near the river at dawn.",
+      "sense": "weather"
+    },
+    {
+      "id": 55,
+      "en": "It's harsh sunlight; wear sunscreen.",
+      "sense": "weather"
+    },
+    {
+      "id": 56,
+      "en": "It's mild today compared with yesterday.",
+      "sense": "weather"
+    },
+    {
+      "id": 57,
+      "en": "It's rainy season; expect mud on the trail.",
+      "sense": "weather",
+      "lesson": "por_para"
+    },
+    {
+      "id": 58,
+      "en": "It's blistering in the plaza at noon.",
+      "sense": "weather"
+    },
+    {
+      "id": 59,
+      "en": "It's raw and gray along the coast.",
+      "sense": "weather"
+    },
+    {
+      "id": 60,
+      "en": "It's stifling inside with the windows closed.",
+      "sense": "weather"
+    },
+    {
+      "id": 61,
+      "en": "It's been two years since I visited that city.",
+      "sense": "time",
+      "lesson": "native_idiom"
+    },
+    {
+      "id": 62,
+      "en": "It's been a while since we last spoke.",
+      "sense": "time"
+    },
+    {
+      "id": 63,
+      "en": "It's been months since they fixed the elevator.",
+      "sense": "time"
+    },
+    {
+      "id": 64,
+      "en": "It's been only a week, but it feels longer.",
+      "sense": "time"
+    },
+    {
+      "id": 65,
+      "en": "It's been ages since I rode a bike.",
+      "sense": "time",
+      "lesson": "reflexive"
+    },
+    {
+      "id": 66,
+      "en": "It's been a long morning already.",
+      "sense": "time"
+    },
+    {
+      "id": 67,
+      "en": "It's been twenty minutes; should we call again?",
+      "sense": "time"
+    },
+    {
+      "id": 68,
+      "en": "It's been three days since the package shipped.",
+      "sense": "time"
+    },
+    {
+      "id": 69,
+      "en": "It's been forever since we had a vacation.",
+      "sense": "time",
+      "lesson": "clitic"
+    },
+    {
+      "id": 70,
+      "en": "It's been short notice, but can you come?",
+      "sense": "time"
+    },
+    {
+      "id": 71,
+      "en": "It's been over an hour in this queue.",
+      "sense": "time"
+    },
+    {
+      "id": 72,
+      "en": "It's been years since the bridge was painted.",
+      "sense": "time"
+    },
+    {
+      "id": 73,
+      "en": "It's been a tough quarter for sales.",
+      "sense": "time",
+      "lesson": "collocation"
+    },
+    {
+      "id": 74,
+      "en": "It's been quiet since the neighbors moved out.",
+      "sense": "time"
+    },
+    {
+      "id": 75,
+      "en": "It's been half a day and still no reply.",
+      "sense": "time"
+    },
+    {
+      "id": 76,
+      "en": "It's been since Tuesday that I slept well.",
+      "sense": "time"
+    },
+    {
+      "id": 77,
+      "en": "It's been a minute since I checked the oven.",
+      "sense": "time",
+      "lesson": "subjunctive_cue"
+    },
+    {
+      "id": 78,
+      "en": "It's been rough since the schedule changed.",
+      "sense": "time"
+    },
+    {
+      "id": 79,
+      "en": "It's been clear since yesterday that we need help.",
+      "sense": "time"
+    },
+    {
+      "id": 80,
+      "en": "It's been a decade since the last renovation.",
+      "sense": "time"
+    },
+    {
+      "id": 81,
+      "en": "You should pay attention to what the doctor tells you.",
+      "sense": "colloc",
+      "lesson": "ser_estar"
+    },
+    {
+      "id": 82,
+      "en": "We really need an extra pair of hands this afternoon.",
+      "sense": "colloc"
+    },
+    {
+      "id": 83,
+      "en": "That fall might hurt more tomorrow than today.",
+      "sense": "colloc"
+    },
+    {
+      "id": 84,
+      "en": "Children need structure, not just freedom.",
+      "sense": "colloc"
+    },
+    {
+      "id": 85,
+      "en": "Ignoring safety rules can get someone hurt.",
+      "sense": "colloc",
+      "lesson": "register"
+    },
+    {
+      "id": 86,
+      "en": "We lack the tools to finish the repair today.",
+      "sense": "colloc"
+    },
+    {
+      "id": 87,
+      "en": "She needs space to think without interruptions.",
+      "sense": "colloc"
+    },
+    {
+      "id": 88,
+      "en": "The remark stung more than he admitted.",
+      "sense": "colloc"
+    },
+    {
+      "id": 89,
+      "en": "They need proof before they can act.",
+      "sense": "colloc",
+      "lesson": "por_para"
+    },
+    {
+      "id": 90,
+      "en": "Cold air can harm sensitive plants.",
+      "sense": "colloc"
+    },
+    {
+      "id": 91,
+      "en": "We need patience with a new team.",
+      "sense": "colloc"
+    },
+    {
+      "id": 92,
+      "en": "Loud music late at night bothers the neighbors.",
+      "sense": "colloc"
+    },
+    {
+      "id": 93,
+      "en": "He needs practice, not criticism.",
+      "sense": "colloc",
+      "lesson": "native_idiom"
+    },
+    {
+      "id": 94,
+      "en": "Sunburn can harm your skin over the years.",
+      "sense": "colloc"
+    },
+    {
+      "id": 95,
+      "en": "We need a plan B before we announce anything.",
+      "sense": "colloc"
+    },
+    {
+      "id": 96,
+      "en": "Sharp tools can hurt if you are careless.",
+      "sense": "colloc"
+    },
+    {
+      "id": 97,
+      "en": "They need time to process the news.",
+      "sense": "colloc",
+      "lesson": "reflexive"
+    },
+    {
+      "id": 98,
+      "en": "Envy can poison a friendship.",
+      "sense": "colloc"
+    },
+    {
+      "id": 99,
+      "en": "We need one more signature on the form.",
+      "sense": "colloc"
+    },
+    {
+      "id": 100,
+      "en": "Neglect can damage an engine over time.",
+      "sense": "colloc"
+    },
+    {
+      "id": 101,
+      "en": "He pretends not to hear when the topic is money.",
+      "sense": "misc",
+      "lesson": "clitic"
+    },
+    {
+      "id": 102,
+      "en": "She plays the villain in the school play.",
+      "sense": "misc"
+    },
+    {
+      "id": 103,
+      "en": "They made a lot of noise moving the piano.",
+      "sense": "misc"
+    },
+    {
+      "id": 104,
+      "en": "Stop fooling yourself about how much time you have.",
+      "sense": "misc"
+    },
+    {
+      "id": 105,
+      "en": "He acted as interpreter during the visit.",
+      "sense": "misc",
+      "lesson": "collocation"
+    },
+    {
+      "id": 106,
+      "en": "The kids made a racket in the hallway.",
+      "sense": "misc"
+    },
+    {
+      "id": 107,
+      "en": "She turned into a confident speaker over the year.",
+      "sense": "misc"
+    },
+    {
+      "id": 108,
+      "en": "They staged a protest outside city hall.",
+      "sense": "misc"
+    },
+    {
+      "id": 109,
+      "en": "He made fun of my accent, then apologized.",
+      "sense": "misc",
+      "lesson": "subjunctive_cue"
+    },
+    {
+      "id": 110,
+      "en": "We made a campfire by the lake.",
+      "sense": "misc"
+    },
+    {
+      "id": 111,
+      "en": "She made herself comfortable on the couch.",
+      "sense": "misc"
+    },
+    {
+      "id": 112,
+      "en": "They made a circle to discuss the issue.",
+      "sense": "misc"
+    },
+    {
+      "id": 113,
+      "en": "He made a face when he tasted the medicine.",
+      "sense": "misc",
+      "lesson": "ser_estar"
+    },
+    {
+      "id": 114,
+      "en": "We made small talk until the host arrived.",
+      "sense": "misc"
+    },
+    {
+      "id": 115,
+      "en": "She made a gesture inviting him to sit.",
+      "sense": "misc"
+    },
+    {
+      "id": 116,
+      "en": "They made waves in the industry with that product.",
+      "sense": "misc"
+    },
+    {
+      "id": 117,
+      "en": "He made believe he was asleep.",
+      "sense": "misc",
+      "lesson": "register"
+    },
+    {
+      "id": 118,
+      "en": "We made a bet on the outcome of the match.",
+      "sense": "misc"
+    },
+    {
+      "id": 119,
+      "en": "She made a point of thanking everyone.",
+      "sense": "misc"
+    },
+    {
+      "id": 120,
+      "en": "They made trouble for the new manager at first.",
+      "sense": "misc"
+    }
+  ]
+}
+
+{
+  "verb": "hacer",
+  "generated_at": "2026-04-15T00:00:00+00:00",
+  "source": "sentence_banks:hacer",
+  "sentences": [
+    { "id": 1, "en": "I do exercise every morning before work." },
+    { "id": 2, "en": "She does the laundry on Saturday." },
+    { "id": 3, "en": "We do the work together at the office." },
+    { "id": 4, "en": "He does the dishes after dinner." },
+    { "id": 5, "en": "They do a lot of work during the week." },
+    { "id": 6, "en": "I do my homework at the table." },
+    { "id": 7, "en": "She does yoga in the living room." },
+    { "id": 8, "en": "We do business with that company." },
+    { "id": 9, "en": "He does his best every day." },
+    { "id": 10, "en": "They do research on the new system." },
+    { "id": 11, "en": "I make breakfast before I leave the house." },
+    { "id": 12, "en": "She makes a list before going to the store." },
+    { "id": 13, "en": "We make a plan when the problem is serious." },
+    { "id": 14, "en": "He makes coffee every morning." },
+    { "id": 15, "en": "They make dinner at home most nights." },
+    { "id": 16, "en": "I make a decision after I have all the information." },
+    { "id": 17, "en": "She makes a mistake when she works too fast." },
+    { "id": 18, "en": "We make progress when we focus." },
+    { "id": 19, "en": "He makes a call from the office." },
+    { "id": 20, "en": "They make a lot of noise at night." },
+
+    { "id": 21, "en": "I did the shopping after work yesterday." },
+    { "id": 22, "en": "She did the report before the meeting." },
+    { "id": 23, "en": "We did everything we could." },
+    { "id": 24, "en": "He did the project last month." },
+    { "id": 25, "en": "They did a good job on the presentation." },
+    { "id": 26, "en": "I made lunch at home yesterday." },
+    { "id": 27, "en": "She made a new plan after the problem started." },
+    { "id": 28, "en": "We made a change to the document." },
+    { "id": 29, "en": "He made a phone call from the car." },
+    { "id": 30, "en": "They made a reservation before the trip." },
+    { "id": 31, "en": "I was doing my work when you called me." },
+    { "id": 32, "en": "She was doing the dishes at that moment." },
+    { "id": 33, "en": "We were doing exercise in the park." },
+    { "id": 34, "en": "He was making dinner when the power went out." },
+    { "id": 35, "en": "They were making plans for the weekend." },
+    { "id": 36, "en": "I used to do more exercise before winter." },
+    { "id": 37, "en": "She used to make bread at home." },
+    { "id": 38, "en": "We used to make lists before every trip." },
+    { "id": 39, "en": "He used to do everything by hand." },
+    { "id": 40, "en": "They used to make dinner for the whole family." },
+
+    { "id": 41, "en": "I will do the task tomorrow morning." },
+    { "id": 42, "en": "She will do the meeting notes after lunch." },
+    { "id": 43, "en": "We will do the project next week." },
+    { "id": 44, "en": "He will do the work when he gets home." },
+    { "id": 45, "en": "They will do another test before the launch." },
+    { "id": 46, "en": "I will make breakfast tomorrow." },
+    { "id": 47, "en": "She will make a decision after the call." },
+    { "id": 48, "en": "We will make a new plan if this one fails." },
+    { "id": 49, "en": "He will make dinner tonight because I am busy." },
+    { "id": 50, "en": "They will make changes to the system next month." },
+    { "id": 51, "en": "I would do more if I had more time." },
+    { "id": 52, "en": "She would do the work, but she is tired." },
+    { "id": 53, "en": "We would do the trip if the price were lower." },
+    { "id": 54, "en": "He would make a better decision if he waited." },
+    { "id": 55, "en": "They would make dinner, but they have no food." },
+
+    { "id": 56, "en": "I have done this exercise before." },
+    { "id": 57, "en": "She has done a lot of work today." },
+    { "id": 58, "en": "We have done enough for one day." },
+    { "id": 59, "en": "He has made good progress this year." },
+    { "id": 60, "en": "They have made a big change in their lives." },
+    { "id": 61, "en": "I want to do more exercise this month." },
+    { "id": 62, "en": "She wants to make a better plan." },
+    { "id": 63, "en": "We need to do this now." },
+    { "id": 64, "en": "He plans to make a new website." },
+    { "id": 65, "en": "They hope to make more money this year." },
+    { "id": 66, "en": "I am doing the report right now." },
+    { "id": 67, "en": "She is making dinner in the kitchen." },
+    { "id": 68, "en": "We are doing a test on the network." },
+    { "id": 69, "en": "He is making a list on his phone." },
+    { "id": 70, "en": "They are doing work in the garden." },
+
+    { "id": 71, "en": "Do the dishes before you leave." },
+    { "id": 72, "en": "Do not make that mistake again." },
+    { "id": 73, "en": "Can you do this task for me?" },
+    { "id": 74, "en": "Why do you always do everything so late?" },
+    { "id": 75, "en": "Are they doing the meeting today?" },
+    { "id": 76, "en": "Do not make so much noise." },
+    { "id": 77, "en": "Can this program do that automatically?" },
+    { "id": 78, "en": "Why did you not do the homework?" },
+    { "id": 79, "en": "Do you want to make coffee now?" },
+    { "id": 80, "en": "Do not do that without permission." },
+    { "id": 81, "en": "Can we make a better plan together?" },
+    { "id": 82, "en": "Why does he never do exercise?" },
+    { "id": 83, "en": "Are you making dinner tonight?" },
+    { "id": 84, "en": "Do not make a decision while you are angry." },
+    { "id": 85, "en": "Can she do the report by herself?" },
+
+    { "id": 86, "en": "It is hot today, so stay in the shade." },
+    { "id": 87, "en": "It was cold this morning, but now the sun is out." },
+    { "id": 88, "en": "How long has it been since your last trip?" },
+    { "id": 89, "en": "It has been three years since we moved to this city." },
+    { "id": 90, "en": "It will be two months before the project ends." },
+    { "id": 91, "en": "It would be better to wait until tomorrow." },
+    { "id": 92, "en": "It makes no sense to spend that much money." },
+    { "id": 93, "en": "It makes me happy when the team wins the match." },
+    { "id": 94, "en": "I want you to do your best in the exam." },
+    { "id": 95, "en": "It is important that we make a clear decision today." },
+    { "id": 96, "en": "Before we make any changes, we should read the report." },
+    { "id": 97, "en": "After I do my work, I will go to the gym." },
+    { "id": 98, "en": "Although it is late, we still have to do this task." },
+    { "id": 99, "en": "If they make another mistake, the result will be worse." },
+    { "id": 100, "en": "Because it is a good day, we will make lunch outside." }
+  ]
+}

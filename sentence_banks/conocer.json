@@ -1,0 +1,407 @@
+{
+  "verb": "conocer",
+  "generated_at": "2026-04-16T04:00:00+00:00",
+  "source": "sentence_banks:conocer",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I know her from work."
+    },
+    {
+      "id": 2,
+      "en": "We know this neighborhood well."
+    },
+    {
+      "id": 3,
+      "en": "He knows the boss personally."
+    },
+    {
+      "id": 4,
+      "en": "They know the restaurant owner."
+    },
+    {
+      "id": 5,
+      "en": "I don't know anyone at the gym yet."
+    },
+    {
+      "id": 6,
+      "en": "She knows Madrid better than I do."
+    },
+    {
+      "id": 7,
+      "en": "You know a lot of people at this party."
+    },
+    {
+      "id": 8,
+      "en": "We know the route by heart."
+    },
+    {
+      "id": 9,
+      "en": "I know his face, but not his name."
+    },
+    {
+      "id": 10,
+      "en": "They know the city from years of walking around."
+    },
+    {
+      "id": 11,
+      "en": "I know this app, but the new update confuses me."
+    },
+    {
+      "id": 12,
+      "en": "We know the team because we watch every match."
+    },
+    {
+      "id": 13,
+      "en": "He does not know the new hire yet."
+    },
+    {
+      "id": 14,
+      "en": "She knows Paris from a trip last year."
+    },
+    {
+      "id": 15,
+      "en": "I know the coffee shop on the corner."
+    },
+    {
+      "id": 16,
+      "en": "People know him around here."
+    },
+    {
+      "id": 17,
+      "en": "We know the building rules before we complain."
+    },
+    {
+      "id": 18,
+      "en": "I know your cousin from school."
+    },
+    {
+      "id": 19,
+      "en": "They know the beach from family trips."
+    },
+    {
+      "id": 20,
+      "en": "You know the way to the station, right?"
+    },
+    {
+      "id": 21,
+      "en": "I met her at a conference."
+    },
+    {
+      "id": 22,
+      "en": "We met because we share the same dentist."
+    },
+    {
+      "id": 23,
+      "en": "He met his partner through friends."
+    },
+    {
+      "id": 24,
+      "en": "They met at the wrong bus stop by accident."
+    },
+    {
+      "id": 25,
+      "en": "I was meeting new people when you texted."
+    },
+    {
+      "id": 26,
+      "en": "We knew the area before we moved."
+    },
+    {
+      "id": 27,
+      "en": "I didn't know him until last week."
+    },
+    {
+      "id": 28,
+      "en": "Why did you wait so long to meet me in person?"
+    },
+    {
+      "id": 29,
+      "en": "Although I knew the neighborhood, I still got lost."
+    },
+    {
+      "id": 30,
+      "en": "When I was a kid, I knew every kid on the block."
+    },
+    {
+      "id": 31,
+      "en": "I used to know the old manager."
+    },
+    {
+      "id": 32,
+      "en": "After we met, we exchanged numbers."
+    },
+    {
+      "id": 33,
+      "en": "Before I met him, I only heard rumors."
+    },
+    {
+      "id": 34,
+      "en": "We met the landlord yesterday."
+    },
+    {
+      "id": 35,
+      "en": "I knew the restaurant only from reviews."
+    },
+    {
+      "id": 36,
+      "en": "She met the client at the office."
+    },
+    {
+      "id": 37,
+      "en": "We never knew the neighbors until the power went out."
+    },
+    {
+      "id": 38,
+      "en": "He met someone new at the gym."
+    },
+    {
+      "id": 39,
+      "en": "I knew the bakery by the smell of fresh bread."
+    },
+    {
+      "id": 40,
+      "en": "They met the coach after the first practice."
+    },
+    {
+      "id": 41,
+      "en": "I will know the software better after the training."
+    },
+    {
+      "id": 42,
+      "en": "We will meet the director at seven."
+    },
+    {
+      "id": 43,
+      "en": "If you stay, you will get to know everyone."
+    },
+    {
+      "id": 44,
+      "en": "They will meet the team on Monday."
+    },
+    {
+      "id": 45,
+      "en": "I am going to meet the coach after practice."
+    },
+    {
+      "id": 46,
+      "en": "We could meet for coffee if you want to talk."
+    },
+    {
+      "id": 47,
+      "en": "I would know the building better if we walked through it."
+    },
+    {
+      "id": 48,
+      "en": "If we visit again, we will know the city better."
+    },
+    {
+      "id": 49,
+      "en": "Tomorrow you will meet the new manager."
+    },
+    {
+      "id": 50,
+      "en": "She will know the app by the end of the week."
+    },
+    {
+      "id": 51,
+      "en": "We would know the old system if we still used it."
+    },
+    {
+      "id": 52,
+      "en": "If you are honest, I will get to know you faster."
+    },
+    {
+      "id": 53,
+      "en": "He will meet us at the airport."
+    },
+    {
+      "id": 54,
+      "en": "They will get to know the neighborhood slowly."
+    },
+    {
+      "id": 55,
+      "en": "I will know my coworkers better after the first month."
+    },
+    {
+      "id": 56,
+      "en": "I have known him since high school."
+    },
+    {
+      "id": 57,
+      "en": "We haven't met in person yet."
+    },
+    {
+      "id": 58,
+      "en": "I've known the shortcut for years."
+    },
+    {
+      "id": 59,
+      "en": "After meeting you, I felt calmer."
+    },
+    {
+      "id": 60,
+      "en": "Before you meet the client, read the notes."
+    },
+    {
+      "id": 61,
+      "en": "I want to know the city better."
+    },
+    {
+      "id": 62,
+      "en": "We need to meet the new partner before the deadline."
+    },
+    {
+      "id": 63,
+      "en": "Don't pretend to know the rules if you never read them."
+    },
+    {
+      "id": 64,
+      "en": "Let's meet the new roommate at the cafe."
+    },
+    {
+      "id": 65,
+      "en": "I forgot to meet her at the front door."
+    },
+    {
+      "id": 66,
+      "en": "To know the market, you need time on the ground."
+    },
+    {
+      "id": 67,
+      "en": "Stop saying you know everyone in the industry."
+    },
+    {
+      "id": 68,
+      "en": "I haven't met your parents yet."
+    },
+    {
+      "id": 69,
+      "en": "We haven't known the new owner long."
+    },
+    {
+      "id": 70,
+      "en": "It's time to meet the team in person."
+    },
+    {
+      "id": 71,
+      "en": "Do you know Maria?"
+    },
+    {
+      "id": 72,
+      "en": "Did you meet him yesterday?"
+    },
+    {
+      "id": 73,
+      "en": "When will we meet the landlord?"
+    },
+    {
+      "id": 74,
+      "en": "How long have you known the city?"
+    },
+    {
+      "id": 75,
+      "en": "Don't meet strangers in empty parking lots."
+    },
+    {
+      "id": 76,
+      "en": "We can't know everyone at a big company."
+    },
+    {
+      "id": 77,
+      "en": "I don't know anyone here."
+    },
+    {
+      "id": 78,
+      "en": "Why won't you meet me in person?"
+    },
+    {
+      "id": 79,
+      "en": "Meet me at the gate."
+    },
+    {
+      "id": 80,
+      "en": "Never meet someone you only know from chat alone at night."
+    },
+    {
+      "id": 81,
+      "en": "I won't meet until I see a real name on the invite."
+    },
+    {
+      "id": 82,
+      "en": "We don't know the new system yet."
+    },
+    {
+      "id": 83,
+      "en": "Are you going to meet the coach?"
+    },
+    {
+      "id": 84,
+      "en": "Could you get to know the process this week?"
+    },
+    {
+      "id": 85,
+      "en": "I don't know the new interface yet."
+    },
+    {
+      "id": 86,
+      "en": "When we travel, we want to know the city beyond the hotel."
+    },
+    {
+      "id": 87,
+      "en": "Because we were tired, we only met for ten minutes."
+    },
+    {
+      "id": 88,
+      "en": "If you know the area, you can find cheaper parking."
+    },
+    {
+      "id": 89,
+      "en": "Although we met online, we clicked in person."
+    },
+    {
+      "id": 90,
+      "en": "Before we rent, we should know the building."
+    },
+    {
+      "id": 91,
+      "en": "After we met, we talked about money."
+    },
+    {
+      "id": 92,
+      "en": "We know the layout, but we still feel nervous."
+    },
+    {
+      "id": 93,
+      "en": "When the season starts, we meet the new players."
+    },
+    {
+      "id": 94,
+      "en": "If you know someone inside the company, ask politely for help."
+    },
+    {
+      "id": 95,
+      "en": "We should know the neighborhood before we buy."
+    },
+    {
+      "id": 96,
+      "en": "She knows him well, but she still asks questions."
+    },
+    {
+      "id": 97,
+      "en": "Because I was shy, I didn't know many people."
+    },
+    {
+      "id": 98,
+      "en": "After we met the landlord, we changed the plan."
+    },
+    {
+      "id": 99,
+      "en": "When we know the neighborhood, we feel safer."
+    },
+    {
+      "id": 100,
+      "en": "Let's meet the new teammates tonight and talk about the plan."
+    }
+  ]
+}

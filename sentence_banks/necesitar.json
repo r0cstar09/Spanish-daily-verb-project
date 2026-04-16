@@ -1,0 +1,407 @@
+{
+  "verb": "necesitar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:necesitar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I need water."
+    },
+    {
+      "id": 2,
+      "en": "We need more time."
+    },
+    {
+      "id": 3,
+      "en": "He needs help with the move."
+    },
+    {
+      "id": 4,
+      "en": "She needs rest after work."
+    },
+    {
+      "id": 5,
+      "en": "They need a bigger car."
+    },
+    {
+      "id": 6,
+      "en": "You need a coat today."
+    },
+    {
+      "id": 7,
+      "en": "I need to leave early."
+    },
+    {
+      "id": 8,
+      "en": "We need to buy food."
+    },
+    {
+      "id": 9,
+      "en": "He needs to call his mother."
+    },
+    {
+      "id": 10,
+      "en": "She needs to sleep."
+    },
+    {
+      "id": 11,
+      "en": "I need you to listen."
+    },
+    {
+      "id": 12,
+      "en": "The football team needs a win tonight."
+    },
+    {
+      "id": 13,
+      "en": "I need my phone for work."
+    },
+    {
+      "id": 14,
+      "en": "We need cash for the market."
+    },
+    {
+      "id": 15,
+      "en": "He needs a doctor for his back."
+    },
+    {
+      "id": 16,
+      "en": "She needs a day off."
+    },
+    {
+      "id": 17,
+      "en": "I need a ride to the station."
+    },
+    {
+      "id": 18,
+      "en": "You need permission to enter."
+    },
+    {
+      "id": 19,
+      "en": "We need warm clothes for the trip."
+    },
+    {
+      "id": 20,
+      "en": "They need a table for four."
+    },
+    {
+      "id": 21,
+      "en": "I needed money last week."
+    },
+    {
+      "id": 22,
+      "en": "We needed to cancel the meeting."
+    },
+    {
+      "id": 23,
+      "en": "He needed help yesterday."
+    },
+    {
+      "id": 24,
+      "en": "She needed to sleep when she arrived."
+    },
+    {
+      "id": 25,
+      "en": "I didn't need a ticket."
+    },
+    {
+      "id": 26,
+      "en": "Why did you need my card?"
+    },
+    {
+      "id": 27,
+      "en": "They needed more staff in the summer."
+    },
+    {
+      "id": 28,
+      "en": "I needed a break."
+    },
+    {
+      "id": 29,
+      "en": "When I was a student, I needed money every month."
+    },
+    {
+      "id": 30,
+      "en": "We needed to hurry because the train was leaving."
+    },
+    {
+      "id": 31,
+      "en": "He needed a password and forgot it."
+    },
+    {
+      "id": 32,
+      "en": "She needed you to sign the form."
+    },
+    {
+      "id": 33,
+      "en": "I needed to eat before the gym."
+    },
+    {
+      "id": 34,
+      "en": "We needed to leave before the rain."
+    },
+    {
+      "id": 35,
+      "en": "They didn't need a receipt."
+    },
+    {
+      "id": 36,
+      "en": "I needed a map in the city."
+    },
+    {
+      "id": 37,
+      "en": "You needed rest more than you admitted."
+    },
+    {
+      "id": 38,
+      "en": "He needed a taxi after the party."
+    },
+    {
+      "id": 39,
+      "en": "We needed a photo for the ID."
+    },
+    {
+      "id": 40,
+      "en": "I needed to talk to her face to face."
+    },
+    {
+      "id": 41,
+      "en": "I will need help tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will need to pack tonight."
+    },
+    {
+      "id": 43,
+      "en": "If it rains, we will need an umbrella."
+    },
+    {
+      "id": 44,
+      "en": "She will need a ride if her car breaks down."
+    },
+    {
+      "id": 45,
+      "en": "He won't need the paper ticket online."
+    },
+    {
+      "id": 46,
+      "en": "I would need more time if the project grows."
+    },
+    {
+      "id": 47,
+      "en": "We would need a loan if we bought a house."
+    },
+    {
+      "id": 48,
+      "en": "Would you need a receipt?"
+    },
+    {
+      "id": 49,
+      "en": "If you travel abroad, you will need a passport."
+    },
+    {
+      "id": 50,
+      "en": "I will need to sleep early tonight."
+    },
+    {
+      "id": 51,
+      "en": "They will need your answer by Friday."
+    },
+    {
+      "id": 52,
+      "en": "You will need practice if you want to improve."
+    },
+    {
+      "id": 53,
+      "en": "I would need help if I drove alone at night."
+    },
+    {
+      "id": 54,
+      "en": "If we cook pasta, we will need more salt."
+    },
+    {
+      "id": 55,
+      "en": "We will need to book the hotel soon."
+    },
+    {
+      "id": 56,
+      "en": "I have needed help for weeks."
+    },
+    {
+      "id": 57,
+      "en": "We haven't needed a car until now."
+    },
+    {
+      "id": 58,
+      "en": "She has needed to rest since Monday."
+    },
+    {
+      "id": 59,
+      "en": "Have you needed to call anyone?"
+    },
+    {
+      "id": 60,
+      "en": "I need to finish this report."
+    },
+    {
+      "id": 61,
+      "en": "We need to decide today."
+    },
+    {
+      "id": 62,
+      "en": "He needs to learn to swim."
+    },
+    {
+      "id": 63,
+      "en": "I try to buy only what I need."
+    },
+    {
+      "id": 64,
+      "en": "Remember to ask if you need help."
+    },
+    {
+      "id": 65,
+      "en": "I hate to need money from my parents."
+    },
+    {
+      "id": 66,
+      "en": "She forgot to say she needed a day off."
+    },
+    {
+      "id": 67,
+      "en": "I plan to call if I need help."
+    },
+    {
+      "id": 68,
+      "en": "They refuse to admit they need help."
+    },
+    {
+      "id": 69,
+      "en": "I need you to be on time."
+    },
+    {
+      "id": 70,
+      "en": "We need them to agree before we sign."
+    },
+    {
+      "id": 71,
+      "en": "Do you need anything?"
+    },
+    {
+      "id": 72,
+      "en": "Why do you need my address?"
+    },
+    {
+      "id": 73,
+      "en": "Don't you need a jacket?"
+    },
+    {
+      "id": 74,
+      "en": "I don't need a bag."
+    },
+    {
+      "id": 75,
+      "en": "We don't need to rush."
+    },
+    {
+      "id": 76,
+      "en": "He doesn't need a ride."
+    },
+    {
+      "id": 77,
+      "en": "Does she need the file today?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you need cash?"
+    },
+    {
+      "id": 79,
+      "en": "Haven't you needed to rest?"
+    },
+    {
+      "id": 80,
+      "en": "Don't we need more chairs?"
+    },
+    {
+      "id": 81,
+      "en": "Will you need help later?"
+    },
+    {
+      "id": 82,
+      "en": "Why didn't you need a ticket?"
+    },
+    {
+      "id": 83,
+      "en": "Do you need me to call?"
+    },
+    {
+      "id": 84,
+      "en": "You don't need to apologize."
+    },
+    {
+      "id": 85,
+      "en": "Don't say you need to leave early."
+    },
+    {
+      "id": 86,
+      "en": "I need water because I ran."
+    },
+    {
+      "id": 87,
+      "en": "We need time, but the boss won't wait."
+    },
+    {
+      "id": 88,
+      "en": "When you need help, you need to ask."
+    },
+    {
+      "id": 89,
+      "en": "If you need money, say it early."
+    },
+    {
+      "id": 90,
+      "en": "Although I need rest, I will finish the task."
+    },
+    {
+      "id": 91,
+      "en": "Before you leave, you need to lock the door."
+    },
+    {
+      "id": 92,
+      "en": "After I needed help, I called my friend."
+    },
+    {
+      "id": 93,
+      "en": "Because we needed food, we stopped at the store."
+    },
+    {
+      "id": 94,
+      "en": "I need quiet at home, but my neighbours are loud."
+    },
+    {
+      "id": 95,
+      "en": "When he needs focus, he turns off his phone."
+    },
+    {
+      "id": 96,
+      "en": "If we need more time, we will ask for it."
+    },
+    {
+      "id": 97,
+      "en": "Although I needed money, I refused to borrow."
+    },
+    {
+      "id": 98,
+      "en": "Before you need a doctor, sleep more."
+    },
+    {
+      "id": 99,
+      "en": "After we needed a new plan, we booked a meeting."
+    },
+    {
+      "id": 100,
+      "en": "It's important that the team doesn't need more players."
+    }
+  ]
+}

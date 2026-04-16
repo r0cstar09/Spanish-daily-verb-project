@@ -1,0 +1,407 @@
+{
+  "verb": "hablar",
+  "generated_at": "2026-04-17T10:00:00+00:00",
+  "source": "sentence_banks:hablar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I speak Spanish at home."
+    },
+    {
+      "id": 2,
+      "en": "We talk about the weather every day."
+    },
+    {
+      "id": 3,
+      "en": "He speaks English at work."
+    },
+    {
+      "id": 4,
+      "en": "They talk on the phone at night."
+    },
+    {
+      "id": 5,
+      "en": "You speak too fast in meetings."
+    },
+    {
+      "id": 6,
+      "en": "She talks with her family on Sunday."
+    },
+    {
+      "id": 7,
+      "en": "I speak to the teacher after class."
+    },
+    {
+      "id": 8,
+      "en": "We talk about money before we buy a car."
+    },
+    {
+      "id": 9,
+      "en": "The coach speaks to the team before the game."
+    },
+    {
+      "id": 10,
+      "en": "I talk in the car on the way to the city."
+    },
+    {
+      "id": 11,
+      "en": "People speak loudly in the restaurant."
+    },
+    {
+      "id": 12,
+      "en": "We speak about travel plans at the table."
+    },
+    {
+      "id": 13,
+      "en": "He talks with his friend at the park."
+    },
+    {
+      "id": 14,
+      "en": "I speak quietly when the baby sleeps."
+    },
+    {
+      "id": 15,
+      "en": "They speak about health at the gym."
+    },
+    {
+      "id": 16,
+      "en": "She speaks Spanish and English at the office."
+    },
+    {
+      "id": 17,
+      "en": "We talk to the neighbor at the door."
+    },
+    {
+      "id": 18,
+      "en": "I speak with the doctor at the hospital."
+    },
+    {
+      "id": 19,
+      "en": "Kids talk about school on the bus."
+    },
+    {
+      "id": 20,
+      "en": "You speak clearly on the video call."
+    },
+    {
+      "id": 21,
+      "en": "I spoke to the manager yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We talked about the trip last night."
+    },
+    {
+      "id": 23,
+      "en": "He spoke Spanish at the airport."
+    },
+    {
+      "id": 24,
+      "en": "They talked for an hour on the phone."
+    },
+    {
+      "id": 25,
+      "en": "I was talking when you called."
+    },
+    {
+      "id": 26,
+      "en": "She spoke about the problem at the meeting."
+    },
+    {
+      "id": 27,
+      "en": "I didn't speak during the exam."
+    },
+    {
+      "id": 28,
+      "en": "Why did you speak to him alone?"
+    },
+    {
+      "id": 29,
+      "en": "Although I spoke Spanish, they answered in English."
+    },
+    {
+      "id": 30,
+      "en": "When I was young, we spoke only English at home."
+    },
+    {
+      "id": 31,
+      "en": "After we talked, I felt better."
+    },
+    {
+      "id": 32,
+      "en": "Before she spoke, she wrote notes on her phone."
+    },
+    {
+      "id": 33,
+      "en": "I spoke up because the room was quiet."
+    },
+    {
+      "id": 34,
+      "en": "I talked about money, but he changed the subject."
+    },
+    {
+      "id": 35,
+      "en": "The player spoke to the press after the match."
+    },
+    {
+      "id": 36,
+      "en": "We spoke little that winter."
+    },
+    {
+      "id": 37,
+      "en": "He talked about his job at the party."
+    },
+    {
+      "id": 38,
+      "en": "I never spoke to the boss alone."
+    },
+    {
+      "id": 39,
+      "en": "They spoke about food at the market."
+    },
+    {
+      "id": 40,
+      "en": "She spoke softly when she was nervous."
+    },
+    {
+      "id": 41,
+      "en": "I will speak at the meeting tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will talk about the budget next week."
+    },
+    {
+      "id": 43,
+      "en": "If you call, I will speak with you."
+    },
+    {
+      "id": 44,
+      "en": "He won't speak without his lawyer."
+    },
+    {
+      "id": 45,
+      "en": "Would you speak English if you were there?"
+    },
+    {
+      "id": 46,
+      "en": "They will talk to the family before they decide."
+    },
+    {
+      "id": 47,
+      "en": "I'm going to speak with the bank about the loan."
+    },
+    {
+      "id": 48,
+      "en": "If we are honest, we will speak clearly."
+    },
+    {
+      "id": 49,
+      "en": "I would speak sooner if I had more time."
+    },
+    {
+      "id": 50,
+      "en": "We would talk more if the house were quieter."
+    },
+    {
+      "id": 51,
+      "en": "She will speak Spanish on the trip."
+    },
+    {
+      "id": 52,
+      "en": "If the noise stops, we will talk in the garden."
+    },
+    {
+      "id": 53,
+      "en": "Don't worry, I will speak to the teacher."
+    },
+    {
+      "id": 54,
+      "en": "I would speak up if I saw a problem."
+    },
+    {
+      "id": 55,
+      "en": "The team will speak to the fans after the game."
+    },
+    {
+      "id": 56,
+      "en": "I have spoken to him three times."
+    },
+    {
+      "id": 57,
+      "en": "We haven't talked about the money yet."
+    },
+    {
+      "id": 58,
+      "en": "I've spoken Spanish before in that city."
+    },
+    {
+      "id": 59,
+      "en": "I need to speak with you."
+    },
+    {
+      "id": 60,
+      "en": "She forgot to speak to the waiter."
+    },
+    {
+      "id": 61,
+      "en": "To speak well, you need a calm voice."
+    },
+    {
+      "id": 62,
+      "en": "I want to talk about the plan."
+    },
+    {
+      "id": 63,
+      "en": "Don't speak with your mouth full."
+    },
+    {
+      "id": 64,
+      "en": "I have to speak at work today."
+    },
+    {
+      "id": 65,
+      "en": "We meant to talk after dinner."
+    },
+    {
+      "id": 66,
+      "en": "They have spoken to everyone in the office."
+    },
+    {
+      "id": 67,
+      "en": "I haven't had time to speak with my friend."
+    },
+    {
+      "id": 68,
+      "en": "I tried to speak slowly."
+    },
+    {
+      "id": 69,
+      "en": "We have talked about the house for months."
+    },
+    {
+      "id": 70,
+      "en": "I want you to speak the truth."
+    },
+    {
+      "id": 71,
+      "en": "Do you speak Spanish?"
+    },
+    {
+      "id": 72,
+      "en": "Why don't we talk after work?"
+    },
+    {
+      "id": 73,
+      "en": "Don't speak to strangers in the street."
+    },
+    {
+      "id": 74,
+      "en": "Speak up, please."
+    },
+    {
+      "id": 75,
+      "en": "Haven't you talked to your sister yet?"
+    },
+    {
+      "id": 76,
+      "en": "Won't you speak with the doctor?"
+    },
+    {
+      "id": 77,
+      "en": "Can you speak more slowly?"
+    },
+    {
+      "id": 78,
+      "en": "Why didn't you speak last night?"
+    },
+    {
+      "id": 79,
+      "en": "Don't talk about politics at dinner."
+    },
+    {
+      "id": 80,
+      "en": "Never speak when you are angry."
+    },
+    {
+      "id": 81,
+      "en": "Why do you talk on the phone while you drive?"
+    },
+    {
+      "id": 82,
+      "en": "Where did you learn to speak Spanish?"
+    },
+    {
+      "id": 83,
+      "en": "When will you speak with the family?"
+    },
+    {
+      "id": 84,
+      "en": "Can't you talk about something else?"
+    },
+    {
+      "id": 85,
+      "en": "Will she speak at the conference?"
+    },
+    {
+      "id": 86,
+      "en": "Because we speak often, we stay close."
+    },
+    {
+      "id": 87,
+      "en": "When you speak, people listen."
+    },
+    {
+      "id": 88,
+      "en": "If I speak, I want to be clear."
+    },
+    {
+      "id": 89,
+      "en": "Although the room is loud, she speaks clearly."
+    },
+    {
+      "id": 90,
+      "en": "Before you speak, think for a second."
+    },
+    {
+      "id": 91,
+      "en": "After we spoke, we shook hands."
+    },
+    {
+      "id": 92,
+      "en": "I speak Spanish at home, but English at work."
+    },
+    {
+      "id": 93,
+      "en": "When the movie ends, we can talk."
+    },
+    {
+      "id": 94,
+      "en": "If we speak today, we will save time tomorrow."
+    },
+    {
+      "id": 95,
+      "en": "Although he was tired, he spoke with every fan."
+    },
+    {
+      "id": 96,
+      "en": "Because the line was bad, we spoke twice."
+    },
+    {
+      "id": 97,
+      "en": "Before the flight, we talked about the hotel."
+    },
+    {
+      "id": 98,
+      "en": "After dinner, they spoke about the children."
+    },
+    {
+      "id": 99,
+      "en": "It's important that we speak with honesty."
+    },
+    {
+      "id": 100,
+      "en": "When I work from home, I talk on the phone all day."
+    }
+  ]
+}

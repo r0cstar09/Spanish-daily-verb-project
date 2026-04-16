@@ -1,0 +1,407 @@
+{
+  "verb": "observar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:observar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I observe the traffic before I cross."
+    },
+    {
+      "id": 2,
+      "en": "We observe the rules at work."
+    },
+    {
+      "id": 3,
+      "en": "He observes the class every Tuesday."
+    },
+    {
+      "id": 4,
+      "en": "She observes the kids in the park."
+    },
+    {
+      "id": 5,
+      "en": "They observe the game on TV."
+    },
+    {
+      "id": 6,
+      "en": "You observe the screen during the test."
+    },
+    {
+      "id": 7,
+      "en": "I observe a change in the price."
+    },
+    {
+      "id": 8,
+      "en": "We observe the noise at night."
+    },
+    {
+      "id": 9,
+      "en": "He observes the meeting without speaking."
+    },
+    {
+      "id": 10,
+      "en": "She observes the coach before she asks."
+    },
+    {
+      "id": 11,
+      "en": "I observe the time on the clock."
+    },
+    {
+      "id": 12,
+      "en": "We observe the speed limit on this road."
+    },
+    {
+      "id": 13,
+      "en": "They observe the safety rules in the lab."
+    },
+    {
+      "id": 14,
+      "en": "I observe the food when I cook."
+    },
+    {
+      "id": 15,
+      "en": "You observe the line when you wait."
+    },
+    {
+      "id": 16,
+      "en": "He observes the football match from the bar."
+    },
+    {
+      "id": 17,
+      "en": "We observe the hotel entrance when we arrive."
+    },
+    {
+      "id": 18,
+      "en": "I observe my mood in a short journal."
+    },
+    {
+      "id": 19,
+      "en": "She observes the data on the app."
+    },
+    {
+      "id": 20,
+      "en": "They observe the street before they turn."
+    },
+    {
+      "id": 21,
+      "en": "I observed the sign yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We observed the problem early."
+    },
+    {
+      "id": 23,
+      "en": "He observed the man leave the store."
+    },
+    {
+      "id": 24,
+      "en": "She observed that I was nervous."
+    },
+    {
+      "id": 25,
+      "en": "I didn't observe the crack in the wall."
+    },
+    {
+      "id": 26,
+      "en": "They observed the traffic for an hour."
+    },
+    {
+      "id": 27,
+      "en": "I was observing the room when you entered."
+    },
+    {
+      "id": 28,
+      "en": "When I worked there, I observed the rules daily."
+    },
+    {
+      "id": 29,
+      "en": "We observed the water rise in the river."
+    },
+    {
+      "id": 30,
+      "en": "He observed the bill on the table."
+    },
+    {
+      "id": 31,
+      "en": "I observed the app update overnight."
+    },
+    {
+      "id": 32,
+      "en": "She observed the pain in her shoulder."
+    },
+    {
+      "id": 33,
+      "en": "Why did you observe the meeting?"
+    },
+    {
+      "id": 34,
+      "en": "We observed the crowd at the airport."
+    },
+    {
+      "id": 35,
+      "en": "I observed a difference after two weeks."
+    },
+    {
+      "id": 36,
+      "en": "I observed the coach on the phone."
+    },
+    {
+      "id": 37,
+      "en": "They observed the price before they bought."
+    },
+    {
+      "id": 38,
+      "en": "He observed you were late."
+    },
+    {
+      "id": 39,
+      "en": "We observed the rain through the window."
+    },
+    {
+      "id": 40,
+      "en": "You observed the error before I did."
+    },
+    {
+      "id": 41,
+      "en": "I will observe the rules if I join the team."
+    },
+    {
+      "id": 42,
+      "en": "We will observe the test tomorrow."
+    },
+    {
+      "id": 43,
+      "en": "If you watch closely, you will observe the difference."
+    },
+    {
+      "id": 44,
+      "en": "She will observe the meeting online."
+    },
+    {
+      "id": 45,
+      "en": "He won't observe the difference."
+    },
+    {
+      "id": 46,
+      "en": "I would observe more if I sat closer."
+    },
+    {
+      "id": 47,
+      "en": "We would observe the rules if they were clearer."
+    },
+    {
+      "id": 48,
+      "en": "Would you observe the patient for a minute?"
+    },
+    {
+      "id": 49,
+      "en": "If the light changes, we will observe it."
+    },
+    {
+      "id": 50,
+      "en": "They will observe the traffic from the window."
+    },
+    {
+      "id": 51,
+      "en": "You will observe the new menu on the first day."
+    },
+    {
+      "id": 52,
+      "en": "I would observe the screen if my eyes felt better."
+    },
+    {
+      "id": 53,
+      "en": "If we stay quiet, we will observe more."
+    },
+    {
+      "id": 54,
+      "en": "I will observe the football final at home."
+    },
+    {
+      "id": 55,
+      "en": "We will observe the plan before we sign."
+    },
+    {
+      "id": 56,
+      "en": "I have observed the same pattern twice."
+    },
+    {
+      "id": 57,
+      "en": "We haven't observed any problem yet."
+    },
+    {
+      "id": 58,
+      "en": "She has observed the team for a year."
+    },
+    {
+      "id": 59,
+      "en": "Have you observed the new rule?"
+    },
+    {
+      "id": 60,
+      "en": "I need to observe the rules."
+    },
+    {
+      "id": 61,
+      "en": "I want to observe the class before I join."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to observe the closing time."
+    },
+    {
+      "id": 63,
+      "en": "Remember to observe the speed limit."
+    },
+    {
+      "id": 64,
+      "en": "I hate to observe fear in my kids."
+    },
+    {
+      "id": 65,
+      "en": "We started to observe the noise last week."
+    },
+    {
+      "id": 66,
+      "en": "I have to observe the doctor's advice."
+    },
+    {
+      "id": 67,
+      "en": "I plan to observe the meeting before I speak."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to observe the old habit."
+    },
+    {
+      "id": 69,
+      "en": "I want you to observe the road."
+    },
+    {
+      "id": 70,
+      "en": "They tried to observe the change in the data."
+    },
+    {
+      "id": 71,
+      "en": "Do you observe the rules?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you observe him for so long?"
+    },
+    {
+      "id": 73,
+      "en": "Observe the sign."
+    },
+    {
+      "id": 74,
+      "en": "Don't observe people without a good reason."
+    },
+    {
+      "id": 75,
+      "en": "Never observe a patient without gloves."
+    },
+    {
+      "id": 76,
+      "en": "Can't you observe the difference?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you observed the change?"
+    },
+    {
+      "id": 78,
+      "en": "Won't she observe the meeting?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you observe the error?"
+    },
+    {
+      "id": 80,
+      "en": "Will you observe the rules today?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you observe the price?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it easy to observe?"
+    },
+    {
+      "id": 83,
+      "en": "Observe the line before you speak."
+    },
+    {
+      "id": 84,
+      "en": "Why don't you observe more carefully?"
+    },
+    {
+      "id": 85,
+      "en": "Stop and observe the traffic."
+    },
+    {
+      "id": 86,
+      "en": "I observe the rules because I want to keep my job."
+    },
+    {
+      "id": 87,
+      "en": "We observed the game, but we left early."
+    },
+    {
+      "id": 88,
+      "en": "When you observe a warning light, slow down."
+    },
+    {
+      "id": 89,
+      "en": "If you observe a mistake, tell me early."
+    },
+    {
+      "id": 90,
+      "en": "Although I observed the risk, I still said yes."
+    },
+    {
+      "id": 91,
+      "en": "Before you drive, observe the traffic."
+    },
+    {
+      "id": 92,
+      "en": "After I observed the mistake on the bill, I showed the server."
+    },
+    {
+      "id": 93,
+      "en": "Because she observed the date, we changed the plan."
+    },
+    {
+      "id": 94,
+      "en": "I observe the screen at work, but I read paper at home."
+    },
+    {
+      "id": 95,
+      "en": "When he observes stress, he pauses."
+    },
+    {
+      "id": 96,
+      "en": "If we observe the sign, we will find the door."
+    },
+    {
+      "id": 97,
+      "en": "Although we observed the delay, we stayed polite."
+    },
+    {
+      "id": 98,
+      "en": "Before you pay, observe the total."
+    },
+    {
+      "id": 99,
+      "en": "After we observed the bug, we sent a report."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you observe the safety rules."
+    }
+  ]
+}

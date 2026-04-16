@@ -1,0 +1,407 @@
+{
+  "verb": "notar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:notar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I notice you're tired."
+    },
+    {
+      "id": 2,
+      "en": "We notice the change every day."
+    },
+    {
+      "id": 3,
+      "en": "He notices small details at work."
+    },
+    {
+      "id": 4,
+      "en": "She notices when I am late."
+    },
+    {
+      "id": 5,
+      "en": "They notice the price first."
+    },
+    {
+      "id": 6,
+      "en": "You notice the smell as soon as you enter."
+    },
+    {
+      "id": 7,
+      "en": "I notice a difference in my health."
+    },
+    {
+      "id": 8,
+      "en": "We notice the noise at night."
+    },
+    {
+      "id": 9,
+      "en": "He notices mistakes in the email."
+    },
+    {
+      "id": 10,
+      "en": "She notices my mood before I speak."
+    },
+    {
+      "id": 11,
+      "en": "I notice the bill is higher than usual."
+    },
+    {
+      "id": 12,
+      "en": "We notice the traffic when we leave late."
+    },
+    {
+      "id": 13,
+      "en": "He notices the football score on his phone."
+    },
+    {
+      "id": 14,
+      "en": "I notice the food tastes different."
+    },
+    {
+      "id": 15,
+      "en": "You notice the cold in this room."
+    },
+    {
+      "id": 16,
+      "en": "They notice the light in the hall."
+    },
+    {
+      "id": 17,
+      "en": "I notice my phone is slow."
+    },
+    {
+      "id": 18,
+      "en": "We notice the schedule changed."
+    },
+    {
+      "id": 19,
+      "en": "She notices the red flag on the form."
+    },
+    {
+      "id": 20,
+      "en": "I notice the gym is crowded today."
+    },
+    {
+      "id": 21,
+      "en": "I noticed the mistake yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We noticed the sign on the door."
+    },
+    {
+      "id": 23,
+      "en": "He noticed the stain on the shirt."
+    },
+    {
+      "id": 24,
+      "en": "She noticed I was quiet."
+    },
+    {
+      "id": 25,
+      "en": "I didn't notice the time."
+    },
+    {
+      "id": 26,
+      "en": "They noticed the hotel was full."
+    },
+    {
+      "id": 27,
+      "en": "I was noticing the problem when you asked."
+    },
+    {
+      "id": 28,
+      "en": "When I arrived, I noticed the mess."
+    },
+    {
+      "id": 29,
+      "en": "We noticed the menu changed."
+    },
+    {
+      "id": 30,
+      "en": "He noticed his wallet was gone."
+    },
+    {
+      "id": 31,
+      "en": "I noticed the app crashed."
+    },
+    {
+      "id": 32,
+      "en": "She noticed the pain in her knee."
+    },
+    {
+      "id": 33,
+      "en": "Why didn't you notice the message?"
+    },
+    {
+      "id": 34,
+      "en": "We noticed the train was late."
+    },
+    {
+      "id": 35,
+      "en": "I noticed the smell in the kitchen."
+    },
+    {
+      "id": 36,
+      "en": "I noticed a scratch on the car."
+    },
+    {
+      "id": 37,
+      "en": "They noticed the price went up."
+    },
+    {
+      "id": 38,
+      "en": "He noticed you were absent."
+    },
+    {
+      "id": 39,
+      "en": "I noticed the meeting room was empty."
+    },
+    {
+      "id": 40,
+      "en": "You noticed the error before I did."
+    },
+    {
+      "id": 41,
+      "en": "I will notice if you change the file."
+    },
+    {
+      "id": 42,
+      "en": "We will notice the difference soon."
+    },
+    {
+      "id": 43,
+      "en": "If you move it, I will notice."
+    },
+    {
+      "id": 44,
+      "en": "She will notice the gift is missing."
+    },
+    {
+      "id": 45,
+      "en": "He won't notice the small typo."
+    },
+    {
+      "id": 46,
+      "en": "I would notice a lie right away."
+    },
+    {
+      "id": 47,
+      "en": "We would notice if the money was gone."
+    },
+    {
+      "id": 48,
+      "en": "Would you notice if I left early?"
+    },
+    {
+      "id": 49,
+      "en": "If the colour changes, we will notice."
+    },
+    {
+      "id": 50,
+      "en": "They will notice the update on Monday."
+    },
+    {
+      "id": 51,
+      "en": "You will notice the weight after a week."
+    },
+    {
+      "id": 52,
+      "en": "I would notice the cold more if I wore less."
+    },
+    {
+      "id": 53,
+      "en": "If we speak softly, she won't notice."
+    },
+    {
+      "id": 54,
+      "en": "I will notice the football result on my phone."
+    },
+    {
+      "id": 55,
+      "en": "We will notice the problem when we test it."
+    },
+    {
+      "id": 56,
+      "en": "I have noticed the change this month."
+    },
+    {
+      "id": 57,
+      "en": "We haven't noticed any problem yet."
+    },
+    {
+      "id": 58,
+      "en": "She has noticed the bug in the app."
+    },
+    {
+      "id": 59,
+      "en": "Have you noticed the new price?"
+    },
+    {
+      "id": 60,
+      "en": "I need to notice the small print."
+    },
+    {
+      "id": 61,
+      "en": "I want to notice more details."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to notice the door was locked."
+    },
+    {
+      "id": 63,
+      "en": "Remember to notice the exit sign."
+    },
+    {
+      "id": 64,
+      "en": "I hate to notice every mistake."
+    },
+    {
+      "id": 65,
+      "en": "We started to notice the noise last week."
+    },
+    {
+      "id": 66,
+      "en": "I have to notice if the file is wrong."
+    },
+    {
+      "id": 67,
+      "en": "I plan to notice the hours before I pay."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to notice the issue."
+    },
+    {
+      "id": 69,
+      "en": "I want you to notice the warning."
+    },
+    {
+      "id": 70,
+      "en": "They tried to notice the difference between the two files."
+    },
+    {
+      "id": 71,
+      "en": "Do you notice the change?"
+    },
+    {
+      "id": 72,
+      "en": "Why didn't you notice the email?"
+    },
+    {
+      "id": 73,
+      "en": "Notice the sign on the wall."
+    },
+    {
+      "id": 74,
+      "en": "Don't ignore what you notice."
+    },
+    {
+      "id": 75,
+      "en": "Never pretend you didn't notice."
+    },
+    {
+      "id": 76,
+      "en": "Can't you notice the difference?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you noticed the new paint?"
+    },
+    {
+      "id": 78,
+      "en": "Won't she notice we're late?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you notice the error?"
+    },
+    {
+      "id": 80,
+      "en": "Will you notice if I fix it?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you notice the price?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it easy to notice?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you notice the cold?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you notice when I ask?"
+    },
+    {
+      "id": 85,
+      "en": "Stop pretending you didn't notice."
+    },
+    {
+      "id": 86,
+      "en": "I notice the bill because I check every line."
+    },
+    {
+      "id": 87,
+      "en": "We noticed the problem, but we stayed calm."
+    },
+    {
+      "id": 88,
+      "en": "When you notice smoke, leave the building."
+    },
+    {
+      "id": 89,
+      "en": "If you notice a mistake, tell me early."
+    },
+    {
+      "id": 90,
+      "en": "Although I noticed the risk, I still signed."
+    },
+    {
+      "id": 91,
+      "en": "Before you pay, notice the total."
+    },
+    {
+      "id": 92,
+      "en": "After I noticed the charge, I called the bank."
+    },
+    {
+      "id": 93,
+      "en": "Because she noticed the date, we changed the plan."
+    },
+    {
+      "id": 94,
+      "en": "I notice the heat at home, but the office is cold."
+    },
+    {
+      "id": 95,
+      "en": "When he notices stress, he takes a break."
+    },
+    {
+      "id": 96,
+      "en": "If we notice the sign, we won't miss the turn."
+    },
+    {
+      "id": 97,
+      "en": "Although we noticed the delay, we waited."
+    },
+    {
+      "id": 98,
+      "en": "Before you leave, notice the time on the ticket."
+    },
+    {
+      "id": 99,
+      "en": "After we noticed the bug, we sent a report."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you notice the safety rules."
+    }
+  ]
+}

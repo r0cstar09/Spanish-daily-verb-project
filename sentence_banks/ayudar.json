@@ -1,0 +1,407 @@
+{
+  "verb": "ayudar",
+  "generated_at": "2026-04-16T16:00:00+00:00",
+  "source": "sentence_banks:ayudar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I help my parents with their phones on Sundays."
+    },
+    {
+      "id": 2,
+      "en": "We help each other split chores at home."
+    },
+    {
+      "id": 3,
+      "en": "She helps her kid with homework before dinner."
+    },
+    {
+      "id": 4,
+      "en": "They help new hires learn the tools in week one."
+    },
+    {
+      "id": 5,
+      "en": "He helps his neighbor shovel snow when it piles up."
+    },
+    {
+      "id": 6,
+      "en": "The tutorial helps people set up two-factor auth."
+    },
+    {
+      "id": 7,
+      "en": "Can you help me carry these boxes upstairs?"
+    },
+    {
+      "id": 8,
+      "en": "Who helped you fix the bike chain?"
+    },
+    {
+      "id": 9,
+      "en": "How did therapy help you handle stress at work?"
+    },
+    {
+      "id": 10,
+      "en": "Don't help someone cheat; explain the idea instead."
+    },
+    {
+      "id": 11,
+      "en": "Please help me find my keys; I am late."
+    },
+    {
+      "id": 12,
+      "en": "Let's help clean up after the potluck."
+    },
+    {
+      "id": 13,
+      "en": "I helped a friend move last weekend."
+    },
+    {
+      "id": 14,
+      "en": "We helped the team ship the release on time."
+    },
+    {
+      "id": 15,
+      "en": "She helped me pick a budget laptop under five hundred dollars."
+    },
+    {
+      "id": 16,
+      "en": "He helped cook dinner when I was stuck on a call."
+    },
+    {
+      "id": 17,
+      "en": "They helped search the park when the dog ran off."
+    },
+    {
+      "id": 18,
+      "en": "I did not help because I did not know how."
+    },
+    {
+      "id": 19,
+      "en": "We never helped with money; we only gave advice."
+    },
+    {
+      "id": 20,
+      "en": "She helped me stay calm before the interview."
+    },
+    {
+      "id": 21,
+      "en": "I used to help at the food bank on Saturdays."
+    },
+    {
+      "id": 22,
+      "en": "We used to help each other study for exams."
+    },
+    {
+      "id": 23,
+      "en": "He used to help his uncle at the shop after school."
+    },
+    {
+      "id": 24,
+      "en": "When I was broke, my sister helped me cover rent once."
+    },
+    {
+      "id": 25,
+      "en": "I will help you pack if you start before midnight."
+    },
+    {
+      "id": 26,
+      "en": "We are going to help host the family dinner next month."
+    },
+    {
+      "id": 27,
+      "en": "She will help lead the onboarding session on Monday."
+    },
+    {
+      "id": 28,
+      "en": "They will help at the registration desk if volunteers show up."
+    },
+    {
+      "id": 29,
+      "en": "I would help more if I lived closer."
+    },
+    {
+      "id": 30,
+      "en": "He would help you move, but his back is still sore."
+    },
+    {
+      "id": 31,
+      "en": "We would help pay for the repair if the warranty expired."
+    },
+    {
+      "id": 32,
+      "en": "I have helped three coworkers recover their accounts this month."
+    },
+    {
+      "id": 33,
+      "en": "She has helped me see the problem from another angle."
+    },
+    {
+      "id": 34,
+      "en": "We have not helped enough with childcare lately."
+    },
+    {
+      "id": 35,
+      "en": "He has never helped wash dishes without being asked."
+    },
+    {
+      "id": 36,
+      "en": "I need to help my parents book flights before prices jump."
+    },
+    {
+      "id": 37,
+      "en": "She wants to help plan the trip, but she is swamped."
+    },
+    {
+      "id": 38,
+      "en": "They forgot to help set up chairs before the talk started."
+    },
+    {
+      "id": 39,
+      "en": "Try to help one person a day, even in a small way."
+    },
+    {
+      "id": 40,
+      "en": "Remember to help your teammate if their queue is full."
+    },
+    {
+      "id": 41,
+      "en": "If you help me today, I will help you tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "When people help without being asked, it means a lot."
+    },
+    {
+      "id": 43,
+      "en": "Although I was tired, I helped finish the dishes."
+    },
+    {
+      "id": 44,
+      "en": "Because you helped me last time, I owe you one."
+    },
+    {
+      "id": 45,
+      "en": "Before you leave, help me lock the back door."
+    },
+    {
+      "id": 46,
+      "en": "After you help me lift this, we can grab coffee."
+    },
+    {
+      "id": 47,
+      "en": "I help out at the school fair when my schedule allows."
+    },
+    {
+      "id": 48,
+      "en": "We help train new baristas during the morning rush."
+    },
+    {
+      "id": 49,
+      "en": "He helps the coach set up cones before practice."
+    },
+    {
+      "id": 50,
+      "en": "Stretching helps my knees feel better after long walks."
+    },
+    {
+      "id": 51,
+      "en": "I helped a tourist find the train platform yesterday."
+    },
+    {
+      "id": 52,
+      "en": "She helped mediate the argument before it got loud."
+    },
+    {
+      "id": 53,
+      "en": "We helped choose the restaurant when nobody could decide."
+    },
+    {
+      "id": 54,
+      "en": "The FAQ helps customers reset passwords without calling."
+    },
+    {
+      "id": 55,
+      "en": "I will help debug your script if you share the error message."
+    },
+    {
+      "id": 56,
+      "en": "You should help label the leftovers so they do not go bad."
+    },
+    {
+      "id": 57,
+      "en": "I don't help with group projects unless everyone pulls weight."
+    },
+    {
+      "id": 58,
+      "en": "We don't help strangers wire money; that is a scam pattern."
+    },
+    {
+      "id": 59,
+      "en": "She won't help him lie to his boss."
+    },
+    {
+      "id": 60,
+      "en": "Who is going to help run the youth match on Saturday?"
+    },
+    {
+      "id": 61,
+      "en": "Have you helped anyone learn the new workflow yet?"
+    },
+    {
+      "id": 62,
+      "en": "I was helping my cousin build a desk when I cut my finger."
+    },
+    {
+      "id": 63,
+      "en": "We were helping at checkout when the power went out."
+    },
+    {
+      "id": 64,
+      "en": "I am helping my friend look for a roommate this week."
+    },
+    {
+      "id": 65,
+      "en": "They are helping test the app before the public release."
+    },
+    {
+      "id": 66,
+      "en": "If the schedule slips, ask who can help cover support."
+    },
+    {
+      "id": 67,
+      "en": "When travel plans break, a good agent helps you rebook fast."
+    },
+    {
+      "id": 68,
+      "en": "Although the budget is tight, we can still help with snacks."
+    },
+    {
+      "id": 69,
+      "en": "Before the trip, help me check the tire pressure."
+    },
+    {
+      "id": 70,
+      "en": "After he helped me edit the resume, I got more replies."
+    },
+    {
+      "id": 71,
+      "en": "I help my partner meal prep on Sunday so weeknights feel easier."
+    },
+    {
+      "id": 72,
+      "en": "She helped me choose a gift without ruining the surprise."
+    },
+    {
+      "id": 73,
+      "en": "We have helped friends move so many times we own extra tape."
+    },
+    {
+      "id": 74,
+      "en": "He has helped the team hit the goal three quarters in a row."
+    },
+    {
+      "id": 75,
+      "en": "I will help you practice lines before the audition."
+    },
+    {
+      "id": 76,
+      "en": "Do not help someone sign papers they do not understand."
+    },
+    {
+      "id": 77,
+      "en": "Let's help the new person feel welcome on day one."
+    },
+    {
+      "id": 78,
+      "en": "I would help you study if you sent me the topics."
+    },
+    {
+      "id": 79,
+      "en": "Ice helps the swelling, but rest helps more."
+    },
+    {
+      "id": 80,
+      "en": "Community volunteers helped clear the trail after the storm."
+    },
+    {
+      "id": 81,
+      "en": "I finish faster when a coworker helps me walk through the first task."
+    },
+    {
+      "id": 82,
+      "en": "We increased the tip because the server helped split the bill fairly."
+    },
+    {
+      "id": 83,
+      "en": "She wants her friends to help pick a wedding date, not the venue yet."
+    },
+    {
+      "id": 84,
+      "en": "He needs someone to help watch the dog during the surgery."
+    },
+    {
+      "id": 85,
+      "en": "I haven't helped at the shelter since I changed shifts."
+    },
+    {
+      "id": 86,
+      "en": "Has anyone helped you set parental controls on the new tablet?"
+    },
+    {
+      "id": 87,
+      "en": "If you help seed the lawn in spring, it fills in by summer."
+    },
+    {
+      "id": 88,
+      "en": "Although he is shy, he helps teammates learn the playbook."
+    },
+    {
+      "id": 89,
+      "en": "Because the stairs were icy, a stranger helped steady my bag."
+    },
+    {
+      "id": 90,
+      "en": "After the company cut staff, we helped teammates update their resumes."
+    },
+    {
+      "id": 91,
+      "en": "The coach helps players review film without crushing their confidence."
+    },
+    {
+      "id": 92,
+      "en": "I did not help at the last minute; I showed up early instead."
+    },
+    {
+      "id": 93,
+      "en": "They are going to help run drills at the youth football camp."
+    },
+    {
+      "id": 94,
+      "en": "I want to help budget the trip, but I need the real numbers."
+    },
+    {
+      "id": 95,
+      "en": "Please help me turn off notifications during focus time."
+    },
+    {
+      "id": 96,
+      "en": "Don't help spread rumors you have not verified."
+    },
+    {
+      "id": 97,
+      "en": "A short walk helps my focus when I work from home."
+    },
+    {
+      "id": 98,
+      "en": "I helped my brother build a simple website for his side job."
+    },
+    {
+      "id": 99,
+      "en": "We help each other stay honest about spending and savings."
+    },
+    {
+      "id": 100,
+      "en": "Tomorrow I will help test the checkout flow before we launch."
+    }
+  ]
+}

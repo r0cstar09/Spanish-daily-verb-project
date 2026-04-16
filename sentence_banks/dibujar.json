@@ -1,0 +1,407 @@
+{
+  "verb": "dibujar",
+  "generated_at": "2026-04-16T12:00:00+00:00",
+  "source": "sentence_banks:dibujar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I draw in my notebook every night."
+    },
+    {
+      "id": 2,
+      "en": "We draw on the whiteboard in meetings."
+    },
+    {
+      "id": 3,
+      "en": "They draw cartoons after dinner."
+    },
+    {
+      "id": 4,
+      "en": "He draws with a pencil at the kitchen table."
+    },
+    {
+      "id": 5,
+      "en": "She draws fast on the tablet."
+    },
+    {
+      "id": 6,
+      "en": "You draw better than I do."
+    },
+    {
+      "id": 7,
+      "en": "I want you to draw a simple map for the guest."
+    },
+    {
+      "id": 8,
+      "en": "We draw the play before the match."
+    },
+    {
+      "id": 9,
+      "en": "Kids draw at the table on Saturday."
+    },
+    {
+      "id": 10,
+      "en": "I draw a sketch on the napkin."
+    },
+    {
+      "id": 11,
+      "en": "He draws a line under the title."
+    },
+    {
+      "id": 12,
+      "en": "She draws diagrams for the team."
+    },
+    {
+      "id": 13,
+      "en": "We draw in the park on weekends."
+    },
+    {
+      "id": 14,
+      "en": "I need you to draw the icon before Friday."
+    },
+    {
+      "id": 15,
+      "en": "They draw with chalk on the sidewalk."
+    },
+    {
+      "id": 16,
+      "en": "You draw a heart on the card."
+    },
+    {
+      "id": 17,
+      "en": "I draw a floor plan for the move."
+    },
+    {
+      "id": 18,
+      "en": "We draw the route on the phone screen."
+    },
+    {
+      "id": 19,
+      "en": "He draws a cat when he's bored."
+    },
+    {
+      "id": 20,
+      "en": "She draws in the notes app."
+    },
+    {
+      "id": 21,
+      "en": "I drew a picture last night."
+    },
+    {
+      "id": 22,
+      "en": "We drew the idea on the board."
+    },
+    {
+      "id": 23,
+      "en": "He drew a circle too small."
+    },
+    {
+      "id": 24,
+      "en": "They drew the map during the trip."
+    },
+    {
+      "id": 25,
+      "en": "I was drawing when you called."
+    },
+    {
+      "id": 26,
+      "en": "She drew a sketch before the meeting."
+    },
+    {
+      "id": 27,
+      "en": "I didn't draw the final version."
+    },
+    {
+      "id": 28,
+      "en": "Why did you draw that?"
+    },
+    {
+      "id": 29,
+      "en": "Although I drew slowly, I finished it."
+    },
+    {
+      "id": 30,
+      "en": "When I was a kid, I drew every day."
+    },
+    {
+      "id": 31,
+      "en": "I used to draw in class."
+    },
+    {
+      "id": 32,
+      "en": "After we drew the route, we started driving."
+    },
+    {
+      "id": 33,
+      "en": "Before you drew the arrow, I checked the label."
+    },
+    {
+      "id": 34,
+      "en": "I drew the wrong icon by mistake."
+    },
+    {
+      "id": 35,
+      "en": "They drew the play on the locker room board."
+    },
+    {
+      "id": 36,
+      "en": "I didn't draw the background yet."
+    },
+    {
+      "id": 37,
+      "en": "We drew a simple chart for the budget talk."
+    },
+    {
+      "id": 38,
+      "en": "He drew a face on the egg carton."
+    },
+    {
+      "id": 39,
+      "en": "She drew a star on the form."
+    },
+    {
+      "id": 40,
+      "en": "I drew a stick figure on the sticky note."
+    },
+    {
+      "id": 41,
+      "en": "I will draw the slide tonight."
+    },
+    {
+      "id": 42,
+      "en": "It's important that we draw a plan before we spend more."
+    },
+    {
+      "id": 43,
+      "en": "If you ask, I will draw a map."
+    },
+    {
+      "id": 44,
+      "en": "They will draw the lineup on the board."
+    },
+    {
+      "id": 45,
+      "en": "I am going to draw a plan for the trip."
+    },
+    {
+      "id": 46,
+      "en": "I'd rather you draw the outline first."
+    },
+    {
+      "id": 47,
+      "en": "I would draw it by hand if the app crashed."
+    },
+    {
+      "id": 48,
+      "en": "If you bring paper, we will draw together."
+    },
+    {
+      "id": 49,
+      "en": "Tomorrow I will draw the final sketch."
+    },
+    {
+      "id": 50,
+      "en": "He will draw the play before the second half."
+    },
+    {
+      "id": 51,
+      "en": "It's better that we draw the chart by hand."
+    },
+    {
+      "id": 52,
+      "en": "If we are late, we will still draw a rough plan."
+    },
+    {
+      "id": 53,
+      "en": "I will draw the icon set next week."
+    },
+    {
+      "id": 54,
+      "en": "They will draw the route on the shared map."
+    },
+    {
+      "id": 55,
+      "en": "We will draw the birthday card together."
+    },
+    {
+      "id": 56,
+      "en": "I have drawn three sketches."
+    },
+    {
+      "id": 57,
+      "en": "We haven't drawn the final layout yet."
+    },
+    {
+      "id": 58,
+      "en": "I've drawn on this tablet before."
+    },
+    {
+      "id": 59,
+      "en": "After drawing, I felt calmer."
+    },
+    {
+      "id": 60,
+      "en": "Before you draw the border, measure twice."
+    },
+    {
+      "id": 61,
+      "en": "I need to draw the wireframe."
+    },
+    {
+      "id": 62,
+      "en": "I prefer that we draw the budget chart together."
+    },
+    {
+      "id": 63,
+      "en": "Don't draw on the wall."
+    },
+    {
+      "id": 64,
+      "en": "Let's draw a quick plan."
+    },
+    {
+      "id": 65,
+      "en": "I forgot to draw the arrow."
+    },
+    {
+      "id": 66,
+      "en": "To draw well, you need practice."
+    },
+    {
+      "id": 67,
+      "en": "Stop drawing during the call."
+    },
+    {
+      "id": 68,
+      "en": "I haven't drawn anything this week."
+    },
+    {
+      "id": 69,
+      "en": "It's time to draw the rough version."
+    },
+    {
+      "id": 70,
+      "en": "We have to draw the diagram before the client call."
+    },
+    {
+      "id": 71,
+      "en": "Did you draw this?"
+    },
+    {
+      "id": 72,
+      "en": "Why won't you draw the layout?"
+    },
+    {
+      "id": 73,
+      "en": "Can you draw a simple floor plan?"
+    },
+    {
+      "id": 74,
+      "en": "Don't you draw at home?"
+    },
+    {
+      "id": 75,
+      "en": "Where did you draw that?"
+    },
+    {
+      "id": 76,
+      "en": "When will you draw the logo?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you drawn the outline yet?"
+    },
+    {
+      "id": 78,
+      "en": "I doubt I can draw faces."
+    },
+    {
+      "id": 79,
+      "en": "We don't draw on company documents."
+    },
+    {
+      "id": 80,
+      "en": "Never draw on the screen with a pen."
+    },
+    {
+      "id": 81,
+      "en": "Because I was tired, I drew a simple shape."
+    },
+    {
+      "id": 82,
+      "en": "I wanted detail, but I only drew a sketch."
+    },
+    {
+      "id": 83,
+      "en": "When we travel, I draw landmarks in my notes."
+    },
+    {
+      "id": 84,
+      "en": "If you draw a line, I'll follow it."
+    },
+    {
+      "id": 85,
+      "en": "Although the room was crowded, we drew on the board."
+    },
+    {
+      "id": 86,
+      "en": "After we drew the plan, we split the tasks."
+    },
+    {
+      "id": 87,
+      "en": "Before we draw the budget chart, we check the numbers."
+    },
+    {
+      "id": 88,
+      "en": "I'm not sure she draws from memory."
+    },
+    {
+      "id": 89,
+      "en": "If the pen is dry, we can't draw."
+    },
+    {
+      "id": 90,
+      "en": "When the baby naps, I draw in the kitchen."
+    },
+    {
+      "id": 91,
+      "en": "I draw in my notebook between sets at the gym."
+    },
+    {
+      "id": 92,
+      "en": "He drew a football pitch on the napkin."
+    },
+    {
+      "id": 93,
+      "en": "We draw a bracket for the tournament."
+    },
+    {
+      "id": 94,
+      "en": "I'm glad you draw in your free time."
+    },
+    {
+      "id": 95,
+      "en": "I don't think he draws every day."
+    },
+    {
+      "id": 96,
+      "en": "She asked me to draw the play on the board."
+    },
+    {
+      "id": 97,
+      "en": "He told me to draw a smaller circle."
+    },
+    {
+      "id": 98,
+      "en": "Unless you draw the route, we will get lost."
+    },
+    {
+      "id": 99,
+      "en": "So that you can draw clearly, use a thicker pen."
+    },
+    {
+      "id": 100,
+      "en": "It's strange that he draws so fast without a ruler."
+    }
+  ]
+}

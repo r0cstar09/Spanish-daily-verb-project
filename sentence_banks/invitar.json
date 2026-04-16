@@ -1,0 +1,407 @@
+{
+  "verb": "invitar",
+  "generated_at": "2026-04-17T22:00:00+00:00",
+  "source": "sentence_banks:invitar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I invite my friends to dinner at home."
+    },
+    {
+      "id": 2,
+      "en": "We invite the family on Sunday."
+    },
+    {
+      "id": 3,
+      "en": "She invites everyone to the party."
+    },
+    {
+      "id": 4,
+      "en": "They invite us to the wedding."
+    },
+    {
+      "id": 5,
+      "en": "You invite too many people to the barbecue."
+    },
+    {
+      "id": 6,
+      "en": "He invites the team after the game."
+    },
+    {
+      "id": 7,
+      "en": "I invite you to coffee at the cafe."
+    },
+    {
+      "id": 8,
+      "en": "We invite the neighbors to the house."
+    },
+    {
+      "id": 9,
+      "en": "The office invites clients to a meeting."
+    },
+    {
+      "id": 10,
+      "en": "I invite my parents to lunch on Saturday."
+    },
+    {
+      "id": 11,
+      "en": "She invites kids from school to the park."
+    },
+    {
+      "id": 12,
+      "en": "We invite friends when we cook at home."
+    },
+    {
+      "id": 13,
+      "en": "He invites his boss to the restaurant."
+    },
+    {
+      "id": 14,
+      "en": "I invite you; I pay for the drinks."
+    },
+    {
+      "id": 15,
+      "en": "They invite us to travel with them."
+    },
+    {
+      "id": 16,
+      "en": "The school invites parents to open day."
+    },
+    {
+      "id": 17,
+      "en": "We invite people by message on the phone."
+    },
+    {
+      "id": 18,
+      "en": "I invite my friend to the movie."
+    },
+    {
+      "id": 19,
+      "en": "She invites the doctor to speak at work."
+    },
+    {
+      "id": 20,
+      "en": "I invite my cousin to stay in the guest room."
+    },
+    {
+      "id": 21,
+      "en": "I invited them yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We invited everyone to the beach house."
+    },
+    {
+      "id": 23,
+      "en": "He invited his brother to the city."
+    },
+    {
+      "id": 24,
+      "en": "They invited us to breakfast at the hotel."
+    },
+    {
+      "id": 25,
+      "en": "I was inviting guests when you called."
+    },
+    {
+      "id": 26,
+      "en": "She invited the teacher to dinner."
+    },
+    {
+      "id": 27,
+      "en": "I didn't invite my ex to the party."
+    },
+    {
+      "id": 28,
+      "en": "Why did you invite so many people?"
+    },
+    {
+      "id": 29,
+      "en": "Although we invited her, she couldn't come."
+    },
+    {
+      "id": 30,
+      "en": "When I was young, my parents invited the whole street."
+    },
+    {
+      "id": 31,
+      "en": "After we invited them, we bought more food."
+    },
+    {
+      "id": 32,
+      "en": "Before he invited anyone, he cleaned the house."
+    },
+    {
+      "id": 33,
+      "en": "I invited you because it was your birthday."
+    },
+    {
+      "id": 34,
+      "en": "I invited three friends, but five arrived."
+    },
+    {
+      "id": 35,
+      "en": "The club invited a player from another team."
+    },
+    {
+      "id": 36,
+      "en": "We invited few people that year."
+    },
+    {
+      "id": 37,
+      "en": "He invited his partner to the office party."
+    },
+    {
+      "id": 38,
+      "en": "I never invited strangers into the apartment."
+    },
+    {
+      "id": 39,
+      "en": "They invited us on the trip to the mountains."
+    },
+    {
+      "id": 40,
+      "en": "She invited the family after the hospital visit."
+    },
+    {
+      "id": 41,
+      "en": "I will invite you next week."
+    },
+    {
+      "id": 42,
+      "en": "We will invite the team to pizza."
+    },
+    {
+      "id": 43,
+      "en": "If you are free, I will invite you to the game."
+    },
+    {
+      "id": 44,
+      "en": "He won't invite people without asking you."
+    },
+    {
+      "id": 45,
+      "en": "Would you invite me to your house?"
+    },
+    {
+      "id": 46,
+      "en": "They will invite speakers to the meeting."
+    },
+    {
+      "id": 47,
+      "en": "I'm going to invite my friend from work."
+    },
+    {
+      "id": 48,
+      "en": "If we save money, we will invite more guests."
+    },
+    {
+      "id": 49,
+      "en": "I would invite everyone if I had a bigger table."
+    },
+    {
+      "id": 50,
+      "en": "We would invite the family if the weather were good."
+    },
+    {
+      "id": 51,
+      "en": "She will invite her friends to the gym class."
+    },
+    {
+      "id": 52,
+      "en": "If the room is ready, we will invite them over."
+    },
+    {
+      "id": 53,
+      "en": "Don't worry, I will invite the kids."
+    },
+    {
+      "id": 54,
+      "en": "I would invite you sooner if I had your number."
+    },
+    {
+      "id": 55,
+      "en": "The boss will invite the group to lunch."
+    },
+    {
+      "id": 56,
+      "en": "I have invited you three times."
+    },
+    {
+      "id": 57,
+      "en": "We haven't invited the neighbors yet."
+    },
+    {
+      "id": 58,
+      "en": "I've invited everyone from the office."
+    },
+    {
+      "id": 59,
+      "en": "I need to invite my sister."
+    },
+    {
+      "id": 60,
+      "en": "She forgot to invite her cousin."
+    },
+    {
+      "id": 61,
+      "en": "To invite early, you need a date."
+    },
+    {
+      "id": 62,
+      "en": "I want to invite you to dinner."
+    },
+    {
+      "id": 63,
+      "en": "Don't invite people without food."
+    },
+    {
+      "id": 64,
+      "en": "I have to invite the teacher tomorrow."
+    },
+    {
+      "id": 65,
+      "en": "We meant to invite them last month."
+    },
+    {
+      "id": 66,
+      "en": "They have invited us to the wedding."
+    },
+    {
+      "id": 67,
+      "en": "I haven't had time to invite anyone."
+    },
+    {
+      "id": 68,
+      "en": "I tried to invite him, but he was busy."
+    },
+    {
+      "id": 69,
+      "en": "We have invited friends since we moved."
+    },
+    {
+      "id": 70,
+      "en": "I want you to invite your family."
+    },
+    {
+      "id": 71,
+      "en": "Did you invite your friend?"
+    },
+    {
+      "id": 72,
+      "en": "Why don't we invite them to coffee?"
+    },
+    {
+      "id": 73,
+      "en": "Don't invite everyone at once."
+    },
+    {
+      "id": 74,
+      "en": "Invite your friend to the table."
+    },
+    {
+      "id": 75,
+      "en": "Haven't you invited the boss yet?"
+    },
+    {
+      "id": 76,
+      "en": "Won't you invite us to the beach?"
+    },
+    {
+      "id": 77,
+      "en": "Can you invite two more people?"
+    },
+    {
+      "id": 78,
+      "en": "Why didn't you invite me?"
+    },
+    {
+      "id": 79,
+      "en": "Never invite people you don't trust."
+    },
+    {
+      "id": 80,
+      "en": "Don't invite work friends without asking."
+    },
+    {
+      "id": 81,
+      "en": "Don't you invite family every holiday?"
+    },
+    {
+      "id": 82,
+      "en": "Where did you invite them?"
+    },
+    {
+      "id": 83,
+      "en": "When will you invite us?"
+    },
+    {
+      "id": 84,
+      "en": "Can't we invite one more child?"
+    },
+    {
+      "id": 85,
+      "en": "Will she invite her partner?"
+    },
+    {
+      "id": 86,
+      "en": "Because we invite friends, the house feels warm."
+    },
+    {
+      "id": 87,
+      "en": "When you invite people, buy enough bread."
+    },
+    {
+      "id": 88,
+      "en": "If I invite you, dinner is on me."
+    },
+    {
+      "id": 89,
+      "en": "Although the apartment is small, we still invite guests."
+    },
+    {
+      "id": 90,
+      "en": "Before you invite, check the money for food."
+    },
+    {
+      "id": 91,
+      "en": "After we invited them, we felt happy."
+    },
+    {
+      "id": 92,
+      "en": "I invite friends home, but I don't cook every time."
+    },
+    {
+      "id": 93,
+      "en": "When the team wins, we invite pizza for everyone."
+    },
+    {
+      "id": 94,
+      "en": "If we travel, I will invite you to visit."
+    },
+    {
+      "id": 95,
+      "en": "Although the train was late, they still invited us in."
+    },
+    {
+      "id": 96,
+      "en": "Because the food was ready, we invited the neighbors early."
+    },
+    {
+      "id": 97,
+      "en": "Before the flight, she invited us to breakfast."
+    },
+    {
+      "id": 98,
+      "en": "After work, he invited the group for drinks."
+    },
+    {
+      "id": 99,
+      "en": "It's important that we invite everyone on the list."
+    },
+    {
+      "id": 100,
+      "en": "When I work from home, I invite my friend for lunch."
+    }
+  ]
+}

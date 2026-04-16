@@ -1,0 +1,407 @@
+{
+  "verb": "andar",
+  "generated_at": "2026-04-15T21:00:00+00:00",
+  "source": "sentence_banks:andar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I walk to the store when I only need a few things."
+    },
+    {
+      "id": 2,
+      "en": "We walk around the park on Sunday mornings."
+    },
+    {
+      "id": 3,
+      "en": "She walks to work if it is not raining."
+    },
+    {
+      "id": 4,
+      "en": "They walk the dog before breakfast most days."
+    },
+    {
+      "id": 5,
+      "en": "He walks home from the station because it clears his head."
+    },
+    {
+      "id": 6,
+      "en": "I am really busy this week with the launch."
+    },
+    {
+      "id": 7,
+      "en": "She is stressed because her inbox never stops."
+    },
+    {
+      "id": 8,
+      "en": "We are short on cash until payday."
+    },
+    {
+      "id": 9,
+      "en": "He is sick, so he stayed home today."
+    },
+    {
+      "id": 10,
+      "en": "I am tired after those night shifts."
+    },
+    {
+      "id": 11,
+      "en": "Where are you right now?"
+    },
+    {
+      "id": 12,
+      "en": "Where have you been? I tried calling you."
+    },
+    {
+      "id": 13,
+      "en": "Where has he been all morning?"
+    },
+    {
+      "id": 14,
+      "en": "Don't go around repeating rumors you cannot verify."
+    },
+    {
+      "id": 15,
+      "en": "She is going around telling everyone the same story."
+    },
+    {
+      "id": 16,
+      "en": "He is always going around complaining about the Wi-Fi."
+    },
+    {
+      "id": 17,
+      "en": "She is dating someone from her gym."
+    },
+    {
+      "id": 18,
+      "en": "He is seeing someone new, but he is taking it slow."
+    },
+    {
+      "id": 19,
+      "en": "Are they still seeing each other after that fight?"
+    },
+    {
+      "id": 20,
+      "en": "I walked for an hour and my feet hurt."
+    },
+    {
+      "id": 21,
+      "en": "We walked around the old town and took photos."
+    },
+    {
+      "id": 22,
+      "en": "She walked home alone because the bus was late."
+    },
+    {
+      "id": 23,
+      "en": "They walked the trail after it finally stopped raining."
+    },
+    {
+      "id": 24,
+      "en": "I was busy all day and I forgot to eat lunch."
+    },
+    {
+      "id": 25,
+      "en": "He was broke in college, but he still paid rent on time."
+    },
+    {
+      "id": 26,
+      "en": "We were stressed before the interview, but it went fine."
+    },
+    {
+      "id": 27,
+      "en": "She was sick last week, so she missed two meetings."
+    },
+    {
+      "id": 28,
+      "en": "I used to walk to school every morning."
+    },
+    {
+      "id": 29,
+      "en": "We used to walk by the river after work."
+    },
+    {
+      "id": 30,
+      "en": "He used to be broke every January after the holidays."
+    },
+    {
+      "id": 31,
+      "en": "I will walk there if the weather holds."
+    },
+    {
+      "id": 32,
+      "en": "We are going to walk the beach path at sunrise."
+    },
+    {
+      "id": 33,
+      "en": "She will be busy tomorrow, so text her tonight."
+    },
+    {
+      "id": 34,
+      "en": "He will be short on money if he buys that ticket."
+    },
+    {
+      "id": 35,
+      "en": "I would walk more if my knee felt better."
+    },
+    {
+      "id": 36,
+      "en": "We would be less stressed if we planned the week on Sunday."
+    },
+    {
+      "id": 37,
+      "en": "I have walked this route so many times I could do it blind."
+    },
+    {
+      "id": 38,
+      "en": "She has been busy, but she still replied to my email."
+    },
+    {
+      "id": 39,
+      "en": "We have been short on cash since the car repair."
+    },
+    {
+      "id": 40,
+      "en": "He has gone around saying yes to every project."
+    },
+    {
+      "id": 41,
+      "en": "I need to walk more and sit less."
+    },
+    {
+      "id": 42,
+      "en": "She wants to walk home before it gets dark."
+    },
+    {
+      "id": 43,
+      "en": "They forgot to walk the dog, so I did it."
+    },
+    {
+      "id": 44,
+      "en": "Try to walk a little every hour if you work at a desk."
+    },
+    {
+      "id": 45,
+      "en": "Don't be that person who goes around blaming the intern."
+    },
+    {
+      "id": 46,
+      "en": "Let's walk to the cafe instead of driving."
+    },
+    {
+      "id": 47,
+      "en": "I don't walk alone in that area at night."
+    },
+    {
+      "id": 48,
+      "en": "We don't go around sharing passwords, even with friends."
+    },
+    {
+      "id": 49,
+      "en": "He isn't dating anyone serious right now."
+    },
+    {
+      "id": 50,
+      "en": "If you are busy, we can move the call to Friday."
+    },
+    {
+      "id": 51,
+      "en": "When I am stressed, I walk for twenty minutes."
+    },
+    {
+      "id": 52,
+      "en": "Although I am tired, I still walk the dog."
+    },
+    {
+      "id": 53,
+      "en": "Because we are short on money, we walk instead of taking cabs."
+    },
+    {
+      "id": 54,
+      "en": "Before you go around accusing people, check the logs."
+    },
+    {
+      "id": 55,
+      "en": "After I walk, I drink water before I check my phone."
+    },
+    {
+      "id": 56,
+      "en": "I walk to the office, but I take the train home."
+    },
+    {
+      "id": 57,
+      "en": "She walks fast when she is late for a meeting."
+    },
+    {
+      "id": 58,
+      "en": "We walked to the stadium because parking was a nightmare."
+    },
+    {
+      "id": 59,
+      "en": "He is going around looking for his charger again."
+    },
+    {
+      "id": 60,
+      "en": "I am busy, but I can review your draft tonight."
+    },
+    {
+      "id": 61,
+      "en": "They are short on cash, so they split the bill carefully."
+    },
+    {
+      "id": 62,
+      "en": "Where were you when I needed a ride?"
+    },
+    {
+      "id": 63,
+      "en": "I walked through the market and bought fruit for the week."
+    },
+    {
+      "id": 64,
+      "en": "She will walk the course before the race starts."
+    },
+    {
+      "id": 65,
+      "en": "We have walked this airport terminal too many times."
+    },
+    {
+      "id": 66,
+      "en": "He has been going around asking for favors all month."
+    },
+    {
+      "id": 67,
+      "en": "I would walk to your place if it were not five miles away."
+    },
+    {
+      "id": 68,
+      "en": "She needs to stop going around making promises she cannot keep."
+    },
+    {
+      "id": 69,
+      "en": "Are you busy right now, or can you talk?"
+    },
+    {
+      "id": 70,
+      "en": "How long have you been sick?"
+    },
+    {
+      "id": 71,
+      "en": "Who is she dating these days?"
+    },
+    {
+      "id": 72,
+      "en": "I was walking home when it started pouring."
+    },
+    {
+      "id": 73,
+      "en": "We were walking the dog when we saw the neighbors."
+    },
+    {
+      "id": 74,
+      "en": "He was going around fixing small bugs all afternoon."
+    },
+    {
+      "id": 75,
+      "en": "I am going to be busy until Thursday."
+    },
+    {
+      "id": 76,
+      "en": "If you walk, bring a jacket because it gets windy by the water."
+    },
+    {
+      "id": 77,
+      "en": "When we travel, we walk everywhere we can."
+    },
+    {
+      "id": 78,
+      "en": "Although the hotel was far, we walked and saved money."
+    },
+    {
+      "id": 79,
+      "en": "Before the match, we walked around the stadium to find our gate."
+    },
+    {
+      "id": 80,
+      "en": "After the meeting, I walked to clear my head."
+    },
+    {
+      "id": 81,
+      "en": "I use my lunch break to walk because I sit all morning at work."
+    },
+    {
+      "id": 82,
+      "en": "She is busy, but she still meal-preps on Sunday."
+    },
+    {
+      "id": 83,
+      "en": "We walked to the food truck line and split a plate."
+    },
+    {
+      "id": 84,
+      "en": "He is not going around sharing client names in group chats."
+    },
+    {
+      "id": 85,
+      "en": "I have not walked this trail since last summer."
+    },
+    {
+      "id": 86,
+      "en": "Have you been short on money since you moved?"
+    },
+    {
+      "id": 87,
+      "en": "Please walk with me to the corner; I do not want to go alone."
+    },
+    {
+      "id": 88,
+      "en": "Do not walk on the grass if the sign says to stay off."
+    },
+    {
+      "id": 89,
+      "en": "If he is dating your coworker, keep it professional at work."
+    },
+    {
+      "id": 90,
+      "en": "When I was broke, I walked instead of paying for rides."
+    },
+    {
+      "id": 91,
+      "en": "Although she is stressed, she still shows up prepared."
+    },
+    {
+      "id": 92,
+      "en": "Because I was sick, I did not walk yesterday."
+    },
+    {
+      "id": 93,
+      "en": "After we pay rent, we are usually short on cash for a week."
+    },
+    {
+      "id": 94,
+      "en": "I will walk there after work if you need the papers in person."
+    },
+    {
+      "id": 95,
+      "en": "We should walk the route once before the kids start school."
+    },
+    {
+      "id": 96,
+      "en": "He used to go around borrowing chargers from everyone."
+    },
+    {
+      "id": 97,
+      "en": "She has walked to that gym every day this month."
+    },
+    {
+      "id": 98,
+      "en": "They are busy with the kids, so they order groceries online."
+    },
+    {
+      "id": 99,
+      "en": "I am not going around asking for favors this week."
+    },
+    {
+      "id": 100,
+      "en": "Tomorrow I will walk early, then I will join the stand-up online."
+    }
+  ]
+}

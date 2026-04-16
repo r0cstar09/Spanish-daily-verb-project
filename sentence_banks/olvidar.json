@@ -1,0 +1,407 @@
+{
+  "verb": "olvidar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:olvidar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I forget names when I am nervous."
+    },
+    {
+      "id": 2,
+      "en": "We forget the code when we change it often."
+    },
+    {
+      "id": 3,
+      "en": "He forgets his keys on the table."
+    },
+    {
+      "id": 4,
+      "en": "She forgets the date when she is busy."
+    },
+    {
+      "id": 5,
+      "en": "They forget the plan at the last minute."
+    },
+    {
+      "id": 6,
+      "en": "You forget to eat when you work late."
+    },
+    {
+      "id": 7,
+      "en": "I forget my password every month."
+    },
+    {
+      "id": 8,
+      "en": "We forget the bags in the car."
+    },
+    {
+      "id": 9,
+      "en": "He forgets to turn off the lights."
+    },
+    {
+      "id": 10,
+      "en": "She forgets the meeting time on Monday."
+    },
+    {
+      "id": 11,
+      "en": "I forget to drink water at the gym."
+    },
+    {
+      "id": 12,
+      "en": "We forget the milk when we shop fast."
+    },
+    {
+      "id": 13,
+      "en": "They forget the ticket at home."
+    },
+    {
+      "id": 14,
+      "en": "I forget to reply to the message."
+    },
+    {
+      "id": 15,
+      "en": "You forget the phone in the locker."
+    },
+    {
+      "id": 16,
+      "en": "He forgets the football kick-off time."
+    },
+    {
+      "id": 17,
+      "en": "We forget to save the file."
+    },
+    {
+      "id": 18,
+      "en": "I forget my jacket when it is warm."
+    },
+    {
+      "id": 19,
+      "en": "She forgets to lock the door."
+    },
+    {
+      "id": 20,
+      "en": "They forget to charge the phone at night."
+    },
+    {
+      "id": 21,
+      "en": "I forgot the wallet yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We forgot to call the bank."
+    },
+    {
+      "id": 23,
+      "en": "He forgot his umbrella."
+    },
+    {
+      "id": 24,
+      "en": "She forgot to send the email."
+    },
+    {
+      "id": 25,
+      "en": "I didn't forget your birthday."
+    },
+    {
+      "id": 26,
+      "en": "They forgot about the meeting."
+    },
+    {
+      "id": 27,
+      "en": "I was about to forget why I came into the room."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I forgot homework every week."
+    },
+    {
+      "id": 29,
+      "en": "We forgot the bags because we were late."
+    },
+    {
+      "id": 30,
+      "en": "He forgot to sign the form."
+    },
+    {
+      "id": 31,
+      "en": "I forgot the password at the door."
+    },
+    {
+      "id": 32,
+      "en": "She forgot about the trip until Monday."
+    },
+    {
+      "id": 33,
+      "en": "Why did you forget the keys?"
+    },
+    {
+      "id": 34,
+      "en": "We forgot the food in the oven."
+    },
+    {
+      "id": 35,
+      "en": "I forgot to mute the mic on the call."
+    },
+    {
+      "id": 36,
+      "en": "I forgot the name on the spot."
+    },
+    {
+      "id": 37,
+      "en": "They forgot to buy tickets."
+    },
+    {
+      "id": 38,
+      "en": "He forgot to bring cash."
+    },
+    {
+      "id": 39,
+      "en": "I forgot what I needed at the store."
+    },
+    {
+      "id": 40,
+      "en": "You forgot to tell me about the change."
+    },
+    {
+      "id": 41,
+      "en": "I will forget the room number if I don't write it down."
+    },
+    {
+      "id": 42,
+      "en": "We will forget the stress after the trip."
+    },
+    {
+      "id": 43,
+      "en": "If I rush, I will forget something."
+    },
+    {
+      "id": 44,
+      "en": "She will forget the pain if she rests."
+    },
+    {
+      "id": 45,
+      "en": "He won't forget this time."
+    },
+    {
+      "id": 46,
+      "en": "I would forget less if I used a list."
+    },
+    {
+      "id": 47,
+      "en": "We would forget the detail if we didn't note it."
+    },
+    {
+      "id": 48,
+      "en": "Would you forget me if I moved abroad?"
+    },
+    {
+      "id": 49,
+      "en": "If we talk, we forget the time."
+    },
+    {
+      "id": 50,
+      "en": "They will forget the old rule if you change it."
+    },
+    {
+      "id": 51,
+      "en": "You will forget the password if you never use it."
+    },
+    {
+      "id": 52,
+      "en": "I would forget the name if I didn't save it."
+    },
+    {
+      "id": 53,
+      "en": "If we travel, we will forget work for a week."
+    },
+    {
+      "id": 54,
+      "en": "I will forget to watch the football match if I stay late."
+    },
+    {
+      "id": 55,
+      "en": "We will forget the errand if we don't set a reminder."
+    },
+    {
+      "id": 56,
+      "en": "I have forgotten the PIN twice."
+    },
+    {
+      "id": 57,
+      "en": "We haven't forgotten the debt."
+    },
+    {
+      "id": 58,
+      "en": "She has forgotten to pay the bill."
+    },
+    {
+      "id": 59,
+      "en": "Have you forgotten the date?"
+    },
+    {
+      "id": 60,
+      "en": "I need to write it down or I will forget."
+    },
+    {
+      "id": 61,
+      "en": "I want to forget that bad day."
+    },
+    {
+      "id": 62,
+      "en": "He hates to forget important dates."
+    },
+    {
+      "id": 63,
+      "en": "Set a reminder so you don't forget."
+    },
+    {
+      "id": 64,
+      "en": "I try not to forget to stretch."
+    },
+    {
+      "id": 65,
+      "en": "We started to forget the noise after a few days."
+    },
+    {
+      "id": 66,
+      "en": "I have to call before I forget again."
+    },
+    {
+      "id": 67,
+      "en": "I plan to forget the mistake and move on."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to forget the promise."
+    },
+    {
+      "id": 69,
+      "en": "I want you to forget the old plan."
+    },
+    {
+      "id": 70,
+      "en": "They tried to forget the fight."
+    },
+    {
+      "id": 71,
+      "en": "Do you forget things often?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you forget the meeting?"
+    },
+    {
+      "id": 73,
+      "en": "Don't forget the milk."
+    },
+    {
+      "id": 74,
+      "en": "Never forget to lock the door."
+    },
+    {
+      "id": 75,
+      "en": "Don't forget about me."
+    },
+    {
+      "id": 76,
+      "en": "Can't you forget the old fight?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you forgotten the password?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you forget the name?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you forget the bag?"
+    },
+    {
+      "id": 80,
+      "en": "Will you forget if I remind you?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you forget the receipt?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it easy to forget a password?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you forget your jacket?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you forget the stress for one night?"
+    },
+    {
+      "id": 85,
+      "en": "Stop saying you forget on purpose."
+    },
+    {
+      "id": 86,
+      "en": "I forget because I am tired."
+    },
+    {
+      "id": 87,
+      "en": "We forgot the gift, but we still went."
+    },
+    {
+      "id": 88,
+      "en": "When you forget the time, check your phone."
+    },
+    {
+      "id": 89,
+      "en": "If you forget the password, reset it."
+    },
+    {
+      "id": 90,
+      "en": "Although I forgot the file, I still joined the call."
+    },
+    {
+      "id": 91,
+      "en": "Before you leave, don't forget the charger."
+    },
+    {
+      "id": 92,
+      "en": "After I forgot the card, I paid with cash."
+    },
+    {
+      "id": 93,
+      "en": "Because she forgot the date, we changed the plan."
+    },
+    {
+      "id": 94,
+      "en": "I forget at home, but I use lists at work."
+    },
+    {
+      "id": 95,
+      "en": "When he forgets stress, he sleeps better."
+    },
+    {
+      "id": 96,
+      "en": "If we forget the rule, we will ask again."
+    },
+    {
+      "id": 97,
+      "en": "Although I forgot the name, I remembered the face."
+    },
+    {
+      "id": 98,
+      "en": "Before you forget, save the draft."
+    },
+    {
+      "id": 99,
+      "en": "After we forgot the tickets, we used the online pass."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you don't forget your ID."
+    }
+  ]
+}

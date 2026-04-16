@@ -1,0 +1,407 @@
+{
+  "verb": "nadar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:nadar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I swim three times a week."
+    },
+    {
+      "id": 2,
+      "en": "We swim at the local pool."
+    },
+    {
+      "id": 3,
+      "en": "He swims before work."
+    },
+    {
+      "id": 4,
+      "en": "She swims in the sea on vacation."
+    },
+    {
+      "id": 5,
+      "en": "They swim for exercise."
+    },
+    {
+      "id": 6,
+      "en": "You swim better than I do."
+    },
+    {
+      "id": 7,
+      "en": "The kids swim in the shallow end."
+    },
+    {
+      "id": 8,
+      "en": "I swim lengths in the morning."
+    },
+    {
+      "id": 9,
+      "en": "We swim when the weather is warm."
+    },
+    {
+      "id": 10,
+      "en": "He swims in cold water."
+    },
+    {
+      "id": 11,
+      "en": "She swims with goggles."
+    },
+    {
+      "id": 12,
+      "en": "I swim with my partner on Sundays."
+    },
+    {
+      "id": 13,
+      "en": "We swim at six before breakfast."
+    },
+    {
+      "id": 14,
+      "en": "They swim in the hotel pool."
+    },
+    {
+      "id": 15,
+      "en": "I swim slowly to warm up."
+    },
+    {
+      "id": 16,
+      "en": "You swim too fast for me."
+    },
+    {
+      "id": 17,
+      "en": "He swims across the lane."
+    },
+    {
+      "id": 18,
+      "en": "We swim near the lifeguard."
+    },
+    {
+      "id": 19,
+      "en": "I swim without stopping for ten minutes."
+    },
+    {
+      "id": 20,
+      "en": "The dog swims beside us in the lake."
+    },
+    {
+      "id": 21,
+      "en": "I swam yesterday after work."
+    },
+    {
+      "id": 22,
+      "en": "We swam in the ocean last summer."
+    },
+    {
+      "id": 23,
+      "en": "He swam every day on the trip."
+    },
+    {
+      "id": 24,
+      "en": "She swam when she was a child."
+    },
+    {
+      "id": 25,
+      "en": "I didn't swim last week because I was sick."
+    },
+    {
+      "id": 26,
+      "en": "They swam before the storm came."
+    },
+    {
+      "id": 27,
+      "en": "I was swimming when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I lived by the coast, I swam every weekend."
+    },
+    {
+      "id": 29,
+      "en": "We swam because the hotel pool was open."
+    },
+    {
+      "id": 30,
+      "en": "He swam across the pool twice."
+    },
+    {
+      "id": 31,
+      "en": "I swam in the lake for the first time."
+    },
+    {
+      "id": 32,
+      "en": "She swam alone at dawn."
+    },
+    {
+      "id": 33,
+      "en": "We swam after the football game."
+    },
+    {
+      "id": 34,
+      "en": "I swam with friends on Saturday."
+    },
+    {
+      "id": 35,
+      "en": "Why did you swim in the rain?"
+    },
+    {
+      "id": 36,
+      "en": "They swam until the pool closed."
+    },
+    {
+      "id": 37,
+      "en": "I swam farther than usual."
+    },
+    {
+      "id": 38,
+      "en": "He swam while I watched from the side."
+    },
+    {
+      "id": 39,
+      "en": "We swam in water that felt too cold."
+    },
+    {
+      "id": 40,
+      "en": "I swam before I ate lunch."
+    },
+    {
+      "id": 41,
+      "en": "I will swim tomorrow morning."
+    },
+    {
+      "id": 42,
+      "en": "We will swim at the beach if it's sunny."
+    },
+    {
+      "id": 43,
+      "en": "She will swim in the race next month."
+    },
+    {
+      "id": 44,
+      "en": "If I join the gym, I will swim more often."
+    },
+    {
+      "id": 45,
+      "en": "He won't swim without a cap."
+    },
+    {
+      "id": 46,
+      "en": "I would swim every day if I lived near the sea."
+    },
+    {
+      "id": 47,
+      "en": "We would swim earlier if the pool opened sooner."
+    },
+    {
+      "id": 48,
+      "en": "Would you swim in that lake?"
+    },
+    {
+      "id": 49,
+      "en": "If the water is clean, we will swim there."
+    },
+    {
+      "id": 50,
+      "en": "I will swim after the meeting."
+    },
+    {
+      "id": 51,
+      "en": "They will swim before dinner."
+    },
+    {
+      "id": 52,
+      "en": "You will swim better with lessons."
+    },
+    {
+      "id": 53,
+      "en": "I would swim at lunch if I had time."
+    },
+    {
+      "id": 54,
+      "en": "If it rains, we will swim indoors."
+    },
+    {
+      "id": 55,
+      "en": "We will swim next weekend when we travel."
+    },
+    {
+      "id": 56,
+      "en": "I have swum in five countries."
+    },
+    {
+      "id": 57,
+      "en": "We haven't swum since winter."
+    },
+    {
+      "id": 58,
+      "en": "She has swum every week this year."
+    },
+    {
+      "id": 59,
+      "en": "Have you swum in the sea before?"
+    },
+    {
+      "id": 60,
+      "en": "I need to swim today."
+    },
+    {
+      "id": 61,
+      "en": "I want to learn to swim this year."
+    },
+    {
+      "id": 62,
+      "en": "He meant to swim after work, but he stayed late."
+    },
+    {
+      "id": 63,
+      "en": "Remember to swim after you stretch."
+    },
+    {
+      "id": 64,
+      "en": "I hate to swim in crowded pools."
+    },
+    {
+      "id": 65,
+      "en": "We started to swim at dawn during the trip."
+    },
+    {
+      "id": 66,
+      "en": "I have to swim for my back pain."
+    },
+    {
+      "id": 67,
+      "en": "I plan to swim when we book the hotel."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to swim without a friend."
+    },
+    {
+      "id": 69,
+      "en": "I want you to swim with me."
+    },
+    {
+      "id": 70,
+      "en": "They tried to swim across the bay."
+    },
+    {
+      "id": 71,
+      "en": "Do you swim on weekends?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you swim at night?"
+    },
+    {
+      "id": 73,
+      "en": "Swim to the edge."
+    },
+    {
+      "id": 74,
+      "en": "Don't swim alone."
+    },
+    {
+      "id": 75,
+      "en": "Never swim after drinking alcohol."
+    },
+    {
+      "id": 76,
+      "en": "Can you swim in cold water?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you swum here before?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you swim with us?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you swim last time?"
+    },
+    {
+      "id": 80,
+      "en": "Will you swim before work?"
+    },
+    {
+      "id": 81,
+      "en": "Don't swim out too far."
+    },
+    {
+      "id": 82,
+      "en": "Did she swim in the race?"
+    },
+    {
+      "id": 83,
+      "en": "Isn't it cold to swim today?"
+    },
+    {
+      "id": 84,
+      "en": "Why didn't you swim with the team?"
+    },
+    {
+      "id": 85,
+      "en": "Stop swimming toward the deep end."
+    },
+    {
+      "id": 86,
+      "en": "I swim because my doctor told me to."
+    },
+    {
+      "id": 87,
+      "en": "We swam at the beach, but the water was rough."
+    },
+    {
+      "id": 88,
+      "en": "When you swim in the sea, stay near the shore."
+    },
+    {
+      "id": 89,
+      "en": "If you swim every day, you will feel stronger."
+    },
+    {
+      "id": 90,
+      "en": "Although I swam early, I still felt tired."
+    },
+    {
+      "id": 91,
+      "en": "Before you swim, warm up your shoulders."
+    },
+    {
+      "id": 92,
+      "en": "After we swam, we ate lunch."
+    },
+    {
+      "id": 93,
+      "en": "Because the pool was closed, we swam in the lake."
+    },
+    {
+      "id": 94,
+      "en": "I swim outdoors in summer, but I use the indoor pool in winter."
+    },
+    {
+      "id": 95,
+      "en": "When he swims, he leaves his phone in the locker."
+    },
+    {
+      "id": 96,
+      "en": "If we swim now, we will miss the train."
+    },
+    {
+      "id": 97,
+      "en": "Although she can't swim well, she joined the class."
+    },
+    {
+      "id": 98,
+      "en": "Before you swim, check the app for lane times."
+    },
+    {
+      "id": 99,
+      "en": "After I swam, I sent a message to my boss."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you swim near the lifeguard."
+    }
+  ]
+}

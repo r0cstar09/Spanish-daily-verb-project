@@ -1,20 +1,58 @@
 """
 English translations for Spanish verb conjugations.
-Generates "I need", "you need", "he/she needs", etc. for each pronoun+tense.
+Uses verb_translations.json; falls back to pareto_glosses.json for Pareto verbs.
 """
 
 import json
 from pathlib import Path
 
 TRANSLATIONS_PATH = Path(__file__).resolve().parent / "verb_translations.json"
+GLOSSES_PATH = Path(__file__).resolve().parent / "pareto_glosses.json"
 
 PRONOUNS_EN = ["I", "you", "he/she", "we", "they"]
-TENSES = ["Present", "Future", "Preterite", "Imperfect", "Conditional"]
+
+# Imperfect subjunctive English cues (if X were to + infinitive)
+_IF_WERE_TO = [
+    "if I were to",
+    "if you were to",
+    "if he/she were to",
+    "if we were to",
+    "if they were to",
+]
 
 
 def _load_translations() -> dict:
     with open(TRANSLATIONS_PATH, encoding="utf-8") as f:
         return json.load(f)
+
+
+def _load_glosses() -> dict:
+    if not GLOSSES_PATH.is_file():
+        return {}
+    with open(GLOSSES_PATH, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def _resolve_entry(verb: str) -> dict | None:
+    verb = verb.strip().lower()
+    trans = _load_translations()
+    if verb in trans:
+        return trans[verb]
+    glosses = _load_glosses()
+    if verb in glosses:
+        g = glosses[verb]
+        if isinstance(g, str):
+            return {"base": g}
+        return g
+    return None
+
+
+def get_english_base(verb: str) -> str:
+    """Bare English verb stem (e.g. speak) for offline sentence-bank templates."""
+    t = _resolve_entry(verb.strip().lower())
+    if t is None:
+        return ""
+    return (t.get("base") or "").strip()
 
 
 def _get_third_person(base: str) -> str:
@@ -33,11 +71,6 @@ def _get_past(base: str) -> str:
     return base + "ed"
 
 
-def _get_past_participle(base: str, past: str) -> str:
-    """Derive past participle. For regular verbs, same as past."""
-    return past
-
-
 def _get_present_participle(base: str) -> str:
     """Derive -ing form (e.g. need -> needing)."""
     if base.endswith("e"):
@@ -52,11 +85,9 @@ def get_english_translation(verb: str, pronoun_index: int, tense: str) -> str:
     Return English translation for (verb, pronoun, tense).
     pronoun_index: 0=yo, 1=tú, 2=él/ella, 3=nosotros, 4=ellos
     """
-    verb = verb.strip().lower()
-    trans = _load_translations()
-    if verb not in trans:
+    t = _resolve_entry(verb)
+    if t is None:
         return ""
-    t = trans[verb]
     pron = PRONOUNS_EN[pronoun_index]
 
     base = t.get("base", "")
@@ -92,20 +123,17 @@ def get_english_translation(verb: str, pronoun_index: int, tense: str) -> str:
     if tense == "Present Perfect":
         return f"{pron} have {pp}" if pronoun_index in (0, 1, 3, 4) else f"{pron} has {pp}"
 
+    if tense == "Pluperfect":
+        return f"{pron} had {pp}"
+
     if tense == "Present Subjunctive":
         return f"that {pron} {base}"
+
+    if tense == "Imperfect Subjunctive":
+        return f"{_IF_WERE_TO[pronoun_index]} {base}"
 
     if tense == "Estar + Gerund":
         estar_forms = ["am", "are", "is", "are", "are"]
         return f"{pron} {estar_forms[pronoun_index]} {gerund}"
 
     return ""
-
-
-def get_all_translations(verb: str) -> list[str]:
-    """Return 40 English translations in assignment order (8 forms × 5 pronouns)."""
-    result = []
-    for tense in TENSES:
-        for p in range(5):
-            result.append(get_english_translation(verb, p, tense))
-    return result

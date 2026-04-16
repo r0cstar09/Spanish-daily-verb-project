@@ -1,0 +1,407 @@
+{
+  "verb": "comparar",
+  "generated_at": "2026-04-16T02:00:00+00:00",
+  "source": "sentence_banks:comparar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I compare prices before I shop."
+    },
+    {
+      "id": 2,
+      "en": "We compare phones every two years."
+    },
+    {
+      "id": 3,
+      "en": "They compare the teams before the match."
+    },
+    {
+      "id": 4,
+      "en": "He compares his stats to last year."
+    },
+    {
+      "id": 5,
+      "en": "She compares hotels online."
+    },
+    {
+      "id": 6,
+      "en": "You compare yourself to strangers online."
+    },
+    {
+      "id": 7,
+      "en": "I compare flight times before I book."
+    },
+    {
+      "id": 8,
+      "en": "We compare insurance plans every year."
+    },
+    {
+      "id": 9,
+      "en": "The article compares two cities."
+    },
+    {
+      "id": 10,
+      "en": "I compare grocery receipts on the app."
+    },
+    {
+      "id": 11,
+      "en": "They compare workout plans every January."
+    },
+    {
+      "id": 12,
+      "en": "We compare budgets before we spend."
+    },
+    {
+      "id": 13,
+      "en": "He compares the menu before he orders."
+    },
+    {
+      "id": 14,
+      "en": "I compare my sleep with my watch data."
+    },
+    {
+      "id": 15,
+      "en": "People compare rent prices in this neighborhood."
+    },
+    {
+      "id": 16,
+      "en": "We compare calendars before we schedule a trip."
+    },
+    {
+      "id": 17,
+      "en": "She compares the job offers carefully."
+    },
+    {
+      "id": 18,
+      "en": "I compare the ingredients on both labels."
+    },
+    {
+      "id": 19,
+      "en": "You compare apples to oranges when you do that."
+    },
+    {
+      "id": 20,
+      "en": "They compare the scores after every game."
+    },
+    {
+      "id": 21,
+      "en": "I compared the plans last night."
+    },
+    {
+      "id": 22,
+      "en": "We compared the two laptops before we bought one."
+    },
+    {
+      "id": 23,
+      "en": "She compared me to her ex, and it hurt."
+    },
+    {
+      "id": 24,
+      "en": "They compared the tickets before they chose seats."
+    },
+    {
+      "id": 25,
+      "en": "I was comparing files when the app crashed."
+    },
+    {
+      "id": 26,
+      "en": "We compared the bills and found a mistake."
+    },
+    {
+      "id": 27,
+      "en": "He compared the photos side by side."
+    },
+    {
+      "id": 28,
+      "en": "I didn't compare the fees because I was in a rush."
+    },
+    {
+      "id": 29,
+      "en": "Why did you compare our work to theirs?"
+    },
+    {
+      "id": 30,
+      "en": "Although I compared everything, I still doubted."
+    },
+    {
+      "id": 31,
+      "en": "When I was a student, I compared my grades to my friends'."
+    },
+    {
+      "id": 32,
+      "en": "I used to compare myself to everyone, and it was exhausting."
+    },
+    {
+      "id": 33,
+      "en": "After we compared notes, we figured out what happened."
+    },
+    {
+      "id": 34,
+      "en": "Before we compared quotes, we asked for a discount."
+    },
+    {
+      "id": 35,
+      "en": "We compared the routes, but traffic was still bad."
+    },
+    {
+      "id": 36,
+      "en": "The coach compared the players after the match."
+    },
+    {
+      "id": 37,
+      "en": "We never compared salaries until we trusted each other."
+    },
+    {
+      "id": 38,
+      "en": "She compared the paint colors and picked the lighter one."
+    },
+    {
+      "id": 39,
+      "en": "I compared the two deals and picked the cheaper one."
+    },
+    {
+      "id": 40,
+      "en": "We compared the noise levels before we bought the vacuum."
+    },
+    {
+      "id": 41,
+      "en": "I will compare the prices tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We'll compare options if you send the links."
+    },
+    {
+      "id": 43,
+      "en": "If you agree, I will compare the contracts."
+    },
+    {
+      "id": 44,
+      "en": "They will compare the results after the test."
+    },
+    {
+      "id": 45,
+      "en": "I am going to compare the two plans before I pay."
+    },
+    {
+      "id": 46,
+      "en": "We could compare schedules if you want to meet."
+    },
+    {
+      "id": 47,
+      "en": "I would compare more carefully if I had time."
+    },
+    {
+      "id": 48,
+      "en": "If we miss this train, we will compare the next two departures."
+    },
+    {
+      "id": 49,
+      "en": "Tomorrow I will compare the reviews online."
+    },
+    {
+      "id": 50,
+      "en": "She will compare the offers when they arrive."
+    },
+    {
+      "id": 51,
+      "en": "We would compare brands if we had more budget."
+    },
+    {
+      "id": 52,
+      "en": "If you are honest, I will compare your story with his."
+    },
+    {
+      "id": 53,
+      "en": "He will compare the numbers after the meeting."
+    },
+    {
+      "id": 54,
+      "en": "They will compare the teams before the final."
+    },
+    {
+      "id": 55,
+      "en": "We will compare the menus when we sit down."
+    },
+    {
+      "id": 56,
+      "en": "I have compared the two files already."
+    },
+    {
+      "id": 57,
+      "en": "We haven't compared the quotes yet."
+    },
+    {
+      "id": 58,
+      "en": "I've compared too many hotels today."
+    },
+    {
+      "id": 59,
+      "en": "After comparing the options, I picked the middle one."
+    },
+    {
+      "id": 60,
+      "en": "Before you compare people, remember the context."
+    },
+    {
+      "id": 61,
+      "en": "I want to compare the warranty terms."
+    },
+    {
+      "id": 62,
+      "en": "We need to compare the dates before we commit."
+    },
+    {
+      "id": 63,
+      "en": "Don't compare your progress to someone else's highlight reel."
+    },
+    {
+      "id": 64,
+      "en": "Let's compare the two routes on the map."
+    },
+    {
+      "id": 65,
+      "en": "I forgot to compare the unit price on the shelf."
+    },
+    {
+      "id": 66,
+      "en": "To decide faster, compare the top three choices only."
+    },
+    {
+      "id": 67,
+      "en": "Stop comparing everything and pick one."
+    },
+    {
+      "id": 68,
+      "en": "I haven't compared my results to last month yet."
+    },
+    {
+      "id": 69,
+      "en": "We haven't compared the schools yet."
+    },
+    {
+      "id": 70,
+      "en": "It's time to compare the final numbers."
+    },
+    {
+      "id": 71,
+      "en": "Do you compare prices online?"
+    },
+    {
+      "id": 72,
+      "en": "Did you compare the two plans?"
+    },
+    {
+      "id": 73,
+      "en": "When will you compare the offers?"
+    },
+    {
+      "id": 74,
+      "en": "Where did you compare the flights?"
+    },
+    {
+      "id": 75,
+      "en": "Don't compare me to your sibling."
+    },
+    {
+      "id": 76,
+      "en": "We can't compare until we see the same data."
+    },
+    {
+      "id": 77,
+      "en": "I don't compare myself to influencers anymore."
+    },
+    {
+      "id": 78,
+      "en": "Why won't you compare the numbers with me?"
+    },
+    {
+      "id": 79,
+      "en": "Compare the two invoices line by line."
+    },
+    {
+      "id": 80,
+      "en": "Never compare a rough draft to a finished post."
+    },
+    {
+      "id": 81,
+      "en": "Can we compare the schedules?"
+    },
+    {
+      "id": 82,
+      "en": "I won't compare anything until I read the whole report."
+    },
+    {
+      "id": 83,
+      "en": "We don't compare salaries openly at work."
+    },
+    {
+      "id": 84,
+      "en": "Are you going to compare the apps?"
+    },
+    {
+      "id": 85,
+      "en": "Could you compare the two versions?"
+    },
+    {
+      "id": 86,
+      "en": "When we travel, we compare hotels and flights first."
+    },
+    {
+      "id": 87,
+      "en": "Because we were tired, we compared only the cheapest flights."
+    },
+    {
+      "id": 88,
+      "en": "If you compare fairly, you will see the difference."
+    },
+    {
+      "id": 89,
+      "en": "Although we compared the plans, we still disagreed."
+    },
+    {
+      "id": 90,
+      "en": "Before we book, let's compare the cancellation policy."
+    },
+    {
+      "id": 91,
+      "en": "After we compared the budget, we changed the plan."
+    },
+    {
+      "id": 92,
+      "en": "We compared the two jobs, but money wasn't everything."
+    },
+    {
+      "id": 93,
+      "en": "When the season ends, we compare the team's stats."
+    },
+    {
+      "id": 94,
+      "en": "If you compare kindly, you help more than you hurt."
+    },
+    {
+      "id": 95,
+      "en": "We should compare fees before we switch banks."
+    },
+    {
+      "id": 96,
+      "en": "She compares carefully, but she still decides fast."
+    },
+    {
+      "id": 97,
+      "en": "Because I was busy, I compared only two options."
+    },
+    {
+      "id": 98,
+      "en": "After we compared the screenshots, we filed a bug report."
+    },
+    {
+      "id": 99,
+      "en": "When we compare groceries, we look at the unit price."
+    },
+    {
+      "id": 100,
+      "en": "Let's compare the two options tonight and decide."
+    }
+  ]
+}

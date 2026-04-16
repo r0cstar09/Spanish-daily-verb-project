@@ -1,0 +1,407 @@
+{
+  "verb": "lavar",
+  "generated_at": "2026-04-18T14:00:00+00:00",
+  "source": "sentence_banks:lavar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I wash the dishes after dinner."
+    },
+    {
+      "id": 2,
+      "en": "We wash clothes on Sunday."
+    },
+    {
+      "id": 3,
+      "en": "She washes the car in the driveway."
+    },
+    {
+      "id": 4,
+      "en": "They wash the windows every spring."
+    },
+    {
+      "id": 5,
+      "en": "You wash your hands before food."
+    },
+    {
+      "id": 6,
+      "en": "He washes the floor on Saturday."
+    },
+    {
+      "id": 7,
+      "en": "I wash fruit before I eat it."
+    },
+    {
+      "id": 8,
+      "en": "We wash salad in cold water."
+    },
+    {
+      "id": 9,
+      "en": "The gym washes towels every day."
+    },
+    {
+      "id": 10,
+      "en": "I wash the dog in the garden."
+    },
+    {
+      "id": 11,
+      "en": "She washes cups at the cafe."
+    },
+    {
+      "id": 12,
+      "en": "We wash sheets once a week."
+    },
+    {
+      "id": 13,
+      "en": "He washes pots after he cooks."
+    },
+    {
+      "id": 14,
+      "en": "I wash rice before I cook it."
+    },
+    {
+      "id": 15,
+      "en": "Kids wash their hands at school."
+    },
+    {
+      "id": 16,
+      "en": "We wash the bike after a trip in the rain."
+    },
+    {
+      "id": 17,
+      "en": "I wash the table before guests arrive."
+    },
+    {
+      "id": 18,
+      "en": "They wash uniforms at the stadium."
+    },
+    {
+      "id": 19,
+      "en": "She washes baby clothes by hand."
+    },
+    {
+      "id": 20,
+      "en": "You wash too many loads; save water."
+    },
+    {
+      "id": 21,
+      "en": "I washed the dishes yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We washed the car before the trip."
+    },
+    {
+      "id": 23,
+      "en": "He washed his shirt in the hotel sink."
+    },
+    {
+      "id": 24,
+      "en": "They washed the floor after the party."
+    },
+    {
+      "id": 25,
+      "en": "I was washing clothes when you called."
+    },
+    {
+      "id": 26,
+      "en": "She washed vegetables for the soup."
+    },
+    {
+      "id": 27,
+      "en": "I didn't wash the pan last night."
+    },
+    {
+      "id": 28,
+      "en": "Why did you wash the cat?"
+    },
+    {
+      "id": 29,
+      "en": "Although I washed twice, the stain stayed."
+    },
+    {
+      "id": 30,
+      "en": "When I was a kid, my mother washed everything by hand."
+    },
+    {
+      "id": 31,
+      "en": "After we washed, we hung the clothes outside."
+    },
+    {
+      "id": 32,
+      "en": "Before she cooked, she washed the chicken."
+    },
+    {
+      "id": 33,
+      "en": "I washed the cups because they were dusty."
+    },
+    {
+      "id": 34,
+      "en": "I washed the windows, but they still looked cloudy."
+    },
+    {
+      "id": 35,
+      "en": "The hotel washed the sheets every day."
+    },
+    {
+      "id": 36,
+      "en": "We washed little laundry that month."
+    },
+    {
+      "id": 37,
+      "en": "He washed mud off his shoes at the door."
+    },
+    {
+      "id": 38,
+      "en": "I never washed wool in hot water."
+    },
+    {
+      "id": 39,
+      "en": "They washed sand off their feet at the beach."
+    },
+    {
+      "id": 40,
+      "en": "She washed her hair at the gym."
+    },
+    {
+      "id": 41,
+      "en": "I will wash the dishes tonight."
+    },
+    {
+      "id": 42,
+      "en": "We will wash the car tomorrow."
+    },
+    {
+      "id": 43,
+      "en": "If you spill juice, I will wash the table."
+    },
+    {
+      "id": 44,
+      "en": "He won't wash dishes without gloves."
+    },
+    {
+      "id": 45,
+      "en": "Would you wash this shirt for me?"
+    },
+    {
+      "id": 46,
+      "en": "They will wash the uniforms before the game."
+    },
+    {
+      "id": 47,
+      "en": "I'm going to wash clothes after work."
+    },
+    {
+      "id": 48,
+      "en": "If it rains, we will wash the mud off the car again."
+    },
+    {
+      "id": 49,
+      "en": "I would wash more often if water were cheaper."
+    },
+    {
+      "id": 50,
+      "en": "We would wash at night if the machine were quieter."
+    },
+    {
+      "id": 51,
+      "en": "She will wash the baby's bottles."
+    },
+    {
+      "id": 52,
+      "en": "If we cook fish, we will wash the pan right away."
+    },
+    {
+      "id": 53,
+      "en": "Don't worry, I will wash the pots."
+    },
+    {
+      "id": 54,
+      "en": "I would wash the windows myself if I had a ladder."
+    },
+    {
+      "id": 55,
+      "en": "The team will wash jerseys after the match."
+    },
+    {
+      "id": 56,
+      "en": "I have washed this sweater before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't washed the car this month."
+    },
+    {
+      "id": 58,
+      "en": "I've washed dishes at that restaurant."
+    },
+    {
+      "id": 59,
+      "en": "I need to wash my gym clothes."
+    },
+    {
+      "id": 60,
+      "en": "She forgot to wash the apple."
+    },
+    {
+      "id": 61,
+      "en": "To wash wool, use cold water."
+    },
+    {
+      "id": 62,
+      "en": "I want to wash the floor today."
+    },
+    {
+      "id": 63,
+      "en": "Don't wash silk in hot water."
+    },
+    {
+      "id": 64,
+      "en": "I have to wash dishes before bed."
+    },
+    {
+      "id": 65,
+      "en": "We meant to wash the dog on Saturday."
+    },
+    {
+      "id": 66,
+      "en": "They have washed every towel in the house."
+    },
+    {
+      "id": 67,
+      "en": "I haven't had time to wash clothes."
+    },
+    {
+      "id": 68,
+      "en": "I tried to wash the stain out."
+    },
+    {
+      "id": 69,
+      "en": "We have washed salad three times this week."
+    },
+    {
+      "id": 70,
+      "en": "I want you to wash your hands."
+    },
+    {
+      "id": 71,
+      "en": "Did you wash the rice?"
+    },
+    {
+      "id": 72,
+      "en": "Why don't you wash the car this weekend?"
+    },
+    {
+      "id": 73,
+      "en": "Don't wash colors with white clothes."
+    },
+    {
+      "id": 74,
+      "en": "Wash the vegetables first."
+    },
+    {
+      "id": 75,
+      "en": "Haven't you washed the pan yet?"
+    },
+    {
+      "id": 76,
+      "en": "Won't she wash the uniform today?"
+    },
+    {
+      "id": 77,
+      "en": "Can you wash these plates?"
+    },
+    {
+      "id": 78,
+      "en": "Why didn't you wash your hands?"
+    },
+    {
+      "id": 79,
+      "en": "Never wash a hot pan under cold water."
+    },
+    {
+      "id": 80,
+      "en": "Don't wash that jacket in the machine."
+    },
+    {
+      "id": 81,
+      "en": "Don't you wash dishes after breakfast?"
+    },
+    {
+      "id": 82,
+      "en": "Where did you wash the dog?"
+    },
+    {
+      "id": 83,
+      "en": "When will you wash the windows?"
+    },
+    {
+      "id": 84,
+      "en": "Can't we wash this at home?"
+    },
+    {
+      "id": 85,
+      "en": "Will he wash the car before the trip?"
+    },
+    {
+      "id": 86,
+      "en": "Because we wash often, the kitchen stays clean."
+    },
+    {
+      "id": 87,
+      "en": "When you wash rice, save a little water."
+    },
+    {
+      "id": 88,
+      "en": "If I wash now, I can dry before work."
+    },
+    {
+      "id": 89,
+      "en": "Although the shirt is old, I still wash it gently."
+    },
+    {
+      "id": 90,
+      "en": "Before you cook meat, wash your hands."
+    },
+    {
+      "id": 91,
+      "en": "After we washed the dog, the bathroom was wet."
+    },
+    {
+      "id": 92,
+      "en": "I wash dishes at home, but I eat lunch at work."
+    },
+    {
+      "id": 93,
+      "en": "When the baby eats, we wash the high chair."
+    },
+    {
+      "id": 94,
+      "en": "If we buy salad, we wash it twice."
+    },
+    {
+      "id": 95,
+      "en": "Although the hotel is cheap, they wash the sheets daily."
+    },
+    {
+      "id": 96,
+      "en": "Because the floor was dirty, we washed it twice."
+    },
+    {
+      "id": 97,
+      "en": "Before the meeting, he washed his face at the office."
+    },
+    {
+      "id": 98,
+      "en": "After travel, we wash every piece of clothing."
+    },
+    {
+      "id": 99,
+      "en": "It's important that we wash fruit from the market."
+    },
+    {
+      "id": 100,
+      "en": "When I work from home, I wash dishes at lunch."
+    }
+  ]
+}

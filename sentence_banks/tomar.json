@@ -1,0 +1,407 @@
+{
+  "verb": "tomar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:tomar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I take the bus to work."
+    },
+    {
+      "id": 2,
+      "en": "We take coffee before the meeting."
+    },
+    {
+      "id": 3,
+      "en": "He takes his medicine every morning."
+    },
+    {
+      "id": 4,
+      "en": "She takes notes on the laptop."
+    },
+    {
+      "id": 5,
+      "en": "They take lunch at noon."
+    },
+    {
+      "id": 6,
+      "en": "You take the metro downtown."
+    },
+    {
+      "id": 7,
+      "en": "I take a photo of the building."
+    },
+    {
+      "id": 8,
+      "en": "We take the train on Friday."
+    },
+    {
+      "id": 9,
+      "en": "The team takes a break at three."
+    },
+    {
+      "id": 10,
+      "en": "He takes a taxi when it rains."
+    },
+    {
+      "id": 11,
+      "en": "She takes water with breakfast."
+    },
+    {
+      "id": 12,
+      "en": "I take the highway to the coast."
+    },
+    {
+      "id": 13,
+      "en": "We take a decision today."
+    },
+    {
+      "id": 14,
+      "en": "You take juice instead of soda."
+    },
+    {
+      "id": 15,
+      "en": "I take the sun on the balcony."
+    },
+    {
+      "id": 16,
+      "en": "They take a class online."
+    },
+    {
+      "id": 17,
+      "en": "He takes tea in the evening."
+    },
+    {
+      "id": 18,
+      "en": "We take breakfast at home."
+    },
+    {
+      "id": 19,
+      "en": "I take time to think."
+    },
+    {
+      "id": 20,
+      "en": "She takes a flight to the island."
+    },
+    {
+      "id": 21,
+      "en": "I took the bus yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We took coffee before work."
+    },
+    {
+      "id": 23,
+      "en": "He took his medicine."
+    },
+    {
+      "id": 24,
+      "en": "She took notes."
+    },
+    {
+      "id": 25,
+      "en": "I didn't take the taxi."
+    },
+    {
+      "id": 26,
+      "en": "They took lunch early."
+    },
+    {
+      "id": 27,
+      "en": "I was taking notes when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I took the bus every day."
+    },
+    {
+      "id": 29,
+      "en": "We took a break because the room was hot."
+    },
+    {
+      "id": 30,
+      "en": "He took a photo at the park."
+    },
+    {
+      "id": 31,
+      "en": "Why did you take the wrong train?"
+    },
+    {
+      "id": 32,
+      "en": "We took the metro from home."
+    },
+    {
+      "id": 33,
+      "en": "I took the afternoon flight."
+    },
+    {
+      "id": 34,
+      "en": "She took a decision at work."
+    },
+    {
+      "id": 35,
+      "en": "I took a pill after dinner."
+    },
+    {
+      "id": 36,
+      "en": "They took the highway to the city."
+    },
+    {
+      "id": 37,
+      "en": "You took more time than you said."
+    },
+    {
+      "id": 38,
+      "en": "I took wine with dinner."
+    },
+    {
+      "id": 39,
+      "en": "We took juice on the trip."
+    },
+    {
+      "id": 40,
+      "en": "He took a shower after the gym."
+    },
+    {
+      "id": 41,
+      "en": "I will take the bus tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will take coffee if you arrive."
+    },
+    {
+      "id": 43,
+      "en": "If you leave early, I will take the train."
+    },
+    {
+      "id": 44,
+      "en": "She will take lunch on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't take medicine without food."
+    },
+    {
+      "id": 46,
+      "en": "I would take the taxi if I had cash."
+    },
+    {
+      "id": 47,
+      "en": "We would take notes if we had a pen."
+    },
+    {
+      "id": 48,
+      "en": "Would you take a photo with me?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will take the early flight."
+    },
+    {
+      "id": 50,
+      "en": "They will take a break at ten."
+    },
+    {
+      "id": 51,
+      "en": "If you hurry, you will take the early train."
+    },
+    {
+      "id": 52,
+      "en": "I would take the metro if I lived closer."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will take a taxi."
+    },
+    {
+      "id": 54,
+      "en": "I will take the photo at the game."
+    },
+    {
+      "id": 55,
+      "en": "We will take breakfast before the trip."
+    },
+    {
+      "id": 56,
+      "en": "I have taken this bus before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't taken the train yet."
+    },
+    {
+      "id": 58,
+      "en": "She has taken medicine every day since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you taken the photo?"
+    },
+    {
+      "id": 60,
+      "en": "I need to take the bus today."
+    },
+    {
+      "id": 61,
+      "en": "I want to take a break."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to take his medicine."
+    },
+    {
+      "id": 63,
+      "en": "Remember to take water on the trip."
+    },
+    {
+      "id": 64,
+      "en": "I hate to take the bus when it is full."
+    },
+    {
+      "id": 65,
+      "en": "We started to take coffee at home last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to take a decision tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to take the train early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to take medicine without food."
+    },
+    {
+      "id": 69,
+      "en": "I want you to take a photo."
+    },
+    {
+      "id": 70,
+      "en": "They tried to take the bus on time."
+    },
+    {
+      "id": 71,
+      "en": "Do you take the bus every day?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you take a taxi at night?"
+    },
+    {
+      "id": 73,
+      "en": "Take your medicine with food."
+    },
+    {
+      "id": 74,
+      "en": "Don't take the metro at rush hour."
+    },
+    {
+      "id": 75,
+      "en": "Never take medicine without asking the doctor."
+    },
+    {
+      "id": 76,
+      "en": "Can't you take the bus?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you taken the photo?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you take coffee with us?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you take the photo?"
+    },
+    {
+      "id": 80,
+      "en": "Will you take a taxi if I pay?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you take notes before?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to take water on the trip?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you take lunch at noon?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you take a break first?"
+    },
+    {
+      "id": 85,
+      "en": "Don't take medicine without reading the label."
+    },
+    {
+      "id": 86,
+      "en": "I take the bus because the car is in the shop."
+    },
+    {
+      "id": 87,
+      "en": "We took coffee, but the café was closed."
+    },
+    {
+      "id": 88,
+      "en": "When you take a photo, hold the phone steady."
+    },
+    {
+      "id": 89,
+      "en": "If you take a taxi, you will save time."
+    },
+    {
+      "id": 90,
+      "en": "Although I took the train, I still arrived late."
+    },
+    {
+      "id": 91,
+      "en": "Before you travel, take your medicine."
+    },
+    {
+      "id": 92,
+      "en": "After I took the bus, I walked home."
+    },
+    {
+      "id": 93,
+      "en": "Because we took the early flight, we arrived fresh."
+    },
+    {
+      "id": 94,
+      "en": "I take coffee at work, but I drink tea at home."
+    },
+    {
+      "id": 95,
+      "en": "When he feels stress, he takes a break."
+    },
+    {
+      "id": 96,
+      "en": "If we take a decision, we will move forward."
+    },
+    {
+      "id": 97,
+      "en": "Although we took notes, we missed the key point."
+    },
+    {
+      "id": 98,
+      "en": "Before you leave, take a bottle of water."
+    },
+    {
+      "id": 99,
+      "en": "After the team took the lead, the crowd went wild."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you take your medicine on time."
+    }
+  ]
+}

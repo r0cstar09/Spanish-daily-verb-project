@@ -1,0 +1,407 @@
+{
+  "verb": "cerrar",
+  "generated_at": "2026-04-15T21:00:00+00:00",
+  "source": "sentence_banks:cerrar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "Close the door quietly."
+    },
+    {
+      "id": 2,
+      "en": "The store closes at nine."
+    },
+    {
+      "id": 3,
+      "en": "I always close the window before bed."
+    },
+    {
+      "id": 4,
+      "en": "We close the laptop when we leave the café."
+    },
+    {
+      "id": 5,
+      "en": "They close the gym early on Sundays."
+    },
+    {
+      "id": 6,
+      "en": "He closes every tab when he finishes."
+    },
+    {
+      "id": 7,
+      "en": "She closes the blinds at night."
+    },
+    {
+      "id": 8,
+      "en": "The bank closes at five on weekdays."
+    },
+    {
+      "id": 9,
+      "en": "You close the drawer too hard."
+    },
+    {
+      "id": 10,
+      "en": "The museum closes at six today."
+    },
+    {
+      "id": 11,
+      "en": "We close the kitchen after everyone eats."
+    },
+    {
+      "id": 12,
+      "en": "My phone closes apps in the background."
+    },
+    {
+      "id": 13,
+      "en": "The team closes the stand-up with action items."
+    },
+    {
+      "id": 14,
+      "en": "I close my eyes when the bus is too loud."
+    },
+    {
+      "id": 15,
+      "en": "They close the gate at eight."
+    },
+    {
+      "id": 16,
+      "en": "The pharmacy closes at midnight on Saturdays."
+    },
+    {
+      "id": 17,
+      "en": "We close the curtains before the movie."
+    },
+    {
+      "id": 18,
+      "en": "He tries to close the meeting on time."
+    },
+    {
+      "id": 19,
+      "en": "The café closes when the last customer leaves."
+    },
+    {
+      "id": 20,
+      "en": "She closes her jacket when it gets windy."
+    },
+    {
+      "id": 21,
+      "en": "I closed the window because it started raining."
+    },
+    {
+      "id": 22,
+      "en": "We closed the deal last week."
+    },
+    {
+      "id": 23,
+      "en": "She closed the file before the app crashed."
+    },
+    {
+      "id": 24,
+      "en": "They closed the road for repairs."
+    },
+    {
+      "id": 25,
+      "en": "He closed his eyes and counted to ten."
+    },
+    {
+      "id": 26,
+      "en": "We closed the shop early."
+    },
+    {
+      "id": 27,
+      "en": "I closed the wrong tab and lost my draft."
+    },
+    {
+      "id": 28,
+      "en": "The store closed before we arrived."
+    },
+    {
+      "id": 29,
+      "en": "She closed the account online."
+    },
+    {
+      "id": 30,
+      "en": "We were closing the meeting when you joined."
+    },
+    {
+      "id": 31,
+      "en": "I used to close the shop alone when I was a student."
+    },
+    {
+      "id": 32,
+      "en": "They closed the highway for the marathon."
+    },
+    {
+      "id": 33,
+      "en": "He closed the drawer with his foot."
+    },
+    {
+      "id": 34,
+      "en": "We didn't close the window and the cat got out."
+    },
+    {
+      "id": 35,
+      "en": "Why did you close the door so hard?"
+    },
+    {
+      "id": 36,
+      "en": "Although it was busy, they closed on time."
+    },
+    {
+      "id": 37,
+      "en": "After we closed the sale, we took a coffee break."
+    },
+    {
+      "id": 38,
+      "en": "Before we locked up, we closed the register."
+    },
+    {
+      "id": 39,
+      "en": "I closed the browser because the site looked sketchy."
+    },
+    {
+      "id": 40,
+      "en": "We closed the gap slowly this quarter."
+    },
+    {
+      "id": 41,
+      "en": "We will close the tab when you finish."
+    },
+    {
+      "id": 42,
+      "en": "I'll close the window before the storm."
+    },
+    {
+      "id": 43,
+      "en": "They will close the store for a holiday."
+    },
+    {
+      "id": 44,
+      "en": "We are going to close the account next month."
+    },
+    {
+      "id": 45,
+      "en": "If we are late, they will close the kitchen."
+    },
+    {
+      "id": 46,
+      "en": "I would close the laptop if the battery were low."
+    },
+    {
+      "id": 47,
+      "en": "We could close the meeting early if you want."
+    },
+    {
+      "id": 48,
+      "en": "I will close the file after I save."
+    },
+    {
+      "id": 49,
+      "en": "She will close the session with a recap."
+    },
+    {
+      "id": 50,
+      "en": "If we hurry, we will close the deal before Friday."
+    },
+    {
+      "id": 51,
+      "en": "We would close the meeting on time if people stopped talking."
+    },
+    {
+      "id": 52,
+      "en": "Tomorrow we will close the office early."
+    },
+    {
+      "id": 53,
+      "en": "He will close the window when the smoke clears."
+    },
+    {
+      "id": 54,
+      "en": "If you pay today, we will close the sale today."
+    },
+    {
+      "id": 55,
+      "en": "We will close the app before the update installs."
+    },
+    {
+      "id": 56,
+      "en": "I have closed the window already."
+    },
+    {
+      "id": 57,
+      "en": "We haven't closed the deal yet."
+    },
+    {
+      "id": 58,
+      "en": "After closing the door, I heard a knock."
+    },
+    {
+      "id": 59,
+      "en": "Before you close the tab, copy the link."
+    },
+    {
+      "id": 60,
+      "en": "We need to close the account before the fee hits."
+    },
+    {
+      "id": 61,
+      "en": "I forgot to close the garage."
+    },
+    {
+      "id": 62,
+      "en": "She wants to close the meeting early."
+    },
+    {
+      "id": 63,
+      "en": "Don't close the file until it saves."
+    },
+    {
+      "id": 64,
+      "en": "Let's close the laptop during takeoff."
+    },
+    {
+      "id": 65,
+      "en": "I haven't closed the kitchen yet—I'm still cleaning."
+    },
+    {
+      "id": 66,
+      "en": "We've closed three tickets this morning."
+    },
+    {
+      "id": 67,
+      "en": "To save power, close the app in the background."
+    },
+    {
+      "id": 68,
+      "en": "I haven't closed the door all the way."
+    },
+    {
+      "id": 69,
+      "en": "We need to close the blinds before we leave."
+    },
+    {
+      "id": 70,
+      "en": "I have to close the umbrella before I go inside."
+    },
+    {
+      "id": 71,
+      "en": "Can you close the window?"
+    },
+    {
+      "id": 72,
+      "en": "Did you close the garage?"
+    },
+    {
+      "id": 73,
+      "en": "Where will you close the account?"
+    },
+    {
+      "id": 74,
+      "en": "Don't close the door on me."
+    },
+    {
+      "id": 75,
+      "en": "We won't close early tonight."
+    },
+    {
+      "id": 76,
+      "en": "I don't close the fridge until I hear the click."
+    },
+    {
+      "id": 77,
+      "en": "Why didn't you close the tab?"
+    },
+    {
+      "id": 78,
+      "en": "Close the file before you leave."
+    },
+    {
+      "id": 79,
+      "en": "Never close a deal without reading the fine print."
+    },
+    {
+      "id": 80,
+      "en": "Can you close the meeting with a summary?"
+    },
+    {
+      "id": 81,
+      "en": "Don't close the app while it is syncing."
+    },
+    {
+      "id": 82,
+      "en": "We don't close on Sundays anymore."
+    },
+    {
+      "id": 83,
+      "en": "If you close now, will you lose your changes?"
+    },
+    {
+      "id": 84,
+      "en": "Will they close the road tomorrow?"
+    },
+    {
+      "id": 85,
+      "en": "Don't close your eyes on the stairs."
+    },
+    {
+      "id": 86,
+      "en": "When I travel, I double-check that I closed the windows."
+    },
+    {
+      "id": 87,
+      "en": "Because it was cold, we closed the balcony door."
+    },
+    {
+      "id": 88,
+      "en": "If you close the tab, you can still recover it from history."
+    },
+    {
+      "id": 89,
+      "en": "Although the store was busy, we closed at nine."
+    },
+    {
+      "id": 90,
+      "en": "Before we close, does anyone have questions?"
+    },
+    {
+      "id": 91,
+      "en": "After we close the meeting, we can grab dinner."
+    },
+    {
+      "id": 92,
+      "en": "They closed the bar after the match, but we found another place."
+    },
+    {
+      "id": 93,
+      "en": "When the gym closes, I walk home."
+    },
+    {
+      "id": 94,
+      "en": "If you close the lid, the leftovers stay fresh."
+    },
+    {
+      "id": 95,
+      "en": "She wanted to close that chapter, but she still talks to him."
+    },
+    {
+      "id": 96,
+      "en": "Because we train late, we close the kitchen after ten."
+    },
+    {
+      "id": 97,
+      "en": "After we closed the account, we opened another one."
+    },
+    {
+      "id": 98,
+      "en": "We should close the window before we argue about money."
+    },
+    {
+      "id": 99,
+      "en": "When we close the laptop, we unplug the charger."
+    },
+    {
+      "id": 100,
+      "en": "Turn off the tap before you leave—the bill adds up."
+    }
+  ]
+}

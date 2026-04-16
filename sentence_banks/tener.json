@@ -1,0 +1,637 @@
+{
+  "verb": "tener",
+  "generated_at": "2026-04-14T20:00:24+00:00",
+  "source": "sentence_banks:tener",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I have two brothers in Madrid.",
+      "sense": "possess",
+      "lesson": "reflexive"
+    },
+    {
+      "id": 2,
+      "en": "She has a small dog and a large cat.",
+      "sense": "possess"
+    },
+    {
+      "id": 3,
+      "en": "We have enough chairs for everyone.",
+      "sense": "possess"
+    },
+    {
+      "id": 4,
+      "en": "They have a cabin by the lake.",
+      "sense": "possess"
+    },
+    {
+      "id": 5,
+      "en": "I have two brothers in Madrid.",
+      "sense": "possess",
+      "lesson": "clitic"
+    },
+    {
+      "id": 6,
+      "en": "She has a small dog and a large cat.",
+      "sense": "possess"
+    },
+    {
+      "id": 7,
+      "en": "We have enough chairs for everyone.",
+      "sense": "possess"
+    },
+    {
+      "id": 8,
+      "en": "They have a cabin by the lake.",
+      "sense": "possess"
+    },
+    {
+      "id": 9,
+      "en": "I have two brothers in Madrid.",
+      "sense": "possess",
+      "lesson": "collocation"
+    },
+    {
+      "id": 10,
+      "en": "She has a small dog and a large cat.",
+      "sense": "possess"
+    },
+    {
+      "id": 11,
+      "en": "We have enough chairs for everyone.",
+      "sense": "possess"
+    },
+    {
+      "id": 12,
+      "en": "They have a cabin by the lake.",
+      "sense": "possess"
+    },
+    {
+      "id": 13,
+      "en": "I have two brothers in Madrid.",
+      "sense": "possess",
+      "lesson": "subjunctive_cue"
+    },
+    {
+      "id": 14,
+      "en": "She has a small dog and a large cat.",
+      "sense": "possess"
+    },
+    {
+      "id": 15,
+      "en": "We have enough chairs for everyone.",
+      "sense": "possess"
+    },
+    {
+      "id": 16,
+      "en": "They have a cabin by the lake.",
+      "sense": "possess"
+    },
+    {
+      "id": 17,
+      "en": "I have two brothers in Madrid.",
+      "sense": "possess",
+      "lesson": "ser_estar"
+    },
+    {
+      "id": 18,
+      "en": "She has a small dog and a large cat.",
+      "sense": "possess"
+    },
+    {
+      "id": 19,
+      "en": "We have enough chairs for everyone.",
+      "sense": "possess"
+    },
+    {
+      "id": 20,
+      "en": "They have a cabin by the lake.",
+      "sense": "possess"
+    },
+    {
+      "id": 21,
+      "en": "I have to finish this tonight.",
+      "sense": "tener_que",
+      "lesson": "register"
+    },
+    {
+      "id": 22,
+      "en": "She has to see a doctor this week.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 23,
+      "en": "We have to decide before Friday.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 24,
+      "en": "They have to replace the roof soon.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 25,
+      "en": "I have to finish this tonight.",
+      "sense": "tener_que",
+      "lesson": "por_para"
+    },
+    {
+      "id": 26,
+      "en": "She has to see a doctor this week.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 27,
+      "en": "We have to decide before Friday.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 28,
+      "en": "They have to replace the roof soon.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 29,
+      "en": "I have to finish this tonight.",
+      "sense": "tener_que",
+      "lesson": "native_idiom"
+    },
+    {
+      "id": 30,
+      "en": "She has to see a doctor this week.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 31,
+      "en": "We have to decide before Friday.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 32,
+      "en": "They have to replace the roof soon.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 33,
+      "en": "I have to finish this tonight.",
+      "sense": "tener_que",
+      "lesson": "reflexive"
+    },
+    {
+      "id": 34,
+      "en": "She has to see a doctor this week.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 35,
+      "en": "We have to decide before Friday.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 36,
+      "en": "They have to replace the roof soon.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 37,
+      "en": "I have to finish this tonight.",
+      "sense": "tener_que",
+      "lesson": "clitic"
+    },
+    {
+      "id": 38,
+      "en": "She has to see a doctor this week.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 39,
+      "en": "We have to decide before Friday.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 40,
+      "en": "They have to replace the roof soon.",
+      "sense": "tener_que"
+    },
+    {
+      "id": 41,
+      "en": "I am twenty-nine years old.",
+      "sense": "age_height",
+      "lesson": "collocation"
+    },
+    {
+      "id": 42,
+      "en": "The tree must be a hundred years old.",
+      "sense": "age_height"
+    },
+    {
+      "id": 43,
+      "en": "She has the patience of a saint.",
+      "sense": "age_height"
+    },
+    {
+      "id": 44,
+      "en": "He has broad shoulders from rowing.",
+      "sense": "age_height"
+    },
+    {
+      "id": 45,
+      "en": "I am twenty-nine years old.",
+      "sense": "age_height",
+      "lesson": "subjunctive_cue"
+    },
+    {
+      "id": 46,
+      "en": "The tree must be a hundred years old.",
+      "sense": "age_height"
+    },
+    {
+      "id": 47,
+      "en": "She has the patience of a saint.",
+      "sense": "age_height"
+    },
+    {
+      "id": 48,
+      "en": "He has broad shoulders from rowing.",
+      "sense": "age_height"
+    },
+    {
+      "id": 49,
+      "en": "I am twenty-nine years old.",
+      "sense": "age_height",
+      "lesson": "ser_estar"
+    },
+    {
+      "id": 50,
+      "en": "The tree must be a hundred years old.",
+      "sense": "age_height"
+    },
+    {
+      "id": 51,
+      "en": "She has the patience of a saint.",
+      "sense": "age_height"
+    },
+    {
+      "id": 52,
+      "en": "He has broad shoulders from rowing.",
+      "sense": "age_height"
+    },
+    {
+      "id": 53,
+      "en": "I am twenty-nine years old.",
+      "sense": "age_height",
+      "lesson": "register"
+    },
+    {
+      "id": 54,
+      "en": "The tree must be a hundred years old.",
+      "sense": "age_height"
+    },
+    {
+      "id": 55,
+      "en": "She has the patience of a saint.",
+      "sense": "age_height"
+    },
+    {
+      "id": 56,
+      "en": "He has broad shoulders from rowing.",
+      "sense": "age_height"
+    },
+    {
+      "id": 57,
+      "en": "I am twenty-nine years old.",
+      "sense": "age_height",
+      "lesson": "por_para"
+    },
+    {
+      "id": 58,
+      "en": "The tree must be a hundred years old.",
+      "sense": "age_height"
+    },
+    {
+      "id": 59,
+      "en": "She has the patience of a saint.",
+      "sense": "age_height"
+    },
+    {
+      "id": 60,
+      "en": "He has broad shoulders from rowing.",
+      "sense": "age_height"
+    },
+    {
+      "id": 61,
+      "en": "I have a fever and chills.",
+      "sense": "feel_physical",
+      "lesson": "native_idiom"
+    },
+    {
+      "id": 62,
+      "en": "She has a pain in her lower back.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 63,
+      "en": "We have hunger after the hike.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 64,
+      "en": "He has cold hands.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 65,
+      "en": "I have a fever and chills.",
+      "sense": "feel_physical",
+      "lesson": "reflexive"
+    },
+    {
+      "id": 66,
+      "en": "She has a pain in her lower back.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 67,
+      "en": "We have hunger after the hike.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 68,
+      "en": "He has cold hands.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 69,
+      "en": "I have a fever and chills.",
+      "sense": "feel_physical",
+      "lesson": "clitic"
+    },
+    {
+      "id": 70,
+      "en": "She has a pain in her lower back.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 71,
+      "en": "We have hunger after the hike.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 72,
+      "en": "He has cold hands.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 73,
+      "en": "I have a fever and chills.",
+      "sense": "feel_physical",
+      "lesson": "collocation"
+    },
+    {
+      "id": 74,
+      "en": "She has a pain in her lower back.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 75,
+      "en": "We have hunger after the hike.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 76,
+      "en": "He has cold hands.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 77,
+      "en": "I have a fever and chills.",
+      "sense": "feel_physical",
+      "lesson": "subjunctive_cue"
+    },
+    {
+      "id": 78,
+      "en": "She has a pain in her lower back.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 79,
+      "en": "We have hunger after the hike.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 80,
+      "en": "He has cold hands.",
+      "sense": "feel_physical"
+    },
+    {
+      "id": 81,
+      "en": "We have a meeting at three.",
+      "sense": "relationship_event",
+      "lesson": "ser_estar"
+    },
+    {
+      "id": 82,
+      "en": "She has a dentist appointment tomorrow.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 83,
+      "en": "They have plans for the holiday.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 84,
+      "en": "I have doubts about the proposal.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 85,
+      "en": "We have a meeting at three.",
+      "sense": "relationship_event",
+      "lesson": "register"
+    },
+    {
+      "id": 86,
+      "en": "She has a dentist appointment tomorrow.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 87,
+      "en": "They have plans for the holiday.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 88,
+      "en": "I have doubts about the proposal.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 89,
+      "en": "We have a meeting at three.",
+      "sense": "relationship_event",
+      "lesson": "por_para"
+    },
+    {
+      "id": 90,
+      "en": "She has a dentist appointment tomorrow.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 91,
+      "en": "They have plans for the holiday.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 92,
+      "en": "I have doubts about the proposal.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 93,
+      "en": "We have a meeting at three.",
+      "sense": "relationship_event",
+      "lesson": "native_idiom"
+    },
+    {
+      "id": 94,
+      "en": "She has a dentist appointment tomorrow.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 95,
+      "en": "They have plans for the holiday.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 96,
+      "en": "I have doubts about the proposal.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 97,
+      "en": "We have a meeting at three.",
+      "sense": "relationship_event",
+      "lesson": "reflexive"
+    },
+    {
+      "id": 98,
+      "en": "She has a dentist appointment tomorrow.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 99,
+      "en": "They have plans for the holiday.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 100,
+      "en": "I have doubts about the proposal.",
+      "sense": "relationship_event"
+    },
+    {
+      "id": 101,
+      "en": "I have the impression he is lying.",
+      "sense": "hold_opinion",
+      "lesson": "clitic"
+    },
+    {
+      "id": 102,
+      "en": "She has no idea how hard this is.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 103,
+      "en": "We have reason to be cautious.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 104,
+      "en": "He has faith in the team.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 105,
+      "en": "I have the impression he is lying.",
+      "sense": "hold_opinion",
+      "lesson": "collocation"
+    },
+    {
+      "id": 106,
+      "en": "She has no idea how hard this is.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 107,
+      "en": "We have reason to be cautious.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 108,
+      "en": "He has faith in the team.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 109,
+      "en": "I have the impression he is lying.",
+      "sense": "hold_opinion",
+      "lesson": "subjunctive_cue"
+    },
+    {
+      "id": 110,
+      "en": "She has no idea how hard this is.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 111,
+      "en": "We have reason to be cautious.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 112,
+      "en": "He has faith in the team.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 113,
+      "en": "I have the impression he is lying.",
+      "sense": "hold_opinion",
+      "lesson": "ser_estar"
+    },
+    {
+      "id": 114,
+      "en": "She has no idea how hard this is.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 115,
+      "en": "We have reason to be cautious.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 116,
+      "en": "He has faith in the team.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 117,
+      "en": "I have the impression he is lying.",
+      "sense": "hold_opinion",
+      "lesson": "register"
+    },
+    {
+      "id": 118,
+      "en": "She has no idea how hard this is.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 119,
+      "en": "We have reason to be cautious.",
+      "sense": "hold_opinion"
+    },
+    {
+      "id": 120,
+      "en": "He has faith in the team.",
+      "sense": "hold_opinion"
+    }
+  ]
+}

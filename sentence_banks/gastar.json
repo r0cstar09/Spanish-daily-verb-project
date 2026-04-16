@@ -1,0 +1,407 @@
+{
+  "verb": "gastar",
+  "generated_at": "2026-04-16T16:00:00+00:00",
+  "source": "sentence_banks:gastar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I spend too much money at the store."
+    },
+    {
+      "id": 2,
+      "en": "We spend a lot on food every week."
+    },
+    {
+      "id": 3,
+      "en": "He spends his salary on rent and the car."
+    },
+    {
+      "id": 4,
+      "en": "They spend money in the city on weekends."
+    },
+    {
+      "id": 5,
+      "en": "You spend more than your friend at the restaurant."
+    },
+    {
+      "id": 6,
+      "en": "She spends cash at the market."
+    },
+    {
+      "id": 7,
+      "en": "The app uses up the phone battery fast."
+    },
+    {
+      "id": 8,
+      "en": "I waste time online after work."
+    },
+    {
+      "id": 9,
+      "en": "We spend less money this month."
+    },
+    {
+      "id": 10,
+      "en": "Kids spend money on games and music."
+    },
+    {
+      "id": 11,
+      "en": "The video uses up my data on the train."
+    },
+    {
+      "id": 12,
+      "en": "I spend money on lunch near the park."
+    },
+    {
+      "id": 13,
+      "en": "These shoes wear out fast on the street."
+    },
+    {
+      "id": 14,
+      "en": "We spend money on tickets for the match."
+    },
+    {
+      "id": 15,
+      "en": "He spends energy at the gym every morning."
+    },
+    {
+      "id": 16,
+      "en": "The family spends a lot on travel."
+    },
+    {
+      "id": 17,
+      "en": "I spend money at the airport before the flight."
+    },
+    {
+      "id": 18,
+      "en": "The screen uses up power when the light is high."
+    },
+    {
+      "id": 19,
+      "en": "She wastes energy on stress at the office."
+    },
+    {
+      "id": 20,
+      "en": "They spend money on the house every year."
+    },
+    {
+      "id": 21,
+      "en": "I spent all my money yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We spent too much at the restaurant."
+    },
+    {
+      "id": 23,
+      "en": "He spent his savings on the trip."
+    },
+    {
+      "id": 24,
+      "en": "They spent money on food at the beach."
+    },
+    {
+      "id": 25,
+      "en": "I was spending money when you called."
+    },
+    {
+      "id": 26,
+      "en": "She spent money on gas for the drive to her friend's house."
+    },
+    {
+      "id": 27,
+      "en": "I didn't spend money on junk food."
+    },
+    {
+      "id": 28,
+      "en": "Why did you spend so much on the phone?"
+    },
+    {
+      "id": 29,
+      "en": "Although I spent little, I still had fun."
+    },
+    {
+      "id": 30,
+      "en": "When I was a student, I spent every dollar."
+    },
+    {
+      "id": 31,
+      "en": "After we spent the money, we felt calm."
+    },
+    {
+      "id": 32,
+      "en": "Before he spent the cash, he checked the price."
+    },
+    {
+      "id": 33,
+      "en": "I spent money because the car broke down."
+    },
+    {
+      "id": 34,
+      "en": "I spent money on delivery at home, but I missed the city restaurants."
+    },
+    {
+      "id": 35,
+      "en": "The tires wore out after one long trip."
+    },
+    {
+      "id": 36,
+      "en": "We spent little money that winter."
+    },
+    {
+      "id": 37,
+      "en": "He spent his bonus at the store."
+    },
+    {
+      "id": 38,
+      "en": "I never spent money on that app."
+    },
+    {
+      "id": 39,
+      "en": "They spent money on food at the hospital cafe with family."
+    },
+    {
+      "id": 40,
+      "en": "The old jacket wore out after years of rain."
+    },
+    {
+      "id": 41,
+      "en": "I will spend less next month."
+    },
+    {
+      "id": 42,
+      "en": "We will spend money on the new table."
+    },
+    {
+      "id": 43,
+      "en": "If we eat out, we will spend more."
+    },
+    {
+      "id": 44,
+      "en": "He won't spend money on things he doesn't need."
+    },
+    {
+      "id": 45,
+      "en": "Would you spend that much on a ticket?"
+    },
+    {
+      "id": 46,
+      "en": "The phone will use up the battery by night."
+    },
+    {
+      "id": 47,
+      "en": "I'm going to spend money on gifts for my family."
+    },
+    {
+      "id": 48,
+      "en": "If the price drops, we will spend less."
+    },
+    {
+      "id": 49,
+      "en": "I would spend more if I earned more."
+    },
+    {
+      "id": 50,
+      "en": "We would spend more money at the beach if we had time."
+    },
+    {
+      "id": 51,
+      "en": "She will spend her money on school books."
+    },
+    {
+      "id": 52,
+      "en": "If you drive fast, you will wear out the tires."
+    },
+    {
+      "id": 53,
+      "en": "They won't spend money without a plan."
+    },
+    {
+      "id": 54,
+      "en": "I would spend less if the rent were lower."
+    },
+    {
+      "id": 55,
+      "en": "We will spend money on food at home after the game."
+    },
+    {
+      "id": 56,
+      "en": "I have spent too much this year."
+    },
+    {
+      "id": 57,
+      "en": "We haven't spent the money yet."
+    },
+    {
+      "id": 58,
+      "en": "I've wasted hours on that computer problem."
+    },
+    {
+      "id": 59,
+      "en": "I need to spend less on coffee."
+    },
+    {
+      "id": 60,
+      "en": "She forgot to spend the gift card."
+    },
+    {
+      "id": 61,
+      "en": "To spend wisely, you need a list."
+    },
+    {
+      "id": 62,
+      "en": "I want to spend money on a gift for my friend."
+    },
+    {
+      "id": 63,
+      "en": "Don't spend money you don't have."
+    },
+    {
+      "id": 64,
+      "en": "I have to spend cash for the market."
+    },
+    {
+      "id": 65,
+      "en": "We meant to spend less on food."
+    },
+    {
+      "id": 66,
+      "en": "They have spent too much money in that city."
+    },
+    {
+      "id": 67,
+      "en": "I haven't had a free hour to waste on that game."
+    },
+    {
+      "id": 68,
+      "en": "I tried to spend less at the store."
+    },
+    {
+      "id": 69,
+      "en": "We have worn out two pairs of shoes this year."
+    },
+    {
+      "id": 70,
+      "en": "I want you to spend money on your health."
+    },
+    {
+      "id": 71,
+      "en": "Do you spend a lot on rent?"
+    },
+    {
+      "id": 72,
+      "en": "Why do you spend so much online?"
+    },
+    {
+      "id": 73,
+      "en": "Don't spend it all in one day."
+    },
+    {
+      "id": 74,
+      "en": "Spend your money on something useful."
+    },
+    {
+      "id": 75,
+      "en": "Haven't you spent enough today?"
+    },
+    {
+      "id": 76,
+      "en": "Won't we spend more if we travel by plane?"
+    },
+    {
+      "id": 77,
+      "en": "Can we spend less money on dinner at your house?"
+    },
+    {
+      "id": 78,
+      "en": "Why didn't you spend the money on the bill?"
+    },
+    {
+      "id": 79,
+      "en": "Don't wear out your shoes on that path."
+    },
+    {
+      "id": 80,
+      "en": "Never spend without a receipt."
+    },
+    {
+      "id": 81,
+      "en": "Don't you spend money at that store?"
+    },
+    {
+      "id": 82,
+      "en": "Where did you spend the money?"
+    },
+    {
+      "id": 83,
+      "en": "When will you spend the bonus?"
+    },
+    {
+      "id": 84,
+      "en": "Can't you spend less on the phone plan?"
+    },
+    {
+      "id": 85,
+      "en": "Will she spend money on the hotel for work?"
+    },
+    {
+      "id": 86,
+      "en": "Because we spend less, we save money."
+    },
+    {
+      "id": 87,
+      "en": "When you spend money on travel, compare flights first."
+    },
+    {
+      "id": 88,
+      "en": "If I spend now, I save stress later."
+    },
+    {
+      "id": 89,
+      "en": "Although we spend a lot on the house, we like the area."
+    },
+    {
+      "id": 90,
+      "en": "Before you spend, compare prices in the city."
+    },
+    {
+      "id": 91,
+      "en": "After we spent the money, we checked the bank app."
+    },
+    {
+      "id": 92,
+      "en": "I spend money on food, but I cook at home too."
+    },
+    {
+      "id": 93,
+      "en": "When the battery is low, the phone uses power fast."
+    },
+    {
+      "id": 94,
+      "en": "If we walk more, we wear out our shoes slower."
+    },
+    {
+      "id": 95,
+      "en": "Although the trip was short, we spent a lot."
+    },
+    {
+      "id": 96,
+      "en": "Because the game is free, I don't spend money there."
+    },
+    {
+      "id": 97,
+      "en": "Before the meeting, he wasted ten minutes on the phone."
+    },
+    {
+      "id": 98,
+      "en": "After dinner, we wasted an hour in traffic."
+    },
+    {
+      "id": 99,
+      "en": "If the team wins, we will spend money on tickets for the next game."
+    },
+    {
+      "id": 100,
+      "en": "It's important that we spend the budget on time."
+    }
+  ]
+}

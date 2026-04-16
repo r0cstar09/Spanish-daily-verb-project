@@ -1,0 +1,407 @@
+{
+  "verb": "presentar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:presentar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I present the numbers every Monday."
+    },
+    {
+      "id": 2,
+      "en": "We present the plan at the meeting."
+    },
+    {
+      "id": 3,
+      "en": "He presents the news on TV."
+    },
+    {
+      "id": 4,
+      "en": "She presents our team to the client."
+    },
+    {
+      "id": 5,
+      "en": "They present the new product today."
+    },
+    {
+      "id": 6,
+      "en": "You present clearly when you practice."
+    },
+    {
+      "id": 7,
+      "en": "I present my ID at the door."
+    },
+    {
+      "id": 8,
+      "en": "We present the slides before lunch."
+    },
+    {
+      "id": 9,
+      "en": "He presents the football show on weekends."
+    },
+    {
+      "id": 10,
+      "en": "She presents the budget every month."
+    },
+    {
+      "id": 11,
+      "en": "I present a short update on the call."
+    },
+    {
+      "id": 12,
+      "en": "We present the report in person."
+    },
+    {
+      "id": 13,
+      "en": "They present the awards at the end."
+    },
+    {
+      "id": 14,
+      "en": "You present your work on Friday."
+    },
+    {
+      "id": 15,
+      "en": "I present the options without pressure."
+    },
+    {
+      "id": 16,
+      "en": "He presents the new hire to the team."
+    },
+    {
+      "id": 17,
+      "en": "We present the data in simple charts."
+    },
+    {
+      "id": 18,
+      "en": "She presents the menu on a tablet."
+    },
+    {
+      "id": 19,
+      "en": "I present myself at reception."
+    },
+    {
+      "id": 20,
+      "en": "They present the city tour online."
+    },
+    {
+      "id": 21,
+      "en": "I presented the idea yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We presented the documents last week."
+    },
+    {
+      "id": 23,
+      "en": "He presented the team to the coach."
+    },
+    {
+      "id": 24,
+      "en": "She presented the complaint at the office."
+    },
+    {
+      "id": 25,
+      "en": "I didn't present on time."
+    },
+    {
+      "id": 26,
+      "en": "They presented the new phone in March."
+    },
+    {
+      "id": 27,
+      "en": "I was presenting slides when the call dropped."
+    },
+    {
+      "id": 28,
+      "en": "When I was new, I presented every Friday."
+    },
+    {
+      "id": 29,
+      "en": "We presented the file because the bank asked."
+    },
+    {
+      "id": 30,
+      "en": "He presented the report in ten minutes."
+    },
+    {
+      "id": 31,
+      "en": "I presented my friend to my parents."
+    },
+    {
+      "id": 32,
+      "en": "She presented dinner ideas at home."
+    },
+    {
+      "id": 33,
+      "en": "Why did you present two versions?"
+    },
+    {
+      "id": 34,
+      "en": "We presented online from the kitchen."
+    },
+    {
+      "id": 35,
+      "en": "I presented my symptoms at the clinic."
+    },
+    {
+      "id": 36,
+      "en": "He presented the ticket at the train gate."
+    },
+    {
+      "id": 37,
+      "en": "They presented a simple plan."
+    },
+    {
+      "id": 38,
+      "en": "I presented our travel plan at dinner."
+    },
+    {
+      "id": 39,
+      "en": "We presented the money order at the counter."
+    },
+    {
+      "id": 40,
+      "en": "You presented more detail than we needed."
+    },
+    {
+      "id": 41,
+      "en": "I will present tomorrow morning."
+    },
+    {
+      "id": 42,
+      "en": "We will present if you send the file."
+    },
+    {
+      "id": 43,
+      "en": "If you arrive early, I will present first."
+    },
+    {
+      "id": 44,
+      "en": "She will present her project on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't present without a clear agenda."
+    },
+    {
+      "id": 46,
+      "en": "I would present more if I had time."
+    },
+    {
+      "id": 47,
+      "en": "We would present a shorter deck if we had feedback."
+    },
+    {
+      "id": 48,
+      "en": "Would you present the guest to the group?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will present our passports."
+    },
+    {
+      "id": 50,
+      "en": "They will present the demo on site."
+    },
+    {
+      "id": 51,
+      "en": "You will present better if you sleep."
+    },
+    {
+      "id": 52,
+      "en": "I would present indoors if the weather were bad."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will present in the small room."
+    },
+    {
+      "id": 54,
+      "en": "I will present the football recap at home."
+    },
+    {
+      "id": 55,
+      "en": "We will present the final numbers before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have presented this update before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't presented the deck yet."
+    },
+    {
+      "id": 58,
+      "en": "She has presented for the team since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you presented the file?"
+    },
+    {
+      "id": 60,
+      "en": "I need to present for five minutes."
+    },
+    {
+      "id": 61,
+      "en": "I want to present a simple idea."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to present his student ID."
+    },
+    {
+      "id": 63,
+      "en": "Remember to present your ticket."
+    },
+    {
+      "id": 64,
+      "en": "I hate to present when I am tired."
+    },
+    {
+      "id": 65,
+      "en": "We started to present the trip plans last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to present the slides tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to present early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to present without notes."
+    },
+    {
+      "id": 69,
+      "en": "I want you to present the agenda."
+    },
+    {
+      "id": 70,
+      "en": "They tried to present clearly under pressure."
+    },
+    {
+      "id": 71,
+      "en": "Do you present every week?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you present two names?"
+    },
+    {
+      "id": 73,
+      "en": "Present your ID before you enter."
+    },
+    {
+      "id": 74,
+      "en": "Don't present fake documents."
+    },
+    {
+      "id": 75,
+      "en": "Never present without reading the room."
+    },
+    {
+      "id": 76,
+      "en": "Can't you present earlier?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you presented the file?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you present for the panel?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you present the update?"
+    },
+    {
+      "id": 80,
+      "en": "Will you present the options if I send the data?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you present at the meeting?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to present early?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you present a list before you speak?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you present the main point first?"
+    },
+    {
+      "id": 85,
+      "en": "Stop presenting and listen for a minute."
+    },
+    {
+      "id": 86,
+      "en": "I present updates because my boss asks."
+    },
+    {
+      "id": 87,
+      "en": "We presented the trip, but the flight changed."
+    },
+    {
+      "id": 88,
+      "en": "When you present data, speak slowly."
+    },
+    {
+      "id": 89,
+      "en": "If you present notes, you will sound clear."
+    },
+    {
+      "id": 90,
+      "en": "Although I presented well, I still felt nervous."
+    },
+    {
+      "id": 91,
+      "en": "Before you speak, present the main point."
+    },
+    {
+      "id": 92,
+      "en": "After I presented the budget, I felt more confident."
+    },
+    {
+      "id": 93,
+      "en": "Because we presented the facts first, the decision was easy."
+    },
+    {
+      "id": 94,
+      "en": "I present at work, but I stay quiet at home."
+    },
+    {
+      "id": 95,
+      "en": "When he presents to a crowd, he speaks slowly."
+    },
+    {
+      "id": 96,
+      "en": "If we present the papers, we will avoid problems."
+    },
+    {
+      "id": 97,
+      "en": "Although we presented the slides, the video froze."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, present your passport."
+    },
+    {
+      "id": 99,
+      "en": "After we presented for the football panel, we went to sleep early."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you present the safety topic."
+    }
+  ]
+}

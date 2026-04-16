@@ -1,0 +1,407 @@
+{
+  "verb": "estar",
+  "generated_at": "2026-04-17T16:00:00+00:00",
+  "source": "sentence_banks:estar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I am at home tonight."
+    },
+    {
+      "id": 2,
+      "en": "We are at the office early."
+    },
+    {
+      "id": 3,
+      "en": "They are in the lobby waiting."
+    },
+    {
+      "id": 4,
+      "en": "He is on the phone upstairs."
+    },
+    {
+      "id": 5,
+      "en": "She is at the gym after work."
+    },
+    {
+      "id": 6,
+      "en": "You are in the wrong room."
+    },
+    {
+      "id": 7,
+      "en": "The keys are on the counter."
+    },
+    {
+      "id": 8,
+      "en": "The bags are by the door."
+    },
+    {
+      "id": 9,
+      "en": "I am tired after work."
+    },
+    {
+      "id": 10,
+      "en": "We are busy this week."
+    },
+    {
+      "id": 11,
+      "en": "He is sick today."
+    },
+    {
+      "id": 12,
+      "en": "She is happy with the news."
+    },
+    {
+      "id": 13,
+      "en": "I am nervous before the test."
+    },
+    {
+      "id": 14,
+      "en": "We are ready to leave."
+    },
+    {
+      "id": 15,
+      "en": "They are married now."
+    },
+    {
+      "id": 16,
+      "en": "The tickets are on the table."
+    },
+    {
+      "id": 17,
+      "en": "The store is open late."
+    },
+    {
+      "id": 18,
+      "en": "The cafe is closed today."
+    },
+    {
+      "id": 19,
+      "en": "I am studying for the exam."
+    },
+    {
+      "id": 20,
+      "en": "We are waiting for the bus."
+    },
+    {
+      "id": 21,
+      "en": "I was at the store yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We were late because of traffic."
+    },
+    {
+      "id": 23,
+      "en": "He was on vacation last month."
+    },
+    {
+      "id": 24,
+      "en": "They were in the car when it rang."
+    },
+    {
+      "id": 25,
+      "en": "I was there when you arrived."
+    },
+    {
+      "id": 26,
+      "en": "She was quiet during the meeting."
+    },
+    {
+      "id": 27,
+      "en": "I wasn't home last night."
+    },
+    {
+      "id": 28,
+      "en": "Why were you so quiet?"
+    },
+    {
+      "id": 29,
+      "en": "Although I was tired, I still cooked."
+    },
+    {
+      "id": 30,
+      "en": "When I was a kid, I was shy."
+    },
+    {
+      "id": 31,
+      "en": "I used to be at work by seven."
+    },
+    {
+      "id": 32,
+      "en": "After we were home, we ate dinner."
+    },
+    {
+      "id": 33,
+      "en": "Before you were late, I warned you."
+    },
+    {
+      "id": 34,
+      "en": "I was wrong about the price."
+    },
+    {
+      "id": 35,
+      "en": "They were in line for an hour."
+    },
+    {
+      "id": 36,
+      "en": "He was sick all weekend."
+    },
+    {
+      "id": 37,
+      "en": "We were nervous before the flight."
+    },
+    {
+      "id": 38,
+      "en": "She was in the shower when you rang."
+    },
+    {
+      "id": 39,
+      "en": "I wasn't ready for the meeting."
+    },
+    {
+      "id": 40,
+      "en": "They were ready to leave early."
+    },
+    {
+      "id": 41,
+      "en": "I will be at the cafe at six."
+    },
+    {
+      "id": 42,
+      "en": "It's important that we are on time."
+    },
+    {
+      "id": 43,
+      "en": "We'll be there tomorrow."
+    },
+    {
+      "id": 44,
+      "en": "If you ask, I will be home early."
+    },
+    {
+      "id": 45,
+      "en": "They will be at the gate when we arrive."
+    },
+    {
+      "id": 46,
+      "en": "I am going to be in the office Friday."
+    },
+    {
+      "id": 47,
+      "en": "I'd rather you be honest."
+    },
+    {
+      "id": 48,
+      "en": "I would be calmer if I slept more."
+    },
+    {
+      "id": 49,
+      "en": "If you are free, we will be at the park."
+    },
+    {
+      "id": 50,
+      "en": "Tomorrow I will be busy all day."
+    },
+    {
+      "id": 51,
+      "en": "He will be out of town next week."
+    },
+    {
+      "id": 52,
+      "en": "We would be earlier if we had tickets."
+    },
+    {
+      "id": 53,
+      "en": "If we are late, we will still be there."
+    },
+    {
+      "id": 54,
+      "en": "I will be in the meeting at ten."
+    },
+    {
+      "id": 55,
+      "en": "They will be online after lunch."
+    },
+    {
+      "id": 56,
+      "en": "I have been there before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't been home all week."
+    },
+    {
+      "id": 58,
+      "en": "I've been busy since Monday."
+    },
+    {
+      "id": 59,
+      "en": "After being tired, I rested."
+    },
+    {
+      "id": 60,
+      "en": "Before you are late, text me."
+    },
+    {
+      "id": 61,
+      "en": "I need to be ready."
+    },
+    {
+      "id": 62,
+      "en": "We want to be calm before the trip."
+    },
+    {
+      "id": 63,
+      "en": "Don't be late."
+    },
+    {
+      "id": 64,
+      "en": "Let's be honest."
+    },
+    {
+      "id": 65,
+      "en": "I forgot to be there."
+    },
+    {
+      "id": 66,
+      "en": "To be safe, stay inside."
+    },
+    {
+      "id": 67,
+      "en": "Stop being so loud."
+    },
+    {
+      "id": 68,
+      "en": "I haven't been to the gym yet."
+    },
+    {
+      "id": 69,
+      "en": "It's time to be ready."
+    },
+    {
+      "id": 70,
+      "en": "We have to be there before five."
+    },
+    {
+      "id": 71,
+      "en": "Are you at home?"
+    },
+    {
+      "id": 72,
+      "en": "Why are you so quiet?"
+    },
+    {
+      "id": 73,
+      "en": "Can you be there at eight?"
+    },
+    {
+      "id": 74,
+      "en": "Aren't you busy today?"
+    },
+    {
+      "id": 75,
+      "en": "Where were you last night?"
+    },
+    {
+      "id": 76,
+      "en": "When will you be free?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you been there yet?"
+    },
+    {
+      "id": 78,
+      "en": "I can't be there tonight."
+    },
+    {
+      "id": 79,
+      "en": "We aren't ready yet."
+    },
+    {
+      "id": 80,
+      "en": "Never be late to a job interview."
+    },
+    {
+      "id": 81,
+      "en": "Because I was stressed, I was quiet."
+    },
+    {
+      "id": 82,
+      "en": "I wanted to leave, but I was still working."
+    },
+    {
+      "id": 83,
+      "en": "When we travel, we are tired on day one."
+    },
+    {
+      "id": 84,
+      "en": "We leave early so that we are calm."
+    },
+    {
+      "id": 85,
+      "en": "Although we were late, we still got in."
+    },
+    {
+      "id": 86,
+      "en": "After we were home, we unpacked."
+    },
+    {
+      "id": 87,
+      "en": "Before we are late, we set an alarm."
+    },
+    {
+      "id": 88,
+      "en": "If the weather is bad, we are inside."
+    },
+    {
+      "id": 89,
+      "en": "We were ready, but the train was late."
+    },
+    {
+      "id": 90,
+      "en": "When the baby is asleep, we are quiet."
+    },
+    {
+      "id": 91,
+      "en": "I am at the gym after work."
+    },
+    {
+      "id": 92,
+      "en": "We are watching the match at home."
+    },
+    {
+      "id": 93,
+      "en": "They are on their feet after the goal."
+    },
+    {
+      "id": 94,
+      "en": "I'm glad you are home."
+    },
+    {
+      "id": 95,
+      "en": "I don't think he is sick."
+    },
+    {
+      "id": 96,
+      "en": "She asked me to be there early."
+    },
+    {
+      "id": 97,
+      "en": "He told me to be ready."
+    },
+    {
+      "id": 98,
+      "en": "I prefer that we are honest about the budget."
+    },
+    {
+      "id": 99,
+      "en": "Unless we are early, we will miss the start."
+    },
+    {
+      "id": 100,
+      "en": "It's strange that we are so tired after a short walk."
+    }
+  ]
+}

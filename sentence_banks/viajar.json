@@ -1,0 +1,407 @@
+{
+  "verb": "viajar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:viajar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I travel for work twice a month."
+    },
+    {
+      "id": 2,
+      "en": "We travel by train on weekends."
+    },
+    {
+      "id": 3,
+      "en": "He travels alone to the city."
+    },
+    {
+      "id": 4,
+      "en": "She travels with her family in summer."
+    },
+    {
+      "id": 5,
+      "en": "They travel to the coast every year."
+    },
+    {
+      "id": 6,
+      "en": "You travel too light for a long trip."
+    },
+    {
+      "id": 7,
+      "en": "I travel by bus to save money."
+    },
+    {
+      "id": 8,
+      "en": "We travel by plane when the price is low."
+    },
+    {
+      "id": 9,
+      "en": "He travels for meetings on Monday."
+    },
+    {
+      "id": 10,
+      "en": "She travels with her laptop for work."
+    },
+    {
+      "id": 11,
+      "en": "I travel to see my parents."
+    },
+    {
+      "id": 12,
+      "en": "We travel by car after the rain stops."
+    },
+    {
+      "id": 13,
+      "en": "They travel abroad for the holiday."
+    },
+    {
+      "id": 14,
+      "en": "The team travels to the away football game."
+    },
+    {
+      "id": 15,
+      "en": "I travel on short trips with a small bag."
+    },
+    {
+      "id": 16,
+      "en": "We travel at night to miss traffic."
+    },
+    {
+      "id": 17,
+      "en": "He travels for the gym meet in a nearby city."
+    },
+    {
+      "id": 18,
+      "en": "She travels with her friend on Friday."
+    },
+    {
+      "id": 19,
+      "en": "You travel too often without rest."
+    },
+    {
+      "id": 20,
+      "en": "I travel to the island for a quiet week."
+    },
+    {
+      "id": 21,
+      "en": "I traveled last week."
+    },
+    {
+      "id": 22,
+      "en": "We traveled to the hotel by taxi."
+    },
+    {
+      "id": 23,
+      "en": "He didn't travel in March."
+    },
+    {
+      "id": 24,
+      "en": "She traveled for business."
+    },
+    {
+      "id": 25,
+      "en": "I didn't travel last year."
+    },
+    {
+      "id": 26,
+      "en": "They traveled with tickets on the phone."
+    },
+    {
+      "id": 27,
+      "en": "I was traveling when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was young, my family traveled every summer."
+    },
+    {
+      "id": 29,
+      "en": "We traveled because the weather was good."
+    },
+    {
+      "id": 30,
+      "en": "He traveled from the city to the coast."
+    },
+    {
+      "id": 31,
+      "en": "Why did you travel alone?"
+    },
+    {
+      "id": 32,
+      "en": "We traveled on the early flight."
+    },
+    {
+      "id": 33,
+      "en": "I traveled with my partner on the trip."
+    },
+    {
+      "id": 34,
+      "en": "She traveled for a conference at work."
+    },
+    {
+      "id": 35,
+      "en": "I traveled more than I planned."
+    },
+    {
+      "id": 36,
+      "en": "They traveled by train through the valley."
+    },
+    {
+      "id": 37,
+      "en": "You traveled without a clear plan."
+    },
+    {
+      "id": 38,
+      "en": "I traveled to the lake for the weekend."
+    },
+    {
+      "id": 39,
+      "en": "We traveled after we saved money."
+    },
+    {
+      "id": 40,
+      "en": "He traveled to watch the football match in another city."
+    },
+    {
+      "id": 41,
+      "en": "I will travel next month."
+    },
+    {
+      "id": 42,
+      "en": "We will travel if you book the tickets."
+    },
+    {
+      "id": 43,
+      "en": "If you save money, I will travel with you."
+    },
+    {
+      "id": 44,
+      "en": "She will travel on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't travel without insurance."
+    },
+    {
+      "id": 46,
+      "en": "I would travel more if I had time."
+    },
+    {
+      "id": 47,
+      "en": "We would travel by train if we had a rail pass."
+    },
+    {
+      "id": 48,
+      "en": "Would you travel with us?"
+    },
+    {
+      "id": 49,
+      "en": "If we get a day off, we will travel to the coast."
+    },
+    {
+      "id": 50,
+      "en": "They will travel for work next week."
+    },
+    {
+      "id": 51,
+      "en": "You will travel faster if you pack light."
+    },
+    {
+      "id": 52,
+      "en": "I would travel in winter if the flight was cheap."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will travel by car instead of walking to the station."
+    },
+    {
+      "id": 54,
+      "en": "I will travel after the meeting."
+    },
+    {
+      "id": 55,
+      "en": "We will travel before the holiday rush."
+    },
+    {
+      "id": 56,
+      "en": "I have traveled to this city before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't traveled abroad yet."
+    },
+    {
+      "id": 58,
+      "en": "She has traveled every month since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you traveled by plane?"
+    },
+    {
+      "id": 60,
+      "en": "I need to travel tomorrow."
+    },
+    {
+      "id": 61,
+      "en": "I want to travel with less stress."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to pack his ID before he traveled."
+    },
+    {
+      "id": 63,
+      "en": "Remember to travel with a copy of the ticket."
+    },
+    {
+      "id": 64,
+      "en": "I hate to travel when I am sick."
+    },
+    {
+      "id": 65,
+      "en": "We started to travel more last year."
+    },
+    {
+      "id": 66,
+      "en": "I have to travel for work tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to travel early on Friday."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to travel without a clear hotel."
+    },
+    {
+      "id": 69,
+      "en": "I want you to travel with the group."
+    },
+    {
+      "id": 70,
+      "en": "They tried to travel on a low budget."
+    },
+    {
+      "id": 71,
+      "en": "Do you travel every month?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you travel so late?"
+    },
+    {
+      "id": 73,
+      "en": "Travel with a light bag."
+    },
+    {
+      "id": 74,
+      "en": "Don't travel without water in summer."
+    },
+    {
+      "id": 75,
+      "en": "Never travel without a phone charger."
+    },
+    {
+      "id": 76,
+      "en": "Can't you travel by train?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you traveled to the coast?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you travel with your family?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you travel last summer?"
+    },
+    {
+      "id": 80,
+      "en": "Will you travel if I pay half?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you travel for work?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to travel with a paper map?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you travel by bus for work?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you travel after the busy season?"
+    },
+    {
+      "id": 85,
+      "en": "Don't travel if you feel unsafe."
+    },
+    {
+      "id": 86,
+      "en": "I travel by bus because the car is in the shop."
+    },
+    {
+      "id": 87,
+      "en": "We traveled early, but the flight was late."
+    },
+    {
+      "id": 88,
+      "en": "When you travel, keep the ticket on your phone."
+    },
+    {
+      "id": 89,
+      "en": "If you travel light, you will save time."
+    },
+    {
+      "id": 90,
+      "en": "Although I traveled fast, I still felt tired."
+    },
+    {
+      "id": 91,
+      "en": "Before you travel, check the message on the app."
+    },
+    {
+      "id": 92,
+      "en": "After I traveled, I slept at home."
+    },
+    {
+      "id": 93,
+      "en": "Because we traveled early, we saved money."
+    },
+    {
+      "id": 94,
+      "en": "I travel for work, but I rest at home on Sunday."
+    },
+    {
+      "id": 95,
+      "en": "When he feels stress, he travels to the coast."
+    },
+    {
+      "id": 96,
+      "en": "If we travel together, we will split the cost."
+    },
+    {
+      "id": 97,
+      "en": "Although we traveled, the hotel was full."
+    },
+    {
+      "id": 98,
+      "en": "Before you send money, plan how you will travel."
+    },
+    {
+      "id": 99,
+      "en": "After we traveled to the football game, we went home tired."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you travel with insurance."
+    }
+  ]
+}

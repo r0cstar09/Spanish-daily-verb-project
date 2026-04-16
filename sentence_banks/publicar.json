@@ -1,0 +1,407 @@
+{
+  "verb": "publicar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:publicar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I publish a post every week."
+    },
+    {
+      "id": 2,
+      "en": "We publish the minutes after the meeting."
+    },
+    {
+      "id": 3,
+      "en": "He publishes football scores on his site."
+    },
+    {
+      "id": 4,
+      "en": "She publishes photos from her trips."
+    },
+    {
+      "id": 5,
+      "en": "They publish a newsletter every month."
+    },
+    {
+      "id": 6,
+      "en": "You publish clear updates when you have news."
+    },
+    {
+      "id": 7,
+      "en": "I publish my recipe blog on Sundays."
+    },
+    {
+      "id": 8,
+      "en": "We publish the team schedule on Friday."
+    },
+    {
+      "id": 9,
+      "en": "He publishes short videos about gym training."
+    },
+    {
+      "id": 10,
+      "en": "She publishes the budget on the shared drive."
+    },
+    {
+      "id": 11,
+      "en": "I publish a short guide about my city."
+    },
+    {
+      "id": 12,
+      "en": "We publish job openings on the company page."
+    },
+    {
+      "id": 13,
+      "en": "They publish a podcast every Tuesday."
+    },
+    {
+      "id": 14,
+      "en": "You publish the list before the event."
+    },
+    {
+      "id": 15,
+      "en": "I publish a photo only after I ask."
+    },
+    {
+      "id": 16,
+      "en": "He publishes travel tips for families."
+    },
+    {
+      "id": 17,
+      "en": "We publish the data in a simple table."
+    },
+    {
+      "id": 18,
+      "en": "She publishes meeting notes in the chat."
+    },
+    {
+      "id": 19,
+      "en": "I publish a review after I finish a book."
+    },
+    {
+      "id": 20,
+      "en": "They publish the match results at night."
+    },
+    {
+      "id": 21,
+      "en": "I published the article last night."
+    },
+    {
+      "id": 22,
+      "en": "We published the report yesterday."
+    },
+    {
+      "id": 23,
+      "en": "He published a video about the trip."
+    },
+    {
+      "id": 24,
+      "en": "She published her phone number by mistake."
+    },
+    {
+      "id": 25,
+      "en": "I didn't publish the draft."
+    },
+    {
+      "id": 26,
+      "en": "They published a sale price online."
+    },
+    {
+      "id": 27,
+      "en": "I was publishing a post when the app crashed."
+    },
+    {
+      "id": 28,
+      "en": "When I was new, I published every day."
+    },
+    {
+      "id": 29,
+      "en": "We published the notice because the city asked."
+    },
+    {
+      "id": 30,
+      "en": "He published the meal photo in two minutes."
+    },
+    {
+      "id": 31,
+      "en": "I published the photo with my friend's permission."
+    },
+    {
+      "id": 32,
+      "en": "She published dinner plans in the group chat."
+    },
+    {
+      "id": 33,
+      "en": "Why did you publish two versions?"
+    },
+    {
+      "id": 34,
+      "en": "We published from home on the laptop."
+    },
+    {
+      "id": 35,
+      "en": "I published a gym routine after my workout."
+    },
+    {
+      "id": 36,
+      "en": "He published the ticket link on the site."
+    },
+    {
+      "id": 37,
+      "en": "They published a simple rule for refunds."
+    },
+    {
+      "id": 38,
+      "en": "I published a day trip idea for the city."
+    },
+    {
+      "id": 39,
+      "en": "We published the money summary in the email."
+    },
+    {
+      "id": 40,
+      "en": "You published more detail than we wanted."
+    },
+    {
+      "id": 41,
+      "en": "I will publish tomorrow morning."
+    },
+    {
+      "id": 42,
+      "en": "We will publish if you approve the text."
+    },
+    {
+      "id": 43,
+      "en": "If you finish early, I will publish first."
+    },
+    {
+      "id": 44,
+      "en": "She will publish the update on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't publish without a final check."
+    },
+    {
+      "id": 46,
+      "en": "I would publish more if I had time."
+    },
+    {
+      "id": 47,
+      "en": "We would publish a warning if we saw a risk."
+    },
+    {
+      "id": 48,
+      "en": "Would you publish the date on the page?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will publish photos when we return."
+    },
+    {
+      "id": 50,
+      "en": "They will publish the news on site."
+    },
+    {
+      "id": 51,
+      "en": "You will publish better posts if you sleep."
+    },
+    {
+      "id": 52,
+      "en": "I would publish the menu if we had a final price."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will publish indoor party photos."
+    },
+    {
+      "id": 54,
+      "en": "I will publish the football recap after the match."
+    },
+    {
+      "id": 55,
+      "en": "We will publish the final numbers before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have published this article before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't published the page yet."
+    },
+    {
+      "id": 58,
+      "en": "She has published posts since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you published the file?"
+    },
+    {
+      "id": 60,
+      "en": "I need to publish the update today."
+    },
+    {
+      "id": 61,
+      "en": "I want to publish a simple note."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to publish the link."
+    },
+    {
+      "id": 63,
+      "en": "Remember to publish the agenda."
+    },
+    {
+      "id": 64,
+      "en": "I hate to publish when I am tired."
+    },
+    {
+      "id": 65,
+      "en": "We started to publish the trip blog last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to publish the post tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to publish early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to publish without proofreading."
+    },
+    {
+      "id": 69,
+      "en": "I want you to publish the summary."
+    },
+    {
+      "id": 70,
+      "en": "They tried to publish a clear update."
+    },
+    {
+      "id": 71,
+      "en": "Do you publish every week?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you publish two photos?"
+    },
+    {
+      "id": 73,
+      "en": "Publish the link before the meeting."
+    },
+    {
+      "id": 74,
+      "en": "Don't publish private messages."
+    },
+    {
+      "id": 75,
+      "en": "Never publish a password online."
+    },
+    {
+      "id": 76,
+      "en": "Can't you publish earlier?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you published the page?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you publish the results?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you publish the update?"
+    },
+    {
+      "id": 80,
+      "en": "Will you publish the list if I send it?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you publish this yesterday?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to publish early?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you publish a note before you go?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you publish the main point first?"
+    },
+    {
+      "id": 85,
+      "en": "Stop publishing and read the rules first."
+    },
+    {
+      "id": 86,
+      "en": "I publish updates because my boss asks."
+    },
+    {
+      "id": 87,
+      "en": "We published the trip post, but the flight changed."
+    },
+    {
+      "id": 88,
+      "en": "When you publish a post, check the spelling."
+    },
+    {
+      "id": 89,
+      "en": "If you publish a time, people will show up."
+    },
+    {
+      "id": 90,
+      "en": "Although I published fast, I still felt nervous."
+    },
+    {
+      "id": 91,
+      "en": "Before you post, publish the final version."
+    },
+    {
+      "id": 92,
+      "en": "After I published the budget, we moved on."
+    },
+    {
+      "id": 93,
+      "en": "Because we published early, we got more readers."
+    },
+    {
+      "id": 94,
+      "en": "I publish at work, but I stay private at home."
+    },
+    {
+      "id": 95,
+      "en": "When he publishes online, he reads the comments twice."
+    },
+    {
+      "id": 96,
+      "en": "If we publish the plan, we will save time."
+    },
+    {
+      "id": 97,
+      "en": "Although we published the change, the page broke."
+    },
+    {
+      "id": 98,
+      "en": "Before the trip, publish the hotel address in the group chat."
+    },
+    {
+      "id": 99,
+      "en": "After we published the football lineup, the fans reacted."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you publish a safe message."
+    }
+  ]
+}

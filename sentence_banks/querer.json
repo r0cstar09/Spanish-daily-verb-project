@@ -1,0 +1,407 @@
+{
+  "verb": "querer",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:querer",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I want coffee in the morning."
+    },
+    {
+      "id": 2,
+      "en": "We want a quiet weekend."
+    },
+    {
+      "id": 3,
+      "en": "He wants a new phone."
+    },
+    {
+      "id": 4,
+      "en": "She wants to leave early."
+    },
+    {
+      "id": 5,
+      "en": "They want more time."
+    },
+    {
+      "id": 6,
+      "en": "You want a clear answer."
+    },
+    {
+      "id": 7,
+      "en": "I want to stay home tonight."
+    },
+    {
+      "id": 8,
+      "en": "We want to meet at six."
+    },
+    {
+      "id": 9,
+      "en": "He wants to work from home."
+    },
+    {
+      "id": 10,
+      "en": "She wants to learn Spanish."
+    },
+    {
+      "id": 11,
+      "en": "I want a simple plan."
+    },
+    {
+      "id": 12,
+      "en": "We want the check, please."
+    },
+    {
+      "id": 13,
+      "en": "They want to travel next month."
+    },
+    {
+      "id": 14,
+      "en": "I love you."
+    },
+    {
+      "id": 15,
+      "en": "I want to call my mom."
+    },
+    {
+      "id": 16,
+      "en": "He wants to watch the football match."
+    },
+    {
+      "id": 17,
+      "en": "We want to save money."
+    },
+    {
+      "id": 18,
+      "en": "She loves her brother."
+    },
+    {
+      "id": 19,
+      "en": "She wants a salad for lunch."
+    },
+    {
+      "id": 20,
+      "en": "They want to see the city."
+    },
+    {
+      "id": 21,
+      "en": "I wanted water, but the server forgot."
+    },
+    {
+      "id": 22,
+      "en": "We wanted to leave early."
+    },
+    {
+      "id": 23,
+      "en": "He wanted a new job."
+    },
+    {
+      "id": 24,
+      "en": "She wanted to talk to you."
+    },
+    {
+      "id": 25,
+      "en": "I didn't want to argue."
+    },
+    {
+      "id": 26,
+      "en": "They wanted more details."
+    },
+    {
+      "id": 27,
+      "en": "I wanted a break when you called."
+    },
+    {
+      "id": 28,
+      "en": "When she was younger, she used to want to move abroad."
+    },
+    {
+      "id": 29,
+      "en": "We wanted to leave because it was late."
+    },
+    {
+      "id": 30,
+      "en": "He wanted to help, but he couldn't."
+    },
+    {
+      "id": 31,
+      "en": "I wanted to move to this city."
+    },
+    {
+      "id": 32,
+      "en": "She wanted soup, not salad."
+    },
+    {
+      "id": 33,
+      "en": "Why did you want to leave?"
+    },
+    {
+      "id": 34,
+      "en": "We wanted to stay friends."
+    },
+    {
+      "id": 35,
+      "en": "I wanted quiet during the meeting."
+    },
+    {
+      "id": 36,
+      "en": "The kid wanted a snack after school."
+    },
+    {
+      "id": 37,
+      "en": "They wanted cash, not a card."
+    },
+    {
+      "id": 38,
+      "en": "I wanted a day trip to the city."
+    },
+    {
+      "id": 39,
+      "en": "We wanted the money back."
+    },
+    {
+      "id": 40,
+      "en": "You wanted more than we could offer."
+    },
+    {
+      "id": 41,
+      "en": "I think I'll want to leave by five."
+    },
+    {
+      "id": 42,
+      "en": "We'll want to confirm the time if you change plans."
+    },
+    {
+      "id": 43,
+      "en": "If you arrive early, I'll want to start on time."
+    },
+    {
+      "id": 44,
+      "en": "She will want to leave early on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't want to speak without a clear agenda."
+    },
+    {
+      "id": 46,
+      "en": "I would want more time if I could."
+    },
+    {
+      "id": 47,
+      "en": "We would want a refund if the flight delays."
+    },
+    {
+      "id": 48,
+      "en": "Would you want tea or coffee?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we'll want a hotel near the center."
+    },
+    {
+      "id": 50,
+      "en": "They will want to see the numbers before Friday."
+    },
+    {
+      "id": 51,
+      "en": "You'll want to sleep if you work late."
+    },
+    {
+      "id": 52,
+      "en": "I would want soup if I had a cold."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we'll want to stay inside."
+    },
+    {
+      "id": 54,
+      "en": "I'll want to watch the football replay if I miss the live match."
+    },
+    {
+      "id": 55,
+      "en": "We'll want to book early for summer."
+    },
+    {
+      "id": 56,
+      "en": "I have wanted a dog for years."
+    },
+    {
+      "id": 57,
+      "en": "We haven't wanted to argue about money."
+    },
+    {
+      "id": 58,
+      "en": "She has wanted to quit since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you wanted to talk?"
+    },
+    {
+      "id": 60,
+      "en": "I need to rest if I want to train hard."
+    },
+    {
+      "id": 61,
+      "en": "I want to visit my parents."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to say what he wanted."
+    },
+    {
+      "id": 63,
+      "en": "Remember to ask for what you want."
+    },
+    {
+      "id": 64,
+      "en": "I hate to ask for what I want."
+    },
+    {
+      "id": 65,
+      "en": "We started to want a bigger place last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to choose what I want tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to ask for what I want at work."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to say what she wants."
+    },
+    {
+      "id": 69,
+      "en": "I want you to be honest."
+    },
+    {
+      "id": 70,
+      "en": "They tried to get what they wanted."
+    },
+    {
+      "id": 71,
+      "en": "Do you want coffee?"
+    },
+    {
+      "id": 72,
+      "en": "What do you want for dinner?"
+    },
+    {
+      "id": 73,
+      "en": "Want some water?"
+    },
+    {
+      "id": 74,
+      "en": "Don't say you want more if you don't."
+    },
+    {
+      "id": 75,
+      "en": "Never say yes when you don't want to."
+    },
+    {
+      "id": 76,
+      "en": "Don't you want something simple?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you wanted to rest?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you want to stay?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you want to go?"
+    },
+    {
+      "id": 80,
+      "en": "Will you want food if I cook?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you want to meet?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it okay to want help?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you want a quiet night?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you want to talk?"
+    },
+    {
+      "id": 85,
+      "en": "Tell me what you want."
+    },
+    {
+      "id": 86,
+      "en": "I want coffee because I am tired."
+    },
+    {
+      "id": 87,
+      "en": "We wanted to travel, but the flight changed."
+    },
+    {
+      "id": 88,
+      "en": "When you want help, ask early."
+    },
+    {
+      "id": 89,
+      "en": "If you want a seat, come early."
+    },
+    {
+      "id": 90,
+      "en": "Although I wanted to stay, I still left."
+    },
+    {
+      "id": 91,
+      "en": "Before you buy, think about what you want."
+    },
+    {
+      "id": 92,
+      "en": "After I had wanted a break for weeks, I took a day off."
+    },
+    {
+      "id": 93,
+      "en": "Because we wanted peace, we left early."
+    },
+    {
+      "id": 94,
+      "en": "I want quiet at home, but noise at the game."
+    },
+    {
+      "id": 95,
+      "en": "When he wants respect, he speaks clearly."
+    },
+    {
+      "id": 96,
+      "en": "If we want a table, we should book now."
+    },
+    {
+      "id": 97,
+      "en": "Although we wanted the same thing, we argued."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, list what you want to bring."
+    },
+    {
+      "id": 99,
+      "en": "She wants me to stay home tonight."
+    },
+    {
+      "id": 100,
+      "en": "Call me when you want."
+    }
+  ]
+}

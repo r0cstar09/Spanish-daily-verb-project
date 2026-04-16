@@ -1,0 +1,407 @@
+{
+  "verb": "soñar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:soñar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I dream every night."
+    },
+    {
+      "id": 2,
+      "en": "We dream about the beach."
+    },
+    {
+      "id": 3,
+      "en": "He dreams of a new job."
+    },
+    {
+      "id": 4,
+      "en": "She dreams about her old school."
+    },
+    {
+      "id": 5,
+      "en": "They dream of travel."
+    },
+    {
+      "id": 6,
+      "en": "You talk in your sleep when you dream."
+    },
+    {
+      "id": 7,
+      "en": "I dream about flying sometimes."
+    },
+    {
+      "id": 8,
+      "en": "We dream of a bigger house."
+    },
+    {
+      "id": 9,
+      "en": "He dreams about the football match."
+    },
+    {
+      "id": 10,
+      "en": "She dreams of moving to the city."
+    },
+    {
+      "id": 11,
+      "en": "I dream about my family."
+    },
+    {
+      "id": 12,
+      "en": "We dream in color."
+    },
+    {
+      "id": 13,
+      "en": "They dream of a quiet weekend."
+    },
+    {
+      "id": 14,
+      "en": "You dream about work when you are stressed."
+    },
+    {
+      "id": 15,
+      "en": "I dream about food before breakfast."
+    },
+    {
+      "id": 16,
+      "en": "He dreams of saving money."
+    },
+    {
+      "id": 17,
+      "en": "We dream of a simple life."
+    },
+    {
+      "id": 18,
+      "en": "She dreams about the trip."
+    },
+    {
+      "id": 19,
+      "en": "I dream about the ocean."
+    },
+    {
+      "id": 20,
+      "en": "They dream of learning Spanish."
+    },
+    {
+      "id": 21,
+      "en": "I dreamed about a storm last night."
+    },
+    {
+      "id": 22,
+      "en": "We dreamed of a road trip."
+    },
+    {
+      "id": 23,
+      "en": "He dreamed about his boss."
+    },
+    {
+      "id": 24,
+      "en": "She dreamed a strange dream."
+    },
+    {
+      "id": 25,
+      "en": "I didn't dream about anything."
+    },
+    {
+      "id": 26,
+      "en": "They dreamed of winning."
+    },
+    {
+      "id": 27,
+      "en": "I was dreaming when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a kid, I dreamed of being a football player."
+    },
+    {
+      "id": 29,
+      "en": "We dreamed about the storm because the movie was scary."
+    },
+    {
+      "id": 30,
+      "en": "He dreamed about the money."
+    },
+    {
+      "id": 31,
+      "en": "I dreamed about the airport."
+    },
+    {
+      "id": 32,
+      "en": "She dreamed about the gym."
+    },
+    {
+      "id": 33,
+      "en": "Why did you dream about that?"
+    },
+    {
+      "id": 34,
+      "en": "We dreamed about the meeting after the call."
+    },
+    {
+      "id": 35,
+      "en": "I dreamed about the city trip."
+    },
+    {
+      "id": 36,
+      "en": "He dreamed of a better day."
+    },
+    {
+      "id": 37,
+      "en": "They dreamed a simple dream."
+    },
+    {
+      "id": 38,
+      "en": "I dreamed about the train."
+    },
+    {
+      "id": 39,
+      "en": "We dreamed of a new home."
+    },
+    {
+      "id": 40,
+      "en": "You dreamed more than you said."
+    },
+    {
+      "id": 41,
+      "en": "I will dream tonight."
+    },
+    {
+      "id": 42,
+      "en": "We will dream if we sleep early."
+    },
+    {
+      "id": 43,
+      "en": "If you rest, you will dream less."
+    },
+    {
+      "id": 44,
+      "en": "She will dream about the test on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't dream well without sleep."
+    },
+    {
+      "id": 46,
+      "en": "I would dream more if I had quiet nights."
+    },
+    {
+      "id": 47,
+      "en": "We would dream of travel if we had money."
+    },
+    {
+      "id": 48,
+      "en": "Would you dream about that?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will dream about the beach."
+    },
+    {
+      "id": 50,
+      "en": "They will dream at the hotel."
+    },
+    {
+      "id": 51,
+      "en": "You will dream calmer if you turn off the phone."
+    },
+    {
+      "id": 52,
+      "en": "I would dream of a house if I had a plan."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will dream of sun."
+    },
+    {
+      "id": 54,
+      "en": "I will dream about the football final."
+    },
+    {
+      "id": 55,
+      "en": "We will dream about the move before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have dreamed this before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't dreamed about that yet."
+    },
+    {
+      "id": 58,
+      "en": "She has dreamed of the trip since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you dreamed about the job?"
+    },
+    {
+      "id": 60,
+      "en": "I need to dream less about work."
+    },
+    {
+      "id": 61,
+      "en": "I want to dream about travel."
+    },
+    {
+      "id": 62,
+      "en": "He forgot what he dreamed last night."
+    },
+    {
+      "id": 63,
+      "en": "I love to dream about the ocean."
+    },
+    {
+      "id": 64,
+      "en": "I hate to dream when I am sick."
+    },
+    {
+      "id": 65,
+      "en": "We started to dream about the move last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to dream about something nice tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to sleep early so I can dream."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to say she never dreams."
+    },
+    {
+      "id": 69,
+      "en": "I want you to dream about your goals."
+    },
+    {
+      "id": 70,
+      "en": "They tried to dream about a calm plan."
+    },
+    {
+      "id": 71,
+      "en": "Do you dream every night?"
+    },
+    {
+      "id": 72,
+      "en": "What did you dream about?"
+    },
+    {
+      "id": 73,
+      "en": "Dream about something nice."
+    },
+    {
+      "id": 74,
+      "en": "Don't dream about work in bed."
+    },
+    {
+      "id": 75,
+      "en": "Never dream about passwords you use."
+    },
+    {
+      "id": 76,
+      "en": "Can't you dream about the beach?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you dreamed about that?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you dream about the trip?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you dream you were?"
+    },
+    {
+      "id": 80,
+      "en": "Will you dream if I read to you?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you dream about the meeting?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it good to dream about goals?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you dream about food on a diet?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you dream about the weekend first?"
+    },
+    {
+      "id": 85,
+      "en": "Stop dreaming about problems at night."
+    },
+    {
+      "id": 86,
+      "en": "I dream about work because I am stressed."
+    },
+    {
+      "id": 87,
+      "en": "We dreamed about the trip, but the flight changed."
+    },
+    {
+      "id": 88,
+      "en": "When you dream, write one word down."
+    },
+    {
+      "id": 89,
+      "en": "If you dream about stress, talk to someone."
+    },
+    {
+      "id": 90,
+      "en": "Although I dreamed about the exam, I still felt calm."
+    },
+    {
+      "id": 91,
+      "en": "Before you sleep, think of something calm to dream about."
+    },
+    {
+      "id": 92,
+      "en": "After I dreamed about the money, I woke up calmer."
+    },
+    {
+      "id": 93,
+      "en": "Because we dreamed all night, we woke up tired."
+    },
+    {
+      "id": 94,
+      "en": "I dream at home, but I plan at work."
+    },
+    {
+      "id": 95,
+      "en": "When he feels stress, he dreams about running."
+    },
+    {
+      "id": 96,
+      "en": "If we dream about the goal, we will stay motivated."
+    },
+    {
+      "id": 97,
+      "en": "Although we dreamed about the house, the price was high."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, dream about the fun part."
+    },
+    {
+      "id": 99,
+      "en": "After we dreamed about the football match, we woke up happy."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you dream about something positive."
+    }
+  ]
+}

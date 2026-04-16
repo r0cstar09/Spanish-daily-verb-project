@@ -1,0 +1,407 @@
+{
+  "verb": "contar",
+  "generated_at": "2026-04-16T06:00:00+00:00",
+  "source": "sentence_banks:contar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "Tell me what happened."
+    },
+    {
+      "id": 2,
+      "en": "I tell my mom everything important."
+    },
+    {
+      "id": 3,
+      "en": "She tells the story better than I do."
+    },
+    {
+      "id": 4,
+      "en": "They tell jokes at family dinner."
+    },
+    {
+      "id": 5,
+      "en": "You tell too many details when you are nervous."
+    },
+    {
+      "id": 6,
+      "en": "We tell the kids a bedtime story."
+    },
+    {
+      "id": 7,
+      "en": "He tells the truth even when it hurts."
+    },
+    {
+      "id": 8,
+      "en": "I tell my manager about problems early."
+    },
+    {
+      "id": 9,
+      "en": "People tell stories online that are not always true."
+    },
+    {
+      "id": 10,
+      "en": "She tells me when she feels anxious."
+    },
+    {
+      "id": 11,
+      "en": "I count the money twice."
+    },
+    {
+      "id": 12,
+      "en": "We count the inventory before we order."
+    },
+    {
+      "id": 13,
+      "en": "He counts his steps every day."
+    },
+    {
+      "id": 14,
+      "en": "They count the votes by hand."
+    },
+    {
+      "id": 15,
+      "en": "You count the plates before guests arrive."
+    },
+    {
+      "id": 16,
+      "en": "I count to ten before I reply."
+    },
+    {
+      "id": 17,
+      "en": "We count calories when we train hard."
+    },
+    {
+      "id": 18,
+      "en": "The cashier counts the change."
+    },
+    {
+      "id": 19,
+      "en": "They count the tickets at the door."
+    },
+    {
+      "id": 20,
+      "en": "I count the days until the trip."
+    },
+    {
+      "id": 21,
+      "en": "I count on you to be on time."
+    },
+    {
+      "id": 22,
+      "en": "We count on that bonus."
+    },
+    {
+      "id": 23,
+      "en": "He counts on public transit when it rains."
+    },
+    {
+      "id": 24,
+      "en": "I count on my sister for honest advice."
+    },
+    {
+      "id": 25,
+      "en": "I told him yesterday."
+    },
+    {
+      "id": 26,
+      "en": "I counted three mistakes on the sheet."
+    },
+    {
+      "id": 27,
+      "en": "She told me a secret."
+    },
+    {
+      "id": 28,
+      "en": "We counted the cash twice."
+    },
+    {
+      "id": 29,
+      "en": "They told us to wait outside."
+    },
+    {
+      "id": 30,
+      "en": "I was counting money when you called."
+    },
+    {
+      "id": 31,
+      "en": "I didn't tell anyone because I promised."
+    },
+    {
+      "id": 32,
+      "en": "Why did you tell her about the money?"
+    },
+    {
+      "id": 33,
+      "en": "Although I told the truth, I still felt nervous."
+    },
+    {
+      "id": 34,
+      "en": "When I was a kid, we told ghost stories."
+    },
+    {
+      "id": 35,
+      "en": "I used to tell lies to avoid conflict."
+    },
+    {
+      "id": 36,
+      "en": "After we told the news, they cheered."
+    },
+    {
+      "id": 37,
+      "en": "Before you tell your boss, check the facts."
+    },
+    {
+      "id": 38,
+      "en": "We told the truth, but it still made things awkward."
+    },
+    {
+      "id": 39,
+      "en": "He told the story in the wrong order."
+    },
+    {
+      "id": 40,
+      "en": "We never told our parents about the trip."
+    },
+    {
+      "id": 41,
+      "en": "She told me the plan in person."
+    },
+    {
+      "id": 42,
+      "en": "I will tell you tomorrow."
+    },
+    {
+      "id": 43,
+      "en": "We'll count the votes if there is a tie."
+    },
+    {
+      "id": 44,
+      "en": "If you ask, I will tell you everything."
+    },
+    {
+      "id": 45,
+      "en": "They will count the tickets at the door."
+    },
+    {
+      "id": 46,
+      "en": "I am going to tell my partner tonight."
+    },
+    {
+      "id": 47,
+      "en": "We could tell the truth if we were brave."
+    },
+    {
+      "id": 48,
+      "en": "I would count the cash again if I were unsure."
+    },
+    {
+      "id": 49,
+      "en": "If we are honest, we will tell fewer half-truths."
+    },
+    {
+      "id": 50,
+      "en": "Tomorrow she will tell the story at the party."
+    },
+    {
+      "id": 51,
+      "en": "He will count the inventory before we open."
+    },
+    {
+      "id": 52,
+      "en": "We would tell people earlier if we had more time."
+    },
+    {
+      "id": 53,
+      "en": "If you are late, we will tell the host without you."
+    },
+    {
+      "id": 54,
+      "en": "They will tell the news at the family dinner."
+    },
+    {
+      "id": 55,
+      "en": "We will count the seats before we leave."
+    },
+    {
+      "id": 56,
+      "en": "I will tell you when I am ready."
+    },
+    {
+      "id": 57,
+      "en": "I have told you three times."
+    },
+    {
+      "id": 58,
+      "en": "We haven't counted the change yet."
+    },
+    {
+      "id": 59,
+      "en": "I've told that story too many times."
+    },
+    {
+      "id": 60,
+      "en": "After telling you, I felt lighter."
+    },
+    {
+      "id": 61,
+      "en": "Before you count the money, wash your hands."
+    },
+    {
+      "id": 62,
+      "en": "I want to tell you something important."
+    },
+    {
+      "id": 63,
+      "en": "We need to count the stock before Friday."
+    },
+    {
+      "id": 64,
+      "en": "Don't tell anyone without asking me first."
+    },
+    {
+      "id": 65,
+      "en": "Let's count the reps before we add weight."
+    },
+    {
+      "id": 66,
+      "en": "I forgot to tell the team about the change."
+    },
+    {
+      "id": 67,
+      "en": "To tell the truth, I was scared."
+    },
+    {
+      "id": 68,
+      "en": "Stop telling me what I already know."
+    },
+    {
+      "id": 69,
+      "en": "I haven't told my boss yet."
+    },
+    {
+      "id": 70,
+      "en": "We haven't counted the donations yet."
+    },
+    {
+      "id": 71,
+      "en": "It's time to tell everyone the honest update."
+    },
+    {
+      "id": 72,
+      "en": "Do you tell your family everything?"
+    },
+    {
+      "id": 73,
+      "en": "Did you count the envelopes?"
+    },
+    {
+      "id": 74,
+      "en": "When will you tell us?"
+    },
+    {
+      "id": 75,
+      "en": "How many did you count?"
+    },
+    {
+      "id": 76,
+      "en": "Don't tell me that."
+    },
+    {
+      "id": 77,
+      "en": "We can't tell until we sign."
+    },
+    {
+      "id": 78,
+      "en": "I don't tell strangers my address."
+    },
+    {
+      "id": 79,
+      "en": "Why won't you tell me the truth?"
+    },
+    {
+      "id": 80,
+      "en": "Tell me the truth."
+    },
+    {
+      "id": 81,
+      "en": "Never tell a secret in a loud voice."
+    },
+    {
+      "id": 82,
+      "en": "Can you tell me clearly?"
+    },
+    {
+      "id": 83,
+      "en": "I won't tell until I see proof."
+    },
+    {
+      "id": 84,
+      "en": "We don't tell jokes during serious meetings."
+    },
+    {
+      "id": 85,
+      "en": "Are you going to tell her?"
+    },
+    {
+      "id": 86,
+      "en": "Could you tell me earlier next time?"
+    },
+    {
+      "id": 87,
+      "en": "When we travel, we count the bags before we leave."
+    },
+    {
+      "id": 88,
+      "en": "Because we were tired, we told only the short version."
+    },
+    {
+      "id": 89,
+      "en": "If you count on me, I will show up."
+    },
+    {
+      "id": 90,
+      "en": "Although we told the truth, they still doubted."
+    },
+    {
+      "id": 91,
+      "en": "Before we spend, we count what we have saved."
+    },
+    {
+      "id": 92,
+      "en": "After we counted the votes, we announced the winner."
+    },
+    {
+      "id": 93,
+      "en": "We told the truth, but the money was still missing."
+    },
+    {
+      "id": 94,
+      "en": "When the match ends, we count the points."
+    },
+    {
+      "id": 95,
+      "en": "If you tell me early, I can help."
+    },
+    {
+      "id": 96,
+      "en": "We should count the bills before we argue about money."
+    },
+    {
+      "id": 97,
+      "en": "She tells stories at dinner, but she never counts calories."
+    },
+    {
+      "id": 98,
+      "en": "Because I was shy, I didn't tell many people."
+    },
+    {
+      "id": 99,
+      "en": "After we told the news, we ordered food."
+    },
+    {
+      "id": 100,
+      "en": "When we count on family, we feel less alone."
+    }
+  ]
+}

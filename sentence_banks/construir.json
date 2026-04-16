@@ -1,0 +1,407 @@
+{
+  "verb": "construir",
+  "generated_at": "2026-04-16T05:00:00+00:00",
+  "source": "sentence_banks:construir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "They build houses on that street."
+    },
+    {
+      "id": 2,
+      "en": "We are building a deck this summer."
+    },
+    {
+      "id": 3,
+      "en": "I build websites for small businesses."
+    },
+    {
+      "id": 4,
+      "en": "He builds furniture from kits."
+    },
+    {
+      "id": 5,
+      "en": "The city builds new bike lanes every year."
+    },
+    {
+      "id": 6,
+      "en": "She builds trust slowly with clients."
+    },
+    {
+      "id": 7,
+      "en": "You build a habit by repeating small steps."
+    },
+    {
+      "id": 8,
+      "en": "We build a budget before we spend."
+    },
+    {
+      "id": 9,
+      "en": "They build the stadium downtown."
+    },
+    {
+      "id": 10,
+      "en": "I build spreadsheets before I talk to the bank."
+    },
+    {
+      "id": 11,
+      "en": "He builds a strong case with clean facts."
+    },
+    {
+      "id": 12,
+      "en": "We build a team before the busy season."
+    },
+    {
+      "id": 13,
+      "en": "The company builds tools for remote work."
+    },
+    {
+      "id": 14,
+      "en": "I build a routine around my morning walk."
+    },
+    {
+      "id": 15,
+      "en": "People build savings when they automate transfers."
+    },
+    {
+      "id": 16,
+      "en": "She builds confidence by practicing public speaking."
+    },
+    {
+      "id": 17,
+      "en": "We build a fence around the yard."
+    },
+    {
+      "id": 18,
+      "en": "They build new apartments on empty lots."
+    },
+    {
+      "id": 19,
+      "en": "I build a simple site for my portfolio."
+    },
+    {
+      "id": 20,
+      "en": "You build relationships with small kind gestures."
+    },
+    {
+      "id": 21,
+      "en": "We built the shelves last weekend."
+    },
+    {
+      "id": 22,
+      "en": "I built a shed in the backyard."
+    },
+    {
+      "id": 23,
+      "en": "They built a new school near the park."
+    },
+    {
+      "id": 24,
+      "en": "He built his career from scratch."
+    },
+    {
+      "id": 25,
+      "en": "I was building the model when I glued the wrong part."
+    },
+    {
+      "id": 26,
+      "en": "We built trust after one honest conversation."
+    },
+    {
+      "id": 27,
+      "en": "She built a small business online."
+    },
+    {
+      "id": 28,
+      "en": "I didn't build the wall straight."
+    },
+    {
+      "id": 29,
+      "en": "Why did you build it so close to the tree?"
+    },
+    {
+      "id": 30,
+      "en": "Although it was expensive, we built the addition."
+    },
+    {
+      "id": 31,
+      "en": "When I was younger, I built computers for friends."
+    },
+    {
+      "id": 32,
+      "en": "I used to build sandcastles with my kids."
+    },
+    {
+      "id": 33,
+      "en": "After we built the frame, we checked the level."
+    },
+    {
+      "id": 34,
+      "en": "Before we built the deck, we asked the city."
+    },
+    {
+      "id": 35,
+      "en": "We built a savings buffer before we traveled."
+    },
+    {
+      "id": 36,
+      "en": "The team built a prototype in two weeks."
+    },
+    {
+      "id": 37,
+      "en": "We never built anything this big before."
+    },
+    {
+      "id": 38,
+      "en": "He built a list of references before the interview."
+    },
+    {
+      "id": 39,
+      "en": "They built the bridge after the flood."
+    },
+    {
+      "id": 40,
+      "en": "I built the team roster from scratch."
+    },
+    {
+      "id": 41,
+      "en": "We will build the wall next month."
+    },
+    {
+      "id": 42,
+      "en": "I'll build the landing page if you send the copy."
+    },
+    {
+      "id": 43,
+      "en": "If you save, we will build a bigger emergency fund."
+    },
+    {
+      "id": 44,
+      "en": "They will build the hotel by next year."
+    },
+    {
+      "id": 45,
+      "en": "I am going to build a raised bed for vegetables."
+    },
+    {
+      "id": 46,
+      "en": "We could build a patio if we get the permit."
+    },
+    {
+      "id": 47,
+      "en": "I would build smaller if I started again."
+    },
+    {
+      "id": 48,
+      "en": "If we agree, we will build the feature next sprint."
+    },
+    {
+      "id": 49,
+      "en": "Tomorrow we will build the first wall of the shed."
+    },
+    {
+      "id": 50,
+      "en": "He will build the garden wall after the delivery arrives."
+    },
+    {
+      "id": 51,
+      "en": "We would build trust faster if we met weekly."
+    },
+    {
+      "id": 52,
+      "en": "If it rains, we will build the roof first."
+    },
+    {
+      "id": 53,
+      "en": "They will build the app for iOS first."
+    },
+    {
+      "id": 54,
+      "en": "We will build the schedule after we know the dates."
+    },
+    {
+      "id": 55,
+      "en": "I will build a routine if I stop quitting on day two."
+    },
+    {
+      "id": 56,
+      "en": "I have built three websites this year."
+    },
+    {
+      "id": 57,
+      "en": "We haven't built the garage yet."
+    },
+    {
+      "id": 58,
+      "en": "I've built a habit of tracking spending."
+    },
+    {
+      "id": 59,
+      "en": "After building the base, we painted the walls."
+    },
+    {
+      "id": 60,
+      "en": "Before you build, check the property line."
+    },
+    {
+      "id": 61,
+      "en": "I want to build a clearer plan for the trip."
+    },
+    {
+      "id": 62,
+      "en": "We need to build trust before we negotiate."
+    },
+    {
+      "id": 63,
+      "en": "Don't build on wet concrete."
+    },
+    {
+      "id": 64,
+      "en": "Let's build a simple plan together."
+    },
+    {
+      "id": 65,
+      "en": "I forgot to build a break into the schedule."
+    },
+    {
+      "id": 66,
+      "en": "To build strength, you need consistent training."
+    },
+    {
+      "id": 67,
+      "en": "Stop building excuses and start the work."
+    },
+    {
+      "id": 68,
+      "en": "I haven't built a shelf before."
+    },
+    {
+      "id": 69,
+      "en": "We haven't built the case for the refund yet."
+    },
+    {
+      "id": 70,
+      "en": "It's time to build the next version."
+    },
+    {
+      "id": 71,
+      "en": "Do you build projects alone?"
+    },
+    {
+      "id": 72,
+      "en": "Did you build this yourself?"
+    },
+    {
+      "id": 73,
+      "en": "When will they build the new road?"
+    },
+    {
+      "id": 74,
+      "en": "Where did you learn to build tables?"
+    },
+    {
+      "id": 75,
+      "en": "Don't build your life around other people's opinions."
+    },
+    {
+      "id": 76,
+      "en": "We can't build until the permit arrives."
+    },
+    {
+      "id": 77,
+      "en": "I don't build on weekends anymore."
+    },
+    {
+      "id": 78,
+      "en": "Why won't you build a small emergency fund first?"
+    },
+    {
+      "id": 79,
+      "en": "Build the wall level first."
+    },
+    {
+      "id": 80,
+      "en": "Never build on a bad foundation."
+    },
+    {
+      "id": 81,
+      "en": "Can we build a shared calendar?"
+    },
+    {
+      "id": 82,
+      "en": "I won't build until we sign the contract."
+    },
+    {
+      "id": 83,
+      "en": "We don't build fast—we build carefully."
+    },
+    {
+      "id": 84,
+      "en": "Are you going to build the shelves?"
+    },
+    {
+      "id": 85,
+      "en": "Could you build a simple form for the team?"
+    },
+    {
+      "id": 86,
+      "en": "When we travel, we love cities that build public transit."
+    },
+    {
+      "id": 87,
+      "en": "Because we were tired, we built only a small bookcase."
+    },
+    {
+      "id": 88,
+      "en": "If you build trust, the team works faster."
+    },
+    {
+      "id": 89,
+      "en": "Although we built the MVP, we still needed more users."
+    },
+    {
+      "id": 90,
+      "en": "Before we build, let's compare the quotes."
+    },
+    {
+      "id": 91,
+      "en": "After we built the savings, we felt calmer."
+    },
+    {
+      "id": 92,
+      "en": "We built the deck, but we still need to stain it."
+    },
+    {
+      "id": 93,
+      "en": "When the season ends, we build the roster for next year."
+    },
+    {
+      "id": 94,
+      "en": "If you build clear rules, kids feel safer."
+    },
+    {
+      "id": 95,
+      "en": "We should build a buffer before we argue about money."
+    },
+    {
+      "id": 96,
+      "en": "She builds slowly, but she builds solid work."
+    },
+    {
+      "id": 97,
+      "en": "Because I was busy, I built only a tiny prototype."
+    },
+    {
+      "id": 98,
+      "en": "After we built the feature, we watched the metrics."
+    },
+    {
+      "id": 99,
+      "en": "When we build together, we review the plan first."
+    },
+    {
+      "id": 100,
+      "en": "Let's start building this weekend and split the tasks."
+    }
+  ]
+}

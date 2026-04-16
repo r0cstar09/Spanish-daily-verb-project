@@ -1,0 +1,407 @@
+{
+  "verb": "ser",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:ser",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I am a teacher."
+    },
+    {
+      "id": 2,
+      "en": "We are friends."
+    },
+    {
+      "id": 3,
+      "en": "He is from this city."
+    },
+    {
+      "id": 4,
+      "en": "She is my sister."
+    },
+    {
+      "id": 5,
+      "en": "They are nurses."
+    },
+    {
+      "id": 6,
+      "en": "You are the manager on duty today."
+    },
+    {
+      "id": 7,
+      "en": "It is three o'clock."
+    },
+    {
+      "id": 8,
+      "en": "Today is Monday."
+    },
+    {
+      "id": 9,
+      "en": "The meeting is at ten."
+    },
+    {
+      "id": 10,
+      "en": "The key is metal."
+    },
+    {
+      "id": 11,
+      "en": "The problem is simple."
+    },
+    {
+      "id": 12,
+      "en": "The total is thirty dollars."
+    },
+    {
+      "id": 13,
+      "en": "I am Colombian."
+    },
+    {
+      "id": 14,
+      "en": "He is tall."
+    },
+    {
+      "id": 15,
+      "en": "She is very kind."
+    },
+    {
+      "id": 16,
+      "en": "This is my house."
+    },
+    {
+      "id": 17,
+      "en": "That is the train station."
+    },
+    {
+      "id": 18,
+      "en": "The game is on Saturday."
+    },
+    {
+      "id": 19,
+      "en": "The job is part-time."
+    },
+    {
+      "id": 20,
+      "en": "The answer is on page five."
+    },
+    {
+      "id": 21,
+      "en": "I was a student."
+    },
+    {
+      "id": 22,
+      "en": "It was a good day."
+    },
+    {
+      "id": 23,
+      "en": "He was the coach."
+    },
+    {
+      "id": 24,
+      "en": "She was from a small town."
+    },
+    {
+      "id": 25,
+      "en": "I wasn't the one who called."
+    },
+    {
+      "id": 26,
+      "en": "They were the owners."
+    },
+    {
+      "id": 27,
+      "en": "It was noon when we met."
+    },
+    {
+      "id": 28,
+      "en": "When I was a kid, I was shy."
+    },
+    {
+      "id": 29,
+      "en": "We were friends because we worked together."
+    },
+    {
+      "id": 30,
+      "en": "He was the only option."
+    },
+    {
+      "id": 31,
+      "en": "I was the last one in line."
+    },
+    {
+      "id": 32,
+      "en": "She was right about the money."
+    },
+    {
+      "id": 33,
+      "en": "Why was it so expensive?"
+    },
+    {
+      "id": 34,
+      "en": "We were classmates."
+    },
+    {
+      "id": 35,
+      "en": "The appointment was at nine."
+    },
+    {
+      "id": 36,
+      "en": "He was wrong about the date."
+    },
+    {
+      "id": 37,
+      "en": "They were the winners."
+    },
+    {
+      "id": 38,
+      "en": "I was the one who sent the email."
+    },
+    {
+      "id": 39,
+      "en": "We were the first group."
+    },
+    {
+      "id": 40,
+      "en": "You were the best choice."
+    },
+    {
+      "id": 41,
+      "en": "I will be there."
+    },
+    {
+      "id": 42,
+      "en": "It will be fine."
+    },
+    {
+      "id": 43,
+      "en": "If you come, it will be fun."
+    },
+    {
+      "id": 44,
+      "en": "She will be the lead on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't be the boss forever."
+    },
+    {
+      "id": 46,
+      "en": "I would be happy if I had more time."
+    },
+    {
+      "id": 47,
+      "en": "We would be late if the train were delayed."
+    },
+    {
+      "id": 48,
+      "en": "Would you be free tonight?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, it will be a long day."
+    },
+    {
+      "id": 50,
+      "en": "They will be here at noon."
+    },
+    {
+      "id": 51,
+      "en": "You will be the guide if you know the city."
+    },
+    {
+      "id": 52,
+      "en": "I would be lost without the map."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, it will be a mess."
+    },
+    {
+      "id": 54,
+      "en": "The football final will be on Sunday."
+    },
+    {
+      "id": 55,
+      "en": "We will be ready before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have been a parent for ten years."
+    },
+    {
+      "id": 57,
+      "en": "We haven't been friends for long."
+    },
+    {
+      "id": 58,
+      "en": "She has been the leader since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you been the owner before?"
+    },
+    {
+      "id": 60,
+      "en": "I need to be honest today."
+    },
+    {
+      "id": 61,
+      "en": "I want to be fair."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to be on time."
+    },
+    {
+      "id": 63,
+      "en": "Remember to be kind."
+    },
+    {
+      "id": 64,
+      "en": "I hate to be the last one to leave."
+    },
+    {
+      "id": 65,
+      "en": "We started to be partners last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to be the first to arrive."
+    },
+    {
+      "id": 67,
+      "en": "I plan to be early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to be rude."
+    },
+    {
+      "id": 69,
+      "en": "I want you to be safe."
+    },
+    {
+      "id": 70,
+      "en": "They tried to be fair."
+    },
+    {
+      "id": 71,
+      "en": "Are you the owner?"
+    },
+    {
+      "id": 72,
+      "en": "Who was the last speaker?"
+    },
+    {
+      "id": 73,
+      "en": "Be honest with me."
+    },
+    {
+      "id": 74,
+      "en": "Don't be the person who lies."
+    },
+    {
+      "id": 75,
+      "en": "Never be rude to the staff."
+    },
+    {
+      "id": 76,
+      "en": "Can't you be on time?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you been the coach before?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you be there?"
+    },
+    {
+      "id": 79,
+      "en": "Where was the meeting?"
+    },
+    {
+      "id": 80,
+      "en": "Will you be free if I call?"
+    },
+    {
+      "id": 81,
+      "en": "Weren't you the one from the email?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it good to be early?"
+    },
+    {
+      "id": 83,
+      "en": "Aren't you the neighbor from upstairs?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you be the one who speaks first?"
+    },
+    {
+      "id": 85,
+      "en": "Be the person you say you are."
+    },
+    {
+      "id": 86,
+      "en": "The job is hard because the rules are strict."
+    },
+    {
+      "id": 87,
+      "en": "The plan was good, but the money was tight."
+    },
+    {
+      "id": 88,
+      "en": "When it is Monday, traffic is worse."
+    },
+    {
+      "id": 89,
+      "en": "If it is true, we will act."
+    },
+    {
+      "id": 90,
+      "en": "Although it was late, the train was on time."
+    },
+    {
+      "id": 91,
+      "en": "Before you pay, check what the total is."
+    },
+    {
+      "id": 92,
+      "en": "After it was over, the room was quiet."
+    },
+    {
+      "id": 93,
+      "en": "Because it was early, we got a table."
+    },
+    {
+      "id": 94,
+      "en": "Work is busy, but home is quiet."
+    },
+    {
+      "id": 95,
+      "en": "When the problem is time, the fix is a plan."
+    },
+    {
+      "id": 96,
+      "en": "If the price is low, it is a deal."
+    },
+    {
+      "id": 97,
+      "en": "Although it was far, the trip was worth it."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, check what day it is."
+    },
+    {
+      "id": 99,
+      "en": "After it was the football final, the city was loud."
+    },
+    {
+      "id": 100,
+      "en": "It's important that it be true."
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "verb": "servir",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:servir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I serve dinner at seven."
+    },
+    {
+      "id": 2,
+      "en": "We serve coffee in the morning."
+    },
+    {
+      "id": 3,
+      "en": "He serves drinks at the bar."
+    },
+    {
+      "id": 4,
+      "en": "She serves customers at the counter."
+    },
+    {
+      "id": 5,
+      "en": "They serve lunch until three."
+    },
+    {
+      "id": 6,
+      "en": "You serve too fast when you are nervous."
+    },
+    {
+      "id": 7,
+      "en": "I serve salad with the meal."
+    },
+    {
+      "id": 8,
+      "en": "We serve the community on weekends."
+    },
+    {
+      "id": 9,
+      "en": "He serves first in the tennis match."
+    },
+    {
+      "id": 10,
+      "en": "She serves soup on cold days."
+    },
+    {
+      "id": 11,
+      "en": "This soup serves four people."
+    },
+    {
+      "id": 12,
+      "en": "We serve the food at the table."
+    },
+    {
+      "id": 13,
+      "en": "They serve breakfast all day."
+    },
+    {
+      "id": 14,
+      "en": "You serve the check at the end."
+    },
+    {
+      "id": 15,
+      "en": "I serve water at room temperature."
+    },
+    {
+      "id": 16,
+      "en": "He serves the football club as a volunteer."
+    },
+    {
+      "id": 17,
+      "en": "We serve a simple menu."
+    },
+    {
+      "id": 18,
+      "en": "She serves people at the front desk."
+    },
+    {
+      "id": 19,
+      "en": "I serve the meal in bowls."
+    },
+    {
+      "id": 20,
+      "en": "This pan serves six if you stretch it."
+    },
+    {
+      "id": 21,
+      "en": "I served dinner last night."
+    },
+    {
+      "id": 22,
+      "en": "We served coffee yesterday."
+    },
+    {
+      "id": 23,
+      "en": "He served drinks during the party."
+    },
+    {
+      "id": 24,
+      "en": "She served the group at the airport."
+    },
+    {
+      "id": 25,
+      "en": "I didn't serve dessert."
+    },
+    {
+      "id": 26,
+      "en": "They served lunch on the patio."
+    },
+    {
+      "id": 27,
+      "en": "I was serving tables when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I served food at a café."
+    },
+    {
+      "id": 29,
+      "en": "We served early because the kitchen was hot."
+    },
+    {
+      "id": 30,
+      "en": "He served the ball into the net."
+    },
+    {
+      "id": 31,
+      "en": "I served water to the table."
+    },
+    {
+      "id": 32,
+      "en": "She served the meeting snacks."
+    },
+    {
+      "id": 33,
+      "en": "Why did you serve cold food?"
+    },
+    {
+      "id": 34,
+      "en": "We served from the kitchen window."
+    },
+    {
+      "id": 35,
+      "en": "I served the gym team at the event."
+    },
+    {
+      "id": 36,
+      "en": "He served the travel group at the hotel."
+    },
+    {
+      "id": 37,
+      "en": "They served snacks during the break."
+    },
+    {
+      "id": 38,
+      "en": "I served snacks on the trip."
+    },
+    {
+      "id": 39,
+      "en": "We served the forms at the counter."
+    },
+    {
+      "id": 40,
+      "en": "You served more plates than we needed."
+    },
+    {
+      "id": 41,
+      "en": "I will serve dinner tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will serve if you set the table."
+    },
+    {
+      "id": 43,
+      "en": "If you arrive early, I will serve first."
+    },
+    {
+      "id": 44,
+      "en": "She will serve the shift on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't serve without gloves."
+    },
+    {
+      "id": 46,
+      "en": "I would serve more if I had help."
+    },
+    {
+      "id": 47,
+      "en": "We would serve brunch if we had eggs."
+    },
+    {
+      "id": 48,
+      "en": "Would you serve the wine?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will serve snacks on the train."
+    },
+    {
+      "id": 50,
+      "en": "They will serve food on site."
+    },
+    {
+      "id": 51,
+      "en": "You will serve calmer if you breathe first."
+    },
+    {
+      "id": 52,
+      "en": "This old plan doesn't serve us anymore."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will serve inside."
+    },
+    {
+      "id": 54,
+      "en": "I will serve at the football party on Saturday."
+    },
+    {
+      "id": 55,
+      "en": "We will serve before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have served this menu before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't served dessert yet."
+    },
+    {
+      "id": 58,
+      "en": "She has served since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you served the drinks?"
+    },
+    {
+      "id": 60,
+      "en": "I need to serve lunch today."
+    },
+    {
+      "id": 61,
+      "en": "I want to serve a simple meal."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to serve the bread."
+    },
+    {
+      "id": 63,
+      "en": "Remember to serve water first."
+    },
+    {
+      "id": 64,
+      "en": "I hate to serve when I am tired."
+    },
+    {
+      "id": 65,
+      "en": "We started to serve brunch last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to serve the night shift tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to serve early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to serve without a hairnet."
+    },
+    {
+      "id": 69,
+      "en": "I want you to serve the drinks."
+    },
+    {
+      "id": 70,
+      "en": "They tried to serve everyone on time."
+    },
+    {
+      "id": 71,
+      "en": "Do you serve every day?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you serve two plates?"
+    },
+    {
+      "id": 73,
+      "en": "Serve the soup first."
+    },
+    {
+      "id": 74,
+      "en": "Don't serve food with dirty hands."
+    },
+    {
+      "id": 75,
+      "en": "Never serve a drink you didn't pour."
+    },
+    {
+      "id": 76,
+      "en": "Can't you serve faster?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you served the table?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you serve the group?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you serve the meal?"
+    },
+    {
+      "id": 80,
+      "en": "Will you serve if I cook?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you serve snacks at the meeting?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to serve early?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you serve water before the wine?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you serve the first course?"
+    },
+    {
+      "id": 85,
+      "en": "Stop serving until everyone sits."
+    },
+    {
+      "id": 86,
+      "en": "I serve dinner because my family asks."
+    },
+    {
+      "id": 87,
+      "en": "We served the trip meal, but the flight changed."
+    },
+    {
+      "id": 88,
+      "en": "When you serve hot food, warn people first."
+    },
+    {
+      "id": 89,
+      "en": "If you serve on time, people relax."
+    },
+    {
+      "id": 90,
+      "en": "Although I served fast, I still felt nervous."
+    },
+    {
+      "id": 91,
+      "en": "Before you buy, ask if the price serves your plan."
+    },
+    {
+      "id": 92,
+      "en": "After I served the meal, I felt calmer."
+    },
+    {
+      "id": 93,
+      "en": "Because we served early, we left on time."
+    },
+    {
+      "id": 94,
+      "en": "I serve at work, but I rest at home."
+    },
+    {
+      "id": 95,
+      "en": "When he feels stress, he serves with a smile anyway."
+    },
+    {
+      "id": 96,
+      "en": "If the tool serves the job, keep it."
+    },
+    {
+      "id": 97,
+      "en": "Although we served the tables, the line was still long."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, pack food that will serve the whole day."
+    },
+    {
+      "id": 99,
+      "en": "After we served at the football stand, we went home tired."
+    },
+    {
+      "id": 100,
+      "en": "It's important that the tool serve a real need."
+    }
+  ]
+}

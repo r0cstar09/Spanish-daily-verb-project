@@ -1,0 +1,407 @@
+{
+  "verb": "firmar",
+  "generated_at": "2026-04-15T22:00:00+00:00",
+  "source": "sentence_banks:firmar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I sign the form at the front desk."
+    },
+    {
+      "id": 2,
+      "en": "We sign the lease today."
+    },
+    {
+      "id": 3,
+      "en": "She signs every page in order."
+    },
+    {
+      "id": 4,
+      "en": "They sign the contract in the office."
+    },
+    {
+      "id": 5,
+      "en": "You sign here and here."
+    },
+    {
+      "id": 6,
+      "en": "He signs the checks for the business."
+    },
+    {
+      "id": 7,
+      "en": "The lawyer signs last."
+    },
+    {
+      "id": 8,
+      "en": "I sign for packages when I'm home."
+    },
+    {
+      "id": 9,
+      "en": "We sign the waiver before we start."
+    },
+    {
+      "id": 10,
+      "en": "The coach signs the roster."
+    },
+    {
+      "id": 11,
+      "en": "I sign the permission slip for the trip."
+    },
+    {
+      "id": 12,
+      "en": "They sign the papers at the bank before lunch."
+    },
+    {
+      "id": 13,
+      "en": "She signs with a blue pen."
+    },
+    {
+      "id": 14,
+      "en": "We sign the receipt at the cafe."
+    },
+    {
+      "id": 15,
+      "en": "He signs the offer letter."
+    },
+    {
+      "id": 16,
+      "en": "I sign the gym waiver every year."
+    },
+    {
+      "id": 17,
+      "en": "The agent signs the papers."
+    },
+    {
+      "id": 18,
+      "en": "We sign the booking form online."
+    },
+    {
+      "id": 19,
+      "en": "I sign the delivery slip."
+    },
+    {
+      "id": 20,
+      "en": "The player signs for fans after the game."
+    },
+    {
+      "id": 21,
+      "en": "I signed yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We signed the lease last month."
+    },
+    {
+      "id": 23,
+      "en": "He signed without reading."
+    },
+    {
+      "id": 24,
+      "en": "I didn't sign the form."
+    },
+    {
+      "id": 25,
+      "en": "I was signing when you called."
+    },
+    {
+      "id": 26,
+      "en": "They signed the contract in the morning."
+    },
+    {
+      "id": 27,
+      "en": "Why did you sign so fast?"
+    },
+    {
+      "id": 28,
+      "en": "Although I signed, I still had doubts."
+    },
+    {
+      "id": 29,
+      "en": "When I was in college, I signed every form they sent."
+    },
+    {
+      "id": 30,
+      "en": "After we signed, we got the keys."
+    },
+    {
+      "id": 31,
+      "en": "Before she signed, she read the fine print."
+    },
+    {
+      "id": 32,
+      "en": "I signed the receipt because I had to."
+    },
+    {
+      "id": 33,
+      "en": "I signed the lease, but I still worry about the rent."
+    },
+    {
+      "id": 34,
+      "en": "The club signed the player last week."
+    },
+    {
+      "id": 35,
+      "en": "We signed the offer at the hotel."
+    },
+    {
+      "id": 36,
+      "en": "I never signed that agreement."
+    },
+    {
+      "id": 37,
+      "en": "She signed the waiver in pencil by mistake."
+    },
+    {
+      "id": 38,
+      "en": "The company signed the deal after the meeting."
+    },
+    {
+      "id": 39,
+      "en": "I signed for the package at the door."
+    },
+    {
+      "id": 40,
+      "en": "They signed the petition downtown."
+    },
+    {
+      "id": 41,
+      "en": "I will sign tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "If the price is right, I will sign."
+    },
+    {
+      "id": 43,
+      "en": "We won't sign until we read everything."
+    },
+    {
+      "id": 44,
+      "en": "Would you sign if they lowered the fee?"
+    },
+    {
+      "id": 45,
+      "en": "She will sign the offer next week."
+    },
+    {
+      "id": 46,
+      "en": "If we agree, we will sign today."
+    },
+    {
+      "id": 47,
+      "en": "I would sign the contract if the dates worked."
+    },
+    {
+      "id": 48,
+      "en": "They will sign the papers after the lawyer checks them."
+    },
+    {
+      "id": 49,
+      "en": "I'm going to sign the form after lunch."
+    },
+    {
+      "id": 50,
+      "en": "The team will sign the star player soon."
+    },
+    {
+      "id": 51,
+      "en": "If you don't read, you shouldn't sign."
+    },
+    {
+      "id": 52,
+      "en": "We would sign sooner if the paperwork were ready."
+    },
+    {
+      "id": 53,
+      "en": "I will sign the document once I trust it."
+    },
+    {
+      "id": 54,
+      "en": "He won't sign the renewal unless he saves money."
+    },
+    {
+      "id": 55,
+      "en": "The club will sign the coach before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have signed the form already."
+    },
+    {
+      "id": 57,
+      "en": "We haven't signed the lease yet."
+    },
+    {
+      "id": 58,
+      "en": "I've signed the receipt, but I didn't check the total."
+    },
+    {
+      "id": 59,
+      "en": "I need to sign the paperwork."
+    },
+    {
+      "id": 60,
+      "en": "She forgot to sign the back of the card."
+    },
+    {
+      "id": 61,
+      "en": "To sign, you need a valid ID."
+    },
+    {
+      "id": 62,
+      "en": "I want to sign the deal today."
+    },
+    {
+      "id": 63,
+      "en": "Don't sign without reading."
+    },
+    {
+      "id": 64,
+      "en": "I have to sign before five."
+    },
+    {
+      "id": 65,
+      "en": "We have signed the papers in duplicate."
+    },
+    {
+      "id": 66,
+      "en": "I forgot to sign the check."
+    },
+    {
+      "id": 67,
+      "en": "They have signed every line."
+    },
+    {
+      "id": 68,
+      "en": "I meant to sign the approval email."
+    },
+    {
+      "id": 69,
+      "en": "We haven't had time to sign."
+    },
+    {
+      "id": 70,
+      "en": "I want you to sign here."
+    },
+    {
+      "id": 71,
+      "en": "Did you sign?"
+    },
+    {
+      "id": 72,
+      "en": "Why won't you sign?"
+    },
+    {
+      "id": 73,
+      "en": "Don't sign there."
+    },
+    {
+      "id": 74,
+      "en": "Sign here, please."
+    },
+    {
+      "id": 75,
+      "en": "Haven't you signed yet?"
+    },
+    {
+      "id": 76,
+      "en": "Won't you sign the form?"
+    },
+    {
+      "id": 77,
+      "en": "Can you sign for me?"
+    },
+    {
+      "id": 78,
+      "en": "Why didn't you sign yesterday?"
+    },
+    {
+      "id": 79,
+      "en": "Don't sign the blank page."
+    },
+    {
+      "id": 80,
+      "en": "Never sign without your ID."
+    },
+    {
+      "id": 81,
+      "en": "Don't you sign leases online?"
+    },
+    {
+      "id": 82,
+      "en": "Where did you sign?"
+    },
+    {
+      "id": 83,
+      "en": "When will you sign?"
+    },
+    {
+      "id": 84,
+      "en": "Can't you sign on your phone?"
+    },
+    {
+      "id": 85,
+      "en": "Will she sign the renewal?"
+    },
+    {
+      "id": 86,
+      "en": "Because we signed, we can move in."
+    },
+    {
+      "id": 87,
+      "en": "When you sign, the work starts."
+    },
+    {
+      "id": 88,
+      "en": "If I sign, I get the keys."
+    },
+    {
+      "id": 89,
+      "en": "Although the rent is high, I will sign."
+    },
+    {
+      "id": 90,
+      "en": "Before you sign, compare the numbers."
+    },
+    {
+      "id": 91,
+      "en": "After we signed, they changed the terms."
+    },
+    {
+      "id": 92,
+      "en": "I sign carefully, but I still miss a line."
+    },
+    {
+      "id": 93,
+      "en": "When the package arrives, I sign for it."
+    },
+    {
+      "id": 94,
+      "en": "If the fee drops, we will sign."
+    },
+    {
+      "id": 95,
+      "en": "Although the contract is long, they sign fast."
+    },
+    {
+      "id": 96,
+      "en": "Because the terms were clear, she signed."
+    },
+    {
+      "id": 97,
+      "en": "Before the trip, we signed the travel waiver."
+    },
+    {
+      "id": 98,
+      "en": "After he signed the ball, the kids ran off."
+    },
+    {
+      "id": 99,
+      "en": "If the club signs him, the fans will cheer."
+    },
+    {
+      "id": 100,
+      "en": "When we sign, we lock the date."
+    }
+  ]
+}

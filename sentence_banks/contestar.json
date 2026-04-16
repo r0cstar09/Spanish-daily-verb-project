@@ -1,0 +1,407 @@
+{
+  "verb": "contestar",
+  "generated_at": "2026-04-16T07:00:00+00:00",
+  "source": "sentence_banks:contestar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I answer emails in the morning."
+    },
+    {
+      "id": 2,
+      "en": "She answers the phone at work."
+    },
+    {
+      "id": 3,
+      "en": "We answer every message within a day."
+    },
+    {
+      "id": 4,
+      "en": "He answers too slowly."
+    },
+    {
+      "id": 5,
+      "en": "They answer questions in the chat."
+    },
+    {
+      "id": 6,
+      "en": "You answer when you are ready."
+    },
+    {
+      "id": 7,
+      "en": "I answer honestly on forms."
+    },
+    {
+      "id": 8,
+      "en": "We answer the survey questions."
+    },
+    {
+      "id": 9,
+      "en": "The teacher answers after class."
+    },
+    {
+      "id": 10,
+      "en": "I answer my mom's texts first."
+    },
+    {
+      "id": 11,
+      "en": "He answers the door when I am busy."
+    },
+    {
+      "id": 12,
+      "en": "They answer the phone in Spanish."
+    },
+    {
+      "id": 13,
+      "en": "We answer the team in the group app."
+    },
+    {
+      "id": 14,
+      "en": "I answer the interview questions briefly."
+    },
+    {
+      "id": 15,
+      "en": "She answers customer emails politely."
+    },
+    {
+      "id": 16,
+      "en": "People answer online reviews when they want to fix things."
+    },
+    {
+      "id": 17,
+      "en": "I answer the health questions before the visit."
+    },
+    {
+      "id": 18,
+      "en": "You answer too fast when you are angry."
+    },
+    {
+      "id": 19,
+      "en": "We answer the coach after practice."
+    },
+    {
+      "id": 20,
+      "en": "The kid answers back when we set a limit."
+    },
+    {
+      "id": 21,
+      "en": "I answered late last night."
+    },
+    {
+      "id": 22,
+      "en": "We answered the booking request yesterday."
+    },
+    {
+      "id": 23,
+      "en": "She answered while I was driving."
+    },
+    {
+      "id": 24,
+      "en": "They answered the message in a minute."
+    },
+    {
+      "id": 25,
+      "en": "I was answering when the call dropped."
+    },
+    {
+      "id": 26,
+      "en": "He answered the question wrong on purpose."
+    },
+    {
+      "id": 27,
+      "en": "I didn't answer because I was busy."
+    },
+    {
+      "id": 28,
+      "en": "Why did you answer that way?"
+    },
+    {
+      "id": 29,
+      "en": "Although I answered, I still felt unsure."
+    },
+    {
+      "id": 30,
+      "en": "When I was a student, I answered every question."
+    },
+    {
+      "id": 31,
+      "en": "I used to answer work emails on weekends."
+    },
+    {
+      "id": 32,
+      "en": "After we answered, we waited."
+    },
+    {
+      "id": 33,
+      "en": "Before you answer, read the email twice."
+    },
+    {
+      "id": 34,
+      "en": "We answered the ticket, but the problem stayed."
+    },
+    {
+      "id": 35,
+      "en": "He answered the phone at midnight."
+    },
+    {
+      "id": 36,
+      "en": "We never answered spam calls."
+    },
+    {
+      "id": 37,
+      "en": "She answered the interview confidently."
+    },
+    {
+      "id": 38,
+      "en": "I answered the landlord's message in one line."
+    },
+    {
+      "id": 39,
+      "en": "They answered the exam question with a full paragraph."
+    },
+    {
+      "id": 40,
+      "en": "The barista answered my question about the extra shot."
+    },
+    {
+      "id": 41,
+      "en": "I will answer tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We'll answer if you send the link."
+    },
+    {
+      "id": 43,
+      "en": "If you ask, I will answer honestly."
+    },
+    {
+      "id": 44,
+      "en": "They will answer when they get back."
+    },
+    {
+      "id": 45,
+      "en": "I am going to answer after the call."
+    },
+    {
+      "id": 46,
+      "en": "We could answer tonight if you want."
+    },
+    {
+      "id": 47,
+      "en": "I would answer faster if I had notifications on."
+    },
+    {
+      "id": 48,
+      "en": "If we are late, we will answer in the morning."
+    },
+    {
+      "id": 49,
+      "en": "Tomorrow she will answer the panel questions."
+    },
+    {
+      "id": 50,
+      "en": "He will answer the message after dinner."
+    },
+    {
+      "id": 51,
+      "en": "We would answer sooner if we had more staff."
+    },
+    {
+      "id": 52,
+      "en": "If you are polite, I will answer your question."
+    },
+    {
+      "id": 53,
+      "en": "They will answer the email before the deadline."
+    },
+    {
+      "id": 54,
+      "en": "We will answer when we see the invoice."
+    },
+    {
+      "id": 55,
+      "en": "I will answer when I feel calm."
+    },
+    {
+      "id": 56,
+      "en": "I have answered that already."
+    },
+    {
+      "id": 57,
+      "en": "We haven't answered yet."
+    },
+    {
+      "id": 58,
+      "en": "I've answered too many emails today."
+    },
+    {
+      "id": 59,
+      "en": "After answering, I closed the laptop."
+    },
+    {
+      "id": 60,
+      "en": "Before you answer, read the thread."
+    },
+    {
+      "id": 61,
+      "en": "I want to answer clearly."
+    },
+    {
+      "id": 62,
+      "en": "We need to answer before noon."
+    },
+    {
+      "id": 63,
+      "en": "Don't answer without thinking."
+    },
+    {
+      "id": 64,
+      "en": "Let's answer together."
+    },
+    {
+      "id": 65,
+      "en": "I forgot to answer the group chat."
+    },
+    {
+      "id": 66,
+      "en": "To stay professional, answer politely."
+    },
+    {
+      "id": 67,
+      "en": "Stop answering after hours."
+    },
+    {
+      "id": 68,
+      "en": "I haven't answered my family yet."
+    },
+    {
+      "id": 69,
+      "en": "We haven't answered the refund request."
+    },
+    {
+      "id": 70,
+      "en": "It's time to answer the survey."
+    },
+    {
+      "id": 71,
+      "en": "Do you answer work emails at night?"
+    },
+    {
+      "id": 72,
+      "en": "Did you answer him?"
+    },
+    {
+      "id": 73,
+      "en": "When will you answer?"
+    },
+    {
+      "id": 74,
+      "en": "Why didn't you answer?"
+    },
+    {
+      "id": 75,
+      "en": "Don't answer spam."
+    },
+    {
+      "id": 76,
+      "en": "We can't answer until we check the facts."
+    },
+    {
+      "id": 77,
+      "en": "I don't answer unknown numbers."
+    },
+    {
+      "id": 78,
+      "en": "Why won't you answer the question?"
+    },
+    {
+      "id": 79,
+      "en": "Answer the question clearly."
+    },
+    {
+      "id": 80,
+      "en": "Never answer messages while you cross the street."
+    },
+    {
+      "id": 81,
+      "en": "Can you answer today?"
+    },
+    {
+      "id": 82,
+      "en": "I won't answer until I calm down."
+    },
+    {
+      "id": 83,
+      "en": "We don't answer rude messages."
+    },
+    {
+      "id": 84,
+      "en": "Are you going to answer?"
+    },
+    {
+      "id": 85,
+      "en": "Could you answer briefly?"
+    },
+    {
+      "id": 86,
+      "en": "When we travel, I answer fewer messages."
+    },
+    {
+      "id": 87,
+      "en": "Because we were tired, we answered only in a voice note."
+    },
+    {
+      "id": 88,
+      "en": "If you answer calmly, the chat goes better."
+    },
+    {
+      "id": 89,
+      "en": "Although we answered, they still emailed again."
+    },
+    {
+      "id": 90,
+      "en": "Before we buy, we answer the warranty questions."
+    },
+    {
+      "id": 91,
+      "en": "After we answered, we got a refund."
+    },
+    {
+      "id": 92,
+      "en": "We answered the survey, but we skipped the last page."
+    },
+    {
+      "id": 93,
+      "en": "When the match ends, we answer the group chat."
+    },
+    {
+      "id": 94,
+      "en": "If you answer honestly, I will help you."
+    },
+    {
+      "id": 95,
+      "en": "We should answer before we argue about money."
+    },
+    {
+      "id": 96,
+      "en": "She answers quickly, but sometimes she sounds sharp."
+    },
+    {
+      "id": 97,
+      "en": "Because I was driving, I didn't answer."
+    },
+    {
+      "id": 98,
+      "en": "After we answered the ticket, we closed the tab."
+    },
+    {
+      "id": 99,
+      "en": "When we answer customers, we read the order first."
+    },
+    {
+      "id": 100,
+      "en": "Let's answer tonight and log off."
+    }
+  ]
+}

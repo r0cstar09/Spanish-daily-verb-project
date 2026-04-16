@@ -1,8 +1,16 @@
 # Daily Spanish Verb Trainer
 
-A small tool that emails you **one** daily Spanish verb exercise: one verb, all five pronouns in eight forms (Present, Future, Preterite, Imperfect, Conditional, Present Perfect, Present Subjunctive, Estar + Gerund) — 40 conjugations total. You conjugate and submit to ChatGPT for grading.
+A small tool that emails you **two** daily Spanish verb exercises (on separate schedules):
 
-**Design:** One verb per day from the list, every pronoun × every tense. No LLM in the app — you grade yourself in ChatGPT.
+1. **Pareto track** — high-frequency **regular** verbs (`pareto_regular` in [`verbs_by_category.json`](verbs_by_category.json)).
+2. **Irregular / stem track** — alternates **irregular** vs **stem-changing** verbs (same lists as before).
+
+Each email includes:
+
+- **Part 1 — Conjugation:** five pronouns × **ten** tenses (50 lines): Present, Future, Preterite, Imperfect, Conditional, Present Perfect, Pluperfect, Present Subjunctive, Imperfect Subjunctive, Estar + Gerund.
+- **Part 2 — Sentence practice:** **20** English prompts per email, **rotated** from the full committed bank for that verb (so the next time the same verb is scheduled you see a different slice). Polysemous verbs like **quedar** and **hacer** use meaning-tagged prompts in [`polysemous_content.py`](polysemous_content.py). Optional `[sense]` labels appear in the email for those lines.
+
+English glosses use [`verb_translations.json`](verb_translations.json) for listed verbs and [`pareto_glosses.json`](pareto_glosses.json) for Pareto verbs. **Sentence banks live in the repo** as JSON under [`sentence_banks/`](sentence_banks/). The mailer **only reads** committed JSON — no API calls at send time.
 
 ---
 
@@ -13,30 +21,49 @@ cd spanish-daily-verb-project
 python3 -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-# Create .env with EMAIL_USER, EMAIL_PASSWORD, TARGET_EMAIL (see below)
 
-python main.py send-daily
+# Sentence banks are committed in sentence_banks/ (validate with scripts/build_sentence_banks.py if needed).
+# Create .env with EMAIL_USER, EMAIL_PASSWORD, TARGET_EMAIL
+
+python main.py send-daily --track pareto
+python main.py send-daily --track irregular
 ```
+
+---
+
+## Sentence banks (committed JSON)
+
+Each verb has a file `sentence_banks/<verb>.json` with **120** English lines in the full bank (`id`, `en`, and optionally `sense` for polysemous verbs). The mailer sends **20** lines per email; which 20 is chosen by [`sentence_rotation.py`](sentence_rotation.py) from **calendar day**, **verb**, and **track** (and `--seed` when testing), so repeats of the same verb use a **different window** over time.
+
+Validate committed banks with:
+
+```bash
+python scripts/build_sentence_banks.py
+```
+
+The script checks that each verb listed in [`verbs_by_category.json`](verbs_by_category.json)
+has a corresponding `sentence_banks/<verb>.json` with non-empty `sentences`.
+Scheduled sends **fail** if a bank is missing or has an empty `sentences` array.
 
 ---
 
 ## Setup
 
-### 1. Python
+### Python
 
 Python 3.10+ recommended.
 
-### 2. Gmail (or other email)
+### Gmail (or other email)
 
 Use Gmail with an [App Password](https://support.google.com/accounts/answer/185833). In `.env`:
 
-- `EMAIL_USER` = your Gmail address  
-- `EMAIL_PASSWORD` = the 16-character app password (no spaces)  
-- `TARGET_EMAIL` = where to send the daily exercise (usually the same)
+- `EMAIL_USER` — your Gmail address  
+- `EMAIL_PASSWORD` — the 16-character app password (no spaces)  
+- `TARGET_EMAIL` — where to send the daily exercise (usually the same)
 
 For non-Gmail, set `SMTP_HOST` and `SMTP_PORT` as needed.
 
-### 3. Environment variables
+### Environment variables
 
 | Variable          | Description                    |
 |-------------------|--------------------------------|
@@ -46,79 +73,72 @@ For non-Gmail, set `SMTP_HOST` and `SMTP_PORT` as needed.
 | `SMTP_HOST`       | Default `smtp.gmail.com`       |
 | `SMTP_PORT`       | Default `587`                  |
 
-No OpenAI or Azure keys needed — evaluation is up to you (e.g. in ChatGPT).
-
 ---
 
 ## Usage
 
 ```bash
-python main.py send-daily
+python main.py send-daily --track pareto
+python main.py send-daily --track irregular
 ```
 
-- Picks one verb per day, alternating **irregular** vs **stem-changing** (18 irregular + 18 stem-changing verbs only).
-- Sends one email to `TARGET_EMAIL` with the verb and 40 lines (every pronoun in every form). You conjugate all 40 and submit to ChatGPT for grading.
+- **`--track pareto`** — picks from `pareto_regular` using the day of year (or `--seed`).
+- **`--track irregular`** — alternates irregular vs stem-changing by day; picks the verb within that list.
 
 **Reproducible run:**  
-`python main.py send-daily --seed 42` uses a fixed random seed.
+`python main.py send-daily --track pareto --seed 52` fixes selection for testing (seed semantics differ per track).
 
 ---
 
 ## GitHub Actions
 
-One workflow sends the daily exercise on a schedule.
+Two workflows send on separate schedules:
 
-1. **Add repository secrets** (Settings → Secrets and variables → Actions):
-   - `EMAIL_USER` — your Gmail address  
-   - `EMAIL_PASSWORD` — Gmail App Password  
-   - `TARGET_EMAIL` — where to send the exercise  
+| Workflow | Cron (UTC) | Command |
+|----------|------------|---------|
+| [Send daily exercise (Pareto)](.github/workflows/send-daily-pareto.yml) | 10:00 | `python main.py send-daily --track pareto` |
+| [Send daily exercise (Irregular / stem)](.github/workflows/send-daily-irregular.yml) | 18:00 | `python main.py send-daily --track irregular` |
 
-2. **Push** the repo. The workflow runs **once per day** at **10:00 UTC (5:00 AM Eastern)**. Edit the `cron` in `.github/workflows/send-daily.yml` to change the time.
-
-3. **Run manually:** Actions → "Send daily exercise" → Run workflow.
-
-**Note:** Gmail may flag logins from GitHub. Use an App Password and allow the sign-in if prompted.
+1. Add repository secrets: `EMAIL_USER`, `EMAIL_PASSWORD`, `TARGET_EMAIL`.  
+2. Ensure all `sentence_banks/*.json` files are filled and committed before enabling schedules.  
+3. Run manually: Actions → choose the workflow → Run workflow.
 
 ---
 
 ## Cron (local)
 
-To run send-daily on your own machine:
-
 ```cron
-0 8 * * * cd /path/to/spanish-daily-verb-project && .venv/bin/python main.py send-daily
+0 10 * * * cd /path/to/spanish-daily-verb-project && .venv/bin/python main.py send-daily --track pareto
+0 18 * * * cd /path/to/spanish-daily-verb-project && .venv/bin/python main.py send-daily --track irregular
 ```
 
 ---
 
 ## Project layout
 
-| File / folder     | Purpose |
-|--------------------|--------|
-| `main.py`          | CLI: `send-daily` only |
-| `verb_selector.py` | Picks one verb alternating irregular / stem-changing; 40 conjugations |
-| `verbs_by_category.json` | Irregular (18) and stem-changing (18) verbs only |
-| `translations.py`  | Generates English translations for each pronoun+tense |
-| `verb_translations.json` | Spanish→English verb forms (base, past, irregulars) |
-| `email_sender.py`  | Sends the daily exercise email (SMTP) |
-| `.env`             | Secrets (gitignored) |
-| `docs/example_emails.md` | Example daily exercise email |
-
----
-
-## Example daily email
-
-**Subject:** `Spanish Verb – LLEVAR (all tenses)`
-
-**Body:** Verb + 40 lines, each with pronoun, form, and English translation.  
-Then: *Submit your 40 conjugations to ChatGPT for grading.*
+| File / folder | Purpose |
+|---------------|--------|
+| `main.py` | CLI: `send-daily --track …` |
+| `verb_selector.py` | Picks verb per track; builds 50 conjugation lines |
+| `tenses.py` | Shared list of tense names |
+| `verbs_by_category.json` | `pareto_regular`, `irregular`, `stem_changing` |
+| `pareto_glosses.json` | English bases for Pareto verbs (string or object with `base`/`past`/`pp`) |
+| `translations.py` | English hints per pronoun+tense |
+| `verb_translations.json` | Full glosses for irregular/stem verbs |
+| `sentence_bank.py` | Loads `sentence_banks/<verb>.json` |
+| `sentence_rotation.py` | Picks 20 prompts per send from the full bank (date + verb + track) |
+| `polysemous_content.py` | Curated multi-meaning banks for **quedar** and **hacer** |
+| `sentence_banks/` | One JSON file per infinitive (120 lines; quedar/hacer include `sense`) |
+| `scripts/build_sentence_banks.py` | Validates committed `sentence_banks/*.json` coverage and shape |
+| `email_sender.py` | Builds and sends email (optional attachment for long banks) |
+| `.env` | Secrets (gitignored) |
 
 ---
 
 ## Dependencies
 
-- **python-dotenv** — loads `.env`.  
-- Standard library: `smtplib`, `email`, `json`, `random`, `pathlib`.
+- **python-dotenv** — loads `.env` for `main.py`.  
+- Standard library: `smtplib`, `email`, `json`, `pathlib`, `argparse`.
 
 ---
 

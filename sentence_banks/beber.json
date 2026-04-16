@@ -1,0 +1,407 @@
+{
+  "verb": "beber",
+  "generated_at": "2026-04-16T19:00:00+00:00",
+  "source": "sentence_banks:beber",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I drink water first thing in the morning."
+    },
+    {
+      "id": 2,
+      "en": "We drink coffee at the kitchen table on weekdays."
+    },
+    {
+      "id": 3,
+      "en": "She drinks tea when she wants less caffeine."
+    },
+    {
+      "id": 4,
+      "en": "They drink juice with breakfast on weekends."
+    },
+    {
+      "id": 5,
+      "en": "He drinks a sports drink only after long runs."
+    },
+    {
+      "id": 6,
+      "en": "Do you drink milk in your coffee?"
+    },
+    {
+      "id": 7,
+      "en": "What did you drink with lunch today?"
+    },
+    {
+      "id": 8,
+      "en": "How much water do you drink on a hot day?"
+    },
+    {
+      "id": 9,
+      "en": "Don't drink from that bottle if it is not yours."
+    },
+    {
+      "id": 10,
+      "en": "Please drink some water before you speak for an hour."
+    },
+    {
+      "id": 11,
+      "en": "Let's drink sparkling water with dinner tonight."
+    },
+    {
+      "id": 12,
+      "en": "I drank two coffees before noon and felt jittery."
+    },
+    {
+      "id": 13,
+      "en": "We drank cold water from the fountain after the hike."
+    },
+    {
+      "id": 14,
+      "en": "She drank herbal tea because her throat hurt."
+    },
+    {
+      "id": 15,
+      "en": "He drank a soda at the movie and regretted the sugar."
+    },
+    {
+      "id": 16,
+      "en": "They drank local beer at the food truck lot."
+    },
+    {
+      "id": 17,
+      "en": "I did not drink alcohol at the party; I drove home."
+    },
+    {
+      "id": 18,
+      "en": "We never drank energy drinks during exam week again."
+    },
+    {
+      "id": 19,
+      "en": "She never drank coffee until she started night shifts."
+    },
+    {
+      "id": 20,
+      "en": "I used to drink soda every day, then I switched to water."
+    },
+    {
+      "id": 21,
+      "en": "We used to drink cheap wine in college, and now we laugh about it."
+    },
+    {
+      "id": 22,
+      "en": "He used to drink too much coffee, and his sleep suffered."
+    },
+    {
+      "id": 23,
+      "en": "When I was training, I drank a liter of water before practice."
+    },
+    {
+      "id": 24,
+      "en": "I will drink more water tomorrow if I keep the bottle on my desk."
+    },
+    {
+      "id": 25,
+      "en": "We are going to drink hot chocolate after we finish shoveling snow."
+    },
+    {
+      "id": 26,
+      "en": "She will drink the medicine after she eats something small."
+    },
+    {
+      "id": 27,
+      "en": "They will drink from reusable cups at the stadium this season."
+    },
+    {
+      "id": 28,
+      "en": "I would drink that smoothie if it had less sugar."
+    },
+    {
+      "id": 29,
+      "en": "He would drink decaf, but the cafe ran out."
+    },
+    {
+      "id": 30,
+      "en": "We would drink tap water here, but the taste is odd."
+    },
+    {
+      "id": 31,
+      "en": "I drank three cups of tea before noon, and my hands shook."
+    },
+    {
+      "id": 32,
+      "en": "She has been drinking more water since she bought a bottle with a straw."
+    },
+    {
+      "id": 33,
+      "en": "Since breakfast we only drank water until lunch."
+    },
+    {
+      "id": 34,
+      "en": "He never drinks espresso straight; he always adds milk."
+    },
+    {
+      "id": 35,
+      "en": "I need to drink water before my head hurts."
+    },
+    {
+      "id": 36,
+      "en": "She wants to drink less soda this month."
+    },
+    {
+      "id": 37,
+      "en": "They forgot to drink during the match and cramped up."
+    },
+    {
+      "id": 38,
+      "en": "Try to drink slowly if you are very thirsty."
+    },
+    {
+      "id": 39,
+      "en": "Remember to drink after you take that pill."
+    },
+    {
+      "id": 40,
+      "en": "If you drink coffee late, you might not sleep."
+    },
+    {
+      "id": 41,
+      "en": "When I travel, I drink bottled water if the tap feels risky."
+    },
+    {
+      "id": 42,
+      "en": "Although the juice looked fresh, I drank water instead."
+    },
+    {
+      "id": 43,
+      "en": "Because the room was dry, I drank water between slides."
+    },
+    {
+      "id": 44,
+      "en": "Before you run, drink a little water, not a full bottle."
+    },
+    {
+      "id": 45,
+      "en": "After we drink this toast, we can eat."
+    },
+    {
+      "id": 46,
+      "en": "I drink herbal tea at night because caffeine keeps me awake."
+    },
+    {
+      "id": 47,
+      "en": "We drink the office coffee, but we bring our own mugs."
+    },
+    {
+      "id": 48,
+      "en": "She drinks a protein shake after the gym when she is in a rush."
+    },
+    {
+      "id": 49,
+      "en": "He drinks water on the sideline every few minutes."
+    },
+    {
+      "id": 50,
+      "en": "They drink from the fountain at the park when they walk the dog."
+    },
+    {
+      "id": 51,
+      "en": "I drank coconut water after the match in the heat."
+    },
+    {
+      "id": 52,
+      "en": "We drank bad tap water once on a trip, and we bought bottles after that."
+    },
+    {
+      "id": 53,
+      "en": "She drank ginger tea when her stomach felt off."
+    },
+    {
+      "id": 54,
+      "en": "He will drink a glass of wine with dinner on Friday only."
+    },
+    {
+      "id": 55,
+      "en": "I drank enough coffee for one day by two p.m."
+    },
+    {
+      "id": 56,
+      "en": "You should drink water on the plane even if you do not feel thirsty."
+    },
+    {
+      "id": 57,
+      "en": "I don't drink energy drinks before bed."
+    },
+    {
+      "id": 58,
+      "en": "We don't drink and drive; we split a ride."
+    },
+    {
+      "id": 59,
+      "en": "She won't drink cold drinks when her teeth hurt."
+    },
+    {
+      "id": 60,
+      "en": "Who drank the last of the oat milk?"
+    },
+    {
+      "id": 61,
+      "en": "Did you drink enough water after your workout?"
+    },
+    {
+      "id": 62,
+      "en": "I was drinking water when the phone rang."
+    },
+    {
+      "id": 63,
+      "en": "We were drinking coffee during the long meeting."
+    },
+    {
+      "id": 64,
+      "en": "I am drinking more water this week on purpose."
+    },
+    {
+      "id": 65,
+      "en": "They are drinking iced tea on the porch."
+    },
+    {
+      "id": 66,
+      "en": "If you drink on an empty stomach, you might feel sick."
+    },
+    {
+      "id": 67,
+      "en": "When the band played, people drank and talked too loud."
+    },
+    {
+      "id": 68,
+      "en": "Although the bar was crowded, we drank at a small table outside."
+    },
+    {
+      "id": 69,
+      "en": "Before the interview, I drank water and took a slow breath."
+    },
+    {
+      "id": 70,
+      "en": "After he drank the medicine, he fell asleep fast."
+    },
+    {
+      "id": 71,
+      "en": "I drink tap water at home, but I filter it first."
+    },
+    {
+      "id": 72,
+      "en": "We drink less juice now because we watch sugar."
+    },
+    {
+      "id": 73,
+      "en": "She has been drinking the same brand of tea for ten years."
+    },
+    {
+      "id": 74,
+      "en": "He has been drinking coffee black since he started his first job."
+    },
+    {
+      "id": 75,
+      "en": "I will drink broth tonight because my throat is sore."
+    },
+    {
+      "id": 76,
+      "en": "Do not drink that if the seal is broken."
+    },
+    {
+      "id": 77,
+      "en": "Let's drink water before we order another round."
+    },
+    {
+      "id": 78,
+      "en": "I would drink the smoothie if it did not have banana."
+    },
+    {
+      "id": 79,
+      "en": "The baby drinks formula every three hours on a schedule."
+    },
+    {
+      "id": 80,
+      "en": "My dog drinks from the bowl on the porch after walks."
+    },
+    {
+      "id": 81,
+      "en": "I drink tea while I read recipes so I stay off my phone."
+    },
+    {
+      "id": 82,
+      "en": "We drink more water now because the doctor said we drank too little."
+    },
+    {
+      "id": 83,
+      "en": "She wants to drink with friends, but she has an early flight."
+    },
+    {
+      "id": 84,
+      "en": "He needs to drink electrolytes after sweating in the heat."
+    },
+    {
+      "id": 85,
+      "en": "I drink nothing except coffee until lunch on busy days."
+    },
+    {
+      "id": 86,
+      "en": "Did anyone drink from this pitcher yet?"
+    },
+    {
+      "id": 87,
+      "en": "If you drink soda daily, your dentist will notice."
+    },
+    {
+      "id": 88,
+      "en": "Although the wine was expensive, we only drank one glass each."
+    },
+    {
+      "id": 89,
+      "en": "Because the hike was long, we drank every time we stopped."
+    },
+    {
+      "id": 90,
+      "en": "After we drank water, we stretched and started the second half."
+    },
+    {
+      "id": 91,
+      "en": "I drink a big glass of water before I check my phone in the morning."
+    },
+    {
+      "id": 92,
+      "en": "They are going to drink punch at the school party, not soda."
+    },
+    {
+      "id": 93,
+      "en": "I did not drink the free soda; I wanted water instead."
+    },
+    {
+      "id": 94,
+      "en": "We want to drink less alcohol this month to save money."
+    },
+    {
+      "id": 95,
+      "en": "Please drink slowly if you are nervous before you speak."
+    },
+    {
+      "id": 96,
+      "en": "Don't drink hot tea while you walk; you will burn your tongue."
+    },
+    {
+      "id": 97,
+      "en": "Cold water helps me drink more on hot days."
+    },
+    {
+      "id": 98,
+      "en": "I drank lemon water for a week and stopped craving soda."
+    },
+    {
+      "id": 99,
+      "en": "We drink the same brand of coffee at work because the machine is set for it."
+    },
+    {
+      "id": 100,
+      "en": "Tomorrow I will drink water before coffee, not the other way around."
+    }
+  ]
+}

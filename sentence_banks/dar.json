@@ -1,0 +1,407 @@
+{
+  "verb": "dar",
+  "generated_at": "2026-04-16T09:00:00+00:00",
+  "source": "sentence_banks:dar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I give him a ride when it rains."
+    },
+    {
+      "id": 2,
+      "en": "She gives good advice."
+    },
+    {
+      "id": 3,
+      "en": "We give our kids pocket money."
+    },
+    {
+      "id": 4,
+      "en": "He gives the dog water twice a day."
+    },
+    {
+      "id": 5,
+      "en": "They give free samples on Saturdays."
+    },
+    {
+      "id": 6,
+      "en": "You give too much when you are tired."
+    },
+    {
+      "id": 7,
+      "en": "I give a talk at the monthly meetup."
+    },
+    {
+      "id": 8,
+      "en": "We give the teacher the form today."
+    },
+    {
+      "id": 9,
+      "en": "The manager gives clear feedback."
+    },
+    {
+      "id": 10,
+      "en": "I give thanks before dinner."
+    },
+    {
+      "id": 11,
+      "en": "That story gives me chills."
+    },
+    {
+      "id": 12,
+      "en": "Loud noises give me fear at night."
+    },
+    {
+      "id": 13,
+      "en": "Spicy food gives me heartburn."
+    },
+    {
+      "id": 14,
+      "en": "That gives me time to think."
+    },
+    {
+      "id": 15,
+      "en": "I don't care about the color; it gives me the same feeling either way."
+    },
+    {
+      "id": 16,
+      "en": "The balcony gives onto the park."
+    },
+    {
+      "id": 17,
+      "en": "This plan gives results after a month."
+    },
+    {
+      "id": 18,
+      "en": "She gives the baby a bottle every three hours."
+    },
+    {
+      "id": 19,
+      "en": "We give permission only after training."
+    },
+    {
+      "id": 20,
+      "en": "They give a free class on Sundays."
+    },
+    {
+      "id": 21,
+      "en": "I gave her a book."
+    },
+    {
+      "id": 22,
+      "en": "We gave them a second chance."
+    },
+    {
+      "id": 23,
+      "en": "He gave the wrong answer."
+    },
+    {
+      "id": 24,
+      "en": "They gave a short presentation."
+    },
+    {
+      "id": 25,
+      "en": "I was giving a tour when you called."
+    },
+    {
+      "id": 26,
+      "en": "She gave birth yesterday."
+    },
+    {
+      "id": 27,
+      "en": "We gave the money back."
+    },
+    {
+      "id": 28,
+      "en": "I didn't give him permission because I was unsure."
+    },
+    {
+      "id": 29,
+      "en": "Why did you give me that look?"
+    },
+    {
+      "id": 30,
+      "en": "Although I gave a warning, they still tried."
+    },
+    {
+      "id": 31,
+      "en": "When I was a kid, my parents gave me chores."
+    },
+    {
+      "id": 32,
+      "en": "I used to give rides to neighbors."
+    },
+    {
+      "id": 33,
+      "en": "After we gave the gift, they smiled."
+    },
+    {
+      "id": 34,
+      "en": "Before you give a talk, rehearse once."
+    },
+    {
+      "id": 35,
+      "en": "We gave the wrong address by mistake."
+    },
+    {
+      "id": 36,
+      "en": "He gave the signal to start."
+    },
+    {
+      "id": 37,
+      "en": "They never gave me a clear reason."
+    },
+    {
+      "id": 38,
+      "en": "She gave the quiz on Friday."
+    },
+    {
+      "id": 39,
+      "en": "We gave the host a bottle of wine."
+    },
+    {
+      "id": 40,
+      "en": "Being late in public gives me embarrassment."
+    },
+    {
+      "id": 41,
+      "en": "I will give you the file tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We'll give them more time if you ask."
+    },
+    {
+      "id": 43,
+      "en": "If you help, I will give you credit."
+    },
+    {
+      "id": 44,
+      "en": "They will give the test next week."
+    },
+    {
+      "id": 45,
+      "en": "I am going to give a presentation."
+    },
+    {
+      "id": 46,
+      "en": "We could give a discount if you pay in cash."
+    },
+    {
+      "id": 47,
+      "en": "I would give more if I had more."
+    },
+    {
+      "id": 48,
+      "en": "If we are honest, we will give a fair answer."
+    },
+    {
+      "id": 49,
+      "en": "Tomorrow she will give the baby a bath."
+    },
+    {
+      "id": 50,
+      "en": "He will give the final grade on Monday."
+    },
+    {
+      "id": 51,
+      "en": "We would give a refund if the receipt is valid."
+    },
+    {
+      "id": 52,
+      "en": "If you are late, we will give your seat away."
+    },
+    {
+      "id": 53,
+      "en": "They will give the tour at nine."
+    },
+    {
+      "id": 54,
+      "en": "We will give the update when we finish."
+    },
+    {
+      "id": 55,
+      "en": "I will give you space if you need it."
+    },
+    {
+      "id": 56,
+      "en": "I have given you three chances."
+    },
+    {
+      "id": 57,
+      "en": "We haven't given the deposit yet."
+    },
+    {
+      "id": 58,
+      "en": "I've given that same advice twice."
+    },
+    {
+      "id": 59,
+      "en": "After giving the gift, I felt lighter."
+    },
+    {
+      "id": 60,
+      "en": "Before you give money, check the name."
+    },
+    {
+      "id": 61,
+      "en": "I want to give a fair answer."
+    },
+    {
+      "id": 62,
+      "en": "We need to give notice before we move."
+    },
+    {
+      "id": 63,
+      "en": "Don't give your password to anyone."
+    },
+    {
+      "id": 64,
+      "en": "Let's give a small donation."
+    },
+    {
+      "id": 65,
+      "en": "I forgot to give the form back."
+    },
+    {
+      "id": 66,
+      "en": "To give good feedback, listen first."
+    },
+    {
+      "id": 67,
+      "en": "Stop giving excuses."
+    },
+    {
+      "id": 68,
+      "en": "I haven't given my opinion yet."
+    },
+    {
+      "id": 69,
+      "en": "I have to give you that—you were right."
+    },
+    {
+      "id": 70,
+      "en": "It's time to give the update."
+    },
+    {
+      "id": 71,
+      "en": "Do you give rides?"
+    },
+    {
+      "id": 72,
+      "en": "Did you give him the keys?"
+    },
+    {
+      "id": 73,
+      "en": "When will you give the update?"
+    },
+    {
+      "id": 74,
+      "en": "Where did you give the talk?"
+    },
+    {
+      "id": 75,
+      "en": "Don't give a stranger your address."
+    },
+    {
+      "id": 76,
+      "en": "We can't give a refund without a receipt."
+    },
+    {
+      "id": 77,
+      "en": "I don't give my phone number online."
+    },
+    {
+      "id": 78,
+      "en": "Why won't you give me a straight answer?"
+    },
+    {
+      "id": 79,
+      "en": "Give me your hand."
+    },
+    {
+      "id": 80,
+      "en": "Never give your PIN in a message."
+    },
+    {
+      "id": 81,
+      "en": "Can you give me a minute?"
+    },
+    {
+      "id": 82,
+      "en": "I won't give an answer until I know the facts."
+    },
+    {
+      "id": 83,
+      "en": "We don't give refunds after thirty days."
+    },
+    {
+      "id": 84,
+      "en": "Are you going to give the speech?"
+    },
+    {
+      "id": 85,
+      "en": "Could you give me a hint?"
+    },
+    {
+      "id": 86,
+      "en": "Could you give me feedback?"
+    },
+    {
+      "id": 87,
+      "en": "When we travel, we give small tips."
+    },
+    {
+      "id": 88,
+      "en": "Because we were tired, we gave only a short update."
+    },
+    {
+      "id": 89,
+      "en": "If you give a clear signal, the team moves faster."
+    },
+    {
+      "id": 90,
+      "en": "Although we gave a warning, they didn't change."
+    },
+    {
+      "id": 91,
+      "en": "Before we spend more, we give a little to savings first."
+    },
+    {
+      "id": 92,
+      "en": "After we gave the news, we ordered food."
+    },
+    {
+      "id": 93,
+      "en": "We gave a discount, but we still lost money."
+    },
+    {
+      "id": 94,
+      "en": "If you give time, you get better answers."
+    },
+    {
+      "id": 95,
+      "en": "We should give notice before we argue about money."
+    },
+    {
+      "id": 96,
+      "en": "She gives good gifts, but she gives too much."
+    },
+    {
+      "id": 97,
+      "en": "It makes me sad when I see him eat alone."
+    },
+    {
+      "id": 98,
+      "en": "Because I was sick, I didn't give the class."
+    },
+    {
+      "id": 99,
+      "en": "After we gave the presentation, we closed the laptop."
+    },
+    {
+      "id": 100,
+      "en": "Let's give the update tonight and plan the weekend."
+    }
+  ]
+}

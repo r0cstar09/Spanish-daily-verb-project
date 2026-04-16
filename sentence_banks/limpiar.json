@@ -1,0 +1,407 @@
+{
+  "verb": "limpiar",
+  "generated_at": "2026-04-18T18:00:00+00:00",
+  "source": "sentence_banks:limpiar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I clean the kitchen every night."
+    },
+    {
+      "id": 2,
+      "en": "We clean the house on Saturday."
+    },
+    {
+      "id": 3,
+      "en": "She cleans the bathroom before guests arrive."
+    },
+    {
+      "id": 4,
+      "en": "They clean the office after work."
+    },
+    {
+      "id": 5,
+      "en": "You clean your desk too rarely."
+    },
+    {
+      "id": 6,
+      "en": "He cleans the car on Sunday."
+    },
+    {
+      "id": 7,
+      "en": "I clean the floor with a mop."
+    },
+    {
+      "id": 8,
+      "en": "We clean the windows in spring."
+    },
+    {
+      "id": 9,
+      "en": "The gym cleans the machines every day."
+    },
+    {
+      "id": 10,
+      "en": "I clean my shoes before the meeting."
+    },
+    {
+      "id": 11,
+      "en": "She cleans vegetables in the sink."
+    },
+    {
+      "id": 12,
+      "en": "We clean the table after dinner."
+    },
+    {
+      "id": 13,
+      "en": "He cleans the fridge once a month."
+    },
+    {
+      "id": 14,
+      "en": "I clean the phone screen with a cloth."
+    },
+    {
+      "id": 15,
+      "en": "Kids clean their room on Friday."
+    },
+    {
+      "id": 16,
+      "en": "We clean sand off our shoes at the door."
+    },
+    {
+      "id": 17,
+      "en": "I clean the coffee machine at work."
+    },
+    {
+      "id": 18,
+      "en": "They clean the street after the festival."
+    },
+    {
+      "id": 19,
+      "en": "She cleans the mirror in the bathroom."
+    },
+    {
+      "id": 20,
+      "en": "You clean the grill before summer."
+    },
+    {
+      "id": 21,
+      "en": "I cleaned the kitchen yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We cleaned the apartment before we moved."
+    },
+    {
+      "id": 23,
+      "en": "He cleaned the car before the trip."
+    },
+    {
+      "id": 24,
+      "en": "They cleaned the pool at the hotel."
+    },
+    {
+      "id": 25,
+      "en": "I was cleaning when you called."
+    },
+    {
+      "id": 26,
+      "en": "She cleaned the mess in the hall."
+    },
+    {
+      "id": 27,
+      "en": "I didn't clean the oven last week."
+    },
+    {
+      "id": 28,
+      "en": "Why did you clean at midnight?"
+    },
+    {
+      "id": 29,
+      "en": "Although I cleaned twice, the floor was still sticky."
+    },
+    {
+      "id": 30,
+      "en": "When I was a kid, we cleaned the house every weekend."
+    },
+    {
+      "id": 31,
+      "en": "After we cleaned, we opened the windows."
+    },
+    {
+      "id": 32,
+      "en": "Before she cooked, she cleaned the counter."
+    },
+    {
+      "id": 33,
+      "en": "I cleaned the room because you were coming."
+    },
+    {
+      "id": 34,
+      "en": "I cleaned the floor, but the dog walked in with mud."
+    },
+    {
+      "id": 35,
+      "en": "The school cleaned the gym before the game."
+    },
+    {
+      "id": 36,
+      "en": "We cleaned little during the busy month."
+    },
+    {
+      "id": 37,
+      "en": "He cleaned mud off his bike at the door."
+    },
+    {
+      "id": 38,
+      "en": "I never cleaned alone before college."
+    },
+    {
+      "id": 39,
+      "en": "They cleaned the beach after the storm."
+    },
+    {
+      "id": 40,
+      "en": "She cleaned her bag after the trip."
+    },
+    {
+      "id": 41,
+      "en": "I will clean the bathroom tonight."
+    },
+    {
+      "id": 42,
+      "en": "We will clean the car tomorrow."
+    },
+    {
+      "id": 43,
+      "en": "If you cook, I will clean."
+    },
+    {
+      "id": 44,
+      "en": "He won't clean without music."
+    },
+    {
+      "id": 45,
+      "en": "Would you clean the table for me?"
+    },
+    {
+      "id": 46,
+      "en": "They will clean the stadium after the match."
+    },
+    {
+      "id": 47,
+      "en": "I'm going to clean the fridge after shopping."
+    },
+    {
+      "id": 48,
+      "en": "If it rains, we will clean the mud later."
+    },
+    {
+      "id": 49,
+      "en": "I would clean more often if I had time."
+    },
+    {
+      "id": 50,
+      "en": "We would clean the attic if we had a ladder."
+    },
+    {
+      "id": 51,
+      "en": "She will clean the windows before winter."
+    },
+    {
+      "id": 52,
+      "en": "If the sink is full, we will clean dishes first."
+    },
+    {
+      "id": 53,
+      "en": "Don't worry, I will clean the mess."
+    },
+    {
+      "id": 54,
+      "en": "I would clean the office myself if they paid more."
+    },
+    {
+      "id": 55,
+      "en": "The team will clean the locker room after practice."
+    },
+    {
+      "id": 56,
+      "en": "I have cleaned this room three times."
+    },
+    {
+      "id": 57,
+      "en": "We haven't cleaned the garage yet."
+    },
+    {
+      "id": 58,
+      "en": "I've cleaned hotels before."
+    },
+    {
+      "id": 59,
+      "en": "I need to clean the air fryer."
+    },
+    {
+      "id": 60,
+      "en": "She forgot to clean the cutting board."
+    },
+    {
+      "id": 61,
+      "en": "To clean glass, use water and paper."
+    },
+    {
+      "id": 62,
+      "en": "I want to clean out my closet."
+    },
+    {
+      "id": 63,
+      "en": "Don't clean hot pans under cold water."
+    },
+    {
+      "id": 64,
+      "en": "I have to clean before the family arrives."
+    },
+    {
+      "id": 65,
+      "en": "We meant to clean the balcony last week."
+    },
+    {
+      "id": 66,
+      "en": "They have cleaned every room in the house."
+    },
+    {
+      "id": 67,
+      "en": "I haven't had energy to clean."
+    },
+    {
+      "id": 68,
+      "en": "I tried to clean the stain out."
+    },
+    {
+      "id": 69,
+      "en": "We have cleaned together since we moved in."
+    },
+    {
+      "id": 70,
+      "en": "I want you to clean your side of the room."
+    },
+    {
+      "id": 71,
+      "en": "Did you clean the floor?"
+    },
+    {
+      "id": 72,
+      "en": "Why don't we clean now?"
+    },
+    {
+      "id": 73,
+      "en": "Don't clean with bleach near the baby."
+    },
+    {
+      "id": 74,
+      "en": "Clean the sink first."
+    },
+    {
+      "id": 75,
+      "en": "Haven't you cleaned the toilet yet?"
+    },
+    {
+      "id": 76,
+      "en": "Won't she clean the kitchen today?"
+    },
+    {
+      "id": 77,
+      "en": "Can you clean this spot?"
+    },
+    {
+      "id": 78,
+      "en": "Why didn't you clean after lunch?"
+    },
+    {
+      "id": 79,
+      "en": "Never clean a hot stove with a wet cloth."
+    },
+    {
+      "id": 80,
+      "en": "Don't clean the wood with that spray."
+    },
+    {
+      "id": 81,
+      "en": "Don't you clean on Sundays?"
+    },
+    {
+      "id": 82,
+      "en": "Where did you clean first?"
+    },
+    {
+      "id": 83,
+      "en": "When will you clean the car?"
+    },
+    {
+      "id": 84,
+      "en": "Can't we clean one room at a time?"
+    },
+    {
+      "id": 85,
+      "en": "Will he clean the office tonight?"
+    },
+    {
+      "id": 86,
+      "en": "Because we clean often, the house smells fresh."
+    },
+    {
+      "id": 87,
+      "en": "When you clean, open the window."
+    },
+    {
+      "id": 88,
+      "en": "If I clean now, I can rest later."
+    },
+    {
+      "id": 89,
+      "en": "Although the kitchen is small, it is easy to clean."
+    },
+    {
+      "id": 90,
+      "en": "Before you cook fish, clean the counter well."
+    },
+    {
+      "id": 91,
+      "en": "After we cleaned, we ordered food."
+    },
+    {
+      "id": 92,
+      "en": "I clean at home, but I eat lunch at work."
+    },
+    {
+      "id": 93,
+      "en": "When the baby eats, we clean the high chair."
+    },
+    {
+      "id": 94,
+      "en": "If we host a party, we clean the whole house."
+    },
+    {
+      "id": 95,
+      "en": "Although the hotel is cheap, they clean the rooms daily."
+    },
+    {
+      "id": 96,
+      "en": "Because the dog ran inside, we cleaned the floor again."
+    },
+    {
+      "id": 97,
+      "en": "Before the meeting, he cleaned his desk at the office."
+    },
+    {
+      "id": 98,
+      "en": "After travel, we clean every bag."
+    },
+    {
+      "id": 99,
+      "en": "It's important that we clean tools before we put them away."
+    },
+    {
+      "id": 100,
+      "en": "When I work from home, I clean the kitchen at lunch."
+    }
+  ]
+}

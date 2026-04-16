@@ -1,12 +1,11 @@
-# Send one Spanish verb exercise email per day (irregular / stem-changing verbs only).
+# Irregular / stem-changing verb — separate schedule from Pareto track.
 
-name: Send daily exercise
+name: Send daily exercise (Irregular / stem)
 
 on:
   schedule:
-    # 10:00 UTC = 5:00 AM Eastern (EST) / 6:00 AM Eastern (EDT)
-    - cron: "0 10 * * *"
-  workflow_dispatch: # allow manual run
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
 jobs:
   send:
@@ -21,9 +20,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Send daily exercise
+      - name: Send irregular/stem daily exercise
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           TARGET_EMAIL: ${{ secrets.TARGET_EMAIL }}
-        run: python main.py send-daily
+        run: python main.py send-daily --track irregular

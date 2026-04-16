@@ -1,0 +1,407 @@
+{
+  "verb": "reservar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:reservar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I reserve a table every Friday."
+    },
+    {
+      "id": 2,
+      "en": "We reserve tickets online."
+    },
+    {
+      "id": 3,
+      "en": "He reserves a room at the hotel."
+    },
+    {
+      "id": 4,
+      "en": "She reserves a seat on the train."
+    },
+    {
+      "id": 5,
+      "en": "They reserve time on my calendar."
+    },
+    {
+      "id": 6,
+      "en": "You reserve a spot in the yoga class."
+    },
+    {
+      "id": 7,
+      "en": "I reserve a car for the trip."
+    },
+    {
+      "id": 8,
+      "en": "We reserve dinner for eight."
+    },
+    {
+      "id": 9,
+      "en": "He reserves a court at the gym."
+    },
+    {
+      "id": 10,
+      "en": "She reserves a parking space."
+    },
+    {
+      "id": 11,
+      "en": "I reserve a table on the app."
+    },
+    {
+      "id": 12,
+      "en": "We reserve the meeting room early."
+    },
+    {
+      "id": 13,
+      "en": "They reserve football tickets in advance."
+    },
+    {
+      "id": 14,
+      "en": "I reserve money for rent each month."
+    },
+    {
+      "id": 15,
+      "en": "He reserves a quiet booth for clients."
+    },
+    {
+      "id": 16,
+      "en": "We reserve a slot for the interview."
+    },
+    {
+      "id": 17,
+      "en": "She reserves brunch for Sunday."
+    },
+    {
+      "id": 18,
+      "en": "I reserve a beach chair at the hotel."
+    },
+    {
+      "id": 19,
+      "en": "They reserve a time on the shared calendar."
+    },
+    {
+      "id": 20,
+      "en": "You reserve the budget line for travel."
+    },
+    {
+      "id": 21,
+      "en": "I reserved a table last night."
+    },
+    {
+      "id": 22,
+      "en": "We reserved the room yesterday."
+    },
+    {
+      "id": 23,
+      "en": "He reserved tickets for the match."
+    },
+    {
+      "id": 24,
+      "en": "She reserved a seat by the window."
+    },
+    {
+      "id": 25,
+      "en": "I didn't reserve early enough."
+    },
+    {
+      "id": 26,
+      "en": "They reserved a rental car."
+    },
+    {
+      "id": 27,
+      "en": "I was reserving a table when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I reserved study rooms often."
+    },
+    {
+      "id": 29,
+      "en": "We reserved early because the place is busy."
+    },
+    {
+      "id": 30,
+      "en": "He reserved a spot at the gym."
+    },
+    {
+      "id": 31,
+      "en": "I reserved a time for the doctor."
+    },
+    {
+      "id": 32,
+      "en": "She reserved brunch for her parents."
+    },
+    {
+      "id": 33,
+      "en": "Why did you reserve two tables?"
+    },
+    {
+      "id": 34,
+      "en": "We reserved online from the couch."
+    },
+    {
+      "id": 35,
+      "en": "I reserved a court for tennis."
+    },
+    {
+      "id": 36,
+      "en": "He reserved a parking space downtown."
+    },
+    {
+      "id": 37,
+      "en": "They reserved a backup time slot."
+    },
+    {
+      "id": 38,
+      "en": "I reserved a day trip on the app."
+    },
+    {
+      "id": 39,
+      "en": "We reserved money in the budget for food."
+    },
+    {
+      "id": 40,
+      "en": "You reserved more rooms than we needed."
+    },
+    {
+      "id": 41,
+      "en": "I will reserve tomorrow morning."
+    },
+    {
+      "id": 42,
+      "en": "We will reserve if you send the date."
+    },
+    {
+      "id": 43,
+      "en": "If you arrive early, I will reserve first."
+    },
+    {
+      "id": 44,
+      "en": "She will reserve the room on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't reserve without a credit card."
+    },
+    {
+      "id": 46,
+      "en": "I would reserve earlier if I could."
+    },
+    {
+      "id": 47,
+      "en": "We would reserve a backup table if we had doubts."
+    },
+    {
+      "id": 48,
+      "en": "Would you reserve a table for two?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will reserve a hotel first."
+    },
+    {
+      "id": 50,
+      "en": "They will reserve the slot on site."
+    },
+    {
+      "id": 51,
+      "en": "You will reserve easier if you plan ahead."
+    },
+    {
+      "id": 52,
+      "en": "I would reserve a larger room if we had more guests."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will reserve a table indoors."
+    },
+    {
+      "id": 54,
+      "en": "I will reserve football tickets as soon as sales open."
+    },
+    {
+      "id": 55,
+      "en": "We will reserve the shuttle before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have reserved this restaurant before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't reserved the hotel yet."
+    },
+    {
+      "id": 58,
+      "en": "She has reserved tickets since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you reserved online?"
+    },
+    {
+      "id": 60,
+      "en": "I need to reserve a table today."
+    },
+    {
+      "id": 61,
+      "en": "I want to reserve a quiet table."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to reserve the room."
+    },
+    {
+      "id": 63,
+      "en": "Remember to reserve the parking."
+    },
+    {
+      "id": 64,
+      "en": "I hate to reserve at the last minute."
+    },
+    {
+      "id": 65,
+      "en": "We started to reserve early last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to reserve the room tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to reserve early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to reserve without a deposit."
+    },
+    {
+      "id": 69,
+      "en": "I want you to reserve the first slot."
+    },
+    {
+      "id": 70,
+      "en": "They tried to reserve two rooms."
+    },
+    {
+      "id": 71,
+      "en": "Do you reserve every week?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you reserve two rooms?"
+    },
+    {
+      "id": 73,
+      "en": "Reserve a table before you arrive."
+    },
+    {
+      "id": 74,
+      "en": "Don't reserve without reading the policy."
+    },
+    {
+      "id": 75,
+      "en": "Never reserve a car without insurance."
+    },
+    {
+      "id": 76,
+      "en": "Can't you reserve earlier?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you reserved the room?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you reserve for the group?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you reserve the table?"
+    },
+    {
+      "id": 80,
+      "en": "Will you reserve if I pay?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you reserve this online?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to reserve early?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you reserve a table before you go?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you reserve the first slot?"
+    },
+    {
+      "id": 85,
+      "en": "Stop reserving at the last minute."
+    },
+    {
+      "id": 86,
+      "en": "I reserve a table because the place is busy."
+    },
+    {
+      "id": 87,
+      "en": "We reserved the trip, but the flight changed."
+    },
+    {
+      "id": 88,
+      "en": "When you reserve online, read the times."
+    },
+    {
+      "id": 89,
+      "en": "If you reserve early, you will get a seat."
+    },
+    {
+      "id": 90,
+      "en": "Although I reserved early, I still felt nervous."
+    },
+    {
+      "id": 91,
+      "en": "Before you travel, reserve the hotel."
+    },
+    {
+      "id": 92,
+      "en": "After I reserved the room, I felt calmer."
+    },
+    {
+      "id": 93,
+      "en": "Because we reserved early, we got a good seat."
+    },
+    {
+      "id": 94,
+      "en": "I reserve tables for clients at work, but I cook at home."
+    },
+    {
+      "id": 95,
+      "en": "When he books travel, he reserves early."
+    },
+    {
+      "id": 96,
+      "en": "If we reserve the car, we will save time."
+    },
+    {
+      "id": 97,
+      "en": "Although we reserved the room, the hotel was full."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, reserve the shuttle."
+    },
+    {
+      "id": 99,
+      "en": "After we reserved football tickets, we left early for the match."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you reserve a safe option."
+    }
+  ]
+}

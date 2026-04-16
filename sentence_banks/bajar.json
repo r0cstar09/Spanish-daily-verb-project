@@ -1,0 +1,407 @@
+{
+  "verb": "bajar",
+  "generated_at": "2026-04-16T18:00:00+00:00",
+  "source": "sentence_banks:bajar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I go down the stairs two steps at a time when I am late."
+    },
+    {
+      "id": 2,
+      "en": "We go down the hill faster on bikes than on foot."
+    },
+    {
+      "id": 3,
+      "en": "She goes down to the lobby to pick up the package."
+    },
+    {
+      "id": 4,
+      "en": "They go down this street and turn left at the light."
+    },
+    {
+      "id": 5,
+      "en": "He comes down from the fifth floor when the elevator works."
+    },
+    {
+      "id": 6,
+      "en": "Do you go down the fire escape only in drills?"
+    },
+    {
+      "id": 7,
+      "en": "Why did you go down that alley at night?"
+    },
+    {
+      "id": 8,
+      "en": "Don't go down the broken escalator; use the stairs."
+    },
+    {
+      "id": 9,
+      "en": "Please go down quietly; the baby is asleep."
+    },
+    {
+      "id": 10,
+      "en": "Let's go down after we save the file."
+    },
+    {
+      "id": 11,
+      "en": "I lowered the volume when the neighbor knocked."
+    },
+    {
+      "id": 12,
+      "en": "We lower the blinds at sunset so the room stays cool."
+    },
+    {
+      "id": 13,
+      "en": "She lowers her voice when she talks about money."
+    },
+    {
+      "id": 14,
+      "en": "They lower prices every January to clear old stock."
+    },
+    {
+      "id": 15,
+      "en": "The app lowers brightness at night if you turn that on."
+    },
+    {
+      "id": 16,
+      "en": "I downloaded the map before I lost signal on the trail."
+    },
+    {
+      "id": 17,
+      "en": "We download the receipt as a PDF for taxes."
+    },
+    {
+      "id": 18,
+      "en": "She downloads episodes at home because data is expensive."
+    },
+    {
+      "id": 19,
+      "en": "He downloads updates only on Wi-Fi."
+    },
+    {
+      "id": 20,
+      "en": "I get off the bus two stops early when traffic is bad."
+    },
+    {
+      "id": 21,
+      "en": "We get off the train and walk five minutes to the office."
+    },
+    {
+      "id": 22,
+      "en": "They get off at the airport stop for the hotel shuttle."
+    },
+    {
+      "id": 23,
+      "en": "I take the trash down every night after dinner."
+    },
+    {
+      "id": 24,
+      "en": "He takes the heavy boxes down to storage for me."
+    },
+    {
+      "id": 25,
+      "en": "We take the laundry down to the basement machines."
+    },
+    {
+      "id": 26,
+      "en": "The temperature drops after sunset in the desert."
+    },
+    {
+      "id": 27,
+      "en": "Gas prices fall every fall before winter blends hit."
+    },
+    {
+      "id": 28,
+      "en": "My blood pressure went down after I cut salt."
+    },
+    {
+      "id": 29,
+      "en": "I went down the steep stairs too fast and grabbed the rail."
+    },
+    {
+      "id": 30,
+      "en": "We went down to the beach at dawn to avoid crowds."
+    },
+    {
+      "id": 31,
+      "en": "She lowered the seat so her feet could reach the pedals."
+    },
+    {
+      "id": 32,
+      "en": "They lowered the music when the host asked."
+    },
+    {
+      "id": 33,
+      "en": "I did not lower my offer; I walked away instead."
+    },
+    {
+      "id": 34,
+      "en": "We never lowered standards; we just hired slower."
+    },
+    {
+      "id": 35,
+      "en": "He never lowered his voice during the argument."
+    },
+    {
+      "id": 36,
+      "en": "I used to go down to the corner store every morning."
+    },
+    {
+      "id": 37,
+      "en": "We used to lower the thermostat at night to save money."
+    },
+    {
+      "id": 38,
+      "en": "She used to download songs illegally; now she pays for a plan."
+    },
+    {
+      "id": 39,
+      "en": "When I was a kid, I went down the slide on my stomach."
+    },
+    {
+      "id": 40,
+      "en": "I will go down to the lobby in five minutes."
+    },
+    {
+      "id": 41,
+      "en": "We are going to lower the monthly fee if you pay yearly."
+    },
+    {
+      "id": 42,
+      "en": "She will download the contract before she signs anything."
+    },
+    {
+      "id": 43,
+      "en": "They will get off the metro at the station near the museum."
+    },
+    {
+      "id": 44,
+      "en": "I would go down with you, but my knee hurts."
+    },
+    {
+      "id": 45,
+      "en": "He would lower the rent if you signed a two-year lease."
+    },
+    {
+      "id": 46,
+      "en": "We would download the offline pack if the trip was longer."
+    },
+    {
+      "id": 47,
+      "en": "I have gone down this road a hundred times."
+    },
+    {
+      "id": 48,
+      "en": "She has lowered her stress by walking every day."
+    },
+    {
+      "id": 49,
+      "en": "We have not lowered the price yet."
+    },
+    {
+      "id": 50,
+      "en": "He has never downloaded a file from that site."
+    },
+    {
+      "id": 51,
+      "en": "I need to go down and move the car before the street cleaning."
+    },
+    {
+      "id": 52,
+      "en": "She wants to lower her sugar intake before the next checkup."
+    },
+    {
+      "id": 53,
+      "en": "They forgot to lower the flag after the event."
+    },
+    {
+      "id": 54,
+      "en": "Try to lower your shoulders when you feel tense."
+    },
+    {
+      "id": 55,
+      "en": "Remember to download the boarding pass before you reach the airport."
+    },
+    {
+      "id": 56,
+      "en": "If you lower the speed, the engine noise drops."
+    },
+    {
+      "id": 57,
+      "en": "When interest rates fall, I refinance if the fees make sense."
+    },
+    {
+      "id": 58,
+      "en": "Although the hill was steep, we went down without crashing."
+    },
+    {
+      "id": 59,
+      "en": "Because the alarm was loud, I lowered the volume."
+    },
+    {
+      "id": 60,
+      "en": "Before you go down, check that the door locks behind you."
+    },
+    {
+      "id": 61,
+      "en": "After we lowered the table, the kids fit better."
+    },
+    {
+      "id": 62,
+      "en": "I go down to the gym in the basement after work."
+    },
+    {
+      "id": 63,
+      "en": "We lower the lights for movie night at home."
+    },
+    {
+      "id": 64,
+      "en": "I lowered the window when the air smelled like rain."
+    },
+    {
+      "id": 65,
+      "en": "They downloaded the wrong file, so the report failed."
+    },
+    {
+      "id": 66,
+      "en": "I will get off the bus early and walk the rest of the way."
+    },
+    {
+      "id": 67,
+      "en": "You should lower your caffeine if you cannot sleep."
+    },
+    {
+      "id": 68,
+      "en": "I don't download random apps from pop-up ads."
+    },
+    {
+      "id": 69,
+      "en": "We don't go down that block at night; the lights are out."
+    },
+    {
+      "id": 70,
+      "en": "She won't lower her price until she sees a serious buyer."
+    },
+    {
+      "id": 71,
+      "en": "Who lowered the thermostat to sixty degrees?"
+    },
+    {
+      "id": 72,
+      "en": "Have you downloaded the new security patch yet?"
+    },
+    {
+      "id": 73,
+      "en": "I was going down the stairs when I missed the last step."
+    },
+    {
+      "id": 74,
+      "en": "We were lowering boxes when the strap broke."
+    },
+    {
+      "id": 75,
+      "en": "I am lowering my weekly spending until I pay off the card."
+    },
+    {
+      "id": 76,
+      "en": "They are lowering the banner after the match ends."
+    },
+    {
+      "id": 77,
+      "en": "If the fever does not go down, call the doctor."
+    },
+    {
+      "id": 78,
+      "en": "When stocks go down, I do not panic-sell every time."
+    },
+    {
+      "id": 79,
+      "en": "Although the rent went down, we still stayed with friends."
+    },
+    {
+      "id": 80,
+      "en": "Before the trip, I downloaded offline maps for two cities."
+    },
+    {
+      "id": 81,
+      "en": "After I lowered the weight, my form looked cleaner."
+    },
+    {
+      "id": 82,
+      "en": "I lower the fan speed after I cook so the kitchen noise stops."
+    },
+    {
+      "id": 83,
+      "en": "I go down to the car with my parents when they carry heavy boxes."
+    },
+    {
+      "id": 84,
+      "en": "We lower our voices in the cafe when people are studying nearby."
+    },
+    {
+      "id": 85,
+      "en": "She wants to lose a little weight before summer, not crash diet."
+    },
+    {
+      "id": 86,
+      "en": "He needs to lower screen brightness; his eyes look tired."
+    },
+    {
+      "id": 87,
+      "en": "I haven't gone down to the basement since we saw the spider."
+    },
+    {
+      "id": 88,
+      "en": "Has the company lowered the subscription price this year?"
+    },
+    {
+      "id": 89,
+      "en": "If you go down the wrong exit, you will loop ten minutes."
+    },
+    {
+      "id": 90,
+      "en": "Although the music was loud, the host lowered it after one text."
+    },
+    {
+      "id": 91,
+      "en": "Because the file was huge, I downloaded it overnight."
+    },
+    {
+      "id": 92,
+      "en": "After the team scored, the fans went down the steps carefully."
+    },
+    {
+      "id": 93,
+      "en": "Do not lower safety rules just to ship faster."
+    },
+    {
+      "id": 94,
+      "en": "Let's download the backup before we run the update."
+    },
+    {
+      "id": 95,
+      "en": "I would lower my expectations if the reviews were that bad."
+    },
+    {
+      "id": 96,
+      "en": "The coach told us to lower our hips before the squat."
+    },
+    {
+      "id": 97,
+      "en": "I went down to the store for milk and came back with cookies."
+    },
+    {
+      "id": 98,
+      "en": "We lower the volume on the TV when someone talks on the phone."
+    },
+    {
+      "id": 99,
+      "en": "They get off the ferry and walk to the old town."
+    },
+    {
+      "id": 100,
+      "en": "Tomorrow I will go down early and download the agenda before the meeting."
+    }
+  ]
+}

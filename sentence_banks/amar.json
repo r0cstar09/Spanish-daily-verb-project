@@ -1,0 +1,407 @@
+{
+  "verb": "amar",
+  "generated_at": "2026-04-15T19:00:00+00:00",
+  "source": "sentence_banks:amar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I love my family even when we disagree."
+    },
+    {
+      "id": 2,
+      "en": "She loves her kids more than anything."
+    },
+    {
+      "id": 3,
+      "en": "We love each other, but we still argue sometimes."
+    },
+    {
+      "id": 4,
+      "en": "He loves his partner and he shows it in small ways."
+    },
+    {
+      "id": 5,
+      "en": "They love their grandparents and visit every month."
+    },
+    {
+      "id": 6,
+      "en": "I love you, and I mean it."
+    },
+    {
+      "id": 7,
+      "en": "Do you still love me after what happened?"
+    },
+    {
+      "id": 8,
+      "en": "Why do you love this city so much?"
+    },
+    {
+      "id": 9,
+      "en": "Who do you love the most in your family?"
+    },
+    {
+      "id": 10,
+      "en": "Don't say you love someone if you don't mean it."
+    },
+    {
+      "id": 11,
+      "en": "Love yourself before you try to fix everyone else."
+    },
+    {
+      "id": 12,
+      "en": "I loved her, but we were too young."
+    },
+    {
+      "id": 13,
+      "en": "He loved his dad even though they rarely talked."
+    },
+    {
+      "id": 14,
+      "en": "We loved that apartment until the rent went up."
+    },
+    {
+      "id": 15,
+      "en": "She loved him for years before she told him."
+    },
+    {
+      "id": 16,
+      "en": "I never loved the job, but I needed the money."
+    },
+    {
+      "id": 17,
+      "en": "They loved the trip after the first stressful day."
+    },
+    {
+      "id": 18,
+      "en": "I used to love running until my knee started hurting."
+    },
+    {
+      "id": 19,
+      "en": "We used to love this neighborhood when it was quieter."
+    },
+    {
+      "id": 20,
+      "en": "He used to love football, but now he barely watches."
+    },
+    {
+      "id": 21,
+      "en": "I will always love you, no matter where we live."
+    },
+    {
+      "id": 22,
+      "en": "She will love you even more if you bring the gift yourself."
+    },
+    {
+      "id": 23,
+      "en": "We are going to love the new place once we unpack."
+    },
+    {
+      "id": 24,
+      "en": "He is going to love meeting your parents."
+    },
+    {
+      "id": 25,
+      "en": "I love helping you, but I am booked today."
+    },
+    {
+      "id": 26,
+      "en": "After this project, she will love a full weekend at home."
+    },
+    {
+      "id": 27,
+      "en": "If flights get cheaper, they will visit the city they love."
+    },
+    {
+      "id": 28,
+      "en": "I have always loved music, even as a kid."
+    },
+    {
+      "id": 29,
+      "en": "We have loved living here since we moved in."
+    },
+    {
+      "id": 30,
+      "en": "He has never loved office small talk."
+    },
+    {
+      "id": 31,
+      "en": "I have loved her since the day we met."
+    },
+    {
+      "id": 32,
+      "en": "She hasn't loved anyone like that before."
+    },
+    {
+      "id": 33,
+      "en": "I want to love my work without losing my weekends."
+    },
+    {
+      "id": 34,
+      "en": "He needs to love himself before he dates again."
+    },
+    {
+      "id": 35,
+      "en": "We try to love the process, not just the result."
+    },
+    {
+      "id": 36,
+      "en": "I love to cook when I have time and a clean kitchen."
+    },
+    {
+      "id": 37,
+      "en": "She loves to travel, but she hates packing."
+    },
+    {
+      "id": 38,
+      "en": "They love to watch the match at home with friends."
+    },
+    {
+      "id": 39,
+      "en": "Tell him you love him before you leave town."
+    },
+    {
+      "id": 40,
+      "en": "Please don't pretend you love the plan if you hate it."
+    },
+    {
+      "id": 41,
+      "en": "Let's be honest about what we love and what we tolerate."
+    },
+    {
+      "id": 42,
+      "en": "I don't love early meetings, but I accept them."
+    },
+    {
+      "id": 43,
+      "en": "She doesn't love the commute, but she loves the team."
+    },
+    {
+      "id": 44,
+      "en": "We don't love debt, so we pay the card every month."
+    },
+    {
+      "id": 45,
+      "en": "He won't love the news, so be gentle."
+    },
+    {
+      "id": 46,
+      "en": "If you love someone, say it before you assume they know."
+    },
+    {
+      "id": 47,
+      "en": "When I am stressed, I love a short walk outside."
+    },
+    {
+      "id": 48,
+      "en": "Although we fight, I still love my brother."
+    },
+    {
+      "id": 49,
+      "en": "Because she loves order, she cleans before she cooks."
+    },
+    {
+      "id": 50,
+      "en": "After he moved, he loved the city more than he expected."
+    },
+    {
+      "id": 51,
+      "en": "Before I met you, I didn't know I could love this deeply."
+    },
+    {
+      "id": 52,
+      "en": "I love my dog, but I don't let him on the couch."
+    },
+    {
+      "id": 53,
+      "en": "She loves her job because the team actually listens."
+    },
+    {
+      "id": 54,
+      "en": "We love our friends, and we show up when it counts."
+    },
+    {
+      "id": 55,
+      "en": "He loves fixing things around the house on Sundays."
+    },
+    {
+      "id": 56,
+      "en": "I love a simple dinner at home after a long day."
+    },
+    {
+      "id": 57,
+      "en": "They love the gym in the morning, not at night."
+    },
+    {
+      "id": 58,
+      "en": "My parents love seeing the kids on video calls."
+    },
+    {
+      "id": 59,
+      "en": "I loved the old cafe before it closed down."
+    },
+    {
+      "id": 60,
+      "en": "She loved him, but she chose herself in the end."
+    },
+    {
+      "id": 61,
+      "en": "We loved the hotel because the staff was kind."
+    },
+    {
+      "id": 62,
+      "en": "I will love retirement if I stay healthy enough to enjoy it."
+    },
+    {
+      "id": 63,
+      "en": "Once you meet her in person, you will love her sense of humor."
+    },
+    {
+      "id": 64,
+      "en": "I want to join because I love teamwork, but I have a hard stop at three."
+    },
+    {
+      "id": 65,
+      "en": "She loves this job, but she still wants a raise."
+    },
+    {
+      "id": 66,
+      "en": "Have you ever loved someone you couldn't stay with?"
+    },
+    {
+      "id": 67,
+      "en": "How can you love the work and still want to quit?"
+    },
+    {
+      "id": 68,
+      "en": "Does he love the team, or does he just like winning?"
+    },
+    {
+      "id": 69,
+      "en": "I am learning to love rest as much as productivity."
+    },
+    {
+      "id": 70,
+      "en": "She learned to love swimming after she fixed her form."
+    },
+    {
+      "id": 71,
+      "en": "We started to love the routine after two weeks."
+    },
+    {
+      "id": 72,
+      "en": "He began to love cooking when he bought sharper knives."
+    },
+    {
+      "id": 73,
+      "en": "I love my phone, but I hate how it steals my attention."
+    },
+    {
+      "id": 74,
+      "en": "They love remote work, but they miss lunch with coworkers."
+    },
+    {
+      "id": 75,
+      "en": "I loved the meeting once we stopped reading slides."
+    },
+    {
+      "id": 76,
+      "en": "If you love the house, make an offer before rates change."
+    },
+    {
+      "id": 77,
+      "en": "When budgets are tight, I still love a cheap picnic."
+    },
+    {
+      "id": 78,
+      "en": "Although the flight was long, I loved the window seat."
+    },
+    {
+      "id": 79,
+      "en": "Before the match, the fans loved the quiet tension."
+    },
+    {
+      "id": 80,
+      "en": "After lunch, I love a short walk instead of more coffee."
+    },
+    {
+      "id": 81,
+      "en": "I love you because you are kind, not because you are perfect."
+    },
+    {
+      "id": 82,
+      "en": "She doesn't love risk, but she loves growth."
+    },
+    {
+      "id": 83,
+      "en": "We love planning trips, even when we cancel them."
+    },
+    {
+      "id": 84,
+      "en": "He loved his coach, even when the training was brutal."
+    },
+    {
+      "id": 85,
+      "en": "I will love seeing you at the airport on Friday."
+    },
+    {
+      "id": 86,
+      "en": "They have loved this club since they were teenagers."
+    },
+    {
+      "id": 87,
+      "en": "I have loved walking here ever since we found the path."
+    },
+    {
+      "id": 88,
+      "en": "Don't claim you love the feature if you never use it."
+    },
+    {
+      "id": 89,
+      "en": "Try to love the boring parts of the job too."
+    },
+    {
+      "id": 90,
+      "en": "Do you love him enough to move for his job?"
+    },
+    {
+      "id": 91,
+      "en": "I used to love social media, but now it drains me."
+    },
+    {
+      "id": 92,
+      "en": "She will love the weekend when this project finally ships."
+    },
+    {
+      "id": 93,
+      "en": "We need money, but we also need people we love nearby."
+    },
+    {
+      "id": 94,
+      "en": "I loved her honesty, even when it hurt."
+    },
+    {
+      "id": 95,
+      "en": "If you love the neighborhood, sign the lease today."
+    },
+    {
+      "id": 96,
+      "en": "When the baby smiles, I love that moment more than extra sleep."
+    },
+    {
+      "id": 97,
+      "en": "He said he loved the idea, but he never showed up."
+    },
+    {
+      "id": 98,
+      "en": "I love a clean kitchen, but I hate doing dishes."
+    },
+    {
+      "id": 99,
+      "en": "They loved the concert even though they arrived late."
+    },
+    {
+      "id": 100,
+      "en": "Tomorrow I will tell her I love her in person, not by text."
+    }
+  ]
+}

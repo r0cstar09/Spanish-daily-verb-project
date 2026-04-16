@@ -1,0 +1,407 @@
+{
+  "verb": "sufrir",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:sufrir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I suffer from back pain after work."
+    },
+    {
+      "id": 2,
+      "en": "We suffer long delays at the airport."
+    },
+    {
+      "id": 3,
+      "en": "He suffers from allergies every spring."
+    },
+    {
+      "id": 4,
+      "en": "She suffers from migraines when she is tired."
+    },
+    {
+      "id": 5,
+      "en": "They suffer the cold weather in winter."
+    },
+    {
+      "id": 6,
+      "en": "You suffer too much stress at work."
+    },
+    {
+      "id": 7,
+      "en": "The team suffers a big loss at home."
+    },
+    {
+      "id": 8,
+      "en": "The business suffers losses this year."
+    },
+    {
+      "id": 9,
+      "en": "I suffer a headache when I skip breakfast."
+    },
+    {
+      "id": 10,
+      "en": "We suffer from traffic noise near the highway."
+    },
+    {
+      "id": 11,
+      "en": "The building suffers damage after the storm."
+    },
+    {
+      "id": 12,
+      "en": "He suffers from knee pain when he runs."
+    },
+    {
+      "id": 13,
+      "en": "She suffers a long wait at the doctor."
+    },
+    {
+      "id": 14,
+      "en": "The store suffers from slow sales."
+    },
+    {
+      "id": 15,
+      "en": "I suffer from anxiety before meetings."
+    },
+    {
+      "id": 16,
+      "en": "We suffer from weak Wi‑Fi in the office."
+    },
+    {
+      "id": 17,
+      "en": "The football defender suffers a knee injury."
+    },
+    {
+      "id": 18,
+      "en": "He suffers from a bad cough after the trip."
+    },
+    {
+      "id": 19,
+      "en": "She suffers from a bad stomach after the food."
+    },
+    {
+      "id": 20,
+      "en": "They suffer from noisy neighbors."
+    },
+    {
+      "id": 21,
+      "en": "I suffered a headache yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We suffered long delays on the train."
+    },
+    {
+      "id": 23,
+      "en": "He didn't suffer much pain."
+    },
+    {
+      "id": 24,
+      "en": "She suffered from stress last month."
+    },
+    {
+      "id": 25,
+      "en": "They suffered a loss in the final minutes."
+    },
+    {
+      "id": 26,
+      "en": "I was suffering when you called."
+    },
+    {
+      "id": 27,
+      "en": "When I was young, I suffered from allergies."
+    },
+    {
+      "id": 28,
+      "en": "We suffered because the flight was late."
+    },
+    {
+      "id": 29,
+      "en": "The team suffered a loss on the road."
+    },
+    {
+      "id": 30,
+      "en": "I suffered from cold weather on the trip."
+    },
+    {
+      "id": 31,
+      "en": "The business suffered losses last year."
+    },
+    {
+      "id": 32,
+      "en": "Why did you suffer in silence?"
+    },
+    {
+      "id": 33,
+      "en": "We suffered from bad traffic downtown."
+    },
+    {
+      "id": 34,
+      "en": "He suffered a knee injury at the gym."
+    },
+    {
+      "id": 35,
+      "en": "I didn't suffer from the news."
+    },
+    {
+      "id": 36,
+      "en": "They suffered from a bad signal at the hotel."
+    },
+    {
+      "id": 37,
+      "en": "I suffered from a bad headache at work."
+    },
+    {
+      "id": 38,
+      "en": "We suffered from a long wait at the bank."
+    },
+    {
+      "id": 39,
+      "en": "The house suffered damage from the water."
+    },
+    {
+      "id": 40,
+      "en": "The city suffered heavy damage during the storm."
+    },
+    {
+      "id": 41,
+      "en": "I will suffer if I skip sleep."
+    },
+    {
+      "id": 42,
+      "en": "We will suffer delays if we leave late."
+    },
+    {
+      "id": 43,
+      "en": "If you run fast, you will suffer tomorrow."
+    },
+    {
+      "id": 44,
+      "en": "She will suffer from stress if she works late."
+    },
+    {
+      "id": 45,
+      "en": "He won't suffer if he takes the medicine."
+    },
+    {
+      "id": 46,
+      "en": "I would suffer less if I rested more."
+    },
+    {
+      "id": 47,
+      "en": "We would suffer if we lost the money."
+    },
+    {
+      "id": 48,
+      "en": "Would you suffer in silence?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel early, we will suffer less traffic."
+    },
+    {
+      "id": 50,
+      "en": "They will suffer a loss if the plan fails."
+    },
+    {
+      "id": 51,
+      "en": "You will suffer from cold if you forget your coat."
+    },
+    {
+      "id": 52,
+      "en": "I would suffer from anxiety if I didn't plan."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will suffer wet shoes."
+    },
+    {
+      "id": 54,
+      "en": "We will suffer from the noise if we stay near the highway."
+    },
+    {
+      "id": 55,
+      "en": "I would suffer if I ate bad food before the trip."
+    },
+    {
+      "id": 56,
+      "en": "I have suffered from headaches before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't suffered from allergies this year."
+    },
+    {
+      "id": 58,
+      "en": "She has suffered from stress since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you suffered from pain?"
+    },
+    {
+      "id": 60,
+      "en": "I need to suffer through this week."
+    },
+    {
+      "id": 61,
+      "en": "I want to suffer less."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to ask if the team suffered."
+    },
+    {
+      "id": 63,
+      "en": "Remember to rest if you suffer pain."
+    },
+    {
+      "id": 64,
+      "en": "I hate to suffer from long waits."
+    },
+    {
+      "id": 65,
+      "en": "We started to suffer from stress last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to suffer a short delay."
+    },
+    {
+      "id": 67,
+      "en": "I plan to suffer less if I change jobs."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to suffer bad service."
+    },
+    {
+      "id": 69,
+      "en": "I want you to tell me if you suffer pain."
+    },
+    {
+      "id": 70,
+      "en": "They tried to suffer in silence."
+    },
+    {
+      "id": 71,
+      "en": "Do you suffer from headaches?"
+    },
+    {
+      "id": 72,
+      "en": "Why did the team suffer?"
+    },
+    {
+      "id": 73,
+      "en": "Don't suffer in silence."
+    },
+    {
+      "id": 74,
+      "en": "Never suffer bad service if you can leave."
+    },
+    {
+      "id": 75,
+      "en": "Can't you suffer one more minute?"
+    },
+    {
+      "id": 76,
+      "en": "Haven't you suffered from stress before?"
+    },
+    {
+      "id": 77,
+      "en": "Won't you tell me if you suffer pain?"
+    },
+    {
+      "id": 78,
+      "en": "Where did you suffer the injury?"
+    },
+    {
+      "id": 79,
+      "en": "Will you suffer if we leave early?"
+    },
+    {
+      "id": 80,
+      "en": "Didn't you suffer from the cold?"
+    },
+    {
+      "id": 81,
+      "en": "Isn't it smart to rest if you suffer pain?"
+    },
+    {
+      "id": 82,
+      "en": "Don't you suffer from noise at home?"
+    },
+    {
+      "id": 83,
+      "en": "Why don't you rest if you suffer pain?"
+    },
+    {
+      "id": 84,
+      "en": "Stop suffering alone."
+    },
+    {
+      "id": 85,
+      "en": "Don't suffer if you can fix the problem."
+    },
+    {
+      "id": 86,
+      "en": "I suffer because I work too late."
+    },
+    {
+      "id": 87,
+      "en": "I suffer from stress, but I like the job."
+    },
+    {
+      "id": 88,
+      "en": "When you suffer pain, call the doctor."
+    },
+    {
+      "id": 89,
+      "en": "If you suffer, tell me."
+    },
+    {
+      "id": 90,
+      "en": "Although I suffered, I finished the week."
+    },
+    {
+      "id": 91,
+      "en": "Before you travel, rest if you suffer pain."
+    },
+    {
+      "id": 92,
+      "en": "After I suffered, I changed my routine."
+    },
+    {
+      "id": 93,
+      "en": "Because we suffered delays, we missed the meeting."
+    },
+    {
+      "id": 94,
+      "en": "I suffer stress at work, but I sleep well at home."
+    },
+    {
+      "id": 95,
+      "en": "When he suffers stress, he walks outside."
+    },
+    {
+      "id": 96,
+      "en": "If we suffer losses, we will cut costs."
+    },
+    {
+      "id": 97,
+      "en": "Although we suffered, we stayed calm."
+    },
+    {
+      "id": 98,
+      "en": "Before you run, stretch if you suffer knee pain."
+    },
+    {
+      "id": 99,
+      "en": "After the team suffered, we still went out to eat."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you tell me if you suffer pain."
+    }
+  ]
+}

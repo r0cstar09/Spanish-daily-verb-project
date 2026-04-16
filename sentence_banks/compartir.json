@@ -1,0 +1,407 @@
+{
+  "verb": "compartir",
+  "generated_at": "2026-04-16T01:00:00+00:00",
+  "source": "sentence_banks:compartir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "We share an apartment downtown."
+    },
+    {
+      "id": 2,
+      "en": "I share my leftovers with my roommate."
+    },
+    {
+      "id": 3,
+      "en": "They share the car on weekdays."
+    },
+    {
+      "id": 4,
+      "en": "She shares her screen during the call."
+    },
+    {
+      "id": 5,
+      "en": "He shares links in the group chat."
+    },
+    {
+      "id": 6,
+      "en": "You share too much personal information online."
+    },
+    {
+      "id": 7,
+      "en": "We split the rent, but we still share the bills fairly."
+    },
+    {
+      "id": 8,
+      "en": "I share a desk with my coworker."
+    },
+    {
+      "id": 9,
+      "en": "They share a locker at the gym."
+    },
+    {
+      "id": 10,
+      "en": "We share wedding photos only with family."
+    },
+    {
+      "id": 11,
+      "en": "I share my location when I walk home late."
+    },
+    {
+      "id": 12,
+      "en": "He shares his opinion in every meeting."
+    },
+    {
+      "id": 13,
+      "en": "She shares the playlist with the team."
+    },
+    {
+      "id": 14,
+      "en": "We share a streaming account to save money."
+    },
+    {
+      "id": 15,
+      "en": "I share breakfast with my partner on Sundays."
+    },
+    {
+      "id": 16,
+      "en": "They share the same birthday."
+    },
+    {
+      "id": 17,
+      "en": "People share rides to save money."
+    },
+    {
+      "id": 18,
+      "en": "We share chores on weekends."
+    },
+    {
+      "id": 19,
+      "en": "I share the folder with the whole team."
+    },
+    {
+      "id": 20,
+      "en": "You share the armrest on a crowded flight."
+    },
+    {
+      "id": 21,
+      "en": "I shared the pizza with her."
+    },
+    {
+      "id": 22,
+      "en": "We shared a taxi after the match."
+    },
+    {
+      "id": 23,
+      "en": "We shared a table because the place was full."
+    },
+    {
+      "id": 24,
+      "en": "He shared the news before I asked."
+    },
+    {
+      "id": 25,
+      "en": "She shared the file with me yesterday."
+    },
+    {
+      "id": 26,
+      "en": "They shared a room when they traveled."
+    },
+    {
+      "id": 27,
+      "en": "I was sharing my screen when the app crashed."
+    },
+    {
+      "id": 28,
+      "en": "We shared the cost of the gift."
+    },
+    {
+      "id": 29,
+      "en": "I didn't share my password because it felt risky."
+    },
+    {
+      "id": 30,
+      "en": "Why did you share that with strangers?"
+    },
+    {
+      "id": 31,
+      "en": "Although I was tired, I shared my notes."
+    },
+    {
+      "id": 32,
+      "en": "When I was a kid, we shared one bathroom."
+    },
+    {
+      "id": 33,
+      "en": "I used to share a bike with my brother."
+    },
+    {
+      "id": 34,
+      "en": "After we shared dinner, we talked about money."
+    },
+    {
+      "id": 35,
+      "en": "Before we shared the plan, we checked the budget."
+    },
+    {
+      "id": 36,
+      "en": "We shared a laugh, but we stayed professional."
+    },
+    {
+      "id": 37,
+      "en": "He shared the link in the wrong channel."
+    },
+    {
+      "id": 38,
+      "en": "We never shared bank accounts before we married."
+    },
+    {
+      "id": 39,
+      "en": "She shared her feelings, but I stayed quiet."
+    },
+    {
+      "id": 40,
+      "en": "We shared the dessert because we were full."
+    },
+    {
+      "id": 41,
+      "en": "I will share the slides after the meeting."
+    },
+    {
+      "id": 42,
+      "en": "We'll share a ride if you are on the way."
+    },
+    {
+      "id": 43,
+      "en": "If you agree, I will share the document."
+    },
+    {
+      "id": 44,
+      "en": "They will share the prize if they win."
+    },
+    {
+      "id": 45,
+      "en": "I am going to share my screen with you."
+    },
+    {
+      "id": 46,
+      "en": "We could share an Uber if we leave together."
+    },
+    {
+      "id": 47,
+      "en": "I would share the room with you if the price was lower."
+    },
+    {
+      "id": 48,
+      "en": "If we save money, we will share a bigger place."
+    },
+    {
+      "id": 49,
+      "en": "Tomorrow I will share the agenda with everyone."
+    },
+    {
+      "id": 50,
+      "en": "She will share the results when they are ready."
+    },
+    {
+      "id": 51,
+      "en": "We would share the work if we had more time."
+    },
+    {
+      "id": 52,
+      "en": "If you are late, we will share the notes anyway."
+    },
+    {
+      "id": 53,
+      "en": "He will share the ticket with his cousin."
+    },
+    {
+      "id": 54,
+      "en": "They will share the news at the family dinner."
+    },
+    {
+      "id": 55,
+      "en": "We will share the link when the page goes live."
+    },
+    {
+      "id": 56,
+      "en": "I have shared the link already."
+    },
+    {
+      "id": 57,
+      "en": "We haven't shared the budget yet."
+    },
+    {
+      "id": 58,
+      "en": "I've shared too many photos today."
+    },
+    {
+      "id": 59,
+      "en": "After sharing the file, I locked the folder."
+    },
+    {
+      "id": 60,
+      "en": "Before you share, check who can see it."
+    },
+    {
+      "id": 61,
+      "en": "I want to share how I feel."
+    },
+    {
+      "id": 62,
+      "en": "We need to share the plan before Friday."
+    },
+    {
+      "id": 63,
+      "en": "Don't share your password with anyone."
+    },
+    {
+      "id": 64,
+      "en": "Let's share the ride home."
+    },
+    {
+      "id": 65,
+      "en": "I forgot to share the calendar invite."
+    },
+    {
+      "id": 66,
+      "en": "To keep costs down, we share a family phone plan."
+    },
+    {
+      "id": 67,
+      "en": "Stop sharing screenshots in the group chat."
+    },
+    {
+      "id": 68,
+      "en": "I haven't shared my screen in a meeting before."
+    },
+    {
+      "id": 69,
+      "en": "We haven't shared the news with the kids yet."
+    },
+    {
+      "id": 70,
+      "en": "It's time to share the honest update."
+    },
+    {
+      "id": 71,
+      "en": "Do you share your location?"
+    },
+    {
+      "id": 72,
+      "en": "Did you share the file?"
+    },
+    {
+      "id": 73,
+      "en": "When will you share the results?"
+    },
+    {
+      "id": 74,
+      "en": "Where did you share the link?"
+    },
+    {
+      "id": 75,
+      "en": "Don't share that with your boss yet."
+    },
+    {
+      "id": 76,
+      "en": "We can't share the document until we get approval."
+    },
+    {
+      "id": 77,
+      "en": "I don't share my phone with strangers."
+    },
+    {
+      "id": 78,
+      "en": "Why won't you share what happened?"
+    },
+    {
+      "id": 79,
+      "en": "Share your screen with me."
+    },
+    {
+      "id": 80,
+      "en": "Never share your two-factor code."
+    },
+    {
+      "id": 81,
+      "en": "Can we share the dessert?"
+    },
+    {
+      "id": 82,
+      "en": "I won't share details until I hear the full story."
+    },
+    {
+      "id": 83,
+      "en": "We don't share utensils when someone is sick."
+    },
+    {
+      "id": 84,
+      "en": "Are you going to share the notes?"
+    },
+    {
+      "id": 85,
+      "en": "Could you share your screen?"
+    },
+    {
+      "id": 86,
+      "en": "When we travel, we share a small suitcase."
+    },
+    {
+      "id": 87,
+      "en": "Because we carpool, we share the gas money."
+    },
+    {
+      "id": 88,
+      "en": "If you share the link, I will join the call."
+    },
+    {
+      "id": 89,
+      "en": "Although we shared a room, we kept different schedules."
+    },
+    {
+      "id": 90,
+      "en": "Before we book, let's share the budget."
+    },
+    {
+      "id": 91,
+      "en": "After we shared the news, we ordered food."
+    },
+    {
+      "id": 92,
+      "en": "We shared one car, but we had different shifts."
+    },
+    {
+      "id": 93,
+      "en": "When the match ends, we share the highlights online."
+    },
+    {
+      "id": 94,
+      "en": "If you share honestly, I will listen."
+    },
+    {
+      "id": 95,
+      "en": "We should share the cost before we buy more."
+    },
+    {
+      "id": 96,
+      "en": "She shares the kitchen, but she hates cleaning."
+    },
+    {
+      "id": 97,
+      "en": "Because I was late, I shared only the summary."
+    },
+    {
+      "id": 98,
+      "en": "After we shared the folder, we got a thank-you message."
+    },
+    {
+      "id": 99,
+      "en": "When we share photos, we check the privacy settings."
+    },
+    {
+      "id": 100,
+      "en": "Let's share a meal tonight and plan the weekend."
+    }
+  ]
+}

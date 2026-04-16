@@ -1,0 +1,407 @@
+{
+  "verb": "preferir",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:preferir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I prefer tea to coffee."
+    },
+    {
+      "id": 2,
+      "en": "We prefer to walk when the weather is nice."
+    },
+    {
+      "id": 3,
+      "en": "He prefers the window seat."
+    },
+    {
+      "id": 4,
+      "en": "She prefers to work in the morning."
+    },
+    {
+      "id": 5,
+      "en": "They prefer cash to card."
+    },
+    {
+      "id": 6,
+      "en": "You prefer quiet nights at home."
+    },
+    {
+      "id": 7,
+      "en": "I prefer the train to the bus."
+    },
+    {
+      "id": 8,
+      "en": "We prefer to cook at home."
+    },
+    {
+      "id": 9,
+      "en": "He prefers to sleep early."
+    },
+    {
+      "id": 10,
+      "en": "She prefers the blue shirt."
+    },
+    {
+      "id": 11,
+      "en": "I prefer to pay online."
+    },
+    {
+      "id": 12,
+      "en": "We prefer to meet in person."
+    },
+    {
+      "id": 13,
+      "en": "They prefer the small apartment."
+    },
+    {
+      "id": 14,
+      "en": "You prefer to text instead of call."
+    },
+    {
+      "id": 15,
+      "en": "I prefer cold water after the gym."
+    },
+    {
+      "id": 16,
+      "en": "He prefers football on TV to radio."
+    },
+    {
+      "id": 17,
+      "en": "We prefer to leave before rush hour."
+    },
+    {
+      "id": 18,
+      "en": "She prefers to work from home on Fridays."
+    },
+    {
+      "id": 19,
+      "en": "I prefer weekends with no plans."
+    },
+    {
+      "id": 20,
+      "en": "They prefer to split the bill."
+    },
+    {
+      "id": 21,
+      "en": "I preferred the old version of the app."
+    },
+    {
+      "id": 22,
+      "en": "We preferred to stay home last night."
+    },
+    {
+      "id": 23,
+      "en": "He preferred the aisle seat on the flight."
+    },
+    {
+      "id": 24,
+      "en": "She preferred to call rather than email."
+    },
+    {
+      "id": 25,
+      "en": "I didn't prefer one option over the other."
+    },
+    {
+      "id": 26,
+      "en": "They preferred the cheaper hotel."
+    },
+    {
+      "id": 27,
+      "en": "I had preferred the first plan until you changed it."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I preferred night classes."
+    },
+    {
+      "id": 29,
+      "en": "We preferred to save money on food."
+    },
+    {
+      "id": 30,
+      "en": "He preferred to drive alone."
+    },
+    {
+      "id": 31,
+      "en": "I preferred to talk face to face."
+    },
+    {
+      "id": 32,
+      "en": "She preferred the summer trip."
+    },
+    {
+      "id": 33,
+      "en": "Why did you prefer the second offer?"
+    },
+    {
+      "id": 34,
+      "en": "We preferred the restaurant near the park."
+    },
+    {
+      "id": 35,
+      "en": "I preferred to watch the football final at home."
+    },
+    {
+      "id": 36,
+      "en": "He preferred to pay with cash."
+    },
+    {
+      "id": 37,
+      "en": "They preferred a room with a view."
+    },
+    {
+      "id": 38,
+      "en": "I preferred to wait until Monday."
+    },
+    {
+      "id": 39,
+      "en": "We preferred you to lead the meeting."
+    },
+    {
+      "id": 40,
+      "en": "You preferred the older design."
+    },
+    {
+      "id": 41,
+      "en": "I will prefer to stay home if it rains."
+    },
+    {
+      "id": 42,
+      "en": "We will prefer the cheaper flight if we can cancel for free."
+    },
+    {
+      "id": 43,
+      "en": "If you show both prices, I will prefer the lower one."
+    },
+    {
+      "id": 44,
+      "en": "She will prefer to leave early."
+    },
+    {
+      "id": 45,
+      "en": "He won't prefer the change at first."
+    },
+    {
+      "id": 46,
+      "en": "I would prefer a smaller bill if we split evenly."
+    },
+    {
+      "id": 47,
+      "en": "We would prefer to travel in spring."
+    },
+    {
+      "id": 48,
+      "en": "Would you prefer to meet online?"
+    },
+    {
+      "id": 49,
+      "en": "If you offer both, I will prefer the faster option."
+    },
+    {
+      "id": 50,
+      "en": "They will prefer the new plan if it is clearer."
+    },
+    {
+      "id": 51,
+      "en": "You will prefer the job when you learn more."
+    },
+    {
+      "id": 52,
+      "en": "I would prefer to call if you are free."
+    },
+    {
+      "id": 53,
+      "en": "If it is cold, we will prefer the indoor pool."
+    },
+    {
+      "id": 54,
+      "en": "I will prefer to watch the football match at home."
+    },
+    {
+      "id": 55,
+      "en": "We will prefer to book the hotel early."
+    },
+    {
+      "id": 56,
+      "en": "I have always preferred simple food."
+    },
+    {
+      "id": 57,
+      "en": "We haven't preferred the new layout yet."
+    },
+    {
+      "id": 58,
+      "en": "She has preferred to work alone since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you preferred the update so far?"
+    },
+    {
+      "id": 60,
+      "en": "I need to prefer sleep to screens tonight."
+    },
+    {
+      "id": 61,
+      "en": "I want to prefer walking to driving for short trips."
+    },
+    {
+      "id": 62,
+      "en": "He forgot which option he preferred."
+    },
+    {
+      "id": 63,
+      "en": "Remember to prefer quality over price sometimes."
+    },
+    {
+      "id": 64,
+      "en": "I hate to prefer money over time, but I have to this month."
+    },
+    {
+      "id": 65,
+      "en": "We started to prefer the new app after a week."
+    },
+    {
+      "id": 66,
+      "en": "I have to prefer the cheaper plan this month."
+    },
+    {
+      "id": 67,
+      "en": "I plan to prefer rest after the trip."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to prefer work over health."
+    },
+    {
+      "id": 69,
+      "en": "I want you to prefer honesty over comfort."
+    },
+    {
+      "id": 70,
+      "en": "They tried to prefer the local option when they could."
+    },
+    {
+      "id": 71,
+      "en": "Do you prefer tea or coffee?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you prefer that plan?"
+    },
+    {
+      "id": 73,
+      "en": "Prefer the cheaper option if you can."
+    },
+    {
+      "id": 74,
+      "en": "Don't prefer speed over safety."
+    },
+    {
+      "id": 75,
+      "en": "Never prefer work over rest when you are sick."
+    },
+    {
+      "id": 76,
+      "en": "Can't you prefer the earlier flight?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you preferred this before?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you prefer the window seat?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you prefer to sit?"
+    },
+    {
+      "id": 80,
+      "en": "Will you prefer to leave early?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you prefer the old app?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it normal to prefer quiet mornings?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you prefer to pay online?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you prefer the train?"
+    },
+    {
+      "id": 85,
+      "en": "Stop pretending you prefer the loud bar."
+    },
+    {
+      "id": 86,
+      "en": "I prefer quiet because I work late."
+    },
+    {
+      "id": 87,
+      "en": "We preferred the city, but we still enjoyed the trip."
+    },
+    {
+      "id": 88,
+      "en": "When you prefer to sleep early, you feel better."
+    },
+    {
+      "id": 89,
+      "en": "If you prefer cold food, I will put it in the fridge."
+    },
+    {
+      "id": 90,
+      "en": "Although I preferred the job, I turned it down."
+    },
+    {
+      "id": 91,
+      "en": "Before you choose, say which option you prefer."
+    },
+    {
+      "id": 92,
+      "en": "After I preferred the lower rent, I signed the lease."
+    },
+    {
+      "id": 93,
+      "en": "Because she preferred the morning slot, we moved the call."
+    },
+    {
+      "id": 94,
+      "en": "I prefer coffee at home, but I drink tea at work."
+    },
+    {
+      "id": 95,
+      "en": "When he prefers to work alone, he closes the door."
+    },
+    {
+      "id": 96,
+      "en": "If we prefer the cheaper hotel, we will save money."
+    },
+    {
+      "id": 97,
+      "en": "Although we preferred the first date, we changed it."
+    },
+    {
+      "id": 98,
+      "en": "Before you say you prefer one option, read the terms."
+    },
+    {
+      "id": 99,
+      "en": "After we preferred the football tickets, we bought them."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you prefer honesty over comfort."
+    }
+  ]
+}

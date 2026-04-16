@@ -1,0 +1,407 @@
+{
+  "verb": "seguir",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:seguir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I follow the rules at work."
+    },
+    {
+      "id": 2,
+      "en": "We follow the recipe on Sundays."
+    },
+    {
+      "id": 3,
+      "en": "He follows the football league online."
+    },
+    {
+      "id": 4,
+      "en": "She follows her trainer's plan."
+    },
+    {
+      "id": 5,
+      "en": "They follow the map in the city."
+    },
+    {
+      "id": 6,
+      "en": "You follow too close in traffic."
+    },
+    {
+      "id": 7,
+      "en": "I follow the bus route on my phone."
+    },
+    {
+      "id": 8,
+      "en": "We follow the news every morning."
+    },
+    {
+      "id": 9,
+      "en": "He follows three accounts on the app."
+    },
+    {
+      "id": 10,
+      "en": "She follows the diet during the week."
+    },
+    {
+      "id": 11,
+      "en": "I keep studying after dinner."
+    },
+    {
+      "id": 12,
+      "en": "We keep practicing on Tuesday nights."
+    },
+    {
+      "id": 13,
+      "en": "They keep working late this month."
+    },
+    {
+      "id": 14,
+      "en": "You keep losing your keys."
+    },
+    {
+      "id": 15,
+      "en": "I still feel tired."
+    },
+    {
+      "id": 16,
+      "en": "We still wait for an answer."
+    },
+    {
+      "id": 17,
+      "en": "He still wants to travel."
+    },
+    {
+      "id": 18,
+      "en": "She still likes the old song."
+    },
+    {
+      "id": 19,
+      "en": "I follow the signs to the exit."
+    },
+    {
+      "id": 20,
+      "en": "They keep talking in the meeting."
+    },
+    {
+      "id": 21,
+      "en": "I followed the car yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We followed the plan exactly."
+    },
+    {
+      "id": 23,
+      "en": "He followed the link from the email."
+    },
+    {
+      "id": 24,
+      "en": "She followed the group to the café."
+    },
+    {
+      "id": 25,
+      "en": "I didn't follow the instructions."
+    },
+    {
+      "id": 26,
+      "en": "They followed the coach onto the field."
+    },
+    {
+      "id": 27,
+      "en": "I was following you when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was new, I followed every safety rule."
+    },
+    {
+      "id": 29,
+      "en": "We followed early because the path was dark."
+    },
+    {
+      "id": 30,
+      "en": "He followed the money story online."
+    },
+    {
+      "id": 31,
+      "en": "I followed her to the station."
+    },
+    {
+      "id": 32,
+      "en": "She followed the meeting notes."
+    },
+    {
+      "id": 33,
+      "en": "Why did you follow so close?"
+    },
+    {
+      "id": 34,
+      "en": "We followed the thread in the chat."
+    },
+    {
+      "id": 35,
+      "en": "I kept trying after the error."
+    },
+    {
+      "id": 36,
+      "en": "He kept texting after midnight."
+    },
+    {
+      "id": 37,
+      "en": "They followed the travel guide."
+    },
+    {
+      "id": 38,
+      "en": "I followed the trip on the app."
+    },
+    {
+      "id": 39,
+      "en": "We followed the budget rule."
+    },
+    {
+      "id": 40,
+      "en": "You followed more than you said."
+    },
+    {
+      "id": 41,
+      "en": "I will follow the plan tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will follow if you lead."
+    },
+    {
+      "id": 43,
+      "en": "If you walk fast, I will follow."
+    },
+    {
+      "id": 44,
+      "en": "She will follow the update on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't follow without a clear reason."
+    },
+    {
+      "id": 46,
+      "en": "I would follow more if I had time."
+    },
+    {
+      "id": 47,
+      "en": "We would follow the news if the site worked."
+    },
+    {
+      "id": 48,
+      "en": "Would you follow me to the door?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will follow the guide."
+    },
+    {
+      "id": 50,
+      "en": "They will follow the route on site."
+    },
+    {
+      "id": 51,
+      "en": "You will follow better if you sleep."
+    },
+    {
+      "id": 52,
+      "en": "I would keep calm if I were you."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will follow the indoor plan."
+    },
+    {
+      "id": 54,
+      "en": "I will follow the football match on TV."
+    },
+    {
+      "id": 55,
+      "en": "We will follow up before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have followed this rule for years."
+    },
+    {
+      "id": 57,
+      "en": "We haven't followed the thread yet."
+    },
+    {
+      "id": 58,
+      "en": "She has followed the team since January."
+    },
+    {
+      "id": 59,
+      "en": "Have you followed the account?"
+    },
+    {
+      "id": 60,
+      "en": "I need to follow up today."
+    },
+    {
+      "id": 61,
+      "en": "I want to follow the plan."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to follow the link."
+    },
+    {
+      "id": 63,
+      "en": "Remember to follow the signs."
+    },
+    {
+      "id": 64,
+      "en": "I hate to follow when I am tired."
+    },
+    {
+      "id": 65,
+      "en": "We started to follow the news last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to follow the budget tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to follow the lead early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to follow without a map."
+    },
+    {
+      "id": 69,
+      "en": "I want you to follow the steps."
+    },
+    {
+      "id": 70,
+      "en": "They tried to follow the trail."
+    },
+    {
+      "id": 71,
+      "en": "Do you follow the rules every week?"
+    },
+    {
+      "id": 72,
+      "en": "Who did you follow online?"
+    },
+    {
+      "id": 73,
+      "en": "Follow the path on the left."
+    },
+    {
+      "id": 74,
+      "en": "Don't follow strangers online."
+    },
+    {
+      "id": 75,
+      "en": "Never follow a link you don't trust."
+    },
+    {
+      "id": 76,
+      "en": "Can't you follow slower?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you followed the news?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you follow the team this year?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you follow them?"
+    },
+    {
+      "id": 80,
+      "en": "Will you follow if I drive?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you follow the agenda?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to follow the plan?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you follow the recipe before you bake?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you follow the first step?"
+    },
+    {
+      "id": 85,
+      "en": "Stop following too close."
+    },
+    {
+      "id": 86,
+      "en": "I follow the plan because my boss asks."
+    },
+    {
+      "id": 87,
+      "en": "We followed the trip online, but the flight changed."
+    },
+    {
+      "id": 88,
+      "en": "When you follow the map, zoom in first."
+    },
+    {
+      "id": 89,
+      "en": "If you follow the guide, you will feel safe."
+    },
+    {
+      "id": 90,
+      "en": "Although I followed the plan, I still felt lost."
+    },
+    {
+      "id": 91,
+      "en": "Before you turn, follow the sign."
+    },
+    {
+      "id": 92,
+      "en": "After I followed the link, the page loaded."
+    },
+    {
+      "id": 93,
+      "en": "Because we followed early, we left on time."
+    },
+    {
+      "id": 94,
+      "en": "I follow policy at work, but I stay quiet at home."
+    },
+    {
+      "id": 95,
+      "en": "When he feels stress, he follows the checklist slowly."
+    },
+    {
+      "id": 96,
+      "en": "If we follow the thread, we will find the answer."
+    },
+    {
+      "id": 97,
+      "en": "Although we followed the route, the road closed."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, follow the travel alert."
+    },
+    {
+      "id": 99,
+      "en": "After we followed the football match, we went home tired."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you follow the safety rules."
+    }
+  ]
+}

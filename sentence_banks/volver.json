@@ -1,0 +1,407 @@
+{
+  "verb": "volver",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:volver",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I return home at six."
+    },
+    {
+      "id": 2,
+      "en": "We return to work on Monday."
+    },
+    {
+      "id": 3,
+      "en": "He returns from the trip on Sunday."
+    },
+    {
+      "id": 4,
+      "en": "She returns from lunch at two."
+    },
+    {
+      "id": 5,
+      "en": "They return from the gym late."
+    },
+    {
+      "id": 6,
+      "en": "You return too late."
+    },
+    {
+      "id": 7,
+      "en": "I go back to the store for milk."
+    },
+    {
+      "id": 8,
+      "en": "We come back every summer."
+    },
+    {
+      "id": 9,
+      "en": "He calls again after the meeting."
+    },
+    {
+      "id": 10,
+      "en": "She reads the email again."
+    },
+    {
+      "id": 11,
+      "en": "I try again tomorrow."
+    },
+    {
+      "id": 12,
+      "en": "We don't want to wait again."
+    },
+    {
+      "id": 13,
+      "en": "He forgets again."
+    },
+    {
+      "id": 14,
+      "en": "I return by bus."
+    },
+    {
+      "id": 15,
+      "en": "The team returns from the away football game."
+    },
+    {
+      "id": 16,
+      "en": "I come back to this café often."
+    },
+    {
+      "id": 17,
+      "en": "She goes back to work after the holiday."
+    },
+    {
+      "id": 18,
+      "en": "They return home after the game."
+    },
+    {
+      "id": 19,
+      "en": "You click the wrong button again."
+    },
+    {
+      "id": 20,
+      "en": "I send the file again."
+    },
+    {
+      "id": 21,
+      "en": "I returned home late."
+    },
+    {
+      "id": 22,
+      "en": "We returned to the office yesterday."
+    },
+    {
+      "id": 23,
+      "en": "He didn't return from the trip."
+    },
+    {
+      "id": 24,
+      "en": "She came back from the bank."
+    },
+    {
+      "id": 25,
+      "en": "I didn't return yesterday."
+    },
+    {
+      "id": 26,
+      "en": "They returned early."
+    },
+    {
+      "id": 27,
+      "en": "I was returning when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a student, I returned home every weekend."
+    },
+    {
+      "id": 29,
+      "en": "We returned because the rain was heavy."
+    },
+    {
+      "id": 30,
+      "en": "He called again."
+    },
+    {
+      "id": 31,
+      "en": "Why did you return alone?"
+    },
+    {
+      "id": 32,
+      "en": "We went back to the hotel."
+    },
+    {
+      "id": 33,
+      "en": "I read the note again."
+    },
+    {
+      "id": 34,
+      "en": "She tried again after the error."
+    },
+    {
+      "id": 35,
+      "en": "I returned more tired than when I left."
+    },
+    {
+      "id": 36,
+      "en": "They turned back on the road."
+    },
+    {
+      "id": 37,
+      "en": "You forgot again."
+    },
+    {
+      "id": 38,
+      "en": "I returned from the meeting with a clear plan."
+    },
+    {
+      "id": 39,
+      "en": "We returned to the park."
+    },
+    {
+      "id": 40,
+      "en": "He sent the message again."
+    },
+    {
+      "id": 41,
+      "en": "I will return tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will return if you text us."
+    },
+    {
+      "id": 43,
+      "en": "If you call, I will return at five."
+    },
+    {
+      "id": 44,
+      "en": "She will return on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't return without a plan."
+    },
+    {
+      "id": 46,
+      "en": "I would return if I had a car."
+    },
+    {
+      "id": 47,
+      "en": "We would return if the weather was good."
+    },
+    {
+      "id": 48,
+      "en": "Would you return with me?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will return on Sunday."
+    },
+    {
+      "id": 50,
+      "en": "They will return at ten."
+    },
+    {
+      "id": 51,
+      "en": "You will return faster if you take the metro."
+    },
+    {
+      "id": 52,
+      "en": "I would call again if I had time."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will return by taxi."
+    },
+    {
+      "id": 54,
+      "en": "I will return after the meeting."
+    },
+    {
+      "id": 55,
+      "en": "We will return before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have returned here before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't returned yet."
+    },
+    {
+      "id": 58,
+      "en": "She has called again every day since Monday."
+    },
+    {
+      "id": 59,
+      "en": "Have you sent the file again?"
+    },
+    {
+      "id": 60,
+      "en": "I need to return today."
+    },
+    {
+      "id": 61,
+      "en": "I want to go back early."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to return on time."
+    },
+    {
+      "id": 63,
+      "en": "Remember to call again."
+    },
+    {
+      "id": 64,
+      "en": "I hate to wait again."
+    },
+    {
+      "id": 65,
+      "en": "We started to return home earlier last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to try again tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to return early on Friday."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to fail again."
+    },
+    {
+      "id": 69,
+      "en": "I want you to come back safe."
+    },
+    {
+      "id": 70,
+      "en": "They tried to return on time."
+    },
+    {
+      "id": 71,
+      "en": "Do you return every day?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you return so late?"
+    },
+    {
+      "id": 73,
+      "en": "Come back before dark."
+    },
+    {
+      "id": 74,
+      "en": "Don't go back without a key."
+    },
+    {
+      "id": 75,
+      "en": "Never lie again."
+    },
+    {
+      "id": 76,
+      "en": "Can't you return earlier?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you returned yet?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you come back with us?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you return from?"
+    },
+    {
+      "id": 80,
+      "en": "Will you call again if I send a message?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you return to work?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to try again?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you return home at six?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you read it again?"
+    },
+    {
+      "id": 85,
+      "en": "Don't leave again without a plan."
+    },
+    {
+      "id": 86,
+      "en": "I return by train because the car is in the shop."
+    },
+    {
+      "id": 87,
+      "en": "We returned early, but the door was locked."
+    },
+    {
+      "id": 88,
+      "en": "When you return, text me first."
+    },
+    {
+      "id": 89,
+      "en": "If you go back for the phone, you will miss the train."
+    },
+    {
+      "id": 90,
+      "en": "Although I returned fast, I still felt tired."
+    },
+    {
+      "id": 91,
+      "en": "Before you travel, say when you will return."
+    },
+    {
+      "id": 92,
+      "en": "After I returned home, I made dinner."
+    },
+    {
+      "id": 93,
+      "en": "Because we returned early, we saved money."
+    },
+    {
+      "id": 94,
+      "en": "I return to work by train, but I walk near home."
+    },
+    {
+      "id": 95,
+      "en": "When he feels lost, he goes back to the map on his phone."
+    },
+    {
+      "id": 96,
+      "en": "If we return on time, we will get a table."
+    },
+    {
+      "id": 97,
+      "en": "Although we returned, the room was full."
+    },
+    {
+      "id": 98,
+      "en": "Before you send money, check the date you return."
+    },
+    {
+      "id": 99,
+      "en": "After we returned from the football game, we went home tired."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you return on time."
+    }
+  ]
+}

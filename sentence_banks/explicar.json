@@ -1,0 +1,407 @@
+{
+  "verb": "explicar",
+  "generated_at": "2026-04-15T21:30:00+00:00",
+  "source": "sentence_banks:explicar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I explain the steps every time."
+    },
+    {
+      "id": 2,
+      "en": "She explains the menu in English."
+    },
+    {
+      "id": 3,
+      "en": "We explain the idea at the start of the call."
+    },
+    {
+      "id": 4,
+      "en": "He explains the rules clearly."
+    },
+    {
+      "id": 5,
+      "en": "You explain too fast."
+    },
+    {
+      "id": 6,
+      "en": "They explain the bill line by line."
+    },
+    {
+      "id": 7,
+      "en": "The teacher explains the homework online."
+    },
+    {
+      "id": 8,
+      "en": "I explain the route before we drive."
+    },
+    {
+      "id": 9,
+      "en": "She explains the app when I get stuck."
+    },
+    {
+      "id": 10,
+      "en": "We explain the budget at the meeting."
+    },
+    {
+      "id": 11,
+      "en": "He explains the offside rule to new fans."
+    },
+    {
+      "id": 12,
+      "en": "I explain my side when I'm calm."
+    },
+    {
+      "id": 13,
+      "en": "It's important that we explain the delay."
+    },
+    {
+      "id": 14,
+      "en": "We explain the refund policy on the phone."
+    },
+    {
+      "id": 15,
+      "en": "I explain the schedule so nobody's confused."
+    },
+    {
+      "id": 16,
+      "en": "She explains the exercises at the gym."
+    },
+    {
+      "id": 17,
+      "en": "They explain the travel dates before we pack."
+    },
+    {
+      "id": 18,
+      "en": "I explain the recipe while we cook."
+    },
+    {
+      "id": 19,
+      "en": "He explains the update after the install."
+    },
+    {
+      "id": 20,
+      "en": "We explain the issue before we ask for help."
+    },
+    {
+      "id": 21,
+      "en": "I explained the delay yesterday."
+    },
+    {
+      "id": 22,
+      "en": "She explained the charge on the bill."
+    },
+    {
+      "id": 23,
+      "en": "We explained why we were late."
+    },
+    {
+      "id": 24,
+      "en": "He explained the mistake in an email."
+    },
+    {
+      "id": 25,
+      "en": "I was explaining the form when you called."
+    },
+    {
+      "id": 26,
+      "en": "They explained the new policy last week."
+    },
+    {
+      "id": 27,
+      "en": "I didn't explain it well enough."
+    },
+    {
+      "id": 28,
+      "en": "Why did you explain that without me?"
+    },
+    {
+      "id": 29,
+      "en": "Although I explained twice, he still forgot."
+    },
+    {
+      "id": 30,
+      "en": "When I was young, Dad explained the house rules."
+    },
+    {
+      "id": 31,
+      "en": "After we explained, the mood changed."
+    },
+    {
+      "id": 32,
+      "en": "Before she explained, I was lost."
+    },
+    {
+      "id": 33,
+      "en": "I explained the fee because you asked."
+    },
+    {
+      "id": 34,
+      "en": "I explained the route, but we still got lost."
+    },
+    {
+      "id": 35,
+      "en": "The doctor explained the test results."
+    },
+    {
+      "id": 36,
+      "en": "We explained the news to the family."
+    },
+    {
+      "id": 37,
+      "en": "He explained the play before the game started."
+    },
+    {
+      "id": 38,
+      "en": "I never explained my side."
+    },
+    {
+      "id": 39,
+      "en": "I explained the Wi-Fi password slowly."
+    },
+    {
+      "id": 40,
+      "en": "They explained the loan terms in plain language."
+    },
+    {
+      "id": 41,
+      "en": "I will explain tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "I would explain if you stayed quiet."
+    },
+    {
+      "id": 43,
+      "en": "She will explain at the meeting."
+    },
+    {
+      "id": 44,
+      "en": "If you ask, I will explain again."
+    },
+    {
+      "id": 45,
+      "en": "We won't explain until we have the facts."
+    },
+    {
+      "id": 46,
+      "en": "They will explain the process next Monday."
+    },
+    {
+      "id": 47,
+      "en": "I would explain better if I had more time."
+    },
+    {
+      "id": 48,
+      "en": "If you listen, I will explain the whole thing."
+    },
+    {
+      "id": 49,
+      "en": "We'll explain the trip before we book."
+    },
+    {
+      "id": 50,
+      "en": "He would explain the rule if he were here."
+    },
+    {
+      "id": 51,
+      "en": "I am going to explain my side tonight."
+    },
+    {
+      "id": 52,
+      "en": "The coach will explain the strategy after the loss."
+    },
+    {
+      "id": 53,
+      "en": "If we don't explain, people will worry."
+    },
+    {
+      "id": 54,
+      "en": "I would explain the cost before we sign."
+    },
+    {
+      "id": 55,
+      "en": "She will explain the meal plan at the gym."
+    },
+    {
+      "id": 56,
+      "en": "I have explained this before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't explained the change yet."
+    },
+    {
+      "id": 58,
+      "en": "I've explained the policy to the client."
+    },
+    {
+      "id": 59,
+      "en": "I need to explain the numbers."
+    },
+    {
+      "id": 60,
+      "en": "She forgot to explain the parking rules."
+    },
+    {
+      "id": 61,
+      "en": "To explain, I need more facts."
+    },
+    {
+      "id": 62,
+      "en": "I want to explain the idea clearly."
+    },
+    {
+      "id": 63,
+      "en": "Don't explain without checking the facts."
+    },
+    {
+      "id": 64,
+      "en": "I have to explain why I was late."
+    },
+    {
+      "id": 65,
+      "en": "We meant to explain the fee earlier."
+    },
+    {
+      "id": 66,
+      "en": "They have explained the issue in writing."
+    },
+    {
+      "id": 67,
+      "en": "I haven't had time to explain."
+    },
+    {
+      "id": 68,
+      "en": "I tried to explain the error calmly."
+    },
+    {
+      "id": 69,
+      "en": "We have explained the directions three times."
+    },
+    {
+      "id": 70,
+      "en": "I want you to explain the decision."
+    },
+    {
+      "id": 71,
+      "en": "Can you explain that again?"
+    },
+    {
+      "id": 72,
+      "en": "Why didn't you explain sooner?"
+    },
+    {
+      "id": 73,
+      "en": "Don't explain while I'm busy."
+    },
+    {
+      "id": 74,
+      "en": "Explain the delay in one sentence."
+    },
+    {
+      "id": 75,
+      "en": "Won't you explain why you left?"
+    },
+    {
+      "id": 76,
+      "en": "Haven't you explained this already?"
+    },
+    {
+      "id": 77,
+      "en": "Why won't you explain?"
+    },
+    {
+      "id": 78,
+      "en": "Don't explain the surprise to the kids."
+    },
+    {
+      "id": 79,
+      "en": "Can you explain how this works?"
+    },
+    {
+      "id": 80,
+      "en": "Didn't she explain the bill?"
+    },
+    {
+      "id": 81,
+      "en": "Never explain when you're angry."
+    },
+    {
+      "id": 82,
+      "en": "Can't you explain it in plain English?"
+    },
+    {
+      "id": 83,
+      "en": "Why don't you explain your side?"
+    },
+    {
+      "id": 84,
+      "en": "Don't explain the password out loud."
+    },
+    {
+      "id": 85,
+      "en": "Will you explain the fee?"
+    },
+    {
+      "id": 86,
+      "en": "Because I explained the risk, they said yes."
+    },
+    {
+      "id": 87,
+      "en": "When you explain slowly, people listen more."
+    },
+    {
+      "id": 88,
+      "en": "If you explain, I will understand."
+    },
+    {
+      "id": 89,
+      "en": "Although the fee is high, I explain why we charge it."
+    },
+    {
+      "id": 90,
+      "en": "Before we pay, we explain the budget."
+    },
+    {
+      "id": 91,
+      "en": "After the coach explained, we felt calmer."
+    },
+    {
+      "id": 92,
+      "en": "I explain the truth, but I don't attack."
+    },
+    {
+      "id": 93,
+      "en": "When the bill arrives, I explain every line."
+    },
+    {
+      "id": 94,
+      "en": "If the rule is confusing, we explain it."
+    },
+    {
+      "id": 95,
+      "en": "Although the topic is dry, she explains it well."
+    },
+    {
+      "id": 96,
+      "en": "Because the plan changed, I explained again."
+    },
+    {
+      "id": 97,
+      "en": "Before the trip, we explained the itinerary."
+    },
+    {
+      "id": 98,
+      "en": "After we explained, the fight cooled down."
+    },
+    {
+      "id": 99,
+      "en": "I insist that they explain the fee before we pay."
+    },
+    {
+      "id": 100,
+      "en": "When the Wi-Fi drops, I explain the reset steps."
+    }
+  ]
+}

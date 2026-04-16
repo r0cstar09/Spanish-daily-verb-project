@@ -1,0 +1,3239 @@
+building
+The building has twenty floors.	edificio
+El edificio tiene veinte pisos.
+
+bridge
+The bridge crosses the river.	puente
+El puente cruza el río.
+
+path
+The path is long and narrow.	camino
+El camino es largo y estrecho.
+
+highway
+The highway is empty.	carretera
+La carretera está vacía.
+
+bicycle
+The bicycle is fast.	bicicleta
+La bicicleta es rápida.
+
+motorcycle
+The motorcycle is very noisy.	moto
+La moto es muy ruidosa.
+
+boat
+The boat leaves tomorrow.	barco
+El barco sale mañana.
+
+port
+The port is full of boats.	puerto
+El puerto está lleno de barcos.
+
+island
+The island is small.	isla
+La isla es pequeña.
+
+forest
+The forest is dark.	bosque
+El bosque es oscuro.
+
+desert
+The desert is dry.	desierto
+El desierto es seco.
+
+valley
+The valley is beautiful.	valle
+El valle es hermoso.
+
+lake
+The lake is deep.	lago
+El lago es profundo.
+
+coast
+The coast is rocky.	costa
+La costa es rocosa.
+
+fruit
+The fruit is fresh.	fruta
+La fruta es fresca.
+
+apple
+The apple is red.	manzana
+La manzana es roja.
+
+banana
+The banana is ripe.	banana
+La banana está madura.
+
+orange
+The orange is sweet.	naranja
+La naranja es dulce.
+
+vegetable
+Vegetables are healthy.	verdura
+La verdura es saludable.
+
+rice
+The rice is hot.	arroz
+El arroz está caliente.
+
+pasta
+The pasta is ready.	pasta
+La pasta está lista.
+
+egg
+The egg is hard.	huevo
+El huevo está duro.
+
+butter
+The butter is cold.	mantequilla
+La mantequilla está fría.
+
+oil
+The oil is in the bottle.	aceite
+El aceite está en la botella.
+
+bottle
+The bottle is empty.	botella
+La botella está vacía.
+
+glass
+The glass is full.	vaso
+El vaso está lleno.
+
+plate
+The plate is clean.	plato
+El plato está limpio.
+
+knife
+The knife is sharp.	cuchillo
+El cuchillo es afilado.
+
+fork
+The fork is on the table.	tenedor
+El tenedor está en la mesa.
+
+spoon
+The spoon is small.	cuchara
+La cuchara es pequeña.
+
+clock
+The clock shows ten.	reloj
+El reloj marca las diez.
+
+phone
+The phone is off.	teléfono
+El teléfono está apagado.
+
+computer
+The computer is new.	ordenador
+El ordenador es nuevo.
+
+screen
+The screen is bright.	pantalla
+La pantalla es brillante.
+
+keyboard
+The keyboard is black.	teclado
+El teclado es negro.
+
+mouse
+The mouse is on the table.	ratón
+El ratón está sobre la mesa.
+
+cable
+The cable is broken.	cable
+El cable está roto.
+
+battery
+The battery is low.	batería
+La batería está baja.
+
+signal
+The signal is strong.	señal
+La señal es fuerte.
+
+message
+The message is clear.	mensaje
+El mensaje es claro.
+
+news
+The news is important.	noticia
+La noticia es importante.
+
+story
+The story is interesting.	historia
+La historia es interesante.
+
+question
+The question is difficult.	pregunta
+La pregunta es difícil.
+
+answer
+The answer is correct.	respuesta
+La respuesta es correcta.
+
+idea
+The idea is good.	idea
+La idea es buena.
+
+problem
+The problem is serious.	problema
+El problema es serio.
+
+solution
+The solution is simple.	solución
+La solución es simple.
+
+example
+The example is clear.	ejemplo
+El ejemplo es claro.
+
+image
+The image is clear.	imagen
+La imagen es nítida.
+
+photo
+The photo is old.	foto
+La foto es antigua.
+
+music
+The music is loud.	música
+La música es fuerte.
+
+movie
+The movie is long.	película
+La película es larga.
+
+series
+The series is popular.	serie
+La serie es popular.
+
+game
+The game is fun.	juego
+El juego es divertido.
+
+team
+The team is strong.	equipo
+El equipo es fuerte.
+
+player
+The player is fast.	jugador
+El jugador es rápido.
+
+goal
+The goal was incredible.	gol
+El gol fue increíble.
+
+match
+The match starts soon.	partido
+El partido empieza pronto.
+
+champion
+The champion celebrates the victory.	campeón
+El campeón celebra la victoria.
+
+prize
+The prize is big.	premio
+El premio es grande.
+
+victory
+The victory is important.	victoria
+La victoria es importante.
+
+defeat
+The defeat was hard.	derrota
+La derrota fue dura.
+
+house
+The house is big and white.	casa
+La casa es grande y blanca.
+
+person
+The person waits at the station.	persona
+La persona espera en la estación.
+
+day
+Today is a good day.	día
+Hoy es un buen día.
+
+year
+Last year I traveled a lot.	año
+El año pasado viajé mucho.
+
+child
+The child plays in the park.	niño
+El niño juega en el parque.
+
+woman
+The woman works at the hospital.	mujer
+La mujer trabaja en el hospital.
+
+man
+The man runs every morning.	hombre
+El hombre corre cada mañana.
+
+friend
+My friend lives nearby.	amigo
+Mi amigo vive cerca.
+
+family
+My family is small.	familia
+Mi familia es pequeña.
+
+city
+The city is very big.	ciudad
+La ciudad es muy grande.
+
+country
+Spain is a beautiful country.	país
+España es un país hermoso.
+
+world
+The world changes quickly.	mundo
+El mundo cambia rápidamente.
+
+school
+The school is closed today.	escuela
+La escuela está cerrada hoy.
+
+job
+I have a lot of work today.	trabajo
+Tengo mucho trabajo hoy.
+
+money
+I don’t have money right now.	dinero
+No tengo dinero ahora.
+
+time
+I don’t have enough time.	tiempo
+No tengo tiempo suficiente.
+
+life
+Life is interesting.	vida
+La vida es interesante.
+
+hand
+Raise your hand.	mano
+Levanta la mano.
+
+eye
+He has blue eyes.	ojo
+Tiene los ojos azules.
+
+head
+My head hurts.	cabeza
+Me duele la cabeza.
+
+water
+I drink cold water.	agua
+Bebo agua fría.
+
+food
+The food is ready.	comida
+La comida está lista.
+
+bread
+The bread is warm.	pan
+El pan está caliente.
+
+car
+The car is new.	coche
+El coche es nuevo.
+
+street
+The street is empty.	calle
+La calle está vacía.
+
+door
+Close the door.	puerta
+Cierra la puerta.
+
+window
+The window is open.	ventana
+La ventana está abierta.
+
+table
+The table is made of wood.	mesa
+La mesa es de madera.
+
+chair
+The chair is comfortable.	silla
+La silla es cómoda.
+
+bed
+The bed is big.	cama
+La cama es grande.
+
+book
+The book is interesting.	libro
+El libro es interesante.
+
+ball
+The ball is in the garden.	pelota
+La pelota está en el jardín.
+
+field
+The field is green.	campo
+El campo es verde.
+
+stadium
+The stadium is full.	estadio
+El estadio está lleno.
+
+concert
+The concert starts at eight.	concierto
+El concierto empieza a las ocho.
+
+park
+The park is nearby.	parque
+El parque está cerca.
+
+hospital
+The hospital is big.	hospital
+El hospital es grande.
+
+restaurant
+The restaurant is expensive.	restaurante
+El restaurante es caro.
+
+store
+The store opens early.	tienda
+La tienda abre temprano.
+
+market
+I’m going to the market today.	mercado
+Voy al mercado hoy.
+
+office
+The office is closed.	oficina
+La oficina está cerrada.
+
+station
+The station is full.	estación
+La estación está llena.
+
+airport
+The airport is large.	aeropuerto
+El aeropuerto es grande.
+
+train
+The train arrives late.	tren
+El tren llega tarde.
+
+plane
+The plane takes off soon.	avión
+El avión despega pronto.
+
+sea
+The sea is calm.	mar
+El mar está tranquilo.
+
+river
+The river is long.	río
+El río es largo.
+
+mountain
+The mountain is tall.	montaña
+La montaña es alta.
+
+beach
+The beach is clean.	playa
+La playa está limpia.
+
+sky
+The sky is blue.	cielo
+El cielo está azul.
+
+sun
+The sun shines brightly.	sol
+El sol brilla fuerte.
+
+moon
+The moon is beautiful.	luna
+La luna es hermosa.
+
+star
+The star is bright.	estrella
+La estrella es brillante.
+
+rain
+The rain falls heavily.	lluvia
+La lluvia cae fuerte.
+
+snow
+The snow is white.	nieve
+La nieve es blanca.
+
+wind
+The wind is cold.	viento
+El viento es frío.
+
+fire
+The fire is hot.	fuego
+El fuego está caliente.
+
+earth
+The soil is fertile.	tierra
+La tierra es fértil.
+
+tree
+The tree is tall.	árbol
+El árbol es alto.
+
+flower
+The flower is red.	flor
+La flor es roja.
+
+animal
+The animal runs fast.	animal
+El animal corre rápido.
+
+dog
+The dog barks loudly.	perro
+El perro ladra fuerte.
+
+cat
+The cat sleeps a lot.	gato
+El gato duerme mucho.
+
+bird
+The bird sings.	pájaro
+El pájaro canta.
+
+fish
+The fish swims in the water.	pez
+El pez nada en el agua.
+
+meat
+The meat is ready.	carne
+La carne está lista.
+
+chicken
+The chicken is hot.	pollo
+El pollo está caliente.
+
+cheese
+The cheese is fresh.	queso
+El queso es fresco.
+
+milk
+The milk is cold.	leche
+La leche está fría.
+
+coffee
+The coffee is strong.	café
+El café está fuerte.
+
+wine
+The wine is good.	vino
+El vino es bueno.
+
+beer
+The beer is cold.	cerveza
+La cerveza está fría.
+
+sugar
+Sugar is sweet.	azúcar
+El azúcar es dulce.
+
+salt
+The salt is on the table.	sal
+La sal está en la mesa.
+
+blue
+I like the color blue.	azul
+Me gusta el color azul.
+
+red
+The red car is mine.	rojo
+El coche rojo es mío.
+
+green
+The green shirt is new.	verde
+La camisa verde es nueva.
+
+black
+The black cat is small.	negro
+El gato negro es pequeño.
+
+white
+The white house is big.	blanco
+La casa blanca es grande.
+
+new
+The new phone works well.	nuevo
+El teléfono nuevo funciona bien.
+
+old
+The building is old.	viejo
+El edificio es viejo.
+
+big
+The city is big.	grande
+La ciudad es grande.
+
+small
+The dog is small.	pequeño
+El perro es pequeño.
+
+long
+The river is long.	largo
+El río es largo.
+
+short
+The path is short.	corto
+El camino es corto.
+
+tall
+The building is tall.	alto
+El edificio es alto.
+
+low
+The ceiling is low.	bajo
+El techo es bajo.
+
+easy
+The exam is easy.	fácil
+El examen es fácil.
+
+difficult
+The problem is difficult.	difícil
+El problema es difícil.
+
+fast
+The car is fast.	rápido
+El coche es rápido.
+
+slow
+The train is slow.	lento
+El tren es lento.
+
+heat
+It’s very hot today.	calor
+Hace mucho calor hoy.
+
+cold
+It’s cold tonight.	frío
+Hace frío esta noche.
+
+night
+The night is calm.	noche
+La noche es tranquila.
+
+morning
+The morning is beautiful.	mañana
+La mañana es hermosa.
+
+afternoon
+The afternoon is calm.	tarde
+La tarde es tranquila.
+
+neighborhood
+The neighborhood is quiet at night.	barrio
+El barrio es tranquilo por la noche.
+
+neighbor
+The neighbor is very friendly.	vecino
+El vecino es muy amable.
+
+noise
+The noise is annoying.	ruido
+El ruido es molesto.
+
+silence
+The silence feels peaceful.	silencio
+El silencio se siente tranquilo.
+
+light
+The light is very bright.	luz
+La luz es muy fuerte.
+
+shadow
+The shadow is cool in summer.	sombra
+La sombra es fresca en verano.
+
+color
+The color is very bright.	color
+El color es muy brillante.
+
+shape
+The shape is round.	forma
+La forma es redonda.
+
+size
+The size is too small.	tamaño
+El tamaño es demasiado pequeño.
+
+price
+The price is too high.	precio
+El precio es demasiado alto.
+
+value
+The value is important.	valor
+El valor es importante.
+
+offer
+The offer is limited.	oferta
+La oferta es limitada.
+
+customer
+The customer is waiting.	cliente
+El cliente está esperando.
+
+boss
+The boss is in the office.	jefe
+El jefe está en la oficina.
+
+colleague
+My colleague helps me a lot.	compañero
+Mi compañero me ayuda mucho.
+
+meeting
+The meeting starts at nine.	reunión
+La reunión empieza a las nueve.
+
+contract
+The contract is very long.	contrato
+El contrato es muy largo.
+
+document
+The document is official.	documento
+El documento es oficial.
+
+signature
+The signature is at the bottom.	firma
+La firma está abajo.
+
+bill
+The bill is already paid.	cuenta
+La cuenta ya está pagada.
+
+bank
+The bank opens at eight.	banco
+El banco abre a las ocho.
+
+card
+The card is in my wallet.	tarjeta
+La tarjeta está en mi cartera.
+
+wallet
+The wallet is black.	cartera
+La cartera es negra.
+
+clothes
+The clothes are clean.	ropa
+La ropa está limpia.
+
+shirt
+The shirt is blue.	camisa
+La camisa es azul.
+
+pants
+The pants are new.	pantalón
+El pantalón es nuevo.
+
+shoe
+The shoe is dirty.	zapato
+El zapato está sucio.
+
+coat
+The coat is heavy.	abrigo
+El abrigo es pesado.
+
+hat
+The hat is elegant.	sombrero
+El sombrero es elegante.
+
+ring
+The ring is made of gold.	anillo
+El anillo es de oro.
+
+painting
+The painting is modern.	cuadro
+El cuadro es moderno.
+
+portrait
+The portrait is old.	retrato
+El retrato es antiguo.
+
+ceiling
+The ceiling is high.	techo
+El techo es alto.
+
+wall
+The wall is white.	pared
+La pared es blanca.
+
+floor
+The floor is clean.	suelo
+El suelo está limpio.
+
+corner
+The corner is near the bank.	esquina
+La esquina está cerca del banco.
+
+center
+The center is very busy.	centro
+El centro está muy ocupado.
+
+entrance
+The entrance is free.	entrada
+La entrada es gratuita.
+
+exit
+The exit is closed.	salida
+La salida está cerrada.
+
+area
+The area is safe.	zona
+La zona es segura.
+
+level
+The level is high.	nivel
+El nivel es alto.
+
+energy
+The energy is strong today.	energía
+La energía es fuerte hoy.
+
+power
+The power went out last night.	poder
+El poder se fue anoche.
+
+system
+The system is working well.	sistema
+El sistema funciona bien.
+
+network
+The network is unstable.	red
+La red es inestable.
+
+program
+The program is very useful.	programa
+El programa es muy útil.
+
+project
+The project is almost finished.	proyecto
+El proyecto está casi terminado.
+
+result
+The result is positive.	resultado
+El resultado es positivo.
+
+success
+The success was unexpected.	éxito
+El éxito fue inesperado.
+
+failure
+The failure was disappointing.	fracaso
+El fracaso fue decepcionante.
+
+change
+The change is necessary.	cambio
+El cambio es necesario.
+
+growth
+The growth is impressive.	crecimiento
+El crecimiento es impresionante.
+
+development
+The development is slow.	desarrollo
+El desarrollo es lento.
+
+future
+The future looks bright.	futuro
+El futuro parece brillante.
+
+past
+The past is important.	pasado
+El pasado es importante.
+
+present
+The present is a gift.	presente
+El presente es un regalo.
+
+reason
+The reason is clear.	razón
+La razón es clara.
+
+effect
+The effect was immediate.	efecto
+El efecto fue inmediato.
+
+cause
+The cause is unknown.	causa
+La causa es desconocida.
+
+risk
+The risk is too high.	riesgo
+El riesgo es demasiado alto.
+
+chance
+The chance is small.	oportunidad
+La oportunidad es pequeña.
+
+plan
+The plan is simple.	plan
+El plan es simple.
+
+goal
+The goal is realistic.	meta
+La meta es realista.
+
+dream
+The dream feels real.	sueño
+El sueño se siente real.
+
+fear
+The fear is irrational.	miedo
+El miedo es irracional.
+
+hope
+The hope remains strong.	esperanza
+La esperanza sigue fuerte.
+
+love
+Love is powerful.	amor
+El amor es poderoso.
+
+hate
+Hate destroys everything.	odio
+El odio destruye todo.
+
+peace
+Peace is important.	paz
+La paz es importante.
+
+war
+The war lasted years.	guerra
+La guerra duró años.
+
+law
+The law is strict.	ley
+La ley es estricta.
+
+rule
+The rule is clear.	regla
+La regla es clara.
+
+truth
+The truth is simple.	verdad
+La verdad es simple.
+
+lie
+The lie was obvious.	mentira
+La mentira fue obvia.
+
+voice
+Her voice is calm.	voz
+Su voz es tranquila.
+
+mind
+The mind is powerful.	mente
+La mente es poderosa.
+
+body
+The body needs rest.	cuerpo
+El cuerpo necesita descanso.
+
+heart
+The heart beats fast.	corazón
+El corazón late rápido.
+
+blood
+The blood is warm.	sangre
+La sangre es caliente.
+
+skin
+The skin is sensitive.	piel
+La piel es sensible.
+
+face
+His face looks tired.	cara
+Su cara parece cansada.
+
+hair
+Her hair is long.	cabello
+Su cabello es largo.
+
+foot
+My foot hurts.	pie
+Me duele el pie.
+
+arm
+His arm is strong.	brazo
+Su brazo es fuerte.
+
+leg
+Her leg is injured.	pierna
+Su pierna está lesionada.
+
+week
+The week was very busy.	semana
+La semana fue muy ocupada.
+
+month
+The month passed quickly.	mes
+El mes pasó rápido.
+
+hour
+The hour feels long.	hora
+La hora se siente larga.
+
+minute
+Wait a minute.	minuto
+Espera un minuto.
+
+second
+It happened in one second.	segundo
+Pasó en un segundo.
+
+moment
+It was a special moment.	momento
+Fue un momento especial.
+
+beginning
+The beginning was difficult.	principio
+El principio fue difícil.
+
+end
+The end was unexpected.	final
+El final fue inesperado.
+
+start
+The start was slow.	inicio
+El inicio fue lento.
+
+step
+Take the first step.	paso
+Da el primer paso.
+
+direction
+The direction is correct.	dirección
+La dirección es correcta.
+
+side
+Choose a side.	lado
+Elige un lado.
+
+top
+The top is very high.	cima
+La cima es muy alta.
+
+bottom
+The bottom is dirty.	fondo
+El fondo está sucio.
+
+middle
+The middle of the city is crowded.	medio
+El medio de la ciudad está lleno.
+
+distance
+The distance is short.	distancia
+La distancia es corta.
+
+speed
+The speed is dangerous.	velocidad
+La velocidad es peligrosa.
+
+weight
+The weight is heavy.	peso
+El peso es pesado.
+
+height
+The height is impressive.	altura
+La altura es impresionante.
+
+depth
+The depth is unknown.	profundidad
+La profundidad es desconocida.
+
+temperature
+The temperature is low today.	temperatura
+La temperatura es baja hoy.
+
+season
+The season is changing.	estación
+La estación está cambiando.
+
+spring
+Spring is beautiful.	primavera
+La primavera es hermosa.
+
+summer
+Summer is very hot.	verano
+El verano es muy caluroso.
+
+autumn
+Autumn is windy.	otoño
+El otoño es ventoso.
+
+winter
+Winter is cold here.	invierno
+El invierno es frío aquí.
+
+morning
+The morning feels fresh.	madrugada
+La madrugada se siente fresca.
+
+evening
+The evening is calm.	anochecer
+El anochecer es tranquilo.
+
+breakfast
+Breakfast is ready.	desayuno
+El desayuno está listo.
+
+lunch
+Lunch was delicious.	almuerzo
+El almuerzo fue delicioso.
+
+dinner
+Dinner is at eight.	cena
+La cena es a las ocho.
+
+taste
+The taste is sweet.	sabor
+El sabor es dulce.
+
+smell
+The smell is strong.	olor
+El olor es fuerte.
+
+sound
+The sound is strange.	sonido
+El sonido es extraño.
+
+touch
+The touch is soft.	tacto
+El tacto es suave.
+
+feeling
+The feeling is strange.	sensación
+La sensación es extraña.
+
+emotion
+The emotion was intense.	emoción
+La emoción fue intensa.
+
+memory
+The memory is clear.	recuerdo
+El recuerdo es claro.
+
+experience
+The experience was unique.	experiencia
+La experiencia fue única.
+
+skill
+The skill is useful.	habilidad
+La habilidad es útil.
+
+knowledge
+Knowledge is power.	conocimiento
+El conocimiento es poder.
+
+ability
+The ability is rare.	capacidad
+La capacidad es rara.
+
+effort
+The effort was worth it.	esfuerzo
+El esfuerzo valió la pena.
+
+decision
+The decision was correct.	decisión
+La decisión fue correcta.
+
+choice
+The choice is yours.	elección
+La elección es tuya.
+
+option
+This option is better.	opción
+Esta opción es mejor.
+
+agreement
+The agreement is official.	acuerdo
+El acuerdo es oficial.
+
+permission
+I need permission.	permiso
+Necesito permiso.
+
+control
+The control is strict.	control
+El control es estricto.
+
+freedom
+Freedom is important.	libertad
+La libertad es importante.
+
+security
+Security is necessary.	seguridad
+La seguridad es necesaria.
+
+danger
+The danger is real.	peligro
+El peligro es real.
+
+accident
+The accident was serious.	accidente
+El accidente fue grave.
+
+damage
+The damage was minor.	daño
+El daño fue menor.
+
+error
+The error was small.	error
+El error fue pequeño.
+
+mistake
+The mistake was obvious.	equivocación
+La equivocación fue obvia.
+
+support
+The support is strong.	apoyo
+El apoyo es fuerte.
+
+pressure
+The pressure is high.	presión
+La presión es alta.
+
+stress
+The stress is intense.	estrés
+El estrés es intenso.
+
+attack
+The attack was sudden.	ataque
+El ataque fue repentino.
+
+defense
+The defense was solid.	defensa
+La defensa fue sólida.
+
+border
+The border is closed.	frontera
+La frontera está cerrada.
+
+culture
+The culture is rich.	cultura
+La cultura es rica.
+
+language
+The language is difficult.	idioma
+El idioma es difícil.
+
+tradition
+The tradition is old.	tradición
+La tradición es antigua.
+
+religion
+Religion influences society.	religión
+La religión influye en la sociedad.
+
+government
+The government changed.	gobierno
+El gobierno cambió.
+
+president
+The president gave a speech.	presidente
+El presidente dio un discurso.
+
+minister
+The minister resigned.	ministro
+El ministro renunció.
+
+citizen
+The citizen voted yesterday.	ciudadano
+El ciudadano votó ayer.
+
+community
+The community is united.	comunidad
+La comunidad está unida.
+
+population
+The population is growing.	población
+La población está creciendo.
+
+economy
+The economy is stable.	economía
+La economía es estable.
+
+industry
+The industry is modern.	industria
+La industria es moderna.
+
+technology
+Technology evolves fast.	tecnología
+La tecnología evoluciona rápido.
+
+science
+Science advances quickly.	ciencia
+La ciencia avanza rápidamente.
+
+education
+Education is essential.	educación
+La educación es esencial.
+
+university
+The university is prestigious.	universidad
+La universidad es prestigiosa.
+
+student
+The student studies hard.	estudiante
+El estudiante estudia mucho.
+
+teacher
+The teacher explains clearly.	profesor
+El profesor explica claramente.
+
+lesson
+The lesson was interesting.	lección
+La lección fue interesante.
+
+exam
+The exam was difficult.	examen
+El examen fue difícil.
+
+grade
+The grade was high.	nota
+La nota fue alta.
+
+lawyer
+The lawyer prepared the case.	abogado
+El abogado preparó el caso.
+
+doctor
+The doctor arrived early.	doctor
+El doctor llegó temprano.
+
+nurse
+The nurse helped the patient.	enfermero
+El enfermero ayudó al paciente.
+
+engineer
+The engineer solved the problem.	ingeniero
+El ingeniero resolvió el problema.
+
+artist
+The artist painted all night.	artista
+El artista pintó toda la noche.
+
+writer
+The writer finished the book.	escritor
+El escritor terminó el libro.
+
+driver
+The driver stopped suddenly.	conductor
+El conductor se detuvo de repente.
+
+worker
+The worker is tired.	trabajador
+El trabajador está cansado.
+
+manager
+The manager approved the plan.	gerente
+El gerente aprobó el plan.
+
+leader
+The leader made a decision.	líder
+El líder tomó una decisión.
+
+team
+The team worked together.	equipo
+El equipo trabajó junto.
+
+office
+The office is on the second floor.	oficina
+La oficina está en el segundo piso.
+
+factory
+The factory produces cars.	fábrica
+La fábrica produce coches.
+
+store
+The store closes at six.	tienda
+La tienda cierra a las seis.
+
+company
+The company is expanding.	empresa
+La empresa está creciendo.
+
+business
+The business is successful.	negocio
+El negocio es exitoso.
+
+market
+The market is competitive.	mercado
+El mercado es competitivo.
+
+sale
+The sale starts tomorrow.	venta
+La venta empieza mañana.
+
+product
+The product is new.	producto
+El producto es nuevo.
+
+service
+The service is excellent.	servicio
+El servicio es excelente.
+
+order
+The order arrived late.	pedido
+El pedido llegó tarde.
+
+package
+The package is heavy.	paquete
+El paquete es pesado.
+
+delivery
+The delivery was fast.	entrega
+La entrega fue rápida.
+
+mail
+The mail arrived today.	correo
+El correo llegó hoy.
+
+letter
+The letter is important.	carta
+La carta es importante.
+
+email
+The email was short.	correo electrónico
+El correo electrónico fue corto.
+
+website
+The website is easy to use.	sitio web
+El sitio web es fácil de usar.
+
+account
+The account is active.	cuenta
+La cuenta está activa.
+
+password
+The password is secure.	contraseña
+La contraseña es segura.
+
+file
+The file is saved.	archivo
+El archivo está guardado.
+
+folder
+The folder is empty.	carpeta
+La carpeta está vacía.
+
+report
+The report is detailed.	informe
+El informe es detallado.
+
+data
+The data is accurate.	datos
+Los datos son precisos.
+
+information
+The information is confidential.	información
+La información es confidencial.
+
+code
+The code is correct.	código
+El código es correcto.
+
+error
+The error was fixed.	error
+El error fue corregido.
+
+update
+The update is available.	actualización
+La actualización está disponible.
+
+version
+The version is outdated.	versión
+La versión está desactualizada.
+
+backup
+The backup is complete.	copia de seguridad
+La copia de seguridad está completa.
+
+server
+The server is offline.	servidor
+El servidor está desconectado.
+
+database
+The database is large.	base de datos
+La base de datos es grande.
+
+access
+The access was denied.	acceso
+El acceso fue denegado.
+
+permission
+The permission was granted.	permiso
+El permiso fue concedido.
+
+login
+The login failed.	inicio de sesión
+El inicio de sesión falló.
+
+security
+Security is critical.	seguridad
+La seguridad es crítica.
+
+attack
+The attack was detected.	ataque
+El ataque fue detectado.
+
+threat
+The threat is serious.	amenaza
+La amenaza es grave.
+
+risk
+The risk is minimal.	riesgo
+El riesgo es mínimo.
+
+breach
+The breach was reported.	violación
+La violación fue reportada.
+
+fraud
+The fraud was discovered.	fraude
+El fraude fue descubierto.
+
+evidence
+The evidence is clear.	prueba
+La prueba es clara.
+
+investigation
+The investigation continues.	investigación
+La investigación continúa.
+
+incident
+The incident was resolved.	incidente
+El incidente fue resuelto.
+
+response
+The response was immediate.	respuesta
+La respuesta fue inmediata.
+
+recovery
+The recovery was successful.	recuperación
+La recuperación fue exitosa.
+
+failure
+The failure was unexpected.	fallo
+El fallo fue inesperado.
+
+performance
+The performance improved.	rendimiento
+El rendimiento mejoró.
+
+efficiency
+Efficiency is important.	eficiencia
+La eficiencia es importante.
+
+quality
+The quality is excellent.	calidad
+La calidad es excelente.
+
+standard
+The standard is high.	estándar
+El estándar es alto.
+
+policy
+The policy was updated.	política
+La política fue actualizada.
+
+strategy
+The strategy worked well.	estrategia
+La estrategia funcionó bien.
+
+plan
+The plan was approved.	plan
+El plan fue aprobado.
+
+objective
+The objective is clear.	objetivo
+El objetivo es claro.
+
+goal
+The goal was achieved.	meta
+La meta fue alcanzada.
+
+priority
+This is the top priority.	prioridad
+Esta es la máxima prioridad.
+
+budget
+The budget is limited.	presupuesto
+El presupuesto es limitado.
+
+cost
+The cost is high.	costo
+El costo es alto.
+
+profit
+The profit increased.	beneficio
+El beneficio aumentó.
+
+loss
+The loss was significant.	pérdida
+La pérdida fue significativa.
+
+investment
+The investment paid off.	inversión
+La inversión dio resultados.
+
+growth
+Growth is steady.	crecimiento
+El crecimiento es constante.
+
+market
+The market is unstable.	mercado
+El mercado es inestable.
+
+competition
+The competition is strong.	competencia
+La competencia es fuerte.
+
+contract
+The contract expired.	contrato
+El contrato expiró.
+
+agreement
+The agreement was signed.	acuerdo
+El acuerdo fue firmado.
+
+signature
+The signature is missing.	firma
+La firma falta.
+
+request
+The request was denied.	solicitud
+La solicitud fue rechazada.
+
+approval
+The approval came quickly.	aprobación
+La aprobación llegó rápido.
+
+approval
+The approval is pending.	aprobación
+La aprobación está pendiente.
+
+tablecloth
+The tablecloth is clean.	mantel
+El mantel está limpio.
+
+pillow
+The pillow is soft.	almohada
+La almohada es suave.
+
+blanket
+The blanket is warm.	manta
+La manta es caliente.
+
+mirror
+The mirror is broken.	espejo
+El espejo está roto.
+
+stairs
+The stairs are steep.	escaleras
+Las escaleras son empinadas.
+
+elevator
+The elevator is slow.	ascensor
+El ascensor es lento.
+
+balcony
+The balcony has a nice view.	balcón
+El balcón tiene una vista bonita.
+
+garden
+The garden is beautiful.	jardín
+El jardín es hermoso.
+
+garage
+The garage is full.	garaje
+El garaje está lleno.
+
+roof
+The roof is damaged.	tejado
+El tejado está dañado.
+
+fence
+The fence is wooden.	valla
+La valla es de madera.
+
+gate
+The gate is closed.	portón
+El portón está cerrado.
+
+garage
+The garage door is open.	puerta del garaje
+La puerta del garaje está abierta.
+
+curtain
+The curtain is red.	cortina
+La cortina es roja.
+
+lamp
+The lamp is on.	lámpara
+La lámpara está encendida.
+
+plug
+The plug is connected.	enchufe
+El enchufe está conectado.
+
+switch
+The switch is broken.	interruptor
+El interruptor está roto.
+
+battery
+The battery is dead.	pila
+La pila está descargada.
+
+engine
+The engine is powerful.	motor
+El motor es potente.
+
+wheel
+The wheel is damaged.	rueda
+La rueda está dañada.
+
+seat
+The seat is comfortable.	asiento
+El asiento es cómodo.
+
+ticket
+The ticket is valid.	boleto
+El boleto es válido.
+
+passport
+The passport is expired.	pasaporte
+El pasaporte está vencido.
+
+visa
+The visa was approved.	visa
+La visa fue aprobada.
+
+border
+The border is guarded.	frontera
+La frontera está vigilada.
+
+journey
+The journey was long.	trayecto
+El trayecto fue largo.
+
+map
+The map is outdated.	mapa
+El mapa está desactualizado.
+
+guide
+The guide explained everything.	guía
+El guía explicó todo.
+
+tourist
+The tourist took photos.	turista
+El turista tomó fotos.
+
+crowd
+The crowd was loud.	multitud
+La multitud fue ruidosa.
+
+line
+The line is very long.	fila
+La fila es muy larga.
+
+queue
+The queue moved slowly.	cola
+La cola avanzó lentamente.
+
+ticket office
+The ticket office is closed.	taquilla
+La taquilla está cerrada.
+
+stage
+The stage is ready.	escenario
+El escenario está listo.
+
+audience
+The audience applauded loudly.	público
+El público aplaudió fuerte.
+
+actor
+The actor performed well.	actor
+El actor actuó bien.
+
+actress
+The actress was brilliant.	actriz
+La actriz fue brillante.
+
+scene
+The scene was dramatic.	escena
+La escena fue dramática.
+
+script
+The script was rewritten.	guion
+El guion fue reescrito.
+
+camera
+The camera is expensive.	cámara
+La cámara es cara.
+
+microphone
+The microphone is working.	micrófono
+El micrófono funciona.
+
+speaker
+The speaker is loud.	altavoz
+El altavoz es fuerte.
+
+volume
+The volume is too high.	volumen
+El volumen es demasiado alto.
+
+channel
+The channel changed suddenly.	canal
+El canal cambió de repente.
+
+remote
+The remote is missing.	control remoto
+El control remoto falta.
+
+battery
+The battery needs replacement.	batería
+La batería necesita reemplazo.
+
+tool
+The tool is useful.	herramienta
+La herramienta es útil.
+
+hammer
+The hammer is heavy.	martillo
+El martillo es pesado.
+
+nail
+The nail is bent.	clavo
+El clavo está doblado.
+
+screw
+The screw is loose.	tornillo
+El tornillo está suelto.
+
+ladder
+The ladder is tall.	escalera
+La escalera es alta.
+
+paint
+The paint is fresh.	pintura
+La pintura está fresca.
+
+brush
+The brush is dirty.	brocha
+La brocha está sucia.
+
+dust
+The dust is everywhere.	polvo
+El polvo está en todas partes.
+
+trash
+The trash is full.	basura
+La basura está llena.
+
+recycling
+Recycling is important.	reciclaje
+El reciclaje es importante.
+
+bottle
+The bottle is plastic.	botella
+La botella es de plástico.
+
+bag
+The bag is heavy.	bolsa
+La bolsa es pesada.
+
+box
+The box is open.	caja
+La caja está abierta.
+
+package
+The package arrived today.	paquete
+El paquete llegó hoy.
+
+envelope
+The envelope is sealed.	sobre
+El sobre está cerrado.
+
+stamp
+The stamp is expensive.	sello
+El sello es caro.
+
+pen
+The pen is blue.	pluma
+La pluma es azul.
+
+pencil
+The pencil is sharp.	lápiz
+El lápiz está afilado.
+
+notebook
+The notebook is full.	cuaderno
+El cuaderno está lleno.
+
+paper
+The paper is white.	papel
+El papel es blanco.
+
+calendar
+The calendar is new.	calendario
+El calendario es nuevo.
+
+clock
+The clock is broken.	reloj
+El reloj está roto.
+
+alarm
+The alarm is loud.	alarma
+La alarma es fuerte.
+
+key
+The key is missing.	llave
+La llave falta.
+
+lock
+The lock is secure.	cerradura
+La cerradura es segura.
+
+chain
+The chain is gold.	cadena
+La cadena es de oro.
+
+necklace
+The necklace is beautiful.	collar
+El collar es hermoso.
+
+bracelet
+The bracelet is silver.	pulsera
+La pulsera es de plata.
+
+earring
+The earring is small.	pendiente
+El pendiente es pequeño.
+
+watch
+The watch is expensive.	reloj
+El reloj es caro.
+
+glasses
+The glasses are broken.	gafas
+Las gafas están rotas.
+
+umbrella
+The umbrella is black.	paraguas
+El paraguas es negro.
+
+raincoat
+The raincoat is waterproof.	impermeable
+El impermeable es resistente al agua.
+
+plate
+The plate is on the table.	plato
+El plato está sobre la mesa.
+
+fork
+The fork is dirty.	tenedor
+El tenedor está sucio.
+
+knife
+The knife is sharp.	cuchillo
+El cuchillo está afilado.
+
+spoon
+The spoon is small.	cuchara
+La cuchara es pequeña.
+
+cup
+The cup is full.	taza
+La taza está llena.
+
+glass
+The glass broke yesterday.	vaso
+El vaso se rompió ayer.
+
+napkin
+The napkin is clean.	servilleta
+La servilleta está limpia.
+
+menu
+The menu is short.	menú
+El menú es corto.
+
+bill
+The bill is expensive.	factura
+La factura es cara.
+
+tip
+The tip was generous.	propina
+La propina fue generosa.
+
+recipe
+The recipe is simple.	receta
+La receta es simple.
+
+ingredient
+The ingredient is fresh.	ingrediente
+El ingrediente es fresco.
+
+oven
+The oven is hot.	horno
+El horno está caliente.
+
+stove
+The stove is on.	estufa
+La estufa está encendida.
+
+fridge
+The fridge is empty.	refrigerador
+El refrigerador está vacío.
+
+freezer
+The freezer is full.	congelador
+El congelador está lleno.
+
+sink
+The sink is clean.	fregadero
+El fregadero está limpio.
+
+soap
+The soap smells good.	jabón
+El jabón huele bien.
+
+towel
+The towel is wet.	toalla
+La toalla está mojada.
+
+shampoo
+The shampoo is new.	champú
+El champú es nuevo.
+
+toothbrush
+The toothbrush is blue.	cepillo de dientes
+El cepillo de dientes es azul.
+
+toothpaste
+The toothpaste is minty.	pasta de dientes
+La pasta de dientes es de menta.
+
+mirror
+The mirror is dirty.	espejo
+El espejo está sucio.
+
+shower
+The shower is cold.	ducha
+La ducha está fría.
+
+bathroom
+The bathroom is small.	baño
+El baño es pequeño.
+
+bedroom
+The bedroom is quiet.	dormitorio
+El dormitorio es tranquilo.
+
+kitchen
+The kitchen is clean.	cocina
+La cocina está limpia.
+
+living room
+The living room is bright.	sala
+La sala es luminosa.
+
+hallway
+The hallway is long.	pasillo
+El pasillo es largo.
+
+garage
+The garage is open.	garaje
+El garaje está abierto.
+
+attic
+The attic is dusty.	ático
+El ático está polvoriento.
+
+basement
+The basement is dark.	sótano
+El sótano es oscuro.
+
+window
+The window is closed.	ventana
+La ventana está cerrada.
+
+door
+The door is locked.	puerta
+La puerta está cerrada con llave.
+
+floor
+The floor is slippery.	suelo
+El suelo está resbaladizo.
+
+ceiling
+The ceiling is high.	techo
+El techo es alto.
+
+wall
+The wall is cracked.	pared
+La pared está agrietada.
+
+roof
+The roof is leaking.	tejado
+El tejado tiene una gotera.
+
+stairs
+The stairs are narrow.	escaleras
+Las escaleras son estrechas.
+
+balcony
+The balcony is small.	balcón
+El balcón es pequeño.
+
+elevator
+The elevator is fast.	ascensor
+El ascensor es rápido.
+
+button
+Press the button.	botón
+Presiona el botón.
+
+screen
+The screen is broken.	pantalla
+La pantalla está rota.
+
+keyboard
+The keyboard is clean.	teclado
+El teclado está limpio.
+
+mouse
+The mouse is wireless.	ratón
+El ratón es inalámbrico.
+
+speaker
+The speaker is loud.	altavoz
+El altavoz es fuerte.
+
+headphones
+The headphones are comfortable.	auriculares
+Los auriculares son cómodos.
+
+microphone
+The microphone is muted.	micrófono
+El micrófono está silenciado.
+
+camera
+The camera is expensive.	cámara
+La cámara es cara.
+
+charger
+The charger is missing.	cargador
+El cargador falta.
+
+battery
+The battery is full.	batería
+La batería está llena.
+
+cable
+The cable is long.	cable
+El cable es largo.
+
+plug
+The plug is loose.	enchufe
+El enchufe está suelto.
+
+signal
+The signal is weak.	señal
+La señal es débil.
+
+internet
+The internet is slow.	internet
+El internet es lento.
+
+connection
+The connection failed.	conexión
+La conexión falló.
+
+network
+The network is stable.	red
+La red es estable.
+
+software
+The software is updated.	software
+El software está actualizado.
+
+hardware
+The hardware is damaged.	hardware
+El hardware está dañado.
+
+tool
+The tool is broken.	herramienta
+La herramienta está rota.
+
+machine
+The machine is working.	máquina
+La máquina funciona.
+
+robot
+The robot is advanced.	robot
+El robot es avanzado.
+
+device
+The device is new.	dispositivo
+El dispositivo es nuevo.
+
+system
+The system is secure.	sistema
+El sistema es seguro.
+
+server
+The server is down.	servidor
+El servidor está caído.
+
+database
+The database is large.	base de datos
+La base de datos es grande.
+
+account
+The account is blocked.	cuenta
+La cuenta está bloqueada.
+
+profile
+The profile is public.	perfil
+El perfil es público.
+
+message
+The message was sent.	mensaje
+El mensaje fue enviado.
+
+call
+The call was short.	llamada
+La llamada fue corta.
+
+voice
+The voice is clear.	voz
+La voz es clara.
+
+text
+The text is long.	texto
+El texto es largo.
+
+photo
+The photo is blurry.	foto
+La foto está borrosa.
+
+video
+The video is short.	video
+El video es corto.
+
+file
+The file is corrupted.	archivo
+El archivo está dañado.
+
+folder
+The folder is empty.	carpeta
+La carpeta está vacía.
+
+password
+The password is incorrect.	contraseña
+La contraseña es incorrecta.
+
+username
+The username is available.	nombre de usuario
+El nombre de usuario está disponible.
+
+access
+Access was denied.	acceso
+El acceso fue denegado.
+
+security
+Security is strong.	seguridad
+La seguridad es fuerte.
+
+hospital
+The hospital is nearby.	hospital
+El hospital está cerca.
+
+clinic
+The clinic is open today.	clínica
+La clínica está abierta hoy.
+
+pharmacy
+The pharmacy closes at eight.	farmacia
+La farmacia cierra a las ocho.
+
+medicine
+The medicine is effective.	medicina
+La medicina es efectiva.
+
+pill
+Take the pill now.	pastilla
+Toma la pastilla ahora.
+
+pain
+The pain is strong.	dolor
+El dolor es fuerte.
+
+fever
+The fever is high.	fiebre
+La fiebre es alta.
+
+cough
+The cough is dry.	tos
+La tos es seca.
+
+cold
+He has a cold.	resfriado
+Tiene un resfriado.
+
+virus
+The virus spreads quickly.	virus
+El virus se propaga rápidamente.
+
+injury
+The injury was serious.	lesión
+La lesión fue grave.
+
+wound
+The wound is deep.	herida
+La herida es profunda.
+
+blood
+The blood is red.	sangre
+La sangre es roja.
+
+health
+Health is important.	salud
+La salud es importante.
+
+exercise
+Exercise is necessary.	ejercicio
+El ejercicio es necesario.
+
+diet
+The diet is balanced.	dieta
+La dieta es equilibrada.
+
+sleep
+Sleep is essential.	sueño
+El sueño es esencial.
+
+dream
+The dream felt real.	sueño
+El sueño se sintió real.
+
+emotion
+The emotion was intense.	emoción
+La emoción fue intensa.
+
+happiness
+Happiness is simple.	felicidad
+La felicidad es simple.
+
+sadness
+Sadness is temporary.	tristeza
+La tristeza es temporal.
+
+anger
+The anger disappeared.	ira
+La ira desapareció.
+
+surprise
+The surprise was big.	sorpresa
+La sorpresa fue grande.
+
+smile
+Her smile is beautiful.	sonrisa
+Su sonrisa es hermosa.
+
+tear
+A tear fell down.	lágrima
+Una lágrima cayó.
+
+laugh
+The laugh was loud.	risa
+La risa fue fuerte.
+
+conversation
+The conversation was interesting.	conversación
+La conversación fue interesante.
+
+discussion
+The discussion lasted hours.	discusión
+La discusión duró horas.
+
+argument
+The argument was intense.	disputa
+La disputa fue intensa.
+
+opinion
+The opinion is valid.	opinión
+La opinión es válida.
+
+belief
+The belief is strong.	creencia
+La creencia es fuerte.
+
+idea
+The idea is creative.	idea
+La idea es creativa.
+
+thought
+The thought was sudden.	pensamiento
+El pensamiento fue repentino.
+
+memory
+The memory is clear.	recuerdo
+El recuerdo es claro.
+
+attention
+Pay attention.	atención
+Presta atención.
+
+focus
+The focus is sharp.	enfoque
+El enfoque es preciso.
+
+concentration
+Concentration is difficult.	concentración
+La concentración es difícil.
+
+habit
+The habit is hard to break.	hábito
+El hábito es difícil de romper.
+
+routine
+The routine is simple.	rutina
+La rutina es simple.
+
+goal
+The goal is achievable.	meta
+La meta es alcanzable.
+
+challenge
+The challenge is tough.	desafío
+El desafío es difícil.
+
+effort
+The effort was worth it.	esfuerzo
+El esfuerzo valió la pena.
+
+result
+The result was positive.	resultado
+El resultado fue positivo.
+
+success
+The success was unexpected.	éxito
+El éxito fue inesperado.
+
+failure
+The failure was temporary.	fracaso
+El fracaso fue temporal.
+
+mistake
+The mistake was small.	error
+El error fue pequeño.
+
+progress
+The progress is steady.	progreso
+El progreso es constante.
+
+improvement
+The improvement is visible.	mejora
+La mejora es visible.
+
+growth
+Growth takes time.	crecimiento
+El crecimiento toma tiempo.
+
+development
+The development was rapid.	desarrollo
+El desarrollo fue rápido.
+
+future
+The future is uncertain.	futuro
+El futuro es incierto.
+
+past
+The past cannot change.	pasado
+El pasado no puede cambiar.
+
+present
+The present is important.	presente
+El presente es importante.
+
+reason
+The reason is simple.	razón
+La razón es simple.
+
+cause
+The cause is unknown.	causa
+La causa es desconocida.
+
+effect
+The effect was immediate.	efecto
+El efecto fue inmediato.
+
+solution
+The solution is clear.	solución
+La solución es clara.
+
+option
+This option is better.	opción
+Esta opción es mejor.
+
+choice
+The choice is yours.	elección
+La elección es tuya.
+
+chance
+The chance is small.	oportunidad
+La oportunidad es pequeña.
+
+risk
+The risk is high.	riesgo
+El riesgo es alto.
+
+danger
+The danger is real.	peligro
+El peligro es real.
+
+safety
+Safety comes first.	seguridad
+La seguridad es lo primero.
+
+law
+The law is strict.	ley
+La ley es estricta.
+
+rule
+The rule is simple.	regla
+La regla es simple.
+
+policy
+The policy changed.	política
+La política cambió.
+
+government
+The government announced changes.	gobierno
+El gobierno anunció cambios.
+
+president
+The president gave a speech.	presidente
+El presidente dio un discurso.
+
+minister
+The minister resigned.	ministro
+El ministro renunció.
+
+citizen
+The citizen voted yesterday.	ciudadano
+El ciudadano votó ayer.
+
+community
+The community is united.	comunidad
+La comunidad está unida.
+
+society
+Society is changing.	sociedad
+La sociedad está cambiando.
+
+culture
+The culture is rich.	cultura
+La cultura es rica.
+
+tradition
+The tradition is old.	tradición
+La tradición es antigua.
+
+language
+The language is beautiful.	idioma
+El idioma es hermoso.
+
+education
+Education is essential.	educación
+La educación es esencial.
+
+student
+The student studies hard.	estudiante
+El estudiante estudia mucho.
+
+teacher
+The teacher explains clearly.	profesor
+El profesor explica claramente.
+
+lesson
+The lesson was useful.	lección
+La lección fue útil.
+
+exam
+The exam was difficult.	examen
+El examen fue difícil.
+
+grade
+The grade was high.	nota
+La nota fue alta.
+
+class
+The class starts at nine.	clase
+La clase empieza a las nueve.
+
+course
+The course is online.	curso
+El curso es en línea.
+
+university
+The university is large.	universidad
+La universidad es grande.
+
+degree
+The degree took four years.	título
+El título tomó cuatro años.
+
+career
+Her career is successful.	carrera
+Su carrera es exitosa.
+
+office
+The office opens at eight.	oficina
+La oficina abre a las ocho.
+
+meeting
+The meeting was short.	reunión
+La reunión fue corta.
+
+project
+The project is finished.	proyecto
+El proyecto está terminado.
+
+task
+The task is simple.	tarea
+La tarea es simple.
+
+report
+The report is detailed.	informe
+El informe es detallado.
+
+analysis
+The analysis is complete.	análisis
+El análisis está completo.
+
+data
+The data is accurate.	datos
+Los datos son precisos.
+
+information
+The information is confidential.	información
+La información es confidencial.
+
+knowledge
+Knowledge is power.	conocimiento
+El conocimiento es poder.
+
+experience
+The experience was valuable.	experiencia
+La experiencia fue valiosa.
+
+skill
+The skill improves with practice.	habilidad
+La habilidad mejora con práctica.
+
+talent
+The talent is natural.	talento
+El talento es natural.
+
+leadership
+Leadership requires vision.	liderazgo
+El liderazgo requiere visión.
+
+manager
+The manager approved it.	gerente
+El gerente lo aprobó.
+
+director
+The director made a decision.	director
+El director tomó una decisión.
+
+company
+The company is growing.	empresa
+La empresa está creciendo.
+
+business
+The business is profitable.	negocio
+El negocio es rentable.
+
+client
+The client signed the contract.	cliente
+El cliente firmó el contrato.
+
+customer
+The customer was satisfied.	cliente
+El cliente quedó satisfecho.
+
+contract
+The contract is legal.	contrato
+El contrato es legal.
+
+agreement
+The agreement was fair.	acuerdo
+El acuerdo fue justo.
+
+payment
+The payment was late.	pago
+El pago fue tarde.
+
+price
+The price is high.	precio
+El precio es alto.
+
+cost
+The cost increased.	costo
+El costo aumentó.
+
+budget
+The budget is limited.	presupuesto
+El presupuesto es limitado.
+
+salary
+The salary is competitive.	salario
+El salario es competitivo.
+
+profit
+The profit was small.	ganancia
+La ganancia fue pequeña.
+
+loss
+The loss was significant.	pérdida
+La pérdida fue significativa.
+
+investment
+The investment was risky.	inversión
+La inversión fue arriesgada.
+
+market
+The market is unstable.	mercado
+El mercado es inestable.
+
+competition
+The competition is strong.	competencia
+La competencia es fuerte.
+
+industry
+The industry is evolving.	industria
+La industria está evolucionando.
+
+technology
+Technology advances quickly.	tecnología
+La tecnología avanza rápido.
+
+innovation
+Innovation drives growth.	innovación
+La innovación impulsa el crecimiento.
+
+research
+The research took months.	investigación
+La investigación tomó meses.
+
+science
+Science explains reality.	ciencia
+La ciencia explica la realidad.
+
+discovery
+The discovery was important.	descubrimiento
+El descubrimiento fue importante.
+
+theory
+The theory makes sense.	teoría
+La teoría tiene sentido.
+
+experiment
+The experiment succeeded.	experimento
+El experimento tuvo éxito.
+
+energy
+Energy is limited.	energía
+La energía es limitada.
+
+power
+The power went out.	energía eléctrica
+La energía eléctrica se fue.
+
+electricity
+Electricity is expensive.	electricidad
+La electricidad es cara.
+
+fuel
+Fuel prices increased.	combustible
+Los precios del combustible aumentaron.
+
+gas
+Gas is cheaper today.	gasolina
+La gasolina es más barata hoy.
+
+oil
+Oil production decreased.	petróleo
+La producción de petróleo disminuyó.
+
+transport
+Transport is efficient.	transporte
+El transporte es eficiente.
+
+traffic
+Traffic was heavy.	tráfico
+El tráfico fue intenso.
+
+road
+The road is closed.	carretera
+La carretera está cerrada.
+
+bridge
+The bridge is old.	puente
+El puente es antiguo.
+
+airport
+The airport was crowded.	aeropuerto
+El aeropuerto estaba lleno.
+
+flight
+The flight was delayed.	vuelo
+El vuelo fue retrasado.
+
+ticket
+The ticket is valid.	boleto
+El boleto es válido.
+
+passport
+The passport expired.	pasaporte
+El pasaporte expiró.
+
+border
+The border is open.	frontera
+La frontera está abierta.
+
+map
+The map is useful.	mapa
+El mapa es útil.
+
+guide
+The guide explained everything.	guía
+El guía explicó todo.
+
+hotel
+The hotel is comfortable.	hotel
+El hotel es cómodo.
+
+reservation
+The reservation is confirmed.	reserva
+La reserva está confirmada.
+
+key
+The key is missing.	llave
+La llave falta.
+
+bag
+The bag is heavy.	bolsa
+La bolsa es pesada.
+
+suitcase
+The suitcase is packed.	maleta
+La maleta está lista.
+
+trip
+The trip was amazing.	viaje
+El viaje fue increíble.
+
+journey
+The journey took hours.	trayecto
+El trayecto tomó horas.
+
+adventure
+The adventure was exciting.	aventura
+La aventura fue emocionante.
+
+history
+History repeats itself.	historia
+La historia se repite.
+
+war
+The war lasted years.	guerra
+La guerra duró años.
+
+peace
+Peace is fragile.	paz
+La paz es frágil.
+
+freedom
+Freedom is valuable.	libertad
+La libertad es valiosa.
+
+rights
+Rights must be protected.	derechos
+Los derechos deben protegerse.
+
+justice
+Justice was served.	justicia
+La justicia fue servida.
+
+crime
+The crime was serious.	crimen
+El crimen fue grave.
+
+police
+The police arrived quickly.	policía
+La policía llegó rápido.
+
+judge
+The judge made a ruling.	juez
+El juez dictó sentencia.
+
+court
+The court was full.	tribunal
+El tribunal estaba lleno.
+
+prison
+The prison is secure.	prisión
+La prisión es segura.
+
+lawyer
+The lawyer prepared the case.	abogado
+El abogado preparó el caso.
+
+evidence
+The evidence was clear.	evidencia
+La evidencia fue clara.
+
+art
+Art inspires people.	arte
+El arte inspira a las personas.
+
+music
+Music helps me focus.	música
+La música me ayuda a concentrarme.
+
+song
+The song is popular.	canción
+La canción es popular.
+
+movie
+The movie was exciting.	película
+La película fue emocionante.
+
+series
+The series is interesting.	serie
+La serie es interesante.
+
+bookstore
+The bookstore is downtown.	librería
+La librería está en el centro.
+
+library
+The library is quiet.	biblioteca
+La biblioteca es tranquila.
+
+newspaper
+The newspaper arrived early.	periódico
+El periódico llegó temprano.
+
+magazine
+The magazine is new.	revista
+La revista es nueva.
+
+story
+The story is true.	historia
+La historia es verdadera.
+
+poem
+The poem is short.	poema
+El poema es corto.
+
+painting
+The painting is beautiful.	pintura
+La pintura es hermosa.
+
+drawing
+The drawing is simple.	dibujo
+El dibujo es simple.
+
+color
+The color is bright.	color
+El color es brillante.
+
+shape
+The shape is round.	forma
+La forma es redonda.
+
+circle
+The circle is perfect.	círculo
+El círculo es perfecto.
+
+square
+The square is large.	cuadrado
+El cuadrado es grande.
+
+line
+The line is straight.	línea
+La línea es recta.
+
+number
+The number is correct.	número
+El número es correcto.
+
+list
+The list is long.	lista
+La lista es larga.
+
+plan
+The plan is clear.	plan
+El plan es claro.
+
+strategy
+The strategy is effective.	estrategia
+La estrategia es efectiva.
+
+decision
+The decision was final.	decisión
+La decisión fue final.
+
+control
+Control is important.	control
+El control es importante.
+
+permission
+Permission was granted.	permiso
+El permiso fue concedido.
+
+permission slip
+The permission slip is signed.	autorización
+La autorización está firmada.
+
+limit
+The limit is strict.	límite
+El límite es estricto.
+
+level
+The level is high.	nivel
+El nivel es alto.
+
+stage
+The stage is ready.	escenario
+El escenario está listo.
+
+event
+The event was successful.	evento
+El evento fue exitoso.
+
+festival
+The festival was crowded.	festival
+El festival estuvo lleno.
+
+celebration
+The celebration lasted all night.	celebración
+La celebración duró toda la noche.
+
+holiday
+The holiday was relaxing.	vacaciones
+Las vacaciones fueron relajantes.
+
+birthday
+The birthday was fun.	cumpleaños
+El cumpleaños fue divertido.
+
+gift
+The gift was thoughtful.	regalo
+El regalo fue considerado.
+
+party
+The party was loud.	fiesta
+La fiesta fue ruidosa.
+
+cake
+The cake tastes good.	pastel
+El pastel sabe bien.
+
+candle
+The candle is lit.	vela
+La vela está encendida.
+
+ring
+The ring is gold.	anillo
+El anillo es de oro.
+
+watch
+The watch is expensive.	reloj
+El reloj es caro.
+
+wallet
+The wallet is missing.	cartera
+La cartera falta.
+
+pocket
+The pocket is empty.	bolsillo
+El bolsillo está vacío.
+
+coat
+The coat is warm.	abrigo
+El abrigo es cálido.
+
+jacket
+The jacket is new.	chaqueta
+La chaqueta es nueva.
+
+shirt
+The shirt is clean.	camisa
+La camisa está limpia.
+
+pants
+The pants are tight.	pantalones
+Los pantalones están ajustados.
+
+shoes
+The shoes are comfortable.	zapatos
+Los zapatos son cómodos.
+
+socks
+The socks are white.	calcetines
+Los calcetines son blancos.
+
+hat
+The hat is black.	sombrero
+El sombrero es negro.
+
+glasses
+The glasses are broken.	gafas
+Las gafas están rotas.
+
+belt
+The belt is leather.	cinturón
+El cinturón es de cuero.
+
+umbrella
+The umbrella is wet.	paraguas
+El paraguas está mojado.
+
+raincoat
+The raincoat is waterproof.	impermeable
+El impermeable es resistente al agua.
+
+weather
+The weather is nice.	clima
+El clima es agradable.
+
+season
+Spring is my favorite season.	estación
+La primavera es mi estación favorita.
+
+spring
+Spring is warm.	primavera
+La primavera es cálida.
+
+summer
+Summer is hot.	verano
+El verano es caluroso.
+
+autumn
+Autumn is cool.	otoño
+El otoño es fresco.
+
+winter
+Winter is cold.	invierno
+El invierno es frío.
+
+north
+The north is colder.	norte
+El norte es más frío.
+
+south
+The south is warmer.	sur
+El sur es más cálido.
+
+east
+The sun rises in the east.	este
+El sol sale por el este.
+
+west
+The sun sets in the west.	oeste
+El sol se pone por el oeste.
+
+center
+The center is busy.	centro
+El centro está ocupado.
+
+corner
+The corner is quiet.	esquina
+La esquina es tranquila.
+
+side
+Choose a side.	lado
+Elige un lado.
+
+top
+The top is clean.	parte superior
+La parte superior está limpia.
+
+bottom
+The bottom is dirty.	parte inferior
+La parte inferior está sucia.
+
+inside
+The inside is dark.	interior
+El interior es oscuro.
+
+outside
+The outside is bright.	exterior
+El exterior es luminoso.
+
+front
+The front door is open.	frente
+La puerta del frente está abierta.
+
+back
+The back door is closed.	parte trasera
+La puerta trasera está cerrada.
+
+beginning
+The beginning was slow.	comienzo
+El comienzo fue lento.
+
+end
+The end was surprising.	final
+El final fue sorprendente.
+
+middle
+The middle is unclear.	medio
+El medio no está claro.
+
+moment
+Wait a moment.	momento
+Espera un momento.
+
+second
+Give me a second.	segundo
+Dame un segundo.
+
+minute
+It takes a minute.	minuto
+Toma un minuto.
+
+hour
+The hour passed quickly.	hora
+La hora pasó rápido.
+
+week
+The week was busy.	semana
+La semana fue ocupada.
+
+month
+The month was long.	mes
+El mes fue largo.
+
+century
+The century changed everything.	siglo
+El siglo cambió todo.

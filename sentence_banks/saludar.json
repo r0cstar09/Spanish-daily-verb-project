@@ -1,0 +1,407 @@
+{
+  "verb": "saludar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:saludar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I greet my neighbors every morning."
+    },
+    {
+      "id": 2,
+      "en": "We greet the team before practice."
+    },
+    {
+      "id": 3,
+      "en": "He greets the customers at the door."
+    },
+    {
+      "id": 4,
+      "en": "She greets her parents with a hug."
+    },
+    {
+      "id": 5,
+      "en": "They greet each other with a wave."
+    },
+    {
+      "id": 6,
+      "en": "You greet too quietly in a loud room."
+    },
+    {
+      "id": 7,
+      "en": "I greet the security guard on my way in."
+    },
+    {
+      "id": 8,
+      "en": "We greet the host when we arrive."
+    },
+    {
+      "id": 9,
+      "en": "He greets the coach after the match."
+    },
+    {
+      "id": 10,
+      "en": "She greets people on the video call."
+    },
+    {
+      "id": 11,
+      "en": "I greet my friend at the café."
+    },
+    {
+      "id": 12,
+      "en": "We greet the new hire on Monday."
+    },
+    {
+      "id": 13,
+      "en": "They greet fans near the stadium."
+    },
+    {
+      "id": 14,
+      "en": "You greet the group before you speak."
+    },
+    {
+      "id": 15,
+      "en": "I greet my mom when I call."
+    },
+    {
+      "id": 16,
+      "en": "He greets the nurse at the clinic."
+    },
+    {
+      "id": 17,
+      "en": "We greet the driver when we get on the bus."
+    },
+    {
+      "id": 18,
+      "en": "She greets guests at the front desk."
+    },
+    {
+      "id": 19,
+      "en": "I greet the barista with a smile."
+    },
+    {
+      "id": 20,
+      "en": "They greet the city guide at the hotel."
+    },
+    {
+      "id": 21,
+      "en": "I greeted him yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We greeted everyone at the party."
+    },
+    {
+      "id": 23,
+      "en": "He greeted the boss in the hallway."
+    },
+    {
+      "id": 24,
+      "en": "She greeted me with a nod."
+    },
+    {
+      "id": 25,
+      "en": "I didn't greet him because I was in a rush."
+    },
+    {
+      "id": 26,
+      "en": "They greeted the teacher after class."
+    },
+    {
+      "id": 27,
+      "en": "I was greeting a friend when you texted."
+    },
+    {
+      "id": 28,
+      "en": "When I was a kid, I greeted every neighbor on the street."
+    },
+    {
+      "id": 29,
+      "en": "We greeted early because the meeting started."
+    },
+    {
+      "id": 30,
+      "en": "He greeted the group at the airport."
+    },
+    {
+      "id": 31,
+      "en": "I greeted my cousin at the train station."
+    },
+    {
+      "id": 32,
+      "en": "She greeted the panel before her talk."
+    },
+    {
+      "id": 33,
+      "en": "Why didn't you greet them?"
+    },
+    {
+      "id": 34,
+      "en": "We greeted the family from the porch."
+    },
+    {
+      "id": 35,
+      "en": "I greeted the gym coach at the desk."
+    },
+    {
+      "id": 36,
+      "en": "He greeted the waiter with a thank-you."
+    },
+    {
+      "id": 37,
+      "en": "They greeted the team with a cheer after the goal."
+    },
+    {
+      "id": 38,
+      "en": "I greeted the group on the trip."
+    },
+    {
+      "id": 39,
+      "en": "We greeted the bank teller with ID ready."
+    },
+    {
+      "id": 40,
+      "en": "You greeted more people than I did."
+    },
+    {
+      "id": 41,
+      "en": "I will greet them tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will greet if you arrive first."
+    },
+    {
+      "id": 43,
+      "en": "If you arrive early, I will greet you at the door."
+    },
+    {
+      "id": 44,
+      "en": "She will greet the client on Monday."
+    },
+    {
+      "id": 45,
+      "en": "He won't greet strangers without a reason."
+    },
+    {
+      "id": 46,
+      "en": "I would greet everyone if I had more time."
+    },
+    {
+      "id": 47,
+      "en": "We would greet the team if we saw them."
+    },
+    {
+      "id": 48,
+      "en": "Would you greet the speaker for us?"
+    },
+    {
+      "id": 49,
+      "en": "If we travel, we will greet the guide at the hotel."
+    },
+    {
+      "id": 50,
+      "en": "They will greet fans at the gate."
+    },
+    {
+      "id": 51,
+      "en": "You will greet calmer if you breathe first."
+    },
+    {
+      "id": 52,
+      "en": "I would greet her in person if I were there."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will greet guests inside."
+    },
+    {
+      "id": 54,
+      "en": "I will greet my friends after the football match."
+    },
+    {
+      "id": 55,
+      "en": "We will greet the group before Friday."
+    },
+    {
+      "id": 56,
+      "en": "I have greeted him before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't greeted the new neighbor yet."
+    },
+    {
+      "id": 58,
+      "en": "She has greeted every guest since noon."
+    },
+    {
+      "id": 59,
+      "en": "Have you greeted the team?"
+    },
+    {
+      "id": 60,
+      "en": "I need to greet the host today."
+    },
+    {
+      "id": 61,
+      "en": "I want to greet everyone."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to greet the manager."
+    },
+    {
+      "id": 63,
+      "en": "Remember to greet the nurse at the desk."
+    },
+    {
+      "id": 64,
+      "en": "I hate to greet a crowd when I am tired."
+    },
+    {
+      "id": 65,
+      "en": "We started to greet people faster last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to greet the panel tonight."
+    },
+    {
+      "id": 67,
+      "en": "I plan to greet early."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to greet without eye contact."
+    },
+    {
+      "id": 69,
+      "en": "I want you to greet the guests."
+    },
+    {
+      "id": 70,
+      "en": "They tried to greet everyone at the door."
+    },
+    {
+      "id": 71,
+      "en": "Do you greet your boss every day?"
+    },
+    {
+      "id": 72,
+      "en": "Who did you greet first?"
+    },
+    {
+      "id": 73,
+      "en": "Greet the team before you speak."
+    },
+    {
+      "id": 74,
+      "en": "Don't greet people with your phone in your face."
+    },
+    {
+      "id": 75,
+      "en": "Never greet a client with a joke you can't explain."
+    },
+    {
+      "id": 76,
+      "en": "Can't you greet louder?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you greeted the host?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you greet your friend?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you greet them?"
+    },
+    {
+      "id": 80,
+      "en": "Will you greet if I introduce you?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you greet at the meeting?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it polite to greet first?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you greet the barista when you order?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you greet the group first?"
+    },
+    {
+      "id": 85,
+      "en": "Stop greeting while you are still walking."
+    },
+    {
+      "id": 86,
+      "en": "I greet early because my shift starts at six."
+    },
+    {
+      "id": 87,
+      "en": "We greeted the family, but the door was locked."
+    },
+    {
+      "id": 88,
+      "en": "When you see her, greet her from me."
+    },
+    {
+      "id": 89,
+      "en": "If you greet first, people relax."
+    },
+    {
+      "id": 90,
+      "en": "Although I greeted him, he still looked shy."
+    },
+    {
+      "id": 91,
+      "en": "Before you sit, greet the host."
+    },
+    {
+      "id": 92,
+      "en": "After I greeted the nurse, I felt calmer."
+    },
+    {
+      "id": 93,
+      "en": "Because we greeted early, the line moved faster."
+    },
+    {
+      "id": 94,
+      "en": "I greet at work, but I stay quiet at home."
+    },
+    {
+      "id": 95,
+      "en": "When he feels nervous, he greets with a smile."
+    },
+    {
+      "id": 96,
+      "en": "If we greet the guide, we will feel less lost."
+    },
+    {
+      "id": 97,
+      "en": "Although we greeted online, the call froze."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, greet your family."
+    },
+    {
+      "id": 99,
+      "en": "After we greeted the football team, we went to our seats."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you greet the doctor when you arrive."
+    }
+  ]
+}

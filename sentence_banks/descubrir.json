@@ -1,0 +1,407 @@
+{
+  "verb": "descubrir",
+  "generated_at": "2026-04-16T13:00:00+00:00",
+  "source": "sentence_banks:descubrir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I discover new music every week."
+    },
+    {
+      "id": 2,
+      "en": "We discover small bugs after every update."
+    },
+    {
+      "id": 3,
+      "en": "He discovers patterns in the data."
+    },
+    {
+      "id": 4,
+      "en": "They discover leaks when it rains."
+    },
+    {
+      "id": 5,
+      "en": "You discover the truth when you ask calmly."
+    },
+    {
+      "id": 6,
+      "en": "She discovers cheap flights on Tuesday."
+    },
+    {
+      "id": 7,
+      "en": "I discover I forgot my keys when I reach the door."
+    },
+    {
+      "id": 8,
+      "en": "We discover the cafe on the corner."
+    },
+    {
+      "id": 9,
+      "en": "The kids discover chocolate on the top shelf."
+    },
+    {
+      "id": 10,
+      "en": "I discover a new route to work."
+    },
+    {
+      "id": 11,
+      "en": "People discover problems when they read the fine print."
+    },
+    {
+      "id": 12,
+      "en": "We discover the hard way when we skip backups."
+    },
+    {
+      "id": 13,
+      "en": "He discovers the password was wrong."
+    },
+    {
+      "id": 14,
+      "en": "She discovers the app is offline."
+    },
+    {
+      "id": 15,
+      "en": "Every week I discover expired milk in the back of the fridge."
+    },
+    {
+      "id": 16,
+      "en": "You discover how much you care when you are scared."
+    },
+    {
+      "id": 17,
+      "en": "We discover the gym is closed on holidays."
+    },
+    {
+      "id": 18,
+      "en": "They discover the team is stronger than last year."
+    },
+    {
+      "id": 19,
+      "en": "I discover the receipt in my pocket."
+    },
+    {
+      "id": 20,
+      "en": "We discover a gap in the budget during the audit."
+    },
+    {
+      "id": 21,
+      "en": "I discovered the truth yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We discovered the bug in production."
+    },
+    {
+      "id": 23,
+      "en": "She discovered she was allergic to nuts."
+    },
+    {
+      "id": 24,
+      "en": "They discovered the hotel online."
+    },
+    {
+      "id": 25,
+      "en": "I was discovering the city when I got lost."
+    },
+    {
+      "id": 26,
+      "en": "He discovered the message too late."
+    },
+    {
+      "id": 27,
+      "en": "I didn't discover the mistake until Monday."
+    },
+    {
+      "id": 28,
+      "en": "Why did you discover that only now?"
+    },
+    {
+      "id": 29,
+      "en": "Although I discovered the leak, I still felt calm."
+    },
+    {
+      "id": 30,
+      "en": "When I was a student, I discovered my love for math."
+    },
+    {
+      "id": 31,
+      "en": "I used to discover new places on weekends."
+    },
+    {
+      "id": 32,
+      "en": "After we discovered the fraud, we blocked the card."
+    },
+    {
+      "id": 33,
+      "en": "Before you discover the hard way, read the label."
+    },
+    {
+      "id": 34,
+      "en": "We discovered the wrong address, but we fixed it."
+    },
+    {
+      "id": 35,
+      "en": "He discovered the app on a friend's phone."
+    },
+    {
+      "id": 36,
+      "en": "We never discovered who sent the package."
+    },
+    {
+      "id": 37,
+      "en": "I discovered the photo in an old folder."
+    },
+    {
+      "id": 38,
+      "en": "She discovered the meeting moved to video."
+    },
+    {
+      "id": 39,
+      "en": "They discovered the match was canceled."
+    },
+    {
+      "id": 40,
+      "en": "I discovered the charger under the couch."
+    },
+    {
+      "id": 41,
+      "en": "I will discover more tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We'll discover if you test it."
+    },
+    {
+      "id": 43,
+      "en": "If you look, you will discover the answer."
+    },
+    {
+      "id": 44,
+      "en": "They will discover the result next week."
+    },
+    {
+      "id": 45,
+      "en": "I am going to discover the city on foot."
+    },
+    {
+      "id": 46,
+      "en": "We could discover more if we had more time."
+    },
+    {
+      "id": 47,
+      "en": "I would discover sooner if I checked notifications."
+    },
+    {
+      "id": 48,
+      "en": "If we search, we will discover the ticket."
+    },
+    {
+      "id": 49,
+      "en": "Tomorrow she will discover the new feature."
+    },
+    {
+      "id": 50,
+      "en": "He will discover the hard truth at the meeting."
+    },
+    {
+      "id": 51,
+      "en": "We would discover faster if we had a guide."
+    },
+    {
+      "id": 52,
+      "en": "If you are honest, I will discover the truth sooner."
+    },
+    {
+      "id": 53,
+      "en": "They will discover the issue after the deploy."
+    },
+    {
+      "id": 54,
+      "en": "We will discover when the report lands."
+    },
+    {
+      "id": 55,
+      "en": "I will discover when I am ready to look."
+    },
+    {
+      "id": 56,
+      "en": "I have discovered the problem already."
+    },
+    {
+      "id": 57,
+      "en": "We haven't discovered the cause yet."
+    },
+    {
+      "id": 58,
+      "en": "I've discovered the same bug twice."
+    },
+    {
+      "id": 59,
+      "en": "After discovering the bug, we rolled back."
+    },
+    {
+      "id": 60,
+      "en": "Before you discover the hard way, save your work."
+    },
+    {
+      "id": 61,
+      "en": "I want to discover the city slowly."
+    },
+    {
+      "id": 62,
+      "en": "We need to discover the cost before we pay."
+    },
+    {
+      "id": 63,
+      "en": "Don't try to discover the password by guessing."
+    },
+    {
+      "id": 64,
+      "en": "Let's discover the new cafe together."
+    },
+    {
+      "id": 65,
+      "en": "I discovered the opening hours too late."
+    },
+    {
+      "id": 66,
+      "en": "To discover well, you need patience."
+    },
+    {
+      "id": 67,
+      "en": "Stop discovering problems only after launch."
+    },
+    {
+      "id": 68,
+      "en": "I haven't discovered the setting yet."
+    },
+    {
+      "id": 69,
+      "en": "We haven't discovered who took the photo."
+    },
+    {
+      "id": 70,
+      "en": "It's time to discover the truth."
+    },
+    {
+      "id": 71,
+      "en": "Do you discover new music online?"
+    },
+    {
+      "id": 72,
+      "en": "Did you discover the bug?"
+    },
+    {
+      "id": 73,
+      "en": "When will you discover the result?"
+    },
+    {
+      "id": 74,
+      "en": "Where did you discover the cafe?"
+    },
+    {
+      "id": 75,
+      "en": "Don't discover bad news by reading your phone at 2 a.m."
+    },
+    {
+      "id": 76,
+      "en": "We can't discover until we run the test."
+    },
+    {
+      "id": 77,
+      "en": "I don't discover much new music on busy Mondays."
+    },
+    {
+      "id": 78,
+      "en": "Why won't you look in the logs and discover the error?"
+    },
+    {
+      "id": 79,
+      "en": "Discover the city before you judge it."
+    },
+    {
+      "id": 80,
+      "en": "Never discover important news by surprise text."
+    },
+    {
+      "id": 81,
+      "en": "Can you discover the source?"
+    },
+    {
+      "id": 82,
+      "en": "I won't discover the answer until I read the full file."
+    },
+    {
+      "id": 83,
+      "en": "We don't discover talent on the first day."
+    },
+    {
+      "id": 84,
+      "en": "Are you going to discover the museum?"
+    },
+    {
+      "id": 85,
+      "en": "Could you discover the error before five?"
+    },
+    {
+      "id": 86,
+      "en": "When we travel, we discover small streets."
+    },
+    {
+      "id": 87,
+      "en": "Because we were tired, we discovered only the hotel lobby."
+    },
+    {
+      "id": 88,
+      "en": "If you discover early, you save money."
+    },
+    {
+      "id": 89,
+      "en": "Although we discovered the truth, we still felt hurt."
+    },
+    {
+      "id": 90,
+      "en": "Before we buy, we should discover the fees."
+    },
+    {
+      "id": 91,
+      "en": "After we discovered the leak, we called the landlord."
+    },
+    {
+      "id": 92,
+      "en": "We discovered the deal, but the dates were wrong."
+    },
+    {
+      "id": 93,
+      "en": "When the season ends, we discover the final rank."
+    },
+    {
+      "id": 94,
+      "en": "If you discover the problem, tell me."
+    },
+    {
+      "id": 95,
+      "en": "We should discover the facts before we argue about money."
+    },
+    {
+      "id": 96,
+      "en": "She discovers issues fast, but she double-checks."
+    },
+    {
+      "id": 97,
+      "en": "Because I was late, I discovered the room was full."
+    },
+    {
+      "id": 98,
+      "en": "After we discovered the price, we changed the plan."
+    },
+    {
+      "id": 99,
+      "en": "When we discover new places, we save them on the map."
+    },
+    {
+      "id": 100,
+      "en": "Let's discover a new spot tonight and plan the trip."
+    }
+  ]
+}

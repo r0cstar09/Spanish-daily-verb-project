@@ -1,0 +1,407 @@
+{
+  "verb": "poner",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:poner",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I put my keys on the counter every night."
+    },
+    {
+      "id": 2,
+      "en": "We set the table before dinner when guests come."
+    },
+    {
+      "id": 3,
+      "en": "He puts the phone on the charger."
+    },
+    {
+      "id": 4,
+      "en": "She puts the kids to bed at eight."
+    },
+    {
+      "id": 5,
+      "en": "They put the bags in the car."
+    },
+    {
+      "id": 6,
+      "en": "You put too much salt in the soup."
+    },
+    {
+      "id": 7,
+      "en": "I put the laundry in the basket."
+    },
+    {
+      "id": 8,
+      "en": "We put the chairs outside when it is sunny."
+    },
+    {
+      "id": 9,
+      "en": "He puts the alarm on for six in the morning."
+    },
+    {
+      "id": 10,
+      "en": "She puts music on when she cooks."
+    },
+    {
+      "id": 11,
+      "en": "I put the TV on after work."
+    },
+    {
+      "id": 12,
+      "en": "We put the heating on when it is cold."
+    },
+    {
+      "id": 13,
+      "en": "They put the meeting on the calendar."
+    },
+    {
+      "id": 14,
+      "en": "I put my jacket on before I leave."
+    },
+    {
+      "id": 15,
+      "en": "You put the cups in the wrong cabinet."
+    },
+    {
+      "id": 16,
+      "en": "He puts the football match on at night."
+    },
+    {
+      "id": 17,
+      "en": "We put money aside each week for rent."
+    },
+    {
+      "id": 18,
+      "en": "I put the phone on silent in meetings."
+    },
+    {
+      "id": 19,
+      "en": "She puts the date on the form."
+    },
+    {
+      "id": 20,
+      "en": "They put the sign at the door."
+    },
+    {
+      "id": 21,
+      "en": "I put the file on the desk yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We put the plates on the table before the guests arrived."
+    },
+    {
+      "id": 23,
+      "en": "He put the music on too loud."
+    },
+    {
+      "id": 24,
+      "en": "She put her coat on in the hall."
+    },
+    {
+      "id": 25,
+      "en": "I didn't put the milk back in the fridge."
+    },
+    {
+      "id": 26,
+      "en": "They put the couch against the wall."
+    },
+    {
+      "id": 27,
+      "en": "I was putting the kids to bed when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I was a kid, my parents put the TV on every night."
+    },
+    {
+      "id": 29,
+      "en": "We put the tickets in the safe."
+    },
+    {
+      "id": 30,
+      "en": "He put the wrong date on the form."
+    },
+    {
+      "id": 31,
+      "en": "I put the phone on the charger before I slept."
+    },
+    {
+      "id": 32,
+      "en": "She put the gym bag on the floor."
+    },
+    {
+      "id": 33,
+      "en": "Why did you put it there?"
+    },
+    {
+      "id": 34,
+      "en": "We put the money in the envelope."
+    },
+    {
+      "id": 35,
+      "en": "I put the football game on the big screen."
+    },
+    {
+      "id": 36,
+      "en": "He put pressure on me at work."
+    },
+    {
+      "id": 37,
+      "en": "They put the car in the garage."
+    },
+    {
+      "id": 38,
+      "en": "I put my shoes on by the door."
+    },
+    {
+      "id": 39,
+      "en": "We put the AC on when it was hot."
+    },
+    {
+      "id": 40,
+      "en": "You put the keys in the wrong drawer."
+    },
+    {
+      "id": 41,
+      "en": "I will put the bags in the hall tomorrow."
+    },
+    {
+      "id": 42,
+      "en": "We will put the rent on the list."
+    },
+    {
+      "id": 43,
+      "en": "If you cook, I will put the wine on the table."
+    },
+    {
+      "id": 44,
+      "en": "She will put the kids to bed early."
+    },
+    {
+      "id": 45,
+      "en": "He won't put the heating on until October."
+    },
+    {
+      "id": 46,
+      "en": "I would put the desk by the window if I had space."
+    },
+    {
+      "id": 47,
+      "en": "We would put the TV in the bedroom if it fit."
+    },
+    {
+      "id": 48,
+      "en": "Would you put the music on?"
+    },
+    {
+      "id": 49,
+      "en": "If we leave now, we will put the food away later."
+    },
+    {
+      "id": 50,
+      "en": "They will put the sign up tomorrow."
+    },
+    {
+      "id": 51,
+      "en": "You will put your name on the form."
+    },
+    {
+      "id": 52,
+      "en": "I would put the money in the bank if I had the cash."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will put the bikes inside."
+    },
+    {
+      "id": 54,
+      "en": "I will put the football game on at eight."
+    },
+    {
+      "id": 55,
+      "en": "We will put the meeting on the calendar tonight."
+    },
+    {
+      "id": 56,
+      "en": "I have put the keys in the same bowl every day."
+    },
+    {
+      "id": 57,
+      "en": "We haven't put the heating on yet."
+    },
+    {
+      "id": 58,
+      "en": "She has put the app on her phone."
+    },
+    {
+      "id": 59,
+      "en": "Have you put the laundry away?"
+    },
+    {
+      "id": 60,
+      "en": "I need to put the trash out."
+    },
+    {
+      "id": 61,
+      "en": "I want to put the photo on the wall."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to put the lid on."
+    },
+    {
+      "id": 63,
+      "en": "Remember to put your phone on silent."
+    },
+    {
+      "id": 64,
+      "en": "I hate to put wet clothes in the dryer."
+    },
+    {
+      "id": 65,
+      "en": "We started to put money aside every month."
+    },
+    {
+      "id": 66,
+      "en": "I have to put the kids to bed."
+    },
+    {
+      "id": 67,
+      "en": "I plan to put the desk in the corner."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to put the TV in the bedroom."
+    },
+    {
+      "id": 69,
+      "en": "I want you to put your name on the list."
+    },
+    {
+      "id": 70,
+      "en": "They tried to put the couch through the door."
+    },
+    {
+      "id": 71,
+      "en": "Do you put the alarm on every day?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you put the bag in the closet?"
+    },
+    {
+      "id": 73,
+      "en": "Put your phone on the table."
+    },
+    {
+      "id": 74,
+      "en": "Don't put hot food straight in the fridge."
+    },
+    {
+      "id": 75,
+      "en": "Never put a wet cup on wood."
+    },
+    {
+      "id": 76,
+      "en": "Can't you put the shoes on the rack?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you put the milk away?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you put the music on?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you put my wallet?"
+    },
+    {
+      "id": 80,
+      "en": "Will you put the heat on?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you put the sign up?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it easy to put the wrong date on the form?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you put your bag on the seat?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you put your jacket on?"
+    },
+    {
+      "id": 85,
+      "en": "Stop putting things in the wrong place."
+    },
+    {
+      "id": 86,
+      "en": "I put the key on the hook because I would forget it."
+    },
+    {
+      "id": 87,
+      "en": "We put the food away, but the fridge was full."
+    },
+    {
+      "id": 88,
+      "en": "When you put milk in your coffee, stir it first."
+    },
+    {
+      "id": 89,
+      "en": "If you put the oven on, watch the time."
+    },
+    {
+      "id": 90,
+      "en": "Although I put the file on the drive, I lost the link."
+    },
+    {
+      "id": 91,
+      "en": "Before you put the phone on silent, check the message."
+    },
+    {
+      "id": 92,
+      "en": "After I put the kids to bed, I cleaned the kitchen."
+    },
+    {
+      "id": 93,
+      "en": "Because we put the plates out first, dinner was ready fast."
+    },
+    {
+      "id": 94,
+      "en": "I put the light on at home, but I use daylight at work."
+    },
+    {
+      "id": 95,
+      "en": "When he puts music on, he turns it up loud."
+    },
+    {
+      "id": 96,
+      "en": "If we put the TV on, we will miss the train."
+    },
+    {
+      "id": 97,
+      "en": "Although we put money aside, we still felt short."
+    },
+    {
+      "id": 98,
+      "en": "Before you put the password in, read the warning."
+    },
+    {
+      "id": 99,
+      "en": "After we put the football on, we ordered pizza."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you put the phone on silent in meetings."
+    }
+  ]
+}

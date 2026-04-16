@@ -1,0 +1,407 @@
+{
+  "verb": "conducir",
+  "generated_at": "2026-04-16T03:00:00+00:00",
+  "source": "sentence_banks:conducir",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I drive to work every day."
+    },
+    {
+      "id": 2,
+      "en": "We drive a small car."
+    },
+    {
+      "id": 3,
+      "en": "He drives too fast on the highway."
+    },
+    {
+      "id": 4,
+      "en": "She drives the kids to school."
+    },
+    {
+      "id": 5,
+      "en": "They drive for hours on weekends."
+    },
+    {
+      "id": 6,
+      "en": "You drive carefully in the rain."
+    },
+    {
+      "id": 7,
+      "en": "My dad drives a truck."
+    },
+    {
+      "id": 8,
+      "en": "I drive when my partner is tired."
+    },
+    {
+      "id": 9,
+      "en": "We drive downtown after rush hour."
+    },
+    {
+      "id": 10,
+      "en": "He drives for a rideshare app on Friday nights."
+    },
+    {
+      "id": 11,
+      "en": "She drives a manual transmission."
+    },
+    {
+      "id": 12,
+      "en": "This habit can lead to stress."
+    },
+    {
+      "id": 13,
+      "en": "I don't drive much in the city."
+    },
+    {
+      "id": 14,
+      "en": "We drive to the grocery store."
+    },
+    {
+      "id": 15,
+      "en": "People drive worse when they are tired."
+    },
+    {
+      "id": 16,
+      "en": "I drive the route I know best."
+    },
+    {
+      "id": 17,
+      "en": "We drive slowly on icy roads."
+    },
+    {
+      "id": 18,
+      "en": "He drives a company van at work."
+    },
+    {
+      "id": 19,
+      "en": "They drive to the beach every summer."
+    },
+    {
+      "id": 20,
+      "en": "You drive on the left if you visit England."
+    },
+    {
+      "id": 21,
+      "en": "I drove to the airport yesterday."
+    },
+    {
+      "id": 22,
+      "en": "We drove because the train was canceled."
+    },
+    {
+      "id": 23,
+      "en": "She drove while I navigated."
+    },
+    {
+      "id": 24,
+      "en": "They drove the wrong way once."
+    },
+    {
+      "id": 25,
+      "en": "I was driving when I saw the accident."
+    },
+    {
+      "id": 26,
+      "en": "He drove me home after the party."
+    },
+    {
+      "id": 27,
+      "en": "We didn't drive last night because we drank."
+    },
+    {
+      "id": 28,
+      "en": "Why did you drive so fast?"
+    },
+    {
+      "id": 29,
+      "en": "Although it was foggy, I drove carefully."
+    },
+    {
+      "id": 30,
+      "en": "When I was young, I drove everywhere."
+    },
+    {
+      "id": 31,
+      "en": "I used to drive a beat-up old car."
+    },
+    {
+      "id": 32,
+      "en": "After we drove past the sign, we turned around."
+    },
+    {
+      "id": 33,
+      "en": "Before we drove away, we checked the tires."
+    },
+    {
+      "id": 34,
+      "en": "We drove through the mountains."
+    },
+    {
+      "id": 35,
+      "en": "We never drove in snow before that trip."
+    },
+    {
+      "id": 36,
+      "en": "I drove the rental car to the hotel."
+    },
+    {
+      "id": 37,
+      "en": "She drove the new car to the meeting."
+    },
+    {
+      "id": 38,
+      "en": "We drove the long way to avoid traffic."
+    },
+    {
+      "id": 39,
+      "en": "He drove too close to the curb."
+    },
+    {
+      "id": 40,
+      "en": "I didn't drive because I felt sick."
+    },
+    {
+      "id": 41,
+      "en": "I will drive tomorrow if you rest."
+    },
+    {
+      "id": 42,
+      "en": "We'll drive if the flight is canceled."
+    },
+    {
+      "id": 43,
+      "en": "If you drink, I will drive home."
+    },
+    {
+      "id": 44,
+      "en": "They will drive to the stadium for the match."
+    },
+    {
+      "id": 45,
+      "en": "I am going to drive the rental car."
+    },
+    {
+      "id": 46,
+      "en": "We could drive if you want to avoid the train."
+    },
+    {
+      "id": 47,
+      "en": "I would drive if I had my license with me."
+    },
+    {
+      "id": 48,
+      "en": "If we leave early, we will drive before traffic gets bad."
+    },
+    {
+      "id": 49,
+      "en": "Tomorrow she will drive the whole way."
+    },
+    {
+      "id": 50,
+      "en": "Rushing can lead to mistakes at work."
+    },
+    {
+      "id": 51,
+      "en": "We would drive slower if the road was icy."
+    },
+    {
+      "id": 52,
+      "en": "If you are tired, I will drive first."
+    },
+    {
+      "id": 53,
+      "en": "Ignoring the warning can lead to bigger problems."
+    },
+    {
+      "id": 54,
+      "en": "They will drive the van to the airport."
+    },
+    {
+      "id": 55,
+      "en": "Silence can lead to misunderstandings."
+    },
+    {
+      "id": 56,
+      "en": "We will drive when the car is ready."
+    },
+    {
+      "id": 57,
+      "en": "I will drive if I finish work early."
+    },
+    {
+      "id": 58,
+      "en": "I have driven that road before."
+    },
+    {
+      "id": 59,
+      "en": "We haven't driven long distances yet."
+    },
+    {
+      "id": 60,
+      "en": "I've driven this car three times."
+    },
+    {
+      "id": 61,
+      "en": "After driving for hours, I needed a break."
+    },
+    {
+      "id": 62,
+      "en": "We need to see what this leads to before we sign."
+    },
+    {
+      "id": 63,
+      "en": "Before you drive, check the mirrors."
+    },
+    {
+      "id": 64,
+      "en": "I want to learn to drive this year."
+    },
+    {
+      "id": 65,
+      "en": "We need to drive before the gas station closes."
+    },
+    {
+      "id": 66,
+      "en": "To stay calm, pause before anger leads to a fight."
+    },
+    {
+      "id": 67,
+      "en": "Don't drive if you are sleepy."
+    },
+    {
+      "id": 68,
+      "en": "Let's drive through the park on the way."
+    },
+    {
+      "id": 69,
+      "en": "I forgot to drive slowly on the gravel."
+    },
+    {
+      "id": 70,
+      "en": "To save money, we drive an electric car."
+    },
+    {
+      "id": 71,
+      "en": "Stop texting and drive."
+    },
+    {
+      "id": 72,
+      "en": "I haven't driven a stick shift in years."
+    },
+    {
+      "id": 73,
+      "en": "We haven't driven that route since the trip."
+    },
+    {
+      "id": 74,
+      "en": "It's time to drive home."
+    },
+    {
+      "id": 75,
+      "en": "Do you drive to work?"
+    },
+    {
+      "id": 76,
+      "en": "Did you drive last night?"
+    },
+    {
+      "id": 77,
+      "en": "When will you drive?"
+    },
+    {
+      "id": 78,
+      "en": "Where did you learn to drive?"
+    },
+    {
+      "id": 79,
+      "en": "Don't drive angry."
+    },
+    {
+      "id": 80,
+      "en": "We can't drive until the storm passes."
+    },
+    {
+      "id": 81,
+      "en": "I don't drive at night anymore."
+    },
+    {
+      "id": 82,
+      "en": "Why won't you drive when I am tired?"
+    },
+    {
+      "id": 83,
+      "en": "Drive slowly near the school."
+    },
+    {
+      "id": 84,
+      "en": "Never drive without a seatbelt."
+    },
+    {
+      "id": 85,
+      "en": "Can you drive a manual?"
+    },
+    {
+      "id": 86,
+      "en": "I won't drive with my phone in my hand."
+    },
+    {
+      "id": 87,
+      "en": "We don't drive on the shoulder unless it is an emergency."
+    },
+    {
+      "id": 88,
+      "en": "If you skip sleep, fatigue can lead to mistakes."
+    },
+    {
+      "id": 89,
+      "en": "Are you going to drive the first leg?"
+    },
+    {
+      "id": 90,
+      "en": "Before we vote, we should ask what this leads to."
+    },
+    {
+      "id": 91,
+      "en": "Could you drive a little slower?"
+    },
+    {
+      "id": 92,
+      "en": "When we travel, we drive on the right."
+    },
+    {
+      "id": 93,
+      "en": "Because I was tired, I drove in short shifts."
+    },
+    {
+      "id": 94,
+      "en": "If you stress the team, it can lead to burnout."
+    },
+    {
+      "id": 95,
+      "en": "Although we drove fast, we arrived late."
+    },
+    {
+      "id": 96,
+      "en": "Pressure can lead to snap decisions."
+    },
+    {
+      "id": 97,
+      "en": "Before we book, we should decide who drives first."
+    },
+    {
+      "id": 98,
+      "en": "After we drove past the toll, we paid online."
+    },
+    {
+      "id": 99,
+      "en": "We drove together, but we argued about money."
+    },
+    {
+      "id": 100,
+      "en": "When the rain stops, we drive to the gym."
+    }
+  ]
+}

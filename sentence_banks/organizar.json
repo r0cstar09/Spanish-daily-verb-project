@@ -1,0 +1,407 @@
+{
+  "verb": "organizar",
+  "generated_at": "2026-04-15T12:00:00+00:00",
+  "source": "sentence_banks:organizar",
+  "sentences": [
+    {
+      "id": 1,
+      "en": "I organize my desk every Friday."
+    },
+    {
+      "id": 2,
+      "en": "We organize the kitchen on weekends."
+    },
+    {
+      "id": 3,
+      "en": "He organizes the files at work."
+    },
+    {
+      "id": 4,
+      "en": "She organizes the meeting agenda."
+    },
+    {
+      "id": 5,
+      "en": "They organize the team schedule."
+    },
+    {
+      "id": 6,
+      "en": "You organize the trip too late."
+    },
+    {
+      "id": 7,
+      "en": "I organize the bills in folders."
+    },
+    {
+      "id": 8,
+      "en": "We organize the kids' clothes by size."
+    },
+    {
+      "id": 9,
+      "en": "He organizes the football practice on Thursdays."
+    },
+    {
+      "id": 10,
+      "en": "She organizes the class online."
+    },
+    {
+      "id": 11,
+      "en": "I organize my phone apps by color."
+    },
+    {
+      "id": 12,
+      "en": "We organize the fridge before we shop."
+    },
+    {
+      "id": 13,
+      "en": "They organize the city event every year."
+    },
+    {
+      "id": 14,
+      "en": "I organize the gym bag the night before."
+    },
+    {
+      "id": 15,
+      "en": "You organize the emails better than I do."
+    },
+    {
+      "id": 16,
+      "en": "He organizes the budget with his partner."
+    },
+    {
+      "id": 17,
+      "en": "We organize the travel documents in one folder."
+    },
+    {
+      "id": 18,
+      "en": "I organize the pantry by date."
+    },
+    {
+      "id": 19,
+      "en": "She organizes the family calendar."
+    },
+    {
+      "id": 20,
+      "en": "They organize the volunteer list for the market."
+    },
+    {
+      "id": 21,
+      "en": "I organized the closet last Sunday."
+    },
+    {
+      "id": 22,
+      "en": "We organized the party in two days."
+    },
+    {
+      "id": 23,
+      "en": "He organized the move last month."
+    },
+    {
+      "id": 24,
+      "en": "She organized the interview schedule."
+    },
+    {
+      "id": 25,
+      "en": "I didn't organize the photos yet."
+    },
+    {
+      "id": 26,
+      "en": "They organized the fundraiser online."
+    },
+    {
+      "id": 27,
+      "en": "I was organizing the room when you called."
+    },
+    {
+      "id": 28,
+      "en": "When I lived alone, I organized dinner every week."
+    },
+    {
+      "id": 29,
+      "en": "We organized the meeting because the client asked."
+    },
+    {
+      "id": 30,
+      "en": "He organized the files before the audit."
+    },
+    {
+      "id": 31,
+      "en": "I organized the trip around cheap flights."
+    },
+    {
+      "id": 32,
+      "en": "She organized the kids' party at home."
+    },
+    {
+      "id": 33,
+      "en": "Why did you organize the call so late?"
+    },
+    {
+      "id": 34,
+      "en": "We organized the football match for Saturday."
+    },
+    {
+      "id": 35,
+      "en": "I organized the desk in ten minutes."
+    },
+    {
+      "id": 36,
+      "en": "I organized the money in envelopes."
+    },
+    {
+      "id": 37,
+      "en": "They organized the shop sale last week."
+    },
+    {
+      "id": 38,
+      "en": "He organized the team after the coach left."
+    },
+    {
+      "id": 39,
+      "en": "We organized the route on the map app."
+    },
+    {
+      "id": 40,
+      "en": "You organized the plan better than I expected."
+    },
+    {
+      "id": 41,
+      "en": "I will organize the garage next month."
+    },
+    {
+      "id": 42,
+      "en": "We will organize the meeting if you send a time."
+    },
+    {
+      "id": 43,
+      "en": "If you help, I will organize the kitchen faster."
+    },
+    {
+      "id": 44,
+      "en": "She will organize the webinar tomorrow."
+    },
+    {
+      "id": 45,
+      "en": "He won't organize the trip without a budget."
+    },
+    {
+      "id": 46,
+      "en": "I would organize more if I had a day off."
+    },
+    {
+      "id": 47,
+      "en": "We would organize a party if we had space."
+    },
+    {
+      "id": 48,
+      "en": "Would you organize the files for me?"
+    },
+    {
+      "id": 49,
+      "en": "If we book early, we will organize the hotel easily."
+    },
+    {
+      "id": 50,
+      "en": "They will organize the sale next weekend."
+    },
+    {
+      "id": 51,
+      "en": "You will organize the onboarding when you start."
+    },
+    {
+      "id": 52,
+      "en": "I would organize the closet if I bought boxes."
+    },
+    {
+      "id": 53,
+      "en": "If it rains, we will organize the picnic indoors."
+    },
+    {
+      "id": 54,
+      "en": "I will organize the football watch party at home."
+    },
+    {
+      "id": 55,
+      "en": "We will organize the errands in one trip."
+    },
+    {
+      "id": 56,
+      "en": "I have organized this folder before."
+    },
+    {
+      "id": 57,
+      "en": "We haven't organized the basement yet."
+    },
+    {
+      "id": 58,
+      "en": "She has organized three events this month."
+    },
+    {
+      "id": 59,
+      "en": "Have you organized the meeting?"
+    },
+    {
+      "id": 60,
+      "en": "I need to organize my passwords."
+    },
+    {
+      "id": 61,
+      "en": "I want to organize the photos this year."
+    },
+    {
+      "id": 62,
+      "en": "He forgot to organize the carpool to the airport."
+    },
+    {
+      "id": 63,
+      "en": "Remember to organize the receipts."
+    },
+    {
+      "id": 64,
+      "en": "I hate to organize paper when I can scan it."
+    },
+    {
+      "id": 65,
+      "en": "We started to organize the move last month."
+    },
+    {
+      "id": 66,
+      "en": "I have to organize the report before Friday."
+    },
+    {
+      "id": 67,
+      "en": "I plan to organize the trip in April."
+    },
+    {
+      "id": 68,
+      "en": "She refuses to organize the closet alone."
+    },
+    {
+      "id": 69,
+      "en": "I want you to organize the schedule."
+    },
+    {
+      "id": 70,
+      "en": "They tried to organize the group chat."
+    },
+    {
+      "id": 71,
+      "en": "Do you organize your week on Sunday?"
+    },
+    {
+      "id": 72,
+      "en": "Why did you organize the meeting so early?"
+    },
+    {
+      "id": 73,
+      "en": "Organize the files by date."
+    },
+    {
+      "id": 74,
+      "en": "Don't organize the call without an agenda."
+    },
+    {
+      "id": 75,
+      "en": "Never organize a trip without a budget."
+    },
+    {
+      "id": 76,
+      "en": "Can't you organize the desk today?"
+    },
+    {
+      "id": 77,
+      "en": "Haven't you organized the closet?"
+    },
+    {
+      "id": 78,
+      "en": "Won't you organize the trip with us?"
+    },
+    {
+      "id": 79,
+      "en": "Where did you organize the party?"
+    },
+    {
+      "id": 80,
+      "en": "Will you organize the files if I help?"
+    },
+    {
+      "id": 81,
+      "en": "Didn't you organize the sale?"
+    },
+    {
+      "id": 82,
+      "en": "Isn't it smart to organize early?"
+    },
+    {
+      "id": 83,
+      "en": "Don't you organize the bills online?"
+    },
+    {
+      "id": 84,
+      "en": "Why don't you organize the kitchen with me?"
+    },
+    {
+      "id": 85,
+      "en": "Stop delaying and organize the drawer."
+    },
+    {
+      "id": 86,
+      "en": "I organize the week because I work from home."
+    },
+    {
+      "id": 87,
+      "en": "We organized the trip, but the flight changed."
+    },
+    {
+      "id": 88,
+      "en": "When you organize the bills, you save money."
+    },
+    {
+      "id": 89,
+      "en": "If you organize the files, you will find them faster."
+    },
+    {
+      "id": 90,
+      "en": "Although I organized the room, it still looks small."
+    },
+    {
+      "id": 91,
+      "en": "Before you shop, organize the pantry."
+    },
+    {
+      "id": 92,
+      "en": "After I organized the budget, I slept better."
+    },
+    {
+      "id": 93,
+      "en": "Because we organized the route, we saved time."
+    },
+    {
+      "id": 94,
+      "en": "I organize the desk at work, but my home is messy."
+    },
+    {
+      "id": 95,
+      "en": "When he organizes the call, he sends a link first."
+    },
+    {
+      "id": 96,
+      "en": "If we organize the team, we will win more games."
+    },
+    {
+      "id": 97,
+      "en": "Although we organized the event, few people came."
+    },
+    {
+      "id": 98,
+      "en": "Before you travel, organize your documents."
+    },
+    {
+      "id": 99,
+      "en": "After we organized the football match, we ordered food."
+    },
+    {
+      "id": 100,
+      "en": "It's important that you organize the safety training."
+    }
+  ]
+}
