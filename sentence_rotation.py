@@ -8,7 +8,7 @@ when you ever overlap verbs.
 
 from __future__ import annotations
 
-SENTENCES_PER_EMAIL = 20
+SENTENCES_PER_EMAIL = 10
 # Rotate only within the first 100 committed prompts.
 ROTATION_BANK_SIZE = 100
 

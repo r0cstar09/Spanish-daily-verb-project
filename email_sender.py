@@ -32,12 +32,25 @@ _CATEGORY_LABEL = {
     "stem_changing": "stem-changing",
 }
 
+_CATEGORY_HINTS = {
+    "irregular": (
+        "Hint (irregular): Identify the irregular bucket first "
+        "(yo-form, strong preterite stem, or fully irregular core verb). "
+        "Use present yo as the stem cue for present subjunctive."
+    ),
+    "stem_changing": (
+        "Hint (stem-changing): Identify the vowel pattern first (e->ie, o->ue, e->i, u->ue). "
+        "In present/present subjunctive, change in boot forms; in preterite, only -ir verbs "
+        "change and only in 3rd person forms."
+    ),
+}
+
 
 def _subject_for_track(verb: str, track: str) -> str:
     vu = verb.upper()
     if track == TRACK_PARETO:
         return f"Spanish Verb – Pareto: {vu} (all tenses + sentences)"
-    return f"Spanish Verb – Irregular / stem: {vu} (all tenses + sentences)"
+    return f"Spanish Verb – Irregular / stem: {vu} (all tenses)"
 
 
 def _smtp_send(
@@ -89,6 +102,7 @@ def build_daily_exercise_body(
     verb_upper = verb.upper()
     cat_label = _CATEGORY_LABEL.get(category, category.replace("_", "-")) if category else ""
     cat_note = f" ({cat_label} verb)" if cat_label else ""
+    hint_text = _CATEGORY_HINTS.get(category, "").strip()
 
     n_conj = len(assignments)
     lines = []
@@ -202,6 +216,7 @@ Verb: {verb_upper}{cat_note}
 {part0_plain}Part 1 — Conjugation
 
 Conjugate this verb for every pronoun in every tense. Write {n_conj} lines (same order as below):
+{f"\n\n{hint_text}\n" if hint_text else ""}
 
 {chr(10).join(lines)}
 {part2_plain}
@@ -224,6 +239,7 @@ Submit your work to ChatGPT for grading.
 {part0_html}
 <h3>Part 1 — Conjugation</h3>
 <p>Conjugate this verb for every pronoun in every tense. Write {n_conj} lines (same order as below):</p>
+{f"<p><em>{hint_text}</em></p>" if hint_text else ""}
 <ol>
 {ol_items}
 </ol>

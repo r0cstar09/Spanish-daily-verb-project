@@ -61,6 +61,13 @@ class TestConjugationMatrix(unittest.TestCase):
                 self.assertIn("translation", row)
                 i += 1
 
+    def test_pareto_track_repeats_same_verb_for_two_days(self) -> None:
+        ex0 = select_daily_exercise(seed=0, track=TRACK_PARETO)
+        ex1 = select_daily_exercise(seed=1, track=TRACK_PARETO)
+        ex2 = select_daily_exercise(seed=2, track=TRACK_PARETO)
+        self.assertEqual(ex0["verb"], ex1["verb"])
+        self.assertNotEqual(ex1["verb"], ex2["verb"])
+
     def test_translations_match_direct_lookup(self) -> None:
         ex = select_daily_exercise(seed=7, track=TRACK_IRREGULAR)
         verb = ex["verb"]
@@ -70,10 +77,19 @@ class TestConjugationMatrix(unittest.TestCase):
             direct = get_english_translation(verb, pronoun_index, tense)
             self.assertEqual(row["translation"], direct)
 
-    def test_irregular_track_alternates_category_by_seed(self) -> None:
+    def test_irregular_track_starts_with_irregulars(self) -> None:
         ex0 = select_daily_exercise(seed=0, track=TRACK_IRREGULAR)
         ex1 = select_daily_exercise(seed=1, track=TRACK_IRREGULAR)
-        self.assertNotEqual(ex0["category"], ex1["category"])
+        self.assertEqual(ex0["category"], "irregular")
+        self.assertEqual(ex1["category"], "irregular")
+
+    def test_irregular_track_moves_to_stem_changing_after_irregular_block(self) -> None:
+        path = ROOT / "verbs_by_category.json"
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        irregular_count = len(data["irregular"])
+        ex = select_daily_exercise(seed=irregular_count, track=TRACK_IRREGULAR)
+        self.assertEqual(ex["category"], "stem_changing")
 
 
 class TestSentenceBanksAndRotation(unittest.TestCase):
@@ -92,7 +108,7 @@ class TestSentenceBanksAndRotation(unittest.TestCase):
         self.assertEqual(missing, [], msg="Missing banks:\n" + "\n".join(missing))
         self.assertEqual(empty, [], msg="Empty banks: " + ", ".join(empty))
 
-    def test_rotation_returns_twenty_numbered_prompts(self) -> None:
+    def test_rotation_returns_numbered_prompts_for_daily_limit(self) -> None:
         ex = select_daily_exercise(seed=99, track=TRACK_PARETO)
         verb = ex["verb"]
         bank = load_sentence_bank(verb)
@@ -111,40 +127,50 @@ class TestSentenceBanksAndRotation(unittest.TestCase):
 
 
 class TestEmailBody(unittest.TestCase):
-    def test_build_includes_conjugation_and_sentence_sections(self) -> None:
+    def test_irregular_build_includes_only_conjugation_section(self) -> None:
         ex = select_daily_exercise(seed=3, track=TRACK_IRREGULAR)
         verb = ex["verb"]
-        bank = load_sentence_bank(verb)
-        full = bank["sentences"]
-        sentences = select_sentences_for_email(
-            full,
-            verb=verb,
-            track=TRACK_IRREGULAR,
-            seed=3,
-            n=SENTENCES_PER_EMAIL,
-        )
         day_key = rotation_day_key(3)
         lesson = select_native_lesson(day_key, TRACK_IRREGULAR)
         plain, html, att_plain, att_name = build_daily_exercise_body(
             verb,
             ex["assignments"],
             category=ex.get("category", ""),
-            sentences=sentences,
-            full_bank_size=len(full),
+            sentences=[],
+            full_bank_size=0,
             native_lesson=lesson,
         )
         vu = verb.upper()
         self.assertIn(vu, plain)
         self.assertIn("Part 1", plain)
         self.assertIn("Conjugation", plain)
-        self.assertIn("Part 2", plain)
+        self.assertIn("Hint (irregular):", plain)
+        self.assertNotIn("Part 2", plain)
         self.assertIn(vu, html)
         self.assertIn("<ol>", html)
+        self.assertIn("Hint (irregular):", html)
         self.assertIn(f"Write {len(ex['assignments'])} lines", plain)
-        self.assertTrue(len(plain) > 500)
-        self.assertTrue(len(html) > 500)
-        if att_plain is not None:
-            self.assertIsNotNone(att_name)
+        self.assertTrue(len(plain) > 300)
+        self.assertTrue(len(html) > 300)
+        self.assertIsNone(att_plain)
+        self.assertIsNone(att_name)
+
+    def test_stem_changing_hint_is_included(self) -> None:
+        path = ROOT / "verbs_by_category.json"
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        irregular_count = len(data["irregular"])
+        ex = select_daily_exercise(seed=irregular_count, track=TRACK_IRREGULAR)
+        plain, html, _att_plain, _att_name = build_daily_exercise_body(
+            ex["verb"],
+            ex["assignments"],
+            category=ex.get("category", ""),
+            sentences=[],
+            full_bank_size=0,
+            native_lesson=None,
+        )
+        self.assertIn("Hint (stem-changing):", plain)
+        self.assertIn("Hint (stem-changing):", html)
 
 
 class TestMainImport(unittest.TestCase):

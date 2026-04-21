@@ -3,12 +3,12 @@
 A small tool that emails you **two** daily Spanish verb exercises (on separate schedules):
 
 1. **Pareto track** — high-frequency **regular** verbs (`pareto_regular` in [`verbs_by_category.json`](verbs_by_category.json)).
-2. **Irregular / stem track** — alternates **irregular** vs **stem-changing** verbs (same lists as before).
+2. **Irregular / stem track** — starts with high-priority **irregular** verbs first, then moves to **stem-changing** verbs.
 
 Each email includes:
 
 - **Part 1 — Conjugation:** five pronouns × **ten** tenses (50 lines): Present, Future, Preterite, Imperfect, Conditional, Present Perfect, Pluperfect, Present Subjunctive, Imperfect Subjunctive, Estar + Gerund.
-- **Part 2 — Sentence practice:** **20** English prompts per email, **rotated** from the full committed bank for that verb (so the next time the same verb is scheduled you see a different slice). Polysemous verbs like **quedar** and **hacer** use meaning-tagged prompts in [`polysemous_content.py`](polysemous_content.py). Optional `[sense]` labels appear in the email for those lines.
+- **Part 2 — Sentence practice:** **10** English prompts per email, **rotated** from the full committed bank for that verb (so the next time the same verb is scheduled you see a different slice). Polysemous verbs like **quedar** and **hacer** use meaning-tagged prompts in [`polysemous_content.py`](polysemous_content.py). Optional `[sense]` labels appear in the email for those lines.
 
 English glosses use [`verb_translations.json`](verb_translations.json) for listed verbs and [`pareto_glosses.json`](pareto_glosses.json) for Pareto verbs. **Sentence banks live in the repo** as JSON under [`sentence_banks/`](sentence_banks/). The mailer **only reads** committed JSON — no API calls at send time.
 
@@ -33,7 +33,7 @@ python main.py send-daily --track irregular
 
 ## Sentence banks (committed JSON)
 
-Each verb has a file `sentence_banks/<verb>.json` with **120** English lines in the full bank (`id`, `en`, and optionally `sense` for polysemous verbs). The mailer sends **20** lines per email; which 20 is chosen by [`sentence_rotation.py`](sentence_rotation.py) from **calendar day**, **verb**, and **track** (and `--seed` when testing), so repeats of the same verb use a **different window** over time.
+Each verb has a file `sentence_banks/<verb>.json` with **120** English lines in the full bank (`id`, `en`, and optionally `sense` for polysemous verbs). The mailer sends **10** lines per email; which 10 is chosen by [`sentence_rotation.py`](sentence_rotation.py) from **calendar day**, **verb**, and **track** (and `--seed` when testing), so repeats of the same verb use a **different window** over time.
 
 Validate committed banks with:
 
@@ -82,8 +82,8 @@ python main.py send-daily --track pareto
 python main.py send-daily --track irregular
 ```
 
-- **`--track pareto`** — picks from `pareto_regular` using the day of year (or `--seed`).
-- **`--track irregular`** — alternates irregular vs stem-changing by day; picks the verb within that list.
+- **`--track pareto`** — picks from `pareto_regular` with one verb every two days (or `--seed`).
+- **`--track irregular`** — follows a curriculum day index: high-priority irregulars first, then stem-changing verbs.
 
 **Reproducible run:**  
 `python main.py send-daily --track pareto --seed 52` fixes selection for testing (seed semantics differ per track).
@@ -126,7 +126,7 @@ Two workflows send on separate schedules:
 | `translations.py` | English hints per pronoun+tense |
 | `verb_translations.json` | Full glosses for irregular/stem verbs |
 | `sentence_bank.py` | Loads `sentence_banks/<verb>.json` |
-| `sentence_rotation.py` | Picks 20 prompts per send from the full bank (date + verb + track) |
+| `sentence_rotation.py` | Picks 10 prompts per send from the full bank (date + verb + track) |
 | `polysemous_content.py` | Curated multi-meaning banks for **quedar** and **hacer** |
 | `sentence_banks/` | One JSON file per infinitive (120 lines; quedar/hacer include `sense`) |
 | `scripts/build_sentence_banks.py` | Validates committed `sentence_banks/*.json` coverage and shape |

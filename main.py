@@ -29,15 +29,18 @@ from verb_selector import TRACK_IRREGULAR, TRACK_PARETO, select_daily_exercise
 def cmd_send_daily(track: str, seed: int | None = None) -> None:
     exercise = select_daily_exercise(seed=seed, track=track)
     verb = exercise["verb"]
-    bank = load_sentence_bank(verb)
-    full_bank = bank["sentences"][:ROTATION_BANK_SIZE]
-    sentences = select_sentences_for_email(
-        full_bank,
-        verb=verb,
-        track=track,
-        seed=seed,
-        n=SENTENCES_PER_EMAIL,
-    )
+    sentences: list[dict] = []
+    full_bank: list[dict] = []
+    if track != TRACK_IRREGULAR:
+        bank = load_sentence_bank(verb)
+        full_bank = bank["sentences"][:ROTATION_BANK_SIZE]
+        sentences = select_sentences_for_email(
+            full_bank,
+            verb=verb,
+            track=track,
+            seed=seed,
+            n=SENTENCES_PER_EMAIL,
+        )
     day_key = rotation_day_key(seed)
     native_lesson = select_native_lesson(day_key, track)
     send_exercise_email(

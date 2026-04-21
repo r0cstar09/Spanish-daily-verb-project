@@ -9,7 +9,7 @@ Each exercise: 5 pronouns × 10 tenses = 50 conjugations.
 """
 
 import json
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 
 from tenses import TENSES
@@ -28,8 +28,43 @@ PRONOUNS = [
 TRACK_PARETO = "pareto"
 TRACK_IRREGULAR = "irregular"
 
-IRREGULAR_CATEGORIES = ["irregular", "stem_changing"]
-_NUM_IRREGULAR_CATEGORIES = len(IRREGULAR_CATEGORIES)
+IRREGULAR_FOCUS_START_DATE = date(2026, 4, 21)
+
+# Highest-priority irregulars first for faster practical mastery.
+IRREGULAR_PRIORITY_ORDER = [
+    "ser",
+    "haber",
+    "ir",
+    "estar",
+    "tener",
+    "hacer",
+    "poder",
+    "decir",
+    "ver",
+    "dar",
+    "saber",
+    "querer",
+    "venir",
+    "poner",
+    "salir",
+    "traer",
+    "conocer",
+    "oír",
+    "caer",
+    "seguir",
+    "elegir",
+    "caber",
+    "andar",
+    "pagar",
+    "sacar",
+    "conducir",
+    "mantener",
+    "proponer",
+    "satisfacer",
+    "freír",
+    "reír",
+    "huir",
+]
 
 
 def _load_verbs_by_category() -> dict:
@@ -37,25 +72,28 @@ def _load_verbs_by_category() -> dict:
         return json.load(f)
 
 
-def _get_irregular_category_index(seed=None) -> int:
+def _get_irregular_curriculum_day(seed=None) -> int:
     if seed is not None:
-        return seed % _NUM_IRREGULAR_CATEGORIES
-    day_of_year = datetime.utcnow().timetuple().tm_yday
-    return day_of_year % _NUM_IRREGULAR_CATEGORIES
-
-
-def _get_irregular_verb_index(seed=None, category_size: int = 1) -> int:
-    if seed is not None:
-        return (seed // _NUM_IRREGULAR_CATEGORIES) % max(1, category_size)
-    day_of_year = datetime.utcnow().timetuple().tm_yday
-    return (day_of_year // _NUM_IRREGULAR_CATEGORIES) % max(1, category_size)
+        return max(0, seed)
+    day_offset = (datetime.utcnow().date() - IRREGULAR_FOCUS_START_DATE).days
+    return max(0, day_offset)
 
 
 def _get_pareto_verb_index(seed=None, category_size: int = 1) -> int:
+    # Hold each regular verb for two consecutive days to allow correction work.
     if seed is not None:
-        return seed % max(1, category_size)
+        return (seed // 2) % max(1, category_size)
     day_of_year = datetime.utcnow().timetuple().tm_yday
-    return day_of_year % max(1, category_size)
+    return (day_of_year // 2) % max(1, category_size)
+
+
+def _ordered_irregular_verbs(raw_irregular: list[str]) -> list[str]:
+    irregular_set = {v.strip().lower() for v in raw_irregular}
+    ordered = [v for v in IRREGULAR_PRIORITY_ORDER if v in irregular_set]
+    # Keep any uncategorized leftovers at the end (stable and deterministic).
+    leftovers = [v for v in irregular_set if v not in set(ordered)]
+    ordered.extend(sorted(leftovers))
+    return ordered
 
 
 def select_daily_exercise(seed=None, track: str = TRACK_IRREGULAR) -> dict:
@@ -63,8 +101,9 @@ def select_daily_exercise(seed=None, track: str = TRACK_IRREGULAR) -> dict:
     Select one verb for the given track.
 
     track:
-      - "pareto" — pareto_regular only (independent day index from irregular track).
-      - "irregular" — alternates irregular / stem_changing.
+      - "pareto" — pareto_regular only, one verb every two days.
+      - "irregular" — starts with irregulars (most frequent first), then
+        progresses to stem-changing verbs.
 
     Returns assignments: 5 pronouns × 10 tenses = 50 conjugations with English translations.
     """
@@ -77,10 +116,17 @@ def select_daily_exercise(seed=None, track: str = TRACK_IRREGULAR) -> dict:
         verb = verbs[verb_idx]
         category = "pareto_regular"
     elif track == TRACK_IRREGULAR:
-        cat_idx = _get_irregular_category_index(seed)
-        category = IRREGULAR_CATEGORIES[cat_idx]
-        verbs = [v.strip().lower() for v in data[category]]
-        verb_idx = _get_irregular_verb_index(seed, len(verbs))
+        irregular_verbs = _ordered_irregular_verbs(data["irregular"])
+        stem_verbs = [v.strip().lower() for v in data["stem_changing"]]
+        day = _get_irregular_curriculum_day(seed)
+        if day < len(irregular_verbs):
+            category = "irregular"
+            verbs = irregular_verbs
+            verb_idx = day
+        else:
+            category = "stem_changing"
+            verbs = stem_verbs
+            verb_idx = (day - len(irregular_verbs)) % max(1, len(stem_verbs))
         verb = verbs[verb_idx]
     else:
         raise ValueError(
