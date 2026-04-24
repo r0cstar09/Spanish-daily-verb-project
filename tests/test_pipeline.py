@@ -17,6 +17,7 @@ sys.path.insert(0, str(ROOT))
 from email_sender import build_daily_exercise_body  # noqa: E402
 from native_lessons import select_native_lesson  # noqa: E402
 from sentence_bank import load_sentence_bank  # noqa: E402
+from verb_usage import get_usage_hint  # noqa: E402
 from sentence_rotation import (  # noqa: E402
     SENTENCES_PER_EMAIL,
     rotation_day_key,
@@ -41,6 +42,10 @@ def _all_verbs() -> set[str]:
         for v in data[key]:
             out.add(v.strip().lower())
     return out
+
+
+def _all_sentence_bank_verbs() -> set[str]:
+    return {path.stem.strip().lower() for path in (ROOT / "sentence_banks").glob("*.json")}
 
 
 class TestConjugationMatrix(unittest.TestCase):
@@ -144,33 +149,41 @@ class TestEmailBody(unittest.TestCase):
         self.assertIn(vu, plain)
         self.assertIn("Part 1", plain)
         self.assertIn("Conjugation", plain)
-        self.assertIn("Hint (irregular):", plain)
         self.assertNotIn("Part 2", plain)
         self.assertIn(vu, html)
         self.assertIn("<ol>", html)
-        self.assertIn("Hint (irregular):", html)
         self.assertIn(f"Write {len(ex['assignments'])} lines", plain)
         self.assertTrue(len(plain) > 300)
         self.assertTrue(len(html) > 300)
         self.assertIsNone(att_plain)
         self.assertIsNone(att_name)
 
-    def test_stem_changing_hint_is_included(self) -> None:
-        path = ROOT / "verbs_by_category.json"
-        with open(path, encoding="utf-8") as f:
-            data = json.load(f)
-        irregular_count = len(data["irregular"])
-        ex = select_daily_exercise(seed=irregular_count, track=TRACK_IRREGULAR)
-        plain, html, _att_plain, _att_name = build_daily_exercise_body(
-            ex["verb"],
+class TestUsageHints(unittest.TestCase):
+    def test_every_listed_verb_has_usage_hint(self) -> None:
+        missing = [v for v in sorted(_all_verbs()) if not get_usage_hint(v)]
+        self.assertEqual(missing, [], msg="Verbs missing usage hint: " + ", ".join(missing))
+
+    def test_every_sentence_bank_verb_has_usage_hint(self) -> None:
+        missing = [v for v in sorted(_all_sentence_bank_verbs()) if not get_usage_hint(v)]
+        self.assertEqual(missing, [], msg="Sentence-bank verbs missing usage hint: " + ", ".join(missing))
+
+    def test_usage_hint_rendered_in_email_body(self) -> None:
+        ex = select_daily_exercise(seed=0, track=TRACK_IRREGULAR)
+        verb = ex["verb"]
+        expected = get_usage_hint(verb)
+        self.assertTrue(expected, f"No usage hint found for {verb!r}")
+        plain, html, _a, _b = build_daily_exercise_body(
+            verb,
             ex["assignments"],
             category=ex.get("category", ""),
             sentences=[],
             full_bank_size=0,
             native_lesson=None,
         )
-        self.assertIn("Hint (stem-changing):", plain)
-        self.assertIn("Hint (stem-changing):", html)
+        self.assertIn("Construction hints (prepositions/patterns):", plain)
+        self.assertIn(expected, plain)
+        self.assertIn("Construction hints (prepositions/patterns):", html)
+        self.assertIn(expected, html)
 
 
 class TestMainImport(unittest.TestCase):

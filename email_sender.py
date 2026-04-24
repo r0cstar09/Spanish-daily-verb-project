@@ -5,6 +5,7 @@ Sends conjugation exercise + sentence-bank practice (evaluate in ChatGPT or else
 
 import os
 import smtplib
+from html import escape
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.utils import formataddr, make_msgid
@@ -12,6 +13,7 @@ from email.utils import formataddr, make_msgid
 from native_lessons import LESSON_TITLE
 from sentence_rotation import SENTENCES_PER_EMAIL
 from verb_selector import TRACK_IRREGULAR, TRACK_PARETO
+from verb_usage import get_usage_hint
 
 # Env: SMTP_HOST, SMTP_PORT, EMAIL_USER, EMAIL_PASSWORD, TARGET_EMAIL
 def _env(key: str, default: str = "") -> str:
@@ -31,20 +33,6 @@ _CATEGORY_LABEL = {
     "irregular": "irregular",
     "stem_changing": "stem-changing",
 }
-
-_CATEGORY_HINTS = {
-    "irregular": (
-        "Hint (irregular): Identify the irregular bucket first "
-        "(yo-form, strong preterite stem, or fully irregular core verb). "
-        "Use present yo as the stem cue for present subjunctive."
-    ),
-    "stem_changing": (
-        "Hint (stem-changing): Identify the vowel pattern first (e->ie, o->ue, e->i, u->ue). "
-        "In present/present subjunctive, change in boot forms; in preterite, only -ir verbs "
-        "change and only in 3rd person forms."
-    ),
-}
-
 
 def _subject_for_track(verb: str, track: str) -> str:
     vu = verb.upper()
@@ -102,7 +90,8 @@ def build_daily_exercise_body(
     verb_upper = verb.upper()
     cat_label = _CATEGORY_LABEL.get(category, category.replace("_", "-")) if category else ""
     cat_note = f" ({cat_label} verb)" if cat_label else ""
-    hint_text = _CATEGORY_HINTS.get(category, "").strip()
+    usage_text = get_usage_hint(verb)
+    usage_label = "Construction hints (prepositions/patterns)"
 
     n_conj = len(assignments)
     lines = []
@@ -216,7 +205,7 @@ Verb: {verb_upper}{cat_note}
 {part0_plain}Part 1 — Conjugation
 
 Conjugate this verb for every pronoun in every tense. Write {n_conj} lines (same order as below):
-{f"\n\n{hint_text}\n" if hint_text else ""}
+{f"\n{usage_label}: {usage_text}\n" if usage_text else ""}
 
 {chr(10).join(lines)}
 {part2_plain}
@@ -239,7 +228,7 @@ Submit your work to ChatGPT for grading.
 {part0_html}
 <h3>Part 1 — Conjugation</h3>
 <p>Conjugate this verb for every pronoun in every tense. Write {n_conj} lines (same order as below):</p>
-{f"<p><em>{hint_text}</em></p>" if hint_text else ""}
+{f"<p><strong>{usage_label}:</strong> {escape(usage_text)}</p>" if usage_text else ""}
 <ol>
 {ol_items}
 </ol>

@@ -8,6 +8,7 @@ A small tool that emails you **two** daily Spanish verb exercises (on separate s
 Each email includes:
 
 - **Part 1 — Conjugation:** five pronouns × **ten** tenses (50 lines): Present, Future, Preterite, Imperfect, Conditional, Present Perfect, Pluperfect, Present Subjunctive, Imperfect Subjunctive, Estar + Gerund.
+- **Construction hints:** verb-specific prepositions, pronoun patterns, and idioms from [`verb_usage_hints.json`](verb_usage_hints.json), so each exercise shows how to use the verb naturally.
 - **Part 2 — Sentence practice:** **10** English prompts per email, **rotated** from the full committed bank for that verb (so the next time the same verb is scheduled you see a different slice). Polysemous verbs like **quedar** and **hacer** use meaning-tagged prompts in [`polysemous_content.py`](polysemous_content.py). Optional `[sense]` labels appear in the email for those lines.
 
 English glosses use [`verb_translations.json`](verb_translations.json) for listed verbs and [`pareto_glosses.json`](pareto_glosses.json) for Pareto verbs. **Sentence banks live in the repo** as JSON under [`sentence_banks/`](sentence_banks/). The mailer **only reads** committed JSON — no API calls at send time.

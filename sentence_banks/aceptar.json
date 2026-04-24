@@ -3,205 +3,123 @@
   "generated_at": "2026-04-15T00:00:00+00:00",
   "source": "sentence_banks:aceptar",
   "sentences": [
-    {
-      "id": 1,
-      "en": "I accept the plan because it is simple."
-    },
-    {
-      "id": 2,
-      "en": "She accepts the offer because the price is good."
-    },
-    {
-      "id": 3,
-      "en": "We accept the change because the result is better."
-    },
-    {
-      "id": 4,
-      "en": "They accept the idea after the meeting."
-    },
-    {
-      "id": 5,
-      "en": "I do not accept the answer because the problem is still there."
-    },
-    {
-      "id": 6,
-      "en": "My boss accepts the report today."
-    },
-    {
-      "id": 7,
-      "en": "The client accepts the contract this morning."
-    },
-    {
-      "id": 8,
-      "en": "We accept the new policy at the office."
-    },
-    {
-      "id": 9,
-      "en": "He accepts the invitation to the concert."
-    },
-    {
-      "id": 10,
-      "en": "She accepts the decision, but she is not happy."
-    },
-    {
-      "id": 11,
-      "en": "I accepted the job last year."
-    },
-    {
-      "id": 12,
-      "en": "My friend accepted the gift yesterday."
-    },
-    {
-      "id": 13,
-      "en": "They accepted the agreement after a long discussion."
-    },
-    {
-      "id": 14,
-      "en": "We accepted the risk because the opportunity was important."
-    },
-    {
-      "id": 15,
-      "en": "The manager accepted the request this afternoon."
-    },
-    {
-      "id": 16,
-      "en": "I accepted the meeting even though I was tired."
-    },
-    {
-      "id": 17,
-      "en": "She accepted the help when the problem became serious."
-    },
-    {
-      "id": 18,
-      "en": "He accepted the result and went home."
-    },
-    {
-      "id": 19,
-      "en": "We accepted the new system after the test."
-    },
-    {
-      "id": 20,
-      "en": "The bank accepted the payment yesterday."
-    },
-    {
-      "id": 21,
-      "en": "I was accepting too many tasks at work."
-    },
-    {
-      "id": 22,
-      "en": "She was accepting every invitation at that time."
-    },
-    {
-      "id": 23,
-      "en": "We were accepting bad results because we had no better option."
-    },
-    {
-      "id": 24,
-      "en": "He was accepting the pressure, but he was very stressed."
-    },
-    {
-      "id": 25,
-      "en": "They were accepting the old rules before the change."
-    },
-    {
-      "id": 26,
-      "en": "I will accept the offer if the price is fair."
-    },
-    {
-      "id": 27,
-      "en": "She will accept the job next week."
-    },
-    {
-      "id": 28,
-      "en": "We will accept the invitation after we check the time."
-    },
-    {
-      "id": 29,
-      "en": "He will accept the plan when he sees the result."
-    },
-    {
-      "id": 30,
-      "en": "They will accept the change because the system works better now."
-    },
-    {
-      "id": 31,
-      "en": "I would accept that option if I had more information."
-    },
-    {
-      "id": 32,
-      "en": "She would accept the help, but she wants to try first."
-    },
-    {
-      "id": 33,
-      "en": "We would accept the deal if the cost were lower."
-    },
-    {
-      "id": 34,
-      "en": "He would accept the invitation if he had time."
-    },
-    {
-      "id": 35,
-      "en": "They would accept the result if the process were fair."
-    },
-    {
-      "id": 36,
-      "en": "I have accepted that change already."
-    },
-    {
-      "id": 37,
-      "en": "She has accepted the new role at the company."
-    },
-    {
-      "id": 38,
-      "en": "We have accepted the fact that the project needs more time."
-    },
-    {
-      "id": 39,
-      "en": "He has accepted the decision, so the problem is over."
-    },
-    {
-      "id": 40,
-      "en": "They have accepted the invitation to the party."
-    },
-    {
-      "id": 41,
-      "en": "Accept the message and move on."
-    },
-    {
-      "id": 42,
-      "en": "Do not accept that excuse."
-    },
-    {
-      "id": 43,
-      "en": "Can you accept this change today?"
-    },
-    {
-      "id": 44,
-      "en": "It is hard to accept the truth sometimes."
-    },
-    {
-      "id": 45,
-      "en": "I want to accept the offer, but I need more time."
-    },
-    {
-      "id": 46,
-      "en": "She needs to accept the result and keep working."
-    },
-    {
-      "id": 47,
-      "en": "We cannot accept this level of risk."
-    },
-    {
-      "id": 48,
-      "en": "He wants to accept the challenge this year."
-    },
-    {
-      "id": 49,
-      "en": "They need to accept the rules before the game starts."
-    },
-    {
-      "id": 50,
-      "en": "I am learning to accept things I cannot control."
-    }
+    {"id": 1, "en": "I accept the plan because it is simple."},
+    {"id": 2, "en": "She accepts the offer because the price is good."},
+    {"id": 3, "en": "We accept the change because the result is better."},
+    {"id": 4, "en": "They accept the idea after the meeting."},
+    {"id": 5, "en": "I do not accept the answer because the problem is still there."},
+    {"id": 6, "en": "My boss accepts the report today."},
+    {"id": 7, "en": "The client accepts the contract this morning."},
+    {"id": 8, "en": "We accept the new policy at the office."},
+    {"id": 9, "en": "He accepts the invitation to the concert."},
+    {"id": 10, "en": "She accepts the decision, but she is not happy."},
+
+    {"id": 11, "en": "I accept the situation even if I do not like it."},
+    {"id": 12, "en": "We accept the rules before the game starts."},
+    {"id": 13, "en": "He accepts the risk because the opportunity is good."},
+    {"id": 14, "en": "They accept the result after the test."},
+    {"id": 15, "en": "I accept your idea because it makes sense."},
+
+    {"id": 16, "en": "I accepted the job last year."},
+    {"id": 17, "en": "My friend accepted the gift yesterday."},
+    {"id": 18, "en": "They accepted the agreement after a long discussion."},
+    {"id": 19, "en": "We accepted the risk because the opportunity was important."},
+    {"id": 20, "en": "The manager accepted the request this afternoon."},
+
+    {"id": 21, "en": "I accepted the meeting even though I was tired."},
+    {"id": 22, "en": "She accepted the help when the problem became serious."},
+    {"id": 23, "en": "He accepted the result and went home."},
+    {"id": 24, "en": "We accepted the new system after the test."},
+    {"id": 25, "en": "The bank accepted the payment yesterday."},
+
+    {"id": 26, "en": "I was accepting too many tasks at work."},
+    {"id": 27, "en": "She was accepting every invitation at that time."},
+    {"id": 28, "en": "We were accepting bad results because we had no better option."},
+    {"id": 29, "en": "He was accepting the pressure, but he was very stressed."},
+    {"id": 30, "en": "They were accepting the old rules before the change."},
+
+    {"id": 31, "en": "I will accept the offer if the price is fair."},
+    {"id": 32, "en": "She will accept the job next week."},
+    {"id": 33, "en": "We will accept the invitation after we check the time."},
+    {"id": 34, "en": "He will accept the plan when he sees the result."},
+    {"id": 35, "en": "They will accept the change because the system works better now."},
+
+    {"id": 36, "en": "I would accept that option if I had more information."},
+    {"id": 37, "en": "She would accept the help, but she wants to try first."},
+    {"id": 38, "en": "We would accept the deal if the cost were lower."},
+    {"id": 39, "en": "He would accept the invitation if he had time."},
+    {"id": 40, "en": "They would accept the result if the process were fair."},
+
+    {"id": 41, "en": "I have accepted that change already."},
+    {"id": 42, "en": "She has accepted the new role at the company."},
+    {"id": 43, "en": "We have accepted the fact that the project needs more time."},
+    {"id": 44, "en": "He has accepted the decision, so the problem is over."},
+    {"id": 45, "en": "They have accepted the invitation to the party."},
+
+    {"id": 46, "en": "Accept the message and move on."},
+    {"id": 47, "en": "Do not accept that excuse."},
+    {"id": 48, "en": "Can you accept this change today?"},
+    {"id": 49, "en": "It is hard to accept the truth sometimes."},
+    {"id": 50, "en": "I want to accept the offer, but I need more time."},
+
+    {"id": 51, "en": "She needs to accept the result and keep working."},
+    {"id": 52, "en": "We cannot accept this level of risk."},
+    {"id": 53, "en": "He wants to accept the challenge this year."},
+    {"id": 54, "en": "They need to accept the rules before the game starts."},
+    {"id": 55, "en": "I am learning to accept things I cannot control."},
+
+    {"id": 56, "en": "I accept the situation because I have no choice."},
+    {"id": 57, "en": "She accepts the feedback and improves her work."},
+    {"id": 58, "en": "We accept the delay because the project is complex."},
+    {"id": 59, "en": "He accepts the loss and focuses on the next game."},
+    {"id": 60, "en": "They accept the offer and sign the contract."},
+
+    {"id": 61, "en": "I accepted the change because it was necessary."},
+    {"id": 62, "en": "She accepted the invitation and went to the party."},
+    {"id": 63, "en": "We accepted the terms after reviewing the document."},
+    {"id": 64, "en": "He accepted the job and moved to another city."},
+    {"id": 65, "en": "They accepted the proposal and started the project."},
+
+    {"id": 66, "en": "I will accept the deal if everything is clear."},
+    {"id": 67, "en": "She will accept the meeting after she finishes work."},
+    {"id": 68, "en": "We will accept the result if it is fair."},
+    {"id": 69, "en": "He will accept the change once he understands it."},
+    {"id": 70, "en": "They will accept the decision tomorrow."},
+
+    {"id": 71, "en": "I would accept the offer, but I need more money."},
+    {"id": 72, "en": "She would accept the help if she trusted you."},
+    {"id": 73, "en": "We would accept the plan if it were simpler."},
+    {"id": 74, "en": "He would accept the role if the salary were higher."},
+    {"id": 75, "en": "They would accept the risk if the reward were bigger."},
+
+    {"id": 76, "en": "I have accepted many changes in my life."},
+    {"id": 77, "en": "She has accepted the situation and feels better now."},
+    {"id": 78, "en": "We have accepted the delay and adjusted the plan."},
+    {"id": 79, "en": "He has accepted the challenge and is ready."},
+    {"id": 80, "en": "They have accepted the offer and moved forward."},
+
+    {"id": 81, "en": "Accept the responsibility and do your job."},
+    {"id": 82, "en": "Do not accept bad results."},
+    {"id": 83, "en": "Can you accept the invitation tonight?"},
+    {"id": 84, "en": "It is difficult to accept change at first."},
+    {"id": 85, "en": "I want to accept this opportunity."},
+
+    {"id": 86, "en": "She needs to accept the truth and move on."},
+    {"id": 87, "en": "We cannot accept this situation anymore."},
+    {"id": 88, "en": "He wants to accept the offer quickly."},
+    {"id": 89, "en": "They need to accept the decision now."},
+    {"id": 90, "en": "I am trying to accept everything calmly."},
+
+    {"id": 91, "en": "I accept the idea, but I need more details."},
+    {"id": 92, "en": "She accepts the result because it is fair."},
+    {"id": 93, "en": "We accept the challenge and start today."},
+    {"id": 94, "en": "He accepts the feedback and improves."},
+    {"id": 95, "en": "They accept the risk and continue."},
+
+    {"id": 96, "en": "I accepted the situation and moved forward."},
+    {"id": 97, "en": "She accepted the change and adapted quickly."},
+    {"id": 98, "en": "We accepted the delay and kept working."},
+    {"id": 99, "en": "He accepted the offer and signed the paper."},
+    {"id": 100, "en": "They accepted the result and closed the project."}
   ]
 }
