@@ -1,14 +1,11 @@
-"""
-Smoke tests: conjugation matrix, sentence banks, rotation, email body assembly.
-
-Does not send email. Does not modify sentence content.
-"""
+"""Smoke tests for the pattern-based daily lesson pipeline."""
 
 from __future__ import annotations
 
 import json
 import sys
 import unittest
+from datetime import datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -16,13 +13,7 @@ sys.path.insert(0, str(ROOT))
 
 from email_sender import build_daily_exercise_body  # noqa: E402
 from native_lessons import select_native_lesson  # noqa: E402
-from sentence_bank import load_sentence_bank  # noqa: E402
-from verb_usage import get_usage_hint  # noqa: E402
-from sentence_rotation import (  # noqa: E402
-    SENTENCES_PER_EMAIL,
-    rotation_day_key,
-    select_sentences_for_email,
-)
+from pattern_lesson import build_pattern_lesson  # noqa: E402
 from tenses import TENSES  # noqa: E402
 from translations import get_english_translation  # noqa: E402
 from verb_selector import (  # noqa: E402
@@ -33,19 +24,10 @@ from verb_selector import (  # noqa: E402
 )
 
 
-def _all_verbs() -> set[str]:
-    path = ROOT / "verbs_by_category.json"
-    with open(path, encoding="utf-8") as f:
-        data = json.load(f)
-    out: set[str] = set()
-    for key in ("pareto_regular", "irregular", "stem_changing"):
-        for v in data[key]:
-            out.add(v.strip().lower())
-    return out
-
-
-def _all_sentence_bank_verbs() -> set[str]:
-    return {path.stem.strip().lower() for path in (ROOT / "sentence_banks").glob("*.json")}
+def _day_key(seed: int | None) -> int:
+    if seed is not None:
+        return int(seed) % 100_000
+    return datetime.utcnow().timetuple().tm_yday
 
 
 class TestConjugationMatrix(unittest.TestCase):
@@ -97,59 +79,60 @@ class TestConjugationMatrix(unittest.TestCase):
         self.assertEqual(ex["category"], "stem_changing")
 
 
-class TestSentenceBanksAndRotation(unittest.TestCase):
-    def test_every_listed_verb_has_nonempty_bank_json(self) -> None:
-        missing: list[str] = []
-        empty: list[str] = []
-        for v in sorted(_all_verbs()):
-            try:
-                data = load_sentence_bank(v)
-            except (FileNotFoundError, ValueError) as e:
-                missing.append(f"{v}: {e}")
-                continue
-            sents = data.get("sentences") or []
-            if not sents:
-                empty.append(v)
-        self.assertEqual(missing, [], msg="Missing banks:\n" + "\n".join(missing))
-        self.assertEqual(empty, [], msg="Empty banks: " + ", ".join(empty))
+class TestPatternLesson(unittest.TestCase):
+    def test_pattern_lesson_has_required_sections(self) -> None:
+        lesson = build_pattern_lesson("lavar", day_key=12, track=TRACK_IRREGULAR)
+        self.assertIn("usage_lesson", lesson)
+        self.assertIn("pattern_formulas", lesson)
+        self.assertIn("native_examples", lesson)
+        self.assertIn("production_drills", lesson)
+        self.assertIn("freestyle_drills", lesson)
+        self.assertIn("mistake_repair", lesson)
+        self.assertIn("pattern_repetition", lesson)
+        self.assertEqual(len(lesson["native_examples"]), 10)
+        self.assertGreaterEqual(len(lesson["production_drills"]), 1)
+        self.assertEqual(len(lesson["pattern_repetition"]["variations"]), 10)
 
-    def test_rotation_returns_numbered_prompts_for_daily_limit(self) -> None:
-        ex = select_daily_exercise(seed=99, track=TRACK_PARETO)
-        verb = ex["verb"]
-        bank = load_sentence_bank(verb)
-        full = bank["sentences"]
-        picked = select_sentences_for_email(
-            full,
-            verb=verb,
-            track=TRACK_PARETO,
-            seed=99,
-            n=SENTENCES_PER_EMAIL,
-        )
-        self.assertEqual(len(picked), SENTENCES_PER_EMAIL)
-        for i, row in enumerate(picked, start=1):
-            self.assertEqual(row["id"], i)
-            self.assertTrue(row.get("en", "").strip())
+    def test_pattern_formulas_include_verb(self) -> None:
+        lesson = build_pattern_lesson("volver", day_key=8, track=TRACK_IRREGULAR)
+        formulas = lesson["pattern_formulas"]
+        self.assertTrue(formulas)
+        self.assertTrue(any("volver" in row["formula"].lower() for row in formulas))
+
+    def test_pattern_repetition_contains_context_words(self) -> None:
+        lesson = build_pattern_lesson("pedir", day_key=6, track=TRACK_PARETO)
+        repetition = lesson["pattern_repetition"]
+        self.assertTrue(repetition["primary_pattern"])
+        self.assertTrue(all(row["context_word"] for row in repetition["variations"]))
 
 
 class TestEmailBody(unittest.TestCase):
-    def test_irregular_build_includes_only_conjugation_section(self) -> None:
+    def test_email_body_renders_pattern_sections(self) -> None:
         ex = select_daily_exercise(seed=3, track=TRACK_IRREGULAR)
         verb = ex["verb"]
-        day_key = rotation_day_key(3)
-        lesson = select_native_lesson(day_key, TRACK_IRREGULAR)
+        day_key = _day_key(3)
+        native = select_native_lesson(day_key, TRACK_IRREGULAR)
+        pattern_lesson = build_pattern_lesson(verb, day_key=day_key, track=TRACK_IRREGULAR)
         plain, html, att_plain, att_name = build_daily_exercise_body(
             verb,
             ex["assignments"],
             category=ex.get("category", ""),
-            sentences=[],
-            full_bank_size=0,
-            native_lesson=lesson,
+            pattern_lesson=pattern_lesson,
+            native_lesson=native,
         )
         vu = verb.upper()
         self.assertIn(vu, plain)
         self.assertIn("Part 1", plain)
         self.assertIn("Conjugation", plain)
-        self.assertNotIn("Part 2", plain)
+        self.assertIn("Part 2 — Verb usage lesson", plain)
+        self.assertIn("Part 3 — Pattern formulas", plain)
+        self.assertIn("Part 4 — Native examples", plain)
+        self.assertIn("Part 5 — Pattern production exercises", plain)
+        self.assertIn("Part 6 — Freestyle drills", plain)
+        self.assertIn("Part 7 — Common mistake repair", plain)
+        self.assertIn("Part 8 — Pattern repetition drill", plain)
+        self.assertNotIn("Part 2 — Sentence practice", plain)
+        self.assertNotIn("Translate each English prompt", plain)
         self.assertIn(vu, html)
         self.assertIn("<ol>", html)
         self.assertIn(f"Write {len(ex['assignments'])} lines", plain)
@@ -157,33 +140,6 @@ class TestEmailBody(unittest.TestCase):
         self.assertTrue(len(html) > 300)
         self.assertIsNone(att_plain)
         self.assertIsNone(att_name)
-
-class TestUsageHints(unittest.TestCase):
-    def test_every_listed_verb_has_usage_hint(self) -> None:
-        missing = [v for v in sorted(_all_verbs()) if not get_usage_hint(v)]
-        self.assertEqual(missing, [], msg="Verbs missing usage hint: " + ", ".join(missing))
-
-    def test_every_sentence_bank_verb_has_usage_hint(self) -> None:
-        missing = [v for v in sorted(_all_sentence_bank_verbs()) if not get_usage_hint(v)]
-        self.assertEqual(missing, [], msg="Sentence-bank verbs missing usage hint: " + ", ".join(missing))
-
-    def test_usage_hint_rendered_in_email_body(self) -> None:
-        ex = select_daily_exercise(seed=0, track=TRACK_IRREGULAR)
-        verb = ex["verb"]
-        expected = get_usage_hint(verb)
-        self.assertTrue(expected, f"No usage hint found for {verb!r}")
-        plain, html, _a, _b = build_daily_exercise_body(
-            verb,
-            ex["assignments"],
-            category=ex.get("category", ""),
-            sentences=[],
-            full_bank_size=0,
-            native_lesson=None,
-        )
-        self.assertIn("Construction hints (prepositions/patterns):", plain)
-        self.assertIn(expected, plain)
-        self.assertIn("Construction hints (prepositions/patterns):", html)
-        self.assertIn(expected, html)
 
 
 class TestMainImport(unittest.TestCase):

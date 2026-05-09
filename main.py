@@ -4,6 +4,7 @@ Daily Spanish Verb Trainer – send daily exercise email (Pareto or irregular/st
 
 import argparse
 import sys
+from datetime import datetime
 from pathlib import Path
 
 try:
@@ -16,47 +17,32 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from email_sender import send_daily_exercise as send_exercise_email
 from native_lessons import select_native_lesson
-from sentence_bank import load_sentence_bank
-from sentence_rotation import (
-    ROTATION_BANK_SIZE,
-    SENTENCES_PER_EMAIL,
-    rotation_day_key,
-    select_sentences_for_email,
-)
+from pattern_lesson import build_pattern_lesson
 from verb_selector import TRACK_IRREGULAR, TRACK_PARETO, select_daily_exercise
+
+
+def _day_key(seed: int | None) -> int:
+    if seed is not None:
+        return int(seed) % 100_000
+    return datetime.utcnow().timetuple().tm_yday
 
 
 def cmd_send_daily(track: str, seed: int | None = None) -> None:
     exercise = select_daily_exercise(seed=seed, track=track)
     verb = exercise["verb"]
-    sentences: list[dict] = []
-    full_bank: list[dict] = []
-    if track != TRACK_IRREGULAR:
-        bank = load_sentence_bank(verb)
-        full_bank = bank["sentences"][:ROTATION_BANK_SIZE]
-        sentences = select_sentences_for_email(
-            full_bank,
-            verb=verb,
-            track=track,
-            seed=seed,
-            n=SENTENCES_PER_EMAIL,
-        )
-    day_key = rotation_day_key(seed)
+    day_key = _day_key(seed)
     native_lesson = select_native_lesson(day_key, track)
+    pattern_lesson = build_pattern_lesson(verb, day_key=day_key, track=track)
     send_exercise_email(
         verb=verb,
         assignments=exercise["assignments"],
         category=exercise.get("category", ""),
         track=track,
-        sentences=sentences,
-        full_bank_size=len(full_bank),
+        pattern_lesson=pattern_lesson,
         native_lesson=native_lesson,
     )
     n = len(exercise["assignments"])
-    print(
-        f"Sent daily exercise ({track}): {verb.upper()} "
-        f"({n} conjugations + {len(sentences)} sentence prompts, bank has {len(full_bank)})"
-    )
+    print(f"Sent daily exercise ({track}): {verb.upper()} ({n} conjugations + pattern drills)")
 
 
 def main() -> int:

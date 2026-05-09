@@ -11,9 +11,7 @@ from email.mime.text import MIMEText
 from email.utils import formataddr, make_msgid
 
 from native_lessons import LESSON_TITLE
-from sentence_rotation import SENTENCES_PER_EMAIL
 from verb_selector import TRACK_IRREGULAR, TRACK_PARETO
-from verb_usage import get_usage_hint
 
 # Env: SMTP_HOST, SMTP_PORT, EMAIL_USER, EMAIL_PASSWORD, TARGET_EMAIL
 def _env(key: str, default: str = "") -> str:
@@ -24,9 +22,6 @@ SMTP_PORT = int(_env("SMTP_PORT") or "587")
 EMAIL_USER = _env("EMAIL_USER")
 EMAIL_PASSWORD = _env("EMAIL_PASSWORD")
 TARGET_EMAIL = _env("TARGET_EMAIL")
-
-# When sentence count exceeds this, attach plain text instead of inlining all lines.
-SENTENCE_ATTACHMENT_THRESHOLD = 60
 
 _CATEGORY_LABEL = {
     "pareto_regular": "Pareto (high-frequency regular)",
@@ -79,20 +74,16 @@ def build_daily_exercise_body(
     verb: str,
     assignments: list[dict],
     category: str = "",
-    sentences: list[dict] | None = None,
-    full_bank_size: int | None = None,
+    pattern_lesson: dict | None = None,
     native_lesson: str | None = None,
 ) -> tuple[str, str, str | None, str | None]:
     """
-    Plain and HTML body; optional attachment (plain text) when sentence list is long.
+    Plain and HTML body for pattern-based learning.
     Returns (plain, html, attachment_plain_or_none, attachment_filename_or_none).
     """
     verb_upper = verb.upper()
     cat_label = _CATEGORY_LABEL.get(category, category.replace("_", "-")) if category else ""
     cat_note = f" ({cat_label} verb)" if cat_label else ""
-    usage_text = get_usage_hint(verb)
-    usage_label = "Construction hints (prepositions/patterns)"
-
     n_conj = len(assignments)
     lines = []
     for i, a in enumerate(assignments):
@@ -102,88 +93,146 @@ def build_daily_exercise_body(
         else:
             lines.append(f"{i+1}. {a['pronoun']} ({a['tense']})")
 
-    sentences = sentences or []
-    attach_plain: str | None = None
-    attach_name: str | None = None
+    lesson = pattern_lesson or {}
+    usage = lesson.get("usage_lesson") or {}
+    formulas = lesson.get("pattern_formulas") or []
+    examples = lesson.get("native_examples") or []
+    production = lesson.get("production_drills") or []
+    freestyle = lesson.get("freestyle_drills") or []
+    repairs = lesson.get("mistake_repair") or []
+    repetition = lesson.get("pattern_repetition") or {}
 
-    sentence_lines_plain: list[str] = []
-    sentence_lines_html: list[str] = []
-    use_attachment = len(sentences) > SENTENCE_ATTACHMENT_THRESHOLD
+    part2_plain = (
+        "\n\nPart 2 — Verb usage lesson\n\n"
+        f"{usage.get('core_meaning', '')}\n"
+        f"Secondary meanings: {', '.join(usage.get('secondary_meanings', []) or ['(none listed)'])}\n"
+        f"Reflexive usage: {' | '.join(usage.get('reflexive_usage', []))}\n"
+        f"Non-reflexive usage: {' | '.join(usage.get('non_reflexive_usage', []))}\n"
+        f"Common prepositions: {', '.join(usage.get('common_prepositions', []))}\n"
+        f"Idiomatic/common chunks: {'; '.join(usage.get('idiomatic_chunks', []))}\n"
+        f"Semantic usage patterns: {'; '.join(usage.get('semantic_patterns', []))}\n"
+        f"English-speaker traps: {'; '.join(usage.get('english_speaker_traps', []))}\n"
+        f"Spanish conceptualization: {usage.get('conceptualization', '')}\n"
+    )
+    part2_html = (
+        "<h3>Part 2 — Verb usage lesson</h3>"
+        f"<p>{escape(usage.get('core_meaning', ''))}</p>"
+        "<ul>"
+        f"<li><strong>Secondary meanings:</strong> {escape(', '.join(usage.get('secondary_meanings', []) or ['(none listed)']))}</li>"
+        f"<li><strong>Reflexive usage:</strong> {escape(' | '.join(usage.get('reflexive_usage', [])))}</li>"
+        f"<li><strong>Non-reflexive usage:</strong> {escape(' | '.join(usage.get('non_reflexive_usage', [])))}</li>"
+        f"<li><strong>Common prepositions:</strong> {escape(', '.join(usage.get('common_prepositions', [])))}</li>"
+        f"<li><strong>Idiomatic/common chunks:</strong> {escape('; '.join(usage.get('idiomatic_chunks', [])))}</li>"
+        f"<li><strong>Semantic patterns:</strong> {escape('; '.join(usage.get('semantic_patterns', [])))}</li>"
+        f"<li><strong>English-speaker traps:</strong> {escape('; '.join(usage.get('english_speaker_traps', [])))}</li>"
+        f"<li><strong>Conceptualization:</strong> {escape(usage.get('conceptualization', ''))}</li>"
+        "</ul>"
+    )
 
-    for i, s in enumerate(sentences, start=1):
-        en = s.get("en", "").strip()
-        sense = (s.get("sense") or "").strip()
-        lesson = (s.get("lesson") or "").strip()
-        if sense and lesson:
-            tag_plain = f"[{sense} · {lesson}]"
-            tag_html = (
-                f'<span style="color:#444">[{sense}]</span> '
-                f'<span style="color:#666;font-size:0.9em">({lesson})</span>'
-            )
-        elif sense:
-            tag_plain = f"[{sense}]"
-            tag_html = f'<span style="color:#444">[{sense}]</span>'
-        elif lesson:
-            tag_plain = f"[{lesson}]"
-            tag_html = f'<span style="color:#666;font-size:0.9em">({lesson})</span>'
-        else:
-            tag_plain = ""
-            tag_html = ""
-        if tag_plain:
-            sentence_lines_plain.append(f"{i}. {tag_plain} {en}")
-            sentence_lines_html.append(f"<li><strong>{i}.</strong> {tag_html} {en}</li>")
-        else:
-            sentence_lines_plain.append(f"{i}. {en}")
-            sentence_lines_html.append(f"<li><strong>{i}.</strong> {en}</li>")
+    formula_lines_plain = []
+    formula_lines_html = []
+    for i, row in enumerate(formulas, start=1):
+        formula = row.get("formula", "").strip()
+        meaning = row.get("meaning", "").strip()
+        formula_lines_plain.append(f"{i}. {formula} = {meaning}")
+        formula_lines_html.append(f"<li><code>{escape(formula)}</code> = {escape(meaning)}</li>")
+    part3_plain = "\n\nPart 3 — Pattern formulas\n\n" + ("\n".join(formula_lines_plain) if formula_lines_plain else "(none)")
+    part3_html = "<h3>Part 3 — Pattern formulas</h3><ol>" + "".join(formula_lines_html) + "</ol>"
 
-    if use_attachment and sentences:
-        attach_plain = "\n".join(sentence_lines_plain)
-        attach_name = f"sentence-practice-{verb.lower()}.txt"
+    example_lines_plain = []
+    example_lines_html = []
+    for row in examples:
+        i = row.get("id", "")
+        es = row.get("es", "").strip()
+        en_sem = row.get("en_semantic", "").strip()
+        example_lines_plain.append(f"{i}. {es}\n   Meaning: {en_sem}")
+        example_lines_html.append(
+            f"<li><strong>{escape(str(i))}.</strong> {escape(es)}<br>"
+            f"<span style='color:#444'>Meaning: {escape(en_sem)}</span></li>"
+        )
+    part4_plain = "\n\nPart 4 — Native examples\n\n" + ("\n".join(example_lines_plain) if example_lines_plain else "(none)")
+    part4_html = "<h3>Part 4 — Native examples</h3><ol>" + "".join(example_lines_html) + "</ol>"
 
-    if sentences and not use_attachment:
-        n_today = len(sentences)
-        fb = full_bank_size if full_bank_size is not None else n_today
-        rot_note = ""
-        if fb > n_today:
-            rot_note = (
-                f"\nToday you have {n_today} of {fb} prompts from the committed bank; "
-                f"the next time this verb is scheduled, you will get a different set of "
-                f"{SENTENCES_PER_EMAIL} (rotated by date and track).\n\n"
-            )
-        part2_plain = (
-            "\n\nPart 2 — Sentence practice\n\n"
-            "Translate each English prompt into natural Spanish using this verb. "
-            "Number your translations to match.\n"
-            + rot_note
-            + "\n".join(sentence_lines_plain)
+    prod_lines_plain = []
+    prod_lines_html = []
+    for row in production:
+        i = row.get("id", "")
+        prod_lines_plain.append(
+            f"Exercise {i}\n"
+            f"Pattern: {row.get('pattern', '')}\n"
+            f"Meaning to express: {row.get('meaning', '')}\n"
+            f"Your Spanish: {row.get('blank', '________________')}\n"
         )
-        rot_html = ""
-        if fb > n_today:
-            rot_html = (
-                f"<p>Today: <strong>{n_today}</strong> of <strong>{fb}</strong> prompts from the bank. "
-                f"Next time this verb appears, you will see a different slice of {SENTENCES_PER_EMAIL} (rotated by date and track).</p>"
-            )
-        part2_html = (
-            "<h3>Part 2 — Sentence practice</h3>"
-            "<p>Translate each English prompt into natural Spanish using this verb. "
-            "Number your translations to match.</p>"
-            + rot_html
-            + f"<ol style='margin-top:0.5em'>{''.join(sentence_lines_html)}</ol>"
+        prod_lines_html.append(
+            "<li>"
+            f"<strong>Exercise {escape(str(i))}</strong><br>"
+            f"Pattern: <code>{escape(row.get('pattern', ''))}</code><br>"
+            f"Meaning to express: {escape(row.get('meaning', ''))}<br>"
+            f"Your Spanish: {escape(row.get('blank', '________________'))}"
+            "</li>"
         )
-    elif sentences and use_attachment:
-        part2_plain = (
-            "\n\nPart 2 — Sentence practice\n\n"
-            f"The sentence list ({len(sentences)} items) is attached as <strong>{attach_name}</strong> "
-            f"because it exceeds {SENTENCE_ATTACHMENT_THRESHOLD} lines inline.\n"
+    part5_plain = "\n\nPart 5 — Pattern production exercises\n\n" + ("\n".join(prod_lines_plain) if prod_lines_plain else "(none)")
+    part5_html = "<h3>Part 5 — Pattern production exercises</h3><ol>" + "".join(prod_lines_html) + "</ol>"
+
+    free_lines_plain = []
+    free_lines_html = []
+    for i, row in enumerate(freestyle, start=1):
+        free_lines_plain.append(
+            f"Freestyle {i}\n"
+            f"Use this pattern: {row.get('pattern', '')}\n"
+            f"{row.get('instruction', 'Create 5 original sentences.')}\n"
+            f"Vocabulary bias: {row.get('vocab_bias', '')}\n"
         )
-        part2_html = (
-            "<h3>Part 2 — Sentence practice</h3>"
-            f"<p>The sentence list ({len(sentences)} items) is attached as <strong>{attach_name}</strong> "
-            f"because it exceeds {SENTENCE_ATTACHMENT_THRESHOLD} lines inline.</p>"
+        free_lines_html.append(
+            "<li>"
+            f"Use this pattern: <code>{escape(row.get('pattern', ''))}</code><br>"
+            f"{escape(row.get('instruction', 'Create 5 original sentences.'))}<br>"
+            f"<span style='color:#444'>Vocabulary bias: {escape(row.get('vocab_bias', ''))}</span>"
+            "</li>"
         )
-    else:
-        part2_plain = ""
-        part2_html = ""
+    part6_plain = "\n\nPart 6 — Freestyle drills\n\n" + ("\n".join(free_lines_plain) if free_lines_plain else "(none)")
+    part6_html = "<h3>Part 6 — Freestyle drills</h3><ol>" + "".join(free_lines_html) + "</ol>"
+
+    repair_lines_plain = []
+    repair_lines_html = []
+    for i, row in enumerate(repairs, start=1):
+        repair_lines_plain.append(
+            f"Mistake {i}\n"
+            f"Incorrect Spanish: {row.get('incorrect', '')}\n"
+            f"Correction: {row.get('correction', '')}\n"
+            f"Why: {row.get('why', '')}\n"
+        )
+        repair_lines_html.append(
+            "<li>"
+            f"Incorrect Spanish: {escape(row.get('incorrect', ''))}<br>"
+            f"Correction: {escape(row.get('correction', ''))}<br>"
+            f"<span style='color:#444'>Why: {escape(row.get('why', ''))}</span>"
+            "</li>"
+        )
+    part7_plain = "\n\nPart 7 — Common mistake repair\n\n" + ("\n".join(repair_lines_plain) if repair_lines_plain else "(none)")
+    part7_html = "<h3>Part 7 — Common mistake repair</h3><ol>" + "".join(repair_lines_html) + "</ol>"
+
+    rep_pattern = repetition.get("primary_pattern", "")
+    rep_meaning = repetition.get("primary_meaning", "")
+    rep_vars = repetition.get("variations", [])
+    rep_lines_plain = [f"Primary pattern: {rep_pattern} = {rep_meaning}"]
+    rep_lines_html = [f"<p><strong>Primary pattern:</strong> <code>{escape(rep_pattern)}</code> = {escape(rep_meaning)}</p><ol>"]
+    for row in rep_vars:
+        rep_lines_plain.append(
+            f"{row.get('id', '')}. Subject: {row.get('subject', '')} | Tense: {row.get('tense', '')} | "
+            f"Context word: {row.get('context_word', '')} | Your Spanish: ____________"
+        )
+        rep_lines_html.append(
+            "<li>"
+            f"Subject: {escape(row.get('subject', ''))} | "
+            f"Tense: {escape(row.get('tense', ''))} | "
+            f"Context word: {escape(row.get('context_word', ''))}<br>"
+            "Your Spanish: ____________"
+            "</li>"
+        )
+    rep_lines_html.append("</ol>")
+    part8_plain = "\n\nPart 8 — Pattern repetition drill\n\n" + "\n".join(rep_lines_plain)
+    part8_html = "<h3>Part 8 — Pattern repetition drill</h3>" + "".join(rep_lines_html)
 
     part0_plain = ""
     part0_html = ""
@@ -205,12 +254,11 @@ Verb: {verb_upper}{cat_note}
 {part0_plain}Part 1 — Conjugation
 
 Conjugate this verb for every pronoun in every tense. Write {n_conj} lines (same order as below):
-{f"\n{usage_label}: {usage_text}\n" if usage_text else ""}
 
 {chr(10).join(lines)}
-{part2_plain}
+{part2_plain}{part3_plain}{part4_plain}{part5_plain}{part6_plain}{part7_plain}{part8_plain}
 
-Submit your work to ChatGPT for grading.
+Focus on native pattern retrieval instead of direct translation.
 """
 
     ol_parts = []
@@ -228,15 +276,14 @@ Submit your work to ChatGPT for grading.
 {part0_html}
 <h3>Part 1 — Conjugation</h3>
 <p>Conjugate this verb for every pronoun in every tense. Write {n_conj} lines (same order as below):</p>
-{f"<p><strong>{usage_label}:</strong> {escape(usage_text)}</p>" if usage_text else ""}
 <ol>
 {ol_items}
 </ol>
-{part2_html}
-<p>Submit your work to ChatGPT for grading.</p>
+{part2_html}{part3_html}{part4_html}{part5_html}{part6_html}{part7_html}{part8_html}
+<p>Focus on native pattern retrieval instead of direct translation.</p>
 </body></html>"""
 
-    return plain, html, attach_plain, attach_name
+    return plain, html, None, None
 
 
 def send_daily_exercise(
@@ -244,8 +291,7 @@ def send_daily_exercise(
     assignments: list[dict],
     category: str = "",
     track: str = TRACK_IRREGULAR,
-    sentences: list[dict] | None = None,
-    full_bank_size: int | None = None,
+    pattern_lesson: dict | None = None,
     native_lesson: str | None = None,
     to: str | None = None,
 ) -> None:
@@ -258,8 +304,7 @@ def send_daily_exercise(
         verb,
         assignments,
         category=category,
-        sentences=sentences,
-        full_bank_size=full_bank_size,
+        pattern_lesson=pattern_lesson,
         native_lesson=native_lesson,
     )
     _smtp_send(
