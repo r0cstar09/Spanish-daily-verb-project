@@ -48,12 +48,15 @@ class TestConjugationMatrix(unittest.TestCase):
                 self.assertIn("translation", row)
                 i += 1
 
-    def test_pareto_track_repeats_same_verb_for_two_days(self) -> None:
+    def test_pareto_track_cycles_ir_er_ar_daily(self) -> None:
         ex0 = select_daily_exercise(seed=0, track=TRACK_PARETO)
         ex1 = select_daily_exercise(seed=1, track=TRACK_PARETO)
         ex2 = select_daily_exercise(seed=2, track=TRACK_PARETO)
-        self.assertEqual(ex0["verb"], ex1["verb"])
-        self.assertNotEqual(ex1["verb"], ex2["verb"])
+        ex3 = select_daily_exercise(seed=3, track=TRACK_PARETO)
+        self.assertTrue(ex0["verb"].endswith("ir"))
+        self.assertTrue(ex1["verb"].endswith("er"))
+        self.assertTrue(ex2["verb"].endswith("ar"))
+        self.assertTrue(ex3["verb"].endswith("ir"))
 
     def test_translations_match_direct_lookup(self) -> None:
         ex = select_daily_exercise(seed=7, track=TRACK_IRREGULAR)
@@ -67,6 +70,13 @@ class TestConjugationMatrix(unittest.TestCase):
     def test_irregular_track_starts_with_irregulars(self) -> None:
         ex0 = select_daily_exercise(seed=0, track=TRACK_IRREGULAR)
         ex1 = select_daily_exercise(seed=1, track=TRACK_IRREGULAR)
+        self.assertEqual(ex0["category"], "irregular")
+        self.assertEqual(ex1["category"], "irregular")
+
+    def test_irregular_two_per_day_slots_are_distinct(self) -> None:
+        ex0 = select_daily_exercise(seed=0, track=TRACK_IRREGULAR, slot=0, daily_count=2)
+        ex1 = select_daily_exercise(seed=0, track=TRACK_IRREGULAR, slot=1, daily_count=2)
+        self.assertNotEqual(ex0["verb"], ex1["verb"])
         self.assertEqual(ex0["category"], "irregular")
         self.assertEqual(ex1["category"], "irregular")
 

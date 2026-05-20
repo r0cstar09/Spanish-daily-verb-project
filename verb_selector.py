@@ -28,7 +28,8 @@ PRONOUNS = [
 TRACK_PARETO = "pareto"
 TRACK_IRREGULAR = "irregular"
 
-IRREGULAR_FOCUS_START_DATE = date(2026, 4, 21)
+# Reset both tracks from this date.
+CURRICULUM_RESET_DATE = date(2026, 5, 20)
 
 # Highest-priority irregulars first for faster practical mastery.
 IRREGULAR_PRIORITY_ORDER = [
@@ -72,19 +73,31 @@ def _load_verbs_by_category() -> dict:
         return json.load(f)
 
 
-def _get_irregular_curriculum_day(seed=None) -> int:
+def _get_irregular_curriculum_day(seed=None, *, slot: int = 0, daily_count: int = 1) -> int:
+    slot = max(0, int(slot))
+    daily_count = max(1, int(daily_count))
+    if seed is not None:
+        return max(0, seed) * daily_count + slot
+    day_offset = (datetime.utcnow().date() - CURRICULUM_RESET_DATE).days
+    return max(0, day_offset) * daily_count + slot
+
+
+def _get_pareto_curriculum_day(seed=None) -> int:
     if seed is not None:
         return max(0, seed)
-    day_offset = (datetime.utcnow().date() - IRREGULAR_FOCUS_START_DATE).days
+    day_offset = (datetime.utcnow().date() - CURRICULUM_RESET_DATE).days
     return max(0, day_offset)
 
 
-def _get_pareto_verb_index(seed=None, category_size: int = 1) -> int:
-    # Hold each regular verb for two consecutive days to allow correction work.
-    if seed is not None:
-        return (seed // 2) % max(1, category_size)
-    day_of_year = datetime.utcnow().timetuple().tm_yday
-    return (day_of_year // 2) % max(1, category_size)
+def _ending_buckets(verbs: list[str]) -> dict[str, list[str]]:
+    buckets = {"ar": [], "er": [], "ir": []}
+    for v in verbs:
+        vv = v.strip().lower()
+        for ending in ("ar", "er", "ir"):
+            if vv.endswith(ending):
+                buckets[ending].append(vv)
+                break
+    return buckets
 
 
 def _ordered_irregular_verbs(raw_irregular: list[str]) -> list[str]:
@@ -96,7 +109,13 @@ def _ordered_irregular_verbs(raw_irregular: list[str]) -> list[str]:
     return ordered
 
 
-def select_daily_exercise(seed=None, track: str = TRACK_IRREGULAR) -> dict:
+def select_daily_exercise(
+    seed=None,
+    track: str = TRACK_IRREGULAR,
+    *,
+    slot: int = 0,
+    daily_count: int = 1,
+) -> dict:
     """
     Select one verb for the given track.
 
@@ -112,13 +131,20 @@ def select_daily_exercise(seed=None, track: str = TRACK_IRREGULAR) -> dict:
 
     if track == TRACK_PARETO:
         verbs = [v.strip().lower() for v in data["pareto_regular"]]
-        verb_idx = _get_pareto_verb_index(seed, len(verbs))
-        verb = verbs[verb_idx]
+        buckets = _ending_buckets(verbs)
+        cycle_order = ("ir", "er", "ar")
+        day = _get_pareto_curriculum_day(seed)
+        ending = cycle_order[day % len(cycle_order)]
+        ending_list = buckets[ending]
+        if not ending_list:
+            raise ValueError(f"No Pareto verbs found for ending '{ending}'.")
+        verb_idx = (day // len(cycle_order)) % len(ending_list)
+        verb = ending_list[verb_idx]
         category = "pareto_regular"
     elif track == TRACK_IRREGULAR:
         irregular_verbs = _ordered_irregular_verbs(data["irregular"])
         stem_verbs = [v.strip().lower() for v in data["stem_changing"]]
-        day = _get_irregular_curriculum_day(seed)
+        day = _get_irregular_curriculum_day(seed, slot=slot, daily_count=daily_count)
         if day < len(irregular_verbs):
             category = "irregular"
             verbs = irregular_verbs

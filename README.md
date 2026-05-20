@@ -72,8 +72,8 @@ python main.py send-daily --track pareto
 python main.py send-daily --track irregular
 ```
 
-- `--track pareto`: one verb every two days from `pareto_regular`
-- `--track irregular`: curriculum progression from irregular to stem-changing
+- `--track pareto`: one verb per day with ending cycle `-ir` -> `-er` -> `-ar` (balanced 50/50/50 list)
+- `--track irregular`: sends 2 daily exercises and progresses through irregular -> stem-changing
 - `--seed`: deterministic test run
 
 ## GitHub Actions

@@ -28,21 +28,30 @@ def _day_key(seed: int | None) -> int:
 
 
 def cmd_send_daily(track: str, seed: int | None = None) -> None:
-    exercise = select_daily_exercise(seed=seed, track=track)
-    verb = exercise["verb"]
-    day_key = _day_key(seed)
-    native_lesson = select_native_lesson(day_key, track)
-    pattern_lesson = build_pattern_lesson(verb, day_key=day_key, track=track)
-    send_exercise_email(
-        verb=verb,
-        assignments=exercise["assignments"],
-        category=exercise.get("category", ""),
-        track=track,
-        pattern_lesson=pattern_lesson,
-        native_lesson=native_lesson,
-    )
-    n = len(exercise["assignments"])
-    print(f"Sent daily exercise ({track}): {verb.upper()} ({n} conjugations + pattern drills)")
+    # Daily target: 1 regular (pareto) and 2 irregular/stem exercises.
+    daily_count = 2 if track == TRACK_IRREGULAR else 1
+    sent_verbs: list[str] = []
+    for slot in range(daily_count):
+        exercise = select_daily_exercise(
+            seed=seed,
+            track=track,
+            slot=slot,
+            daily_count=daily_count,
+        )
+        verb = exercise["verb"]
+        day_key = _day_key(seed)
+        native_lesson = select_native_lesson(day_key, track)
+        pattern_lesson = build_pattern_lesson(verb, day_key=day_key, track=track)
+        send_exercise_email(
+            verb=verb,
+            assignments=exercise["assignments"],
+            category=exercise.get("category", ""),
+            track=track,
+            pattern_lesson=pattern_lesson,
+            native_lesson=native_lesson,
+        )
+        sent_verbs.append(verb.upper())
+    print(f"Sent daily exercise ({track}): {', '.join(sent_verbs)}")
 
 
 def main() -> int:
