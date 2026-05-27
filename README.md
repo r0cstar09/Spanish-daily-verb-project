@@ -81,7 +81,7 @@ python main.py send-daily --track irregular
 | Workflow | Cron (UTC) | Command |
 |---|---|---|
 | `send-daily-pareto.yml` | `10:00` | `python main.py send-daily --track pareto` |
-| `send-daily-irregular.yml` | `18:00` | `python main.py send-daily --track irregular` |
+| `send-daily-irregular.yml` | `10:00` | `python main.py send-daily --track irregular` |
 
 Add repository secrets: `EMAIL_USER`, `EMAIL_PASSWORD`, `TARGET_EMAIL`.
 
