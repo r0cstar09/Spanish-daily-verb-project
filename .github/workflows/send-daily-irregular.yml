@@ -1,4 +1,4 @@
-# Irregular / stem-changing verb — separate schedule from Pareto track.
+# Irregular / stem-changing verbs — 2 exercises per day.
 
 name: Send daily exercise (Irregular / stem)
 
@@ -25,4 +25,4 @@ jobs:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
           TARGET_EMAIL: ${{ secrets.TARGET_EMAIL }}
-        run: python main.py send-daily --track irregular
+        run: python main.py send-daily

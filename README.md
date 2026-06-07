@@ -1,9 +1,6 @@
 # Daily Spanish Verb Trainer
 
-This project emails you **two** daily verb lessons (separate schedules):
-
-1. **Pareto track** (`pareto`) — high-frequency regular verbs
-2. **Irregular / stem track** (`irregular`) — priority irregulars, then stem-changing verbs
+This project emails you **two** daily irregular/stem-changing verb lessons.
 
 The system is now a **pattern acquisition engine**, not a translation trainer.
 
@@ -35,8 +32,7 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 
 # Create .env with EMAIL_USER, EMAIL_PASSWORD, TARGET_EMAIL
-python main.py send-daily --track pareto
-python main.py send-daily --track irregular
+python main.py send-daily
 ```
 
 ## Setup
@@ -68,20 +64,17 @@ For non-Gmail, set `SMTP_HOST` and `SMTP_PORT`.
 ## Usage
 
 ```bash
-python main.py send-daily --track pareto
-python main.py send-daily --track irregular
+python main.py send-daily
 ```
 
-- `--track pareto`: one verb per day with ending cycle `-ir` -> `-er` -> `-ar` (balanced 50/50/50 list)
-- `--track irregular`: sends 2 daily exercises and progresses through irregular -> stem-changing
+- Sends **2** exercises per run (irregulars first, then stem-changing)
 - `--seed`: deterministic test run
 
 ## GitHub Actions
 
 | Workflow | Cron (UTC) | Command |
 |---|---|---|
-| `send-daily-pareto.yml` | `10:00` | `python main.py send-daily --track pareto` |
-| `send-daily-irregular.yml` | `10:00` | `python main.py send-daily --track irregular` |
+| `send-daily-irregular.yml` | `10:00` | `python main.py send-daily` |
 
 Add repository secrets: `EMAIL_USER`, `EMAIL_PASSWORD`, `TARGET_EMAIL`.
 
